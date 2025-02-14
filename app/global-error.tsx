@@ -1,5 +1,5 @@
 'use client' // Error boundaries must be Client Components
- 
+
 export default function GlobalError({
   error,
   reset,
@@ -11,8 +11,9 @@ export default function GlobalError({
     // global-error must include html and body tags
     <html>
       <body>
-        <h2>Something went wrong!</h2>
-        <button onClick={() => reset()}>Try again</button>
+        <h1>Global Error</h1>
+        <pre>{error.message}</pre>
+        <button onClick={reset}>Reset</button>
       </body>
     </html>
   )
