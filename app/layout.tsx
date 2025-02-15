@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Montserrat } from 'next/font/google'
 import "./globals.css";
+import { ReduxProvider } from '@/store/provider'
 
 const montserrat = Montserrat({
   subsets: ['latin'],
@@ -25,7 +26,9 @@ export default function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
       <body>
-        {children}
+        <ReduxProvider>
+          {children}
+        </ReduxProvider>
       </body>
     </html>
   );

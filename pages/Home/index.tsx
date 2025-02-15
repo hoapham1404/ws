@@ -1,32 +1,22 @@
 'use client'
 
-import { useState, useEffect } from 'react'
-import Navbar from '@/components/Navbar'
-import Header from '@/components/Header'
-import LeftSidePanel from '@/components/Layout/LeftSidePanel'
-import RightSidePanel from '@/components/Layout/RightSidePanel'
-import PreviewBox from '@/components/Layout/PreviewBox'
-import BottomPanel from '@/components/Layout/BottomPanel'
 import ColorOptions from '@/components/BasicColorPage/ColorOptions'
 import PreviewContent from '@/components/BasicColorPage/PreviewContent'
-import SettingsPanel from '@/components/BasicColorPage/SettingsPanel'
 import ScreenOptions from '@/components/BasicColorPage/ScreenOptions'
+import SettingsPanel from '@/components/BasicColorPage/SettingsPanel'
+import Header from '@/components/Header'
+import BottomPanel from '@/components/Layout/BottomPanel'
+import LeftSidePanel from '@/components/Layout/LeftSidePanel'
+import PreviewBox from '@/components/Layout/PreviewBox'
+import RightSidePanel from '@/components/Layout/RightSidePanel'
+import Navbar from '@/components/Navbar'
+import { setColor } from '@/store/colorSlice'
+import { RootState } from '@/store/store'
+import { useDispatch, useSelector } from 'react-redux'
 
 export default function Home() {
-  const [mounted, setMounted] = useState(false)
-  const [currentColor, setCurrentColor] = useState('#FFFFFF')
-  const [dimensions, setDimensions] = useState({ width: 1920, height: 1080 })
-  const [title, setTitle] = useState('White screen')
-
-  // Ensure hydration matching
-  useEffect(() => {
-    setMounted(true)
-  }, [])
-
-  // Don't render until client-side
-  if (!mounted) {
-    return null
-  }
+  const dispatch = useDispatch()
+  const { currentColor, title } = useSelector((state: RootState) => state.color)
 
   const colorOptions = [
     { name: 'Yellow screen', color: '#ffff00' },
@@ -45,8 +35,8 @@ export default function Home() {
   ]
 
   const handleColorChange = (color: string) => {
-    setCurrentColor(color)
-    setTitle(color)
+    const option = [...colorOptions, ...screenOptions].find(opt => opt.color === color)
+    dispatch(setColor({ color, name: option?.name || 'Custom color' }))
   }
 
   return (
@@ -64,7 +54,7 @@ export default function Home() {
         </PreviewBox>
 
         <RightSidePanel>
-          <SettingsPanel dimensions={dimensions} setDimensions={setDimensions} />
+          <SettingsPanel />
         </RightSidePanel>
 
         <BottomPanel>
