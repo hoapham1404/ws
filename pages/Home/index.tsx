@@ -16,6 +16,7 @@ export default function Home() {
   const [mounted, setMounted] = useState(false)
   const [currentColor, setCurrentColor] = useState('#FFFFFF')
   const [dimensions, setDimensions] = useState({ width: 1920, height: 1080 })
+  const [title, setTitle] = useState('White screen')
 
   // Ensure hydration matching
   useEffect(() => {
@@ -45,12 +46,13 @@ export default function Home() {
 
   const handleColorChange = (color: string) => {
     setCurrentColor(color)
+    setTitle(color)
   }
 
   return (
     <div className="min-h-screen p-3 md:p-5 bg-white text-black">
       <Navbar />
-      <Header title="Yellow screen" />
+      <Header title={title} />
 
       <main className="max-w-7xl mx-auto relative flex flex-col md:block">
         <LeftSidePanel>
