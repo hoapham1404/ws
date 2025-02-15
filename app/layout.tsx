@@ -1,7 +1,12 @@
 import type { Metadata } from "next";
-import AppHeader from "@/components/AppHeader";
-import AppFooter from "@/components/AppFooter";
+import { Montserrat } from 'next/font/google'
 import "./globals.css";
+
+const montserrat = Montserrat({
+  subsets: ['latin'],
+  weight: ['300', '400', '500', '600', '700'],
+  display: 'swap',
+})
 
 export const metadata: Metadata = {
   title: "Change My Mind",
@@ -15,11 +20,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-      >
-        <AppHeader />
+      <head>
+        <meta charSet="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </head>
+      <body className={montserrat.className}>
         {children}
-        <AppFooter />
       </body>
     </html>
   );
