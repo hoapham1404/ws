@@ -7,7 +7,7 @@ export default function ColorOptions({ colorOptions, onColorChange }: { colorOpt
         <button
           key={option.name}
           onClick={() => onColorChange(option.color)}
-          className="flex items-center gap-2 w-full md:w-80 px-4 py-2 text-left rounded hover:opacity-90 underline"
+          className="flex items-center gap-5 w-full md:w-80 px-4 py-2 text-left rounded hover:opacity-90 underline"
         >
           <div
             className="w-12 md:w-14 h-8 rounded"

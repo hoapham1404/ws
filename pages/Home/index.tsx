@@ -43,7 +43,7 @@ export default function Home() {
     { name: 'Blue screen', color: '#0000ff' },
   ]
 
-  const handleColorChange = (color) => {
+  const handleColorChange = (color: string) => {
     setCurrentColor(color)
   }
 
