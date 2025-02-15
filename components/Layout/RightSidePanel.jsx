@@ -1,6 +1,6 @@
 export default function RightSidePanel({ children }) {
   return (
-    <div className="absolute right-5 top-0 space-y-4">
+    <div className="static md:absolute md:right-5 md:top-0 space-y-4 mb-4 md:mb-0">
       {children}
     </div>
   )

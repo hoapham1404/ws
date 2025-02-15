@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Navbar from '@/components/Navbar'
 import Header from '@/components/Header'
 import LeftSidePanel from '@/components/Layout/LeftSidePanel'
@@ -13,8 +13,19 @@ import SettingsPanel from '@/components/BasicColorPage/SettingsPanel'
 import ScreenOptions from '@/components/BasicColorPage/ScreenOptions'
 
 export default function Home() {
+  const [mounted, setMounted] = useState(false)
   const [currentColor, setCurrentColor] = useState('#FFFFFF')
   const [dimensions, setDimensions] = useState({ width: 1920, height: 1080 })
+
+  // Ensure hydration matching
+  useEffect(() => {
+    setMounted(true)
+  }, [])
+
+  // Don't render until client-side
+  if (!mounted) {
+    return null
+  }
 
   const colorOptions = [
     { name: 'Yellow screen', color: '#ffff00' },
@@ -37,11 +48,11 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen p-5 bg-white text-black">
+    <div className="min-h-screen p-3 md:p-5 bg-white text-black">
       <Navbar />
       <Header title="Yellow screen" />
 
-      <main className="max-w-7xl mx-auto relative">
+      <main className="max-w-7xl mx-auto relative flex flex-col md:block">
         <LeftSidePanel>
           <ColorOptions colorOptions={colorOptions} onColorChange={handleColorChange} />
         </LeftSidePanel>
