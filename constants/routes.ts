@@ -8,9 +8,7 @@ const routes = [
   { name: "Orange Screen", path: "/orange-screen", color: "#FFA500" },
   { name: "Pink Screen", path: "/pink-screen", color: "#FFC0CB" },
   { name: "Purple Screen", path: "/purple-screen", color: "#800080" },
-
   { name: "Zoom Lighting", path: "/zoom-lighting", color: "#FFC5C2" },
-
   { name: "White Noise", path: "/white-noise", icon: "https://emojicdn.elk.sh/🤡" },
   { name: "Broken Screen", path: "/broken-screen", icon: "https://emojicdn.elk.sh/🤡" },
 ];
