@@ -1,4 +1,4 @@
-import Home from '@/pages/ColorScreen';
+import Home from '@/app/screens/ColorScreen';
 import { Metadata } from 'next'
 
 
