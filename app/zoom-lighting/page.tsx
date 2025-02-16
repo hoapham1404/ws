@@ -3,7 +3,7 @@ import { Metadata } from 'next';
 import { getRouteByPath } from '@/constants/routes';
 
 export async function generateMetadata(): Promise<Metadata> {
-  const screen = getRouteByPath("/broken-screen");
+  const screen = getRouteByPath("/zoom-lighting");
 
   return {
     title: `Color: ${screen?.name || "Unknown"}`,

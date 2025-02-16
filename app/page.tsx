@@ -1,24 +1,23 @@
 import Home from '@/app/screens/ColorScreen';
-import { Metadata } from 'next'
+import { Metadata } from 'next';
+import { getRouteByPath } from '@/constants/routes';
 
-
-export async function generateMetadata(
-): Promise<Metadata> {
-  const screen = { name: "Pink Screen", path: "/pink-screen", color: "#FFC0CB",icon:null };
+export async function generateMetadata(): Promise<Metadata> {
+  const screen = getRouteByPath("/");
 
   return {
-    title: `Color: ${screen.name}`,
+    title: `Color: ${screen?.name || "Unknown"}`,
 
-    icons: screen.color
+    icons: screen?.color
       ? [{
         url: `data:image/svg+xml,
         <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
           <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(screen.color)}'/>
         </svg>` }]
-      : screen.icon
+      : screen?.icon
         ? [{ url: screen.icon }]
         : undefined,
-  }
+  };
 }
 
 export default function Page() {
@@ -26,5 +25,6 @@ export default function Page() {
     <div>
       <Home />
     </div>
-  )
-} 
+  );
+}
+
