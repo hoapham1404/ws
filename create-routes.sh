@@ -1,48 +1,73 @@
 #!/bin/bash
 
-# Define an array of routes
-routes=(
-  "yellow-screen"
-  "orange-screen"
-  "pink-screen"
-  "purple-screen"
-  "black-screen"
-  "red-screen"
-  "green-screen"
-  "blue-screen"
-  "white-noise"
-  "broken-screen"
-  "screen-of-death-xp"
-  "screen-of-death-10"
-  "hacker-typer"
-  "fake-update-windows-10"
-  "fake-update-windows-xp"
-  "fake-update-mac-os-x"
-  "fake-update-ubuntu-22-04"
-  "fake-update-chrome-os"
-  "dvd-screensaver"
-  "flip-clock"
-  "motivational-quote"
-  "no-signal"
+# Define an array of routes and their respective colors
+declare -A screens=(
+  ["yellow-screen"]="#FFFF00"
+  ["orange-screen"]="#FFA500"
+  ["pink-screen"]="#FFC0CB"
+  ["purple-screen"]="#800080"
+  ["black-screen"]="#000000"
+  ["red-screen"]="#FF0000"
+  ["green-screen"]="#008000"
+  ["blue-screen"]="#0000FF"
+  ["white-noise"]="#FFFFFF"
+  ["broken-screen"]="#808080"
+  ["screen-of-death-xp"]="#0000AA"
+  ["screen-of-death-10"]="#002366"
+  ["hacker-typer"]="#00FF00"
+  ["fake-update-windows-10"]="#0078D7"
+  ["fake-update-windows-xp"]="#003399"
+  ["fake-update-mac-os-x"]="#A2AAAD"
+  ["fake-update-ubuntu-22-04"]="#E95420"
+  ["fake-update-chrome-os"]="#4285F4"
+  ["dvd-screensaver"]="#000000"
+  ["flip-clock"]="#222222"
+  ["motivational-quote"]="#FFD700"
+  ["no-signal"]="#808080"
 )
 
 # Loop through the routes
-for route in "${routes[@]}"; do
+for route in "${!screens[@]}"; do
   dir="app/$route"
   file="$dir/page.tsx"
 
-  # Create directory if it doesn't exist
+  # Ensure directory exists
   mkdir -p "$dir"
 
-  # Create page.tsx with content if it doesn't exist
-  if [[ ! -f "$file" ]]; then
-    cat > "$file" <<EOL
+  # Get color from array
+  color="${screens[$route]}"
+
+  # Write or overwrite page.tsx
+  cat > "$file" <<EOL
+import Home from '@/app/screens/ColorScreen';
+import { Metadata } from 'next'
+
+export async function generateMetadata(): Promise<Metadata> {
+  const screen = { name: "${route//-/ }", path: "/$route", color: "$color", icon: null };
+
+  return {
+    title: \`Color: \${screen.name}\`,
+
+    icons: screen.color
+      ? [{
+        url: \`data:image/svg+xml,
+        <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
+          <rect x='20' y='20' width='100' height='70' fill='\${encodeURIComponent(screen.color)}'/>
+        </svg>\` }]
+      : screen.icon
+        ? [{ url: screen.icon }]
+        : undefined,
+  }
+}
+
 export default function Page() {
-  return <h1>Hello World</h1>;
+  return (
+    <div>
+      <Home />
+    </div>
+  )
 }
 EOL
-    echo "Created: $file"
-  else
-    echo "Skipped (already exists): $file"
-  fi
+
+  echo "Created/Updated: $file"
 done
