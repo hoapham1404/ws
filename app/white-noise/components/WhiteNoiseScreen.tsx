@@ -39,6 +39,7 @@ export default function WhiteNoisePage() {
 
     let animationId: number
 
+    // Function to draw white noise on the canvas
     const drawNoise = () => {
       const imageData = ctx.createImageData(canvas.width, canvas.height)
       const data = imageData.data
@@ -57,6 +58,7 @@ export default function WhiteNoisePage() {
 
     drawNoise()
 
+    // Cleanup function to cancel the animation frame
     return () => {
       cancelAnimationFrame(animationId)
     }
@@ -76,30 +78,36 @@ export default function WhiteNoisePage() {
 
   useEffect(() => {
     if (isPlaying) {
-      audioContextRef.current = new (window.AudioContext || (window as any).webkitAudioContext)()
-      gainNodeRef.current = audioContextRef.current.createGain()
-      const bufferSize = 4096
-      const whiteNoise = audioContextRef.current.createScriptProcessor(bufferSize, 1, 1)
+      try {
+        audioContextRef.current = new (window.AudioContext || (window as any).webkitAudioContext)()
+        gainNodeRef.current = audioContextRef.current.createGain()
+        const bufferSize = 4096
+        const whiteNoise = audioContextRef.current.createScriptProcessor(bufferSize, 1, 1)
 
-      whiteNoise.onaudioprocess = (e) => {
-        const output = e.outputBuffer.getChannelData(0)
-        for (let i = 0; i < bufferSize; i++) {
-          output[i] = Math.random() * 2 - 1
+        whiteNoise.onaudioprocess = (e) => {
+          const output = e.outputBuffer.getChannelData(0)
+          for (let i = 0; i < bufferSize; i++) {
+            output[i] = Math.random() * 2 - 1
+          }
         }
-      }
 
-      gainNodeRef.current.gain.value = 0.1 // Reduce volume
-      whiteNoise.connect(gainNodeRef.current)
-      gainNodeRef.current.connect(audioContextRef.current.destination)
+        gainNodeRef.current.gain.value = 0.1 // Reduce volume
+        whiteNoise.connect(gainNodeRef.current)
+        gainNodeRef.current.connect(audioContextRef.current.destination)
+      } catch (error) {
+        console.error("Error initializing AudioContext:", error)
+      }
     } else {
       if (audioContextRef.current) {
-        audioContextRef.current?.close()
+        audioContextRef.current.close()
+        audioContextRef.current = null
       }
     }
 
     return () => {
       if (audioContextRef.current) {
         audioContextRef.current.close()
+        audioContextRef.current = null
       }
     }
   }, [isPlaying])
@@ -115,12 +123,6 @@ export default function WhiteNoisePage() {
 
   return (
     <div className="min-h-screen bg-white p-8">
-      <header className="flex items-center justify-between mb-8">
-        <div className="text-2xl font-bold">WS</div>
-        <Button variant="ghost">Feedback</Button>
-        <Button variant="ghost">English</Button>
-      </header>
-
       <main className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-bold text-center mb-8">White noise</h1>
 
@@ -133,11 +135,11 @@ export default function WhiteNoisePage() {
             }}
           />
           <div className="absolute right-4 top-4 flex gap-2">
-            <Button size="icon" variant="secondary" onClick={() => setIsPlaying(!isPlaying)}>
+            <Button size="icon" variant="secondary" onClick={() => setIsPlaying(!isPlaying)} aria-label={isPlaying ? "Pause" : "Play"}>
               {isPlaying ? <Pause className="h-4 w-4" /> : <Play className="h-4 w-4" />}
             </Button>
           </div>
-          <Button size="icon" variant="secondary" className="absolute right-4 bottom-4" onClick={toggleFullscreen}>
+          <Button size="icon" variant="secondary" className="absolute right-4 bottom-4" onClick={toggleFullscreen} aria-label={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}>
             {isFullscreen ? <Minimize2 className="h-4 w-4" /> : <Maximize2 className="h-4 w-4" />}
           </Button>
         </div>
