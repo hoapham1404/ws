@@ -1,33 +1,41 @@
 'use client'
 
-import { useSelector, useDispatch } from 'react-redux'
-import { RootState } from '@/store/store'
-import { setDimensions, setCustomDimensions } from '@/store/settingsSlice'
-import { useCallback } from 'react'
+import { useState, useCallback } from 'react'
 import { Preset } from '@/models/present_model'
 
-export default function SettingsPanel() {
-  const dispatch = useDispatch()
-  // Add type assertion for settings state
-  const { dimensions, presets } = useSelector((state: RootState) => state.settings as { 
-    dimensions: { width: number; height: number; label?: string };
-    presets: Preset[];
+// Define initial presets
+const defaultPresets: Preset[] = [
+  { label: '720p', width: 1280, height: 720 },
+  { label: '1080p', width: 1920, height: 1080 },
+  { label: '1440p', width: 2560, height: 1440 },
+  { label: '4K', width: 3840, height: 2160 },
+  // Add more presets as needed
+]
+
+interface SettingsPanelProps {
+  currentColor: string;
+}
+
+export default function SettingsPanel({ currentColor }: SettingsPanelProps) {
+  const [dimensions, setDimensions] = useState<{ width: number; height: number; label?: string }>({
+    width: 1920,
+    height: 1080,
+    label: '1080p'
   })
-  const { currentColor } = useSelector((state: RootState) => state.color)
+  const [presets] = useState<Preset[]>(defaultPresets)
 
   const handlePresetChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const selectedValue = e.target.value
     if (selectedValue === 'Custom') {
       // Keep current dimensions but mark as custom
-      dispatch(setCustomDimensions({
+      setDimensions({
         width: dimensions.width,
         height: dimensions.height
-      }))
+      })
     } else {
-      // Add type for preset parameter
       const preset = presets.find((p: Preset) => p.label === selectedValue)
       if (preset) {
-        dispatch(setDimensions(preset))
+        setDimensions(preset)
       }
     }
   }
@@ -36,11 +44,11 @@ export default function SettingsPanel() {
     const numValue = parseInt(value)
     if (isNaN(numValue) || numValue <= 0) return
 
-    dispatch(setCustomDimensions({
-      ...dimensions,
+    setDimensions(prev => ({
+      ...prev,
       [type]: numValue
     }))
-  }, [dimensions, dispatch])
+  }, [])
 
   return (
     <>
