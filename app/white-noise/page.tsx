@@ -1,6 +1,6 @@
-import Home from '@/app/screens/ColorScreen';
 import { Metadata } from 'next';
 import { getRouteByPath } from '@/constants/routes';
+import WhiteNoiseScreen from './components/WhiteNoiseScreen';
 
 export async function generateMetadata(): Promise<Metadata> {
   const screen = getRouteByPath("/white-noise");
@@ -25,6 +25,6 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function Page() {
   return (
-    <h1>White Noise</h1>
+    <WhiteNoiseScreen />
   );
 }
