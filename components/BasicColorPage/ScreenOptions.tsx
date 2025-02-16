@@ -1,6 +1,12 @@
 'use client'
 
-export default function ScreenOptions({ screenOptions, onColorChange }: { screenOptions: { name: string, color: string }[], onColorChange: (color: string) => void }) {
+import routes from '@/constants/routes';
+import { useColorScreenStore } from '@/store/color_screen_store';
+
+
+export default function ScreenOptions() {
+  const setColor = useColorScreenStore(state => state.setColor)
+  
   const handleFullScreen = () => {
     const previewBox = document.getElementById('preview-box');
     if (previewBox && previewBox.requestFullscreen) {
@@ -10,11 +16,11 @@ export default function ScreenOptions({ screenOptions, onColorChange }: { screen
 
   return (
     <>
-      <div className="flex flex-wrap justify-center gap-10 md:gap-14 mb-4">
-        {screenOptions.map((option) => (
-          <div key={option.name} className="flex flex-col items-center">
+      <div className="flex flex-wrap justify-center mb-4 cursor-pointer ">
+        {routes?.filter(option => option.isAxis === false && option.color != null && option.color != undefined).map((option) => (
+          <div key={option.name} className="flex flex-col items-center p-6">
             <button
-              onClick={() => onColorChange(option.color)}
+              onClick={() => setColor(option.color || '#ffffff')}
               className="w-24 md:w-32 h-12 md:h-16 rounded-md shadow-md hover:opacity-90 transition-opacity"
               style={{ backgroundColor: option.color }}
             ></button>

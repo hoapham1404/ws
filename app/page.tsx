@@ -1,9 +1,16 @@
 import Home from '@/app/screens/ColorScreen';
 import { Metadata } from 'next';
 import { getRouteByPath } from '@/constants/routes';
+import { useRouteStore } from '@/store/store';
+import { RouteStore } from '@/constants/routes';
 
 export async function generateMetadata(): Promise<Metadata> {
+  const { setRoutes } = useRouteStore.getState()
   const screen = getRouteByPath("/");
+
+  const curreentRouteScreen: RouteStore = new RouteStore(screen?.name || "", screen?.path || "", screen?.color || "", screen?.icon || "", screen?.isAxis || false)
+  console.log(curreentRouteScreen)
+  setRoutes(curreentRouteScreen)
 
   return {
     title: `Color: ${screen?.name || "Unknown"}`,
