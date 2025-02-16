@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from 'react'
 import { Preset } from '@/models/present_model'
+import html2canvas from 'html2canvas'
 
 // Define initial presets
 const defaultPresets: Preset[] = [
@@ -50,6 +51,27 @@ export default function SettingsPanel({ currentColor }: SettingsPanelProps) {
     }))
   }, [])
 
+  const handleDownload = useCallback(async () => {
+    const previewBox = document.getElementById('preview-box')
+    if (!previewBox) return
+
+    try {
+      const canvas = await html2canvas(previewBox, {
+        backgroundColor: currentColor,
+        width: dimensions.width,
+        height: dimensions.height,
+      })
+
+      // Create download link
+      const link = document.createElement('a')
+      link.download = `color-screen-${currentColor.replace('#', '')}.png`
+      link.href = canvas.toDataURL('image/png')
+      link.click()
+    } catch (error) {
+      console.error('Error generating image:', error)
+    }
+  }, [currentColor, dimensions.width, dimensions.height])
+
   return (
     <>
       <div>
@@ -95,7 +117,10 @@ export default function SettingsPanel({ currentColor }: SettingsPanelProps) {
           </div>
         </div>
       </div>
-      <button className="w-full py-2 px-4 border rounded bg-white hover:bg-gray-50 mt-4">
+      <button 
+        onClick={handleDownload}
+        className="w-full py-2 px-4 border rounded bg-white hover:bg-gray-50 mt-4"
+      >
         Download
       </button>
       <div className="flex items-center gap-2 mt-4">
