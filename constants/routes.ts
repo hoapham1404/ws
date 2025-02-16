@@ -1,8 +1,8 @@
 const routes = [
-  { name: "White Screen", path: "/", color: "#FFFFFF" },
+  { name: "White Screen", path: "/test-navigate", color: "#FFFFFF" },
   { name: "Black Screen", path: "/black-screen", color: "#000000" },
   { name: "Red Screen", path: "/red-screen", color: "#FF0000" },
-  { name: "Green Screen", path: "/green-screen", color: "#00FF00" },
+  { name: "Green Screen", path: "/green-screen", color: "#00FF00", },
   { name: "Blue Screen", path: "/blue-screen", color: "#0000FF" },
   { name: "Yellow Screen", path: "/yellow-screen", color: "#FFFF00" },
   { name: "Orange Screen", path: "/orange-screen", color: "#FFA500" },
