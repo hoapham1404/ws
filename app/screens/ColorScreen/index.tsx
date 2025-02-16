@@ -17,7 +17,6 @@ export default function Home() {
 
   return (
     <div className="min-h-screen p-3 md:p-5 bg-white text-black">
-      <Navbar />
       <Header title={title} />
 
       <main className="max-w-7xl mx-auto relative flex flex-col md:block">
@@ -39,4 +38,4 @@ export default function Home() {
       </main>
     </div>
   )
-} 
+}

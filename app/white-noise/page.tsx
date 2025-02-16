@@ -25,8 +25,6 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function Page() {
   return (
-    <div>
-      <Home />
-    </div>
+    <h1>White Noise</h1>
   );
 }
