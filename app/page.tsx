@@ -12,7 +12,7 @@ export async function generateMetadata(): Promise<Metadata> {
       ? [{
         url: `data:image/svg+xml,
         <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
-          <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(screen.color)}'/>
+            <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(screen?.color)}'/>
         </svg>` }]
       : screen?.icon
         ? [{ url: screen.icon }]

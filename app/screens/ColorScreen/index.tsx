@@ -1,5 +1,6 @@
 'use client'
 
+import { useState } from 'react'
 import ColorOptions from '@/components/BasicColorPage/ColorOptions'
 import PreviewContent from '@/components/BasicColorPage/PreviewContent'
 import ScreenOptions from '@/components/BasicColorPage/ScreenOptions'
@@ -10,13 +11,10 @@ import LeftSidePanel from '@/components/Layout/LeftSidePanel'
 import PreviewBox from '@/components/Layout/PreviewBox'
 import RightSidePanel from '@/components/Layout/RightSidePanel'
 import Navbar from '@/components/Navbar'
-import { setColor } from '@/store/colorSlice'
-import { RootState } from '@/store/store'
-import { useDispatch, useSelector } from 'react-redux'
 
 export default function Home() {
-  const dispatch = useDispatch()
-  const { currentColor, title } = useSelector((state: RootState) => state.color)
+  const [currentColor, setCurrentColor] = useState('#ffffff')
+  const [title, setTitle] = useState('White screen')
 
   const colorOptions = [
     { name: 'Yellow screen', color: '#ffff00' },
@@ -36,7 +34,8 @@ export default function Home() {
 
   const handleColorChange = (color: string) => {
     const option = [...colorOptions, ...screenOptions].find(opt => opt.color === color)
-    dispatch(setColor({ color, name: option?.name || 'Custom color' }))
+    setCurrentColor(color)
+    setTitle(option?.name || 'Custom color')
   }
 
   return (
@@ -54,7 +53,7 @@ export default function Home() {
         </PreviewBox>
 
         <RightSidePanel>
-          <SettingsPanel />
+          <SettingsPanel currentColor={currentColor} />
         </RightSidePanel>
 
         <BottomPanel>
