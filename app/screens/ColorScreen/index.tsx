@@ -10,33 +10,35 @@ import LeftSidePanel from '@/components/Layout/LeftSidePanel'
 import PreviewBox from '@/components/Layout/PreviewBox'
 import RightSidePanel from '@/components/Layout/RightSidePanel'
 import Navbar from '@/components/Navbar'
-import { useColorScreenStore } from '@/store/color_screen_store'
+import { useRouteStore } from '@/store/store'
 
 export default function Home() {
-  const { currentColor, title, colorOptions, screenOptions, setColor } = useColorScreenStore()
+
+  const { currentRoute } = useRouteStore()
 
   return (
     <div className="min-h-screen p-3 md:p-5 bg-white text-black">
       <Navbar />
-      <Header title={title} />
+      <Header/>
 
       <main className="max-w-7xl mx-auto relative flex flex-col md:block">
         <LeftSidePanel>
-          <ColorOptions colorOptions={colorOptions} onColorChange={setColor} />
+          <ColorOptions />
         </LeftSidePanel>
 
         <PreviewBox>
-          <PreviewContent currentColor={currentColor} />
+          <PreviewContent currentColor={currentRoute?.color || ''} />
         </PreviewBox>
 
         <RightSidePanel>
-          <SettingsPanel currentColor={currentColor} />
+          <SettingsPanel currentColor={currentRoute?.color || ''} />
         </RightSidePanel>
 
         <BottomPanel>
-          <ScreenOptions screenOptions={screenOptions} onColorChange={setColor} />
+          <ScreenOptions />
         </BottomPanel>
       </main>
+
     </div>
   )
 } 

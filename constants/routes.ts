@@ -1,24 +1,33 @@
 // constants/routes.ts
 
-interface Route {
+export class RouteStore {
   name: string;
   path: string;
   color?: string;
   icon?: string;
+  isAxis?: boolean;
+
+  constructor(name: string, path: string, color?: string, icon?: string, isAxis?: boolean) {
+    this.name = name;
+    this.path = path;
+    this.color = color;
+    this.icon = icon;
+    this.isAxis = isAxis;
+  }
 }
 
-const routes: Route[] = [
+export const routes: RouteStore[] = [
   // Color Screens
-  { name: "White Screen", path: "/", color: "#FFFFFF" },
-  { name: "Black Screen", path: "/black-screen", color: "#000000" },
-  { name: "Red Screen", path: "/red-screen", color: "#FF0000" },
-  { name: "Green Screen", path: "/green-screen", color: "#00FF00" },
-  { name: "Blue Screen", path: "/blue-screen", color: "#0000FF" },
-  { name: "Yellow Screen", path: "/yellow-screen", color: "#FFFF00" },
-  { name: "Orange Screen", path: "/orange-screen", color: "#FFA500" },
-  { name: "Pink Screen", path: "/pink-screen", color: "#FFC0CB" },
-  { name: "Purple Screen", path: "/purple-screen", color: "#800080" },
-  { name: "Zoom Lighting", path: "/zoom-lighting", color: "#FFC5C2" },
+  { name: "White Screen", path: "/", color: "#FFFFFF", isAxis: false },
+  { name: "Black Screen", path: "/black-screen", color: "#000000", isAxis: false },
+  { name: "Red Screen", path: "/red-screen", color: "#FF0000", isAxis: false },
+  { name: "Green Screen", path: "/green-screen", color: "#00FF00", isAxis: false },
+  { name: "Blue Screen", path: "/blue-screen", color: "#0000FF", isAxis: false },
+  { name: "Yellow Screen", path: "/yellow-screen", color: "#FFFF00", isAxis: true },
+  { name: "Orange Screen", path: "/orange-screen", color: "#FFA500", isAxis: true },
+  { name: "Pink Screen", path: "/pink-screen", color: "#FFC0CB", isAxis: true },
+  { name: "Purple Screen", path: "/purple-screen", color: "#800080", isAxis: true },
+  { name: "Zoom Lighting", path: "/zoom-lighting", color: "#FFC5C2", isAxis: true },
 
   // Prank Screens
   { name: "White Noise", path: "/white-noise", icon: "https://emojicdn.elk.sh/🔊" },
