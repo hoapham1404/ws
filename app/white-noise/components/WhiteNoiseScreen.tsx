@@ -1,8 +1,7 @@
-
 "use client"
 
 import { useEffect, useRef, useState } from "react"
-import { Play, Pause } from "lucide-react"
+import { Play, Pause, Maximize2, Minimize2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs"
 
@@ -14,12 +13,22 @@ const effects = [
   { id: "hacker", name: "Hacker Typer", color: "bg-black" },
 ]
 
-export default function WhiteNoiseScreen() {
+export default function WhiteNoisePage() {
   const canvasRef = useRef<HTMLCanvasElement>(null)
+  const containerRef = useRef<HTMLDivElement>(null)
   const audioContextRef = useRef<AudioContext | null>(null)
   const gainNodeRef = useRef<GainNode | null>(null)
   const [isPlaying, setIsPlaying] = useState(false)
   const [currentEffect, setCurrentEffect] = useState("white-noise")
+  const [isFullscreen, setIsFullscreen] = useState(false)
+
+  const toggleFullscreen = () => {
+    if (!document.fullscreenElement) {
+      containerRef.current?.requestFullscreen()
+    } else {
+      document.exitFullscreen()
+    }
+  }
 
   useEffect(() => {
     const canvas = canvasRef.current
@@ -54,6 +63,18 @@ export default function WhiteNoiseScreen() {
   }, [])
 
   useEffect(() => {
+    const handleResize = () => {
+      if (!canvasRef.current || !containerRef.current) return
+      canvasRef.current.width = containerRef.current.clientWidth
+      canvasRef.current.height = containerRef.current.clientHeight
+    }
+
+    handleResize()
+    window.addEventListener("resize", handleResize)
+    return () => window.removeEventListener("resize", handleResize)
+  }, [])
+
+  useEffect(() => {
     if (isPlaying) {
       audioContextRef.current = new (window.AudioContext || (window as any).webkitAudioContext)()
       gainNodeRef.current = audioContextRef.current.createGain()
@@ -72,7 +93,7 @@ export default function WhiteNoiseScreen() {
       gainNodeRef.current.connect(audioContextRef.current.destination)
     } else {
       if (audioContextRef.current) {
-        audioContextRef.current.close()
+        audioContextRef.current?.close()
       }
     }
 
@@ -83,28 +104,41 @@ export default function WhiteNoiseScreen() {
     }
   }, [isPlaying])
 
+  useEffect(() => {
+    const handleFullscreenChange = () => {
+      setIsFullscreen(!!document.fullscreenElement)
+    }
+
+    document.addEventListener("fullscreenchange", handleFullscreenChange)
+    return () => document.removeEventListener("fullscreenchange", handleFullscreenChange)
+  }, [])
+
   return (
     <div className="min-h-screen bg-white p-8">
+      <header className="flex items-center justify-between mb-8">
+        <div className="text-2xl font-bold">WS</div>
+        <Button variant="ghost">Feedback</Button>
+        <Button variant="ghost">English</Button>
+      </header>
+
       <main className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-bold text-center mb-8">White noise</h1>
 
-        <div className="relative mb-8">
+        <div ref={containerRef} className="relative mb-8 aspect-video">
           <canvas
             ref={canvasRef}
-            width={800}
-            height={400}
-            className="w-full rounded-lg shadow-lg"
+            className="w-full h-full rounded-lg shadow-lg"
             style={{
               boxShadow: "0 0 40px rgba(255, 166, 0, 0.2)",
             }}
           />
-          <Button
-            size="icon"
-            variant="secondary"
-            className="absolute right-4 top-4"
-            onClick={() => setIsPlaying(!isPlaying)}
-          >
-            {isPlaying ? <Pause className="h-4 w-4" /> : <Play className="h-4 w-4" />}
+          <div className="absolute right-4 top-4 flex gap-2">
+            <Button size="icon" variant="secondary" onClick={() => setIsPlaying(!isPlaying)}>
+              {isPlaying ? <Pause className="h-4 w-4" /> : <Play className="h-4 w-4" />}
+            </Button>
+          </div>
+          <Button size="icon" variant="secondary" className="absolute right-4 bottom-4" onClick={toggleFullscreen}>
+            {isFullscreen ? <Minimize2 className="h-4 w-4" /> : <Maximize2 className="h-4 w-4" />}
           </Button>
         </div>
 
@@ -126,4 +160,5 @@ export default function WhiteNoiseScreen() {
     </div>
   )
 }
+
 
