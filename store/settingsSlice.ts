@@ -1,9 +1,6 @@
 import { Dimensions, SettingsState } from '@/models/dimensions_model'
 import { createSlice, PayloadAction } from '@reduxjs/toolkit'
 
-
-
-
 const initialState: SettingsState = {
     dimensions: {
         width: 1920,
