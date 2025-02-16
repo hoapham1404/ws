@@ -1,12 +1,10 @@
 'use client'
 
 import routes from '@/constants/routes';
-import { useColorScreenStore } from '@/store/color_screen_store';
+import { usePathname, useRouter } from 'next/navigation';
 
 
-export default function ScreenOptions() {
-  const setColor = useColorScreenStore(state => state.setColor)
-  
+export default function ScreenOptions() {  
   const handleFullScreen = () => {
     const previewBox = document.getElementById('preview-box');
     if (previewBox && previewBox.requestFullscreen) {
@@ -14,17 +12,25 @@ export default function ScreenOptions() {
     }
   };
 
+  const currentPath = usePathname();
+
+  const navigate = useRouter()
+
+  const navigateTo = (path: string) => {
+    navigate.push(path)
+  }
+
   return (
     <>
       <div className="flex flex-wrap justify-center mb-4 cursor-pointer ">
         {routes?.filter(option => option.isAxis === false && option.color != null && option.color != undefined).map((option) => (
-          <div key={option.name} className="flex flex-col items-center p-6">
+          <div key={option.name} className={`flex flex-col items-center p-6 ${option.path === currentPath ? 'bg-gray-300' : ''}`}>
             <button
-              onClick={() => setColor(option.color || '#ffffff')}
+              onClick={() => navigateTo(option.path)}
               className="w-24 md:w-32 h-12 md:h-16 rounded-md shadow-md hover:opacity-90 transition-opacity"
               style={{ backgroundColor: option.color }}
             ></button>
-            <span className="mt-2 text-sm md:text-base">{option.name}</span>
+            <span className="mt-2 text-sm md:text-base underline">{option.name}</span>
           </div>
         ))}
       </div>

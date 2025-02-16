@@ -3,6 +3,8 @@
 import { useState, useCallback } from 'react'
 import { Preset } from '@/models/present_model'
 import html2canvas from 'html2canvas'
+import { usePathname } from 'next/navigation'
+import { getRouteByPath } from '@/constants/routes'
 
 // Define initial presets
 const defaultPresets: Preset[] = [
@@ -51,6 +53,9 @@ export default function SettingsPanel({ currentColor }: SettingsPanelProps) {
     }))
   }, [])
 
+  const currentPath = usePathname()
+  const currentRoute = getRouteByPath(currentPath)
+
   const handleDownload = useCallback(async () => {
     const previewBox = document.getElementById('preview-box')
     if (!previewBox) return
@@ -74,8 +79,8 @@ export default function SettingsPanel({ currentColor }: SettingsPanelProps) {
 
   return (
     <>
-      <div>
-        <h3 className="mb-2">Screen dimensions</h3>
+      <div className="flex flex-col items-center">
+        <h3 className="mb-4 ml-4 text-2xl ">{currentRoute?.name}</h3>
         <select 
           className="w-full p-2 border rounded"
           value={dimensions.label || 'Custom'}
