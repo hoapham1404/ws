@@ -1,12 +1,16 @@
 import Home from '@/app/screens/ColorScreen';
-import { Metadata } from 'next'
+import { Metadata } from 'next';
+import { getRouteByPath } from '@/constants/routes';
 
 export async function generateMetadata(): Promise<Metadata> {
-  const screen = { name: "motivational quote", path: "/motivational-quote", color: "#FFD700", icon: null };
+  const screen = getRouteByPath("/motivational-quote");
+
+  if (!screen) {
+    return { title: "Unknown Screen" };
+  }
 
   return {
     title: `Color: ${screen.name}`,
-
     icons: screen.color
       ? [{
         url: `data:image/svg+xml,
@@ -16,7 +20,7 @@ export async function generateMetadata(): Promise<Metadata> {
       : screen.icon
         ? [{ url: screen.icon }]
         : undefined,
-  }
+  };
 }
 
 export default function Page() {
@@ -24,5 +28,5 @@ export default function Page() {
     <div>
       <Home />
     </div>
-  )
+  );
 }
