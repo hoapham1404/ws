@@ -1,4 +1,3 @@
-import Home from '@/app/screens/ColorScreen';
 import { Metadata } from 'next';
 import { getRouteByPath } from '@/constants/routes';
 import BlueScreenWindow10 from './components/BlueScreenWindow10';

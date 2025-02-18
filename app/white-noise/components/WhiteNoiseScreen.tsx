@@ -79,7 +79,7 @@ export default function WhiteNoisePage() {
   useEffect(() => {
     if (isPlaying) {
       try {
-        audioContextRef.current = new (window.AudioContext || (window as any).webkitAudioContext)()
+        audioContextRef.current = new (window.AudioContext || window.webkitAudioContext)()
         gainNodeRef.current = audioContextRef.current.createGain()
         const bufferSize = 4096
         const whiteNoise = audioContextRef.current.createScriptProcessor(bufferSize, 1, 1)
