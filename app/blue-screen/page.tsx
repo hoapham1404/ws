@@ -1,7 +1,6 @@
 import Home from '@/app/screens/ColorScreen';
 import { Metadata } from 'next';
 import { getRouteByPath } from '@/constants/routes';
-import FakeBlueScreen from './components/FakeBlueScreen';
 
 export async function generateMetadata(): Promise<Metadata> {
   const screen = getRouteByPath("/blue-screen");
@@ -27,7 +26,7 @@ export async function generateMetadata(): Promise<Metadata> {
 export default function Page() {
   return (
     <div>
-      <FakeBlueScreen/>
+      <Home />
     </div>
   );
 }

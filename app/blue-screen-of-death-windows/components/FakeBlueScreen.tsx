@@ -36,7 +36,7 @@ export default function FakeBlueScreen() {
 
       <div ref={containerRef} className={`relative mb-8 ${isFullscreen ? "" : "aspect-video"}`}>
         <div
-          className={`w-full h-full rounded-lg shadow-lg bg-[#000A7C] ${isFullscreen ? "fixed inset-0 z-50" : ""
+          className={`w-full h-full rounded-lg shadow-lg bg-[#004091] ${isFullscreen ? "fixed inset-0 z-50" : ""
             } ${lucidaConsole.variable} font-mono`}
         >
           <div
