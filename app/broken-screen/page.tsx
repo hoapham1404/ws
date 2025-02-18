@@ -1,6 +1,7 @@
-import Home from '@/app/screens/ColorScreen';
 import { Metadata } from 'next';
 import { getRouteByPath } from '@/constants/routes';
+import React from 'react';
+import BrokenScreen from './components/BrokenScreen';
 
 export async function generateMetadata(): Promise<Metadata> {
   const screen = getRouteByPath("/broken-screen");
@@ -25,8 +26,8 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function Page() {
   return (
-    <div>
-      <Home />
-    </div>
+    <React.Fragment>
+      <BrokenScreen/>
+    </React.Fragment>
   );
 }
