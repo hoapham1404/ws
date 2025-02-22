@@ -1,10 +1,16 @@
 'use client'
 
+import { useState } from 'react';
 import routes from '@/constants/routes';
 import { usePathname, useRouter } from 'next/navigation';
 
+interface ScreenOptionsProps {
+  onTemperatureChange: (temp: number) => void;
+}
 
-export default function ScreenOptions() {  
+export default function ScreenOptions({ onTemperatureChange }: ScreenOptionsProps) {  
+  const [sliderValue, setSliderValue] = useState(50);
+
   const handleFullScreen = () => {
     const previewBox = document.getElementById('preview-box');
     if (previewBox && previewBox.requestFullscreen) {
@@ -20,8 +26,27 @@ export default function ScreenOptions() {
     navigate.push(path)
   }
 
+  const handleSliderChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const value = Number(event.target.value);
+    setSliderValue(value);
+    
+    const temperature = 1000 + (value / 100) * (40000 - 1000);
+    onTemperatureChange(Math.round(temperature));
+  };
+
   return (
     <>
+      <div className="w-full max-w-md mx-auto mb-4">
+        <input
+          type="range"
+          min="0"
+          max="100"
+          value={sliderValue}
+          className="w-full h-[2px] bg-black appearance-none cursor-pointer"
+          onChange={handleSliderChange}
+        />
+      </div>
+    
       <div className="flex flex-wrap justify-center mb-4 cursor-pointer ">
         {routes?.filter(option => option.isAxis === false && option.color != null && option.color != undefined).map((option) => (
           <div key={option.name} className={`flex flex-col items-center p-6 ${option.path === currentPath ? 'bg-gray-300' : ''}`}>
@@ -34,6 +59,8 @@ export default function ScreenOptions() {
           </div>
         ))}
       </div>
+      
+  
       <button 
         onClick={handleFullScreen}
         className="block mx-auto px-4 md:px-6 py-2 border rounded bg-white hover:bg-gray-50 text-sm md:text-base"
