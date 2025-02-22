@@ -3,7 +3,7 @@ import { getRouteByPath } from '@/constants/routes';
 import BlueScreenWindow10 from './components/BlueScreenWindow10';
 
 export async function generateMetadata(): Promise<Metadata> {
-  const screen = getRouteByPath("/screen-of-death-xp");
+  const screen = getRouteByPath("/blue-screen-of-death-windows-10");
 
   if (!screen) {
     return { title: "Unknown Screen" };
