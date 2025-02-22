@@ -9,7 +9,7 @@ interface ScreenOptionsProps {
 }
 
 export default function ScreenOptions({ onTemperatureChange }: ScreenOptionsProps) {  
-  const [sliderValue, setSliderValue] = useState(50);
+  const [sliderValue, setSliderValue] = useState(0);
 
   const handleFullScreen = () => {
     const previewBox = document.getElementById('preview-box');
@@ -30,22 +30,24 @@ export default function ScreenOptions({ onTemperatureChange }: ScreenOptionsProp
     const value = Number(event.target.value);
     setSliderValue(value);
     
-    const temperature = 1000 + (value / 100) * (40000 - 1000);
+    const temperature = 10000 + (value / 100) * (2100000 - 10000);
     onTemperatureChange(Math.round(temperature));
   };
 
   return (
     <>
-      <div className="w-full max-w-md mx-auto mb-4">
-        <input
-          type="range"
-          min="0"
-          max="100"
-          value={sliderValue}
-          className="w-full h-[2px] bg-black appearance-none cursor-pointer"
-          onChange={handleSliderChange}
-        />
-      </div>
+      {currentPath === '/zoom-lighting' && (
+        <div className="w-full max-w-md mx-auto mb-4">
+          <input
+            type="range"
+            min="0"
+            max="100"
+            value={sliderValue}
+            className="w-full h-[2px] bg-black appearance-none cursor-pointer"
+            onChange={handleSliderChange}
+          />
+        </div>
+      )}
     
       <div className="flex flex-wrap justify-center mb-4 cursor-pointer ">
         {routes?.filter(option => option.isAxis === false && option.color != null && option.color != undefined).map((option) => (

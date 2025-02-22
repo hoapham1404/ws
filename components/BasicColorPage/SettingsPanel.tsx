@@ -158,20 +158,22 @@ export default function SettingsPanel({
           <span className="self-center">K</span>
         </div>
       </div>
-      <div className="flex items-center gap-4 mt-4">
-        <div className="flex items-center gap-2">
-          <label className="text-sm text-gray-600">R:</label>
-          <span>{rgb.r}</span>
+      {currentPath === '/zoom-lighting' && (
+        <div className="flex items-center gap-4 mt-4">
+          <div className="flex items-center gap-2">
+            <label className="text-sm text-gray-600">R:</label>
+            <span>{rgb.r}</span>
+          </div>
+          <div className="flex items-center gap-2">
+            <label className="text-sm text-gray-600">G:</label>
+            <span>{rgb.g}</span>
+          </div>
+          <div className="flex items-center gap-2">
+            <label className="text-sm text-gray-600">B:</label>
+            <span>{rgb.b}</span>
+          </div>
         </div>
-        <div className="flex items-center gap-2">
-          <label className="text-sm text-gray-600">G:</label>
-          <span>{rgb.g}</span>
-        </div>
-        <div className="flex items-center gap-2">
-          <label className="text-sm text-gray-600">B:</label>
-          <span>{rgb.b}</span>
-        </div>
-      </div>
+      )}
       
     </>
   )

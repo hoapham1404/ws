@@ -15,60 +15,84 @@ import { usePathname } from 'next/navigation'
 
 // Helper function to calculate RGB from temperature
 const calculateRGB = (temperature: number) => {
-  // Approximate RGB values based on temperature (Kelvin)
-  let r, g, b;
+  // Use temperature as a seed for variation
+  const normalizedTemp = (temperature - 1000) / 39000; // 0 to 1 range
   
-  // Temperature should be between 1000 and 40000
-  temperature = Math.max(1000, Math.min(40000, temperature)) / 100;
+  // Generate base colors using sine waves for smooth transitions but varied colors
+  const r = Math.sin(normalizedTemp * Math.PI * 4) * 127 + 128;
+  const g = Math.sin((normalizedTemp * Math.PI * 4) + (Math.PI / 2)) * 127 + 128;
+  const b = Math.sin((normalizedTemp * Math.PI * 4) + Math.PI) * 127 + 128;
+
+  // Add some variation based on temperature ranges
+  const variation = Math.sin(temperature / 1000) * 30;
   
-  // Red calculation
-  if (temperature <= 66) {
-    r = 255;
+  // Apply different color emphasis based on temperature ranges
+  let finalR = r, finalG = g, finalB = b;
+
+  if (temperature < 5000) {
+    // Warmer colors
+    finalR = Math.min(255, r * 1.3 + variation);
+    finalG = Math.max(0, g * 0.9 - variation);
+    finalB = Math.max(0, b * 0.7 - variation);
+  } else if (temperature > 15000) {
+    // Cooler colors
+    finalR = Math.max(0, r * 0.7 - variation);
+    finalG = Math.max(0, g * 0.9 + variation);
+    finalB = Math.min(255, b * 1.3 + variation);
   } else {
-    r = temperature - 60;
-    r = 329.698727446 * Math.pow(r, -0.1332047592);
-    r = Math.max(0, Math.min(255, r));
+    // Mid range - more balanced colors
+    finalR = r + variation;
+    finalG = g + variation;
+    finalB = b + variation;
   }
-  
-  // Green calculation
-  if (temperature <= 66) {
-    g = temperature;
-    g = 99.4708025861 * Math.log(g) - 161.1195681661;
-  } else {
-    g = temperature - 60;
-    g = 288.1221695283 * Math.pow(g, -0.0755148492);
-  }
-  g = Math.max(0, Math.min(255, g));
-  
-  // Blue calculation
-  if (temperature >= 66) {
-    b = 255;
-  } else if (temperature <= 19) {
-    b = 0;
-  } else {
-    b = temperature - 10;
-    b = 138.5177312231 * Math.log(b) - 305.0447927307;
-    b = Math.max(0, Math.min(255, b));
-  }
-  
+
+  // Add some periodic variation
+  const periodicVariation = Math.sin(temperature / 500) * 20;
+  finalR += periodicVariation;
+  finalG += periodicVariation;
+  finalB += periodicVariation;
+
+  // Ensure values stay within bounds and round them
   return {
-    r: Math.round(r),
-    g: Math.round(g),
-    b: Math.round(b)
+    r: Math.round(Math.max(0, Math.min(255, finalR))),
+    g: Math.round(Math.max(0, Math.min(255, finalG))),
+    b: Math.round(Math.max(0, Math.min(255, finalB)))
   };
 };
+
+// Add this helper function to convert RGB to hex
+const rgbToHex = (r: number, g: number, b: number): string => {
+  return '#' + [r, g, b].map(x => {
+    const hex = x.toString(16)
+    return hex.length === 1 ? '0' + hex : hex
+  }).join('')
+}
 
 export default function Home() {
   const currentPath = usePathname()
   const currentRoute = getRouteByPath(currentPath)
   
-  const [temperature, setTemperature] = useState(6500)
-  const [rgb, setRgb] = useState(() => calculateRGB(6500)) // Initialize with calculated value
+  const [temperature, setTemperature] = useState(5000)
+  const [rgb, setRgb] = useState(() => calculateRGB(5000))
+
+  // Calculate the current color based on RGB values
+  const currentColor = rgbToHex(rgb.r, rgb.g, rgb.b)
 
   const handleTemperatureChange = (newTemp: number) => {
-    setTemperature(newTemp)
-    setRgb(calculateRGB(newTemp))
+    // Add some randomization to the temperature for even more variation
+    const randomOffset = Math.random() * 1000 - 500; // ±500 variation
+    const adjustedTemp = newTemp + randomOffset;
+    
+    console.log('Temperature changed to:', adjustedTemp)
+    setTemperature(adjustedTemp)
+    const newRgb = calculateRGB(adjustedTemp)
+    console.log('New RGB:', newRgb)
+    setRgb(newRgb)
+    console.log('New color:', rgbToHex(newRgb.r, newRgb.g, newRgb.b))
   }
+
+  // Add console log to track what color is being passed to PreviewContent
+  console.log('Rendering with color:', currentRoute?.color || currentColor)
 
   return (
     <div className="min-h-screen p-3 md:p-5 bg-white text-black">
@@ -81,13 +105,13 @@ export default function Home() {
         
         {/* Main preview area showing the selected color */}
         <PreviewBox>
-          <PreviewContent currentColor={currentRoute?.color || ''} />
+          <PreviewContent currentColor={currentPath === '/zoom-lighting' ? currentColor : currentRoute?.color || currentColor} />
         </PreviewBox>
 
         {/* Right panel containing color settings and controls */}
         <RightSidePanel>
           <SettingsPanel 
-            currentColor={currentRoute?.color || ''} 
+            currentColor={currentPath === '/zoom-lighting' ? currentColor : currentRoute?.color || currentColor}
             temperature={temperature}
             rgb={rgb}
             onTemperatureChange={handleTemperatureChange}
