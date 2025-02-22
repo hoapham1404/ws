@@ -25,8 +25,6 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function Page() {
   return (
-    <div>
-      <BlueScreenWindow10/>
-    </div>
+    <BlueScreenWindow10 />
   );
 }

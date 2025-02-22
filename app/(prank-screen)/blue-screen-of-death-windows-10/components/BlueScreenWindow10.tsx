@@ -7,6 +7,7 @@ import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import windowQRCode from "@/public/window-qr.svg"
 import Image from "next/image"
+import React from "react"
 
 export default function BlueScreenWindow10() {
   const containerRef = useRef<HTMLDivElement>(null)
@@ -42,7 +43,7 @@ export default function BlueScreenWindow10() {
         })
       },
       (updateTime * 60 * 1000) / (100 - startTime),
-    ) // Distribute remaining progress over update time
+    )
   }
 
   useEffect(() => {
@@ -59,90 +60,88 @@ export default function BlueScreenWindow10() {
     }
   }, [])
   return (
-    <div>
-      <main className="max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold text-center mb-8">Fake Blue Screen of Death 10</h1>
+    <React.Fragment>
+      <h1 className="text-4xl font-bold text-center mb-8">Fake Blue Screen of Death 10</h1>
 
-        <div className="flex gap-8">
-          <div ref={containerRef} className={`relative flex-1 ${isFullscreen ? "" : "aspect-video"}`}>
+      <div className="flex gap-8">
+        <div ref={containerRef} className={`relative flex-1 ${isFullscreen ? "" : "aspect-video"}`}>
+          <div
+            className={`w-full h-full rounded-lg shadow-lg bg-[#0078D7] ${isFullscreen ? "fixed inset-0 z-50" : ""
+              } font-sans`}
+          >
             <div
-              className={`w-full h-full rounded-lg shadow-lg bg-[#0078D7] ${isFullscreen ? "fixed inset-0 z-50" : ""
-                } font-sans`}
+              className={`text-white font-light ${isFullscreen
+                ? "absolute inset-0 flex flex-col items-center justify-center text-3xl p-16"
+                : "p-8 text-xl"
+                }`}
             >
-              <div
-                className={`text-white font-light ${isFullscreen
-                  ? "absolute inset-0 flex flex-col items-center justify-center text-3xl p-16"
-                  : "p-8 text-xl"
-                  }`}
-              >
-                <div className="font-normal mb-6 text-7xl">:(</div>
-                <div className="mb-6">
-                  Your PC ran into a problem and needs to restart. We&apos;re just collecting some error info, and then
-                  we&apos;ll restart for you.
-                </div>
-                <div className="mb-8">
-                  <span className="font-normal ">
-                    {progress}
-                  </span>
-                  % complete</div>
-                <div className="mt-auto flex">
-                  <Image src="/window-qr.svg" alt="QR Code" width={100} height={100} />
-                  <div className={`${isFullscreen ? "text-base" : "text-sm"} text-white space-y-4 ml-4`}>
-                    <p>
-                      For more information about this issue and possible fixes, visit https://www.windows.com/stopcode
-                    </p>
-                    <p>If you call a support person, give them this info:</p>
-                    <p>Stop code: CRITICAL_PROCESS_DIED</p>
-                  </div>
+              <div className="font-normal mb-6 text-7xl">:(</div>
+              <div className="mb-6">
+                Your PC ran into a problem and needs to restart. We&apos;re just collecting some error info, and then
+                we&apos;ll restart for you.
+              </div>
+              <div className="mb-8">
+                <span className="font-normal ">
+                  {progress}
+                </span>
+                % complete</div>
+              <div className="mt-auto flex">
+                <Image src={windowQRCode} alt="QR Code" width={100} height={100} />
+                <div className={`${isFullscreen ? "text-base" : "text-sm"} text-white space-y-4 ml-4`}>
+                  <p>
+                    For more information about this issue and possible fixes, visit https://www.windows.com/stopcode
+                  </p>
+                  <p>If you call a support person, give them this info:</p>
+                  <p>Stop code: CRITICAL_PROCESS_DIED</p>
                 </div>
               </div>
             </div>
-            <Button
-              size="icon"
-              variant="secondary"
-              className={`${isFullscreen ? "fixed right-4 bottom-4 z-50" : "absolute right-4 bottom-4"}`}
-              onClick={toggleFullscreen}
-            >
-              {isFullscreen ? <Minimize2 className="h-4 w-4" /> : <Maximize2 className="h-4 w-4" />}
-            </Button>
           </div>
-
-          <div className="w-48 space-y-6">
-            <div className="space-y-2">
-              <Label>Update time</Label>
-              <div className="flex items-center gap-2">
-                <Input
-                  type="number"
-                  value={updateTime}
-                  onChange={(e) => setUpdateTime(Number(e.target.value))}
-                  min={1}
-                  className="w-20"
-                />
-                <span className="text-sm text-muted-foreground">minutes</span>
-              </div>
-            </div>
-
-            <div className="space-y-2">
-              <Label>Start time</Label>
-              <div className="flex items-center gap-2">
-                <Input
-                  type="number"
-                  value={startTime}
-                  onChange={(e) => setStartTime(Number(e.target.value))}
-                  min={0}
-                  max={99}
-                  className="w-20"
-                />
-                <span className="text-sm text-muted-foreground">%</span>
-              </div>
-            </div>
-
-            <Button className="w-full" onClick={handleRestart}>
-              Restart
-            </Button>
-          </div>
+          <Button
+            size="icon"
+            variant="secondary"
+            className={`${isFullscreen ? "fixed right-4 bottom-4 z-50" : "absolute right-4 bottom-4"}`}
+            onClick={toggleFullscreen}
+          >
+            {isFullscreen ? <Minimize2 className="h-4 w-4" /> : <Maximize2 className="h-4 w-4" />}
+          </Button>
         </div>
-      </main>
-    </div>
+
+        <div className="w-48 space-y-6">
+          <div className="space-y-2">
+            <Label>Update time</Label>
+            <div className="flex items-center gap-2">
+              <Input
+                type="number"
+                value={updateTime}
+                onChange={(e) => setUpdateTime(Number(e.target.value))}
+                min={1}
+                className="w-20"
+              />
+              <span className="text-sm text-muted-foreground">minutes</span>
+            </div>
+          </div>
+
+          <div className="space-y-2">
+            <Label>Start time</Label>
+            <div className="flex items-center gap-2">
+              <Input
+                type="number"
+                value={startTime}
+                onChange={(e) => setStartTime(Number(e.target.value))}
+                min={0}
+                max={99}
+                className="w-20"
+              />
+              <span className="text-sm text-muted-foreground">%</span>
+            </div>
+          </div>
+
+          <Button className="w-full" onClick={handleRestart}>
+            Restart
+          </Button>
+        </div>
+      </div>
+    </React.Fragment>
   );
 }
