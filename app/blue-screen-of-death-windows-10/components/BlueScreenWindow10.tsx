@@ -5,6 +5,7 @@ import { Maximize2, Minimize2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
+import windowQRCode from "@/public/window-qr.svg"
 import Image from "next/image"
 
 export default function BlueScreenWindow10() {
@@ -69,19 +70,30 @@ export default function BlueScreenWindow10() {
                 } font-sans`}
             >
               <div
-                className={`text-white ${isFullscreen
-                    ? "absolute inset-0 flex flex-col items-center justify-center text-3xl p-16"
-                    : "p-8 text-xl"
+                className={`text-white font-light ${isFullscreen
+                  ? "absolute inset-0 flex flex-col items-center justify-center text-3xl p-16"
+                  : "p-8 text-xl"
                   }`}
               >
-                <div className="mb-6 text-7xl">:(</div>
+                <div className="font-normal mb-6 text-7xl">:(</div>
                 <div className="mb-6">
                   Your PC ran into a problem and needs to restart. We&apos;re just collecting some error info, and then
                   we&apos;ll restart for you.
                 </div>
-                <div className="mb-8">{progress}% complete</div>
-                <div className="mt-auto">
-                  <Image src="/qr-code.png" alt="QR Code" width={100} height={100} className="opacity-90" />
+                <div className="mb-8">
+                  <span className="font-normal ">
+                    {progress}
+                  </span>
+                  % complete</div>
+                <div className="mt-auto flex">
+                  <Image src="/window-qr.svg" alt="QR Code" width={100} height={100} />
+                  <div className={`${isFullscreen ? "text-base" : "text-sm"} text-white space-y-4 ml-4`}>
+                    <p>
+                      For more information about this issue and possible fixes, visit https://www.windows.com/stopcode
+                    </p>
+                    <p>If you call a support person, give them this info:</p>
+                    <p>Stop code: CRITICAL_PROCESS_DIED</p>
+                  </div>
                 </div>
               </div>
             </div>
