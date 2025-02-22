@@ -30,11 +30,11 @@ export const routes: RouteStore[] = [
   { name: "Zoom Lighting", path: "/zoom-lighting", color: "#FFC5C2", isAxis: true },
 
   // Prank Screens
-  { name: "White Noise", path: "/white-noise", icon: "https://emojicdn.elk.sh/🔊" },
-  { name: "Broken Screen", path: "/broken-screen", icon: "https://emojicdn.elk.sh/💔" },
-  { name: "Screen of Death XP", path: "/screen-of-death-xp", icon: "https://emojicdn.elk.sh/💻" },
-  { name: "Screen of Death 10", path: "/screen-of-death-10", icon: "https://emojicdn.elk.sh/💻" },
-  { name: "Hacker Typer", path: "/hacker-typer", icon: "https://emojicdn.elk.sh/👨‍💻" },
+  { name: "White noise", path: "/white-noise", icon: "https://emojicdn.elk.sh/🔊" },
+  { name: "Fake Broken screen", path: "/broken-screen", icon: "https://emojicdn.elk.sh/💔" },
+  { name: "Fake Blue Screen of Death", path: "/blue-screen-of-death-windows", icon: "https://emojicdn.elk.sh/💻" },
+  { name: "Fake Blue Screen of Death 10", path: "/blue-screen-of-death-windows-10", icon: "https://emojicdn.elk.sh/💻" },
+  { name: "Hacker Typer Screen", path: "/hacker-screen", icon: "https://emojicdn.elk.sh/👨‍💻" },
 
   // Fake Update Screens
   { name: "Fake Update Windows 10", path: "/fake-update-windows-10", icon: "https://emojicdn.elk.sh/🪟" },

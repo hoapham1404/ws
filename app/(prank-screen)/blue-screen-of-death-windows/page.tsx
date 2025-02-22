@@ -3,7 +3,7 @@ import { getRouteByPath } from '@/constants/routes';
 import FakeBlueScreen from './components/FakeBlueScreen';
 
 export async function generateMetadata(): Promise<Metadata> {
-  const screen = getRouteByPath("/screen-of-death-10");
+  const screen = getRouteByPath("/blue-screen-of-death-windows");
 
   if (!screen) {
     return { title: "Unknown Screen" };

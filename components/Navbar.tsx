@@ -3,13 +3,13 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 
 export default function Navbar() {
   return (
-    <header className="border-b">
+    <header className="">
       <div className="container mx-auto px-4 h-14 flex items-center justify-between">
         <div className="flex items-center gap-6">
-          <Link href="#" className="font-semibold text-xl">
+          <Link href="/" className="font-semibold text-xl">
             WS
           </Link>
-          <Link href="#" className="text-sm text-muted-foreground hover:text-foreground">
+          <Link href="/" className="text-sm text-muted-foreground hover:text-foreground">
             Feedback
           </Link>
         </div>
