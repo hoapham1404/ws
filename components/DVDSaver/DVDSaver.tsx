@@ -7,9 +7,14 @@ import Image from 'next/image'
 interface DVDScreensaverProps {
   speed?: number
   size?: number
+  className?: string
 }
 
-const DVDScreensaver = ({ speed = 50, size = 50 }: DVDScreensaverProps) => {
+const DVDScreensaver = ({ 
+  speed = 50, 
+  size = 50,
+  className = "" 
+}: DVDScreensaverProps) => {
   const containerRef = useRef<HTMLDivElement>(null)
   const logoRef = useRef<HTMLDivElement>(null)
   const animationRef = useRef<number | null>(null)
@@ -17,9 +22,9 @@ const DVDScreensaver = ({ speed = 50, size = 50 }: DVDScreensaverProps) => {
   const [position, setPosition] = useState<{ x: number; y: number } | null>(null)
   const [direction, setDirection] = useState({ x: 3, y: 3 })
 
-  // Calculate actual speed and size based on input values
-  const actualSpeed = (speed / 50) * 4 // Scale speed from 0-100 to 0-8
-  const actualSize = Math.max(30, (size / 100) * 200) // Scale size from 30-200px
+  // Improve speed scaling for smoother movement
+  const actualSpeed = Math.max(0.5, (speed / 50) * 3) // Minimum speed of 0.5, max of 6
+  const actualSize = Math.max(30, Math.min((size / 100) * 200, 200)) // Clamp size between 30-200px
 
   // Modify getRandomDirection to use actualSpeed
   const getRandomDirection = () => {
@@ -43,7 +48,7 @@ const DVDScreensaver = ({ speed = 50, size = 50 }: DVDScreensaverProps) => {
   // Set initial position when component mounts
   useEffect(() => {
     const initializePosition = () => {
-      if (!containerRef.current || !logoRef.current || position) return
+      if (!containerRef.current || !logoRef.current) return
       
       const container = containerRef.current.getBoundingClientRect()
       const logo = logoRef.current.getBoundingClientRect()
@@ -64,15 +69,53 @@ const DVDScreensaver = ({ speed = 50, size = 50 }: DVDScreensaverProps) => {
 
     initializePosition()
     
-    window.addEventListener('resize', initializePosition)
-    return () => window.removeEventListener('resize', initializePosition)
-  }, [position])
+    // Debounce resize handler to prevent excessive updates
+    let resizeTimer: NodeJS.Timeout
+    const handleResize = () => {
+      clearTimeout(resizeTimer)
+      resizeTimer = setTimeout(() => {
+        if (containerRef.current && logoRef.current) {
+          const container = containerRef.current.getBoundingClientRect()
+          const logo = logoRef.current.getBoundingClientRect()
+          
+          // Adjust position if logo is outside bounds after resize
+          setPosition(prev => {
+            if (!prev) return prev
+            return {
+              x: Math.min(prev.x, container.width - logo.width),
+              y: Math.min(prev.y, container.height - logo.height)
+            }
+          })
+        }
+      }, 100)
+    }
+
+    window.addEventListener('resize', handleResize)
+    return () => {
+      window.removeEventListener('resize', handleResize)
+      clearTimeout(resizeTimer)
+    }
+  }, []) // Remove position dependency to prevent re-initialization
 
   useEffect(() => {
-    if (!position || speed === 0) return // Don't animate if speed is 0
+    if (!position || speed === 0) {
+      // Clean up any existing animation frame when speed is 0
+      if (animationRef.current !== null) {
+        cancelAnimationFrame(animationRef.current)
+        animationRef.current = null
+      }
+      return
+    }
 
     const updatePosition = () => {
-      if (!containerRef.current || !logoRef.current) return
+      if (!containerRef.current || !logoRef.current) {
+        // Clean up if refs are no longer valid
+        if (animationRef.current !== null) {
+          cancelAnimationFrame(animationRef.current)
+          animationRef.current = null
+        }
+        return
+      }
 
       const container = containerRef.current.getBoundingClientRect()
       const logo = logoRef.current.getBoundingClientRect()
@@ -120,6 +163,7 @@ const DVDScreensaver = ({ speed = 50, size = 50 }: DVDScreensaverProps) => {
     return () => {
       if (animationRef.current !== null) {
         cancelAnimationFrame(animationRef.current)
+        animationRef.current = null
       }
     }
   }, [position, direction, speed]) // Add speed to dependencies
@@ -148,13 +192,14 @@ const DVDScreensaver = ({ speed = 50, size = 50 }: DVDScreensaverProps) => {
   return (
     <div 
       ref={containerRef}
-      className="w-full h-full bg-black relative overflow-hidden rounded-lg"
+      className={`w-full h-full bg-black relative overflow-hidden rounded-lg ${className}`}
     >
       <div
         ref={logoRef}
         style={{
-          transform: `translate(${position?.x ?? 0}px, ${position?.y ?? 0}px)`,
-          transition: speed === 0 ? 'none' : 'transform 0.016s linear' // Remove transition when paused
+          transform: `translate3d(${position?.x ?? 0}px, ${position?.y ?? 0}px, 0)`,
+          transition: speed === 0 ? 'none' : 'transform 0.016s linear',
+          willChange: 'transform'
         }}
         className="absolute"
       >
@@ -164,6 +209,8 @@ const DVDScreensaver = ({ speed = 50, size = 50 }: DVDScreensaverProps) => {
           width={actualSize}
           height={actualSize / 2}
           priority
+          draggable={false}
+          style={{ userSelect: 'none' }}
         />
       </div>
     </div>

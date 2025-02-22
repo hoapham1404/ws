@@ -9,8 +9,8 @@ interface DVDRightsProps {
 
 export const DVDRights = ({ speed, size, onSpeedChange, onSizeChange }: DVDRightsProps) => {
     return (
-        <div>
-           <div className="w-full max-w-md mx-auto mb-4">
+        <div className="w-[300px]">
+           <div className="w-full max-w-xl mx-auto mb-4">
               <label className="block mb-2">Speed</label>
               <input
                 type="range"
@@ -21,7 +21,7 @@ export const DVDRights = ({ speed, size, onSpeedChange, onSizeChange }: DVDRight
                 onChange={(e) => onSpeedChange(Number(e.target.value))}
               />
            </div>
-           <div className="w-full max-w-md mx-auto mb-4">
+           <div className="w-full max-w-xl mx-auto mb-4">
               <label className="block mb-2">Size</label>
               <input
                 type="range"
