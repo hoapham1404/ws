@@ -1,6 +1,7 @@
-import Home from '@/app/screens/ColorScreen';
+
 import { Metadata } from 'next';
 import { getRouteByPath } from '@/constants/routes';
+import HomeScreenSaver from '../screens/ScreenSaver';
 
 export async function generateMetadata(): Promise<Metadata> {
   const screen = getRouteByPath("/flip-clock");
@@ -26,7 +27,7 @@ export async function generateMetadata(): Promise<Metadata> {
 export default function Page() {
   return (
     <div>
-      <Home />
+      <HomeScreenSaver />
     </div>
   );
 }

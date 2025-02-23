@@ -44,7 +44,7 @@ export const routes: RouteStore[] = [
   { name: "Fake Update Chrome OS", path: "/fake-update-chrome-os", icon: "https://emojicdn.elk.sh/🌐" },
 
   // Screensaver Screens
-  { name: "DVD Screensaver", path: "/dvd-screensaver", icon: "https://emojicdn.elk.sh/📀" },
+  { name: "DVD Screensaver", path: "/dvd-screensaver", icon: "https://emojicdn.elk.sh/📀", },
   { name: "Flip Clock", path: "/flip-clock", icon: "https://emojicdn.elk.sh/⏰" },
   { name: "Motivational Quote", path: "/motivational-quote", icon: "https://emojicdn.elk.sh/💬" },
   { name: "No Signal", path: "/no-signal", icon: "https://emojicdn.elk.sh/📡" },
