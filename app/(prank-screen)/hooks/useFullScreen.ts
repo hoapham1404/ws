@@ -1,13 +1,7 @@
 "use client";
 import { useRef, useState, useEffect } from "react";
 
-export default function FullScreenContainer({
-  children,
-  className,
-}: {
-  children: React.ReactNode;
-  className?: string;
-}) {
+export function useFullScreen() {
   const ref = useRef<HTMLDivElement>(null);
   const [isFullscreen, setIsFullscreen] = useState(false);
 
@@ -18,6 +12,8 @@ export default function FullScreenContainer({
           await ref.current.requestFullscreen();
         } else if ((ref.current as any).webkitRequestFullscreen) {
           await (ref.current as any).webkitRequestFullscreen();
+        } else if ((ref.current as any).mozRequestFullScreen) {
+          await (ref.current as any).mozRequestFullScreen();
         } else if ((ref.current as any).msRequestFullscreen) {
           await (ref.current as any).msRequestFullscreen();
         }
@@ -33,6 +29,8 @@ export default function FullScreenContainer({
         await document.exitFullscreen();
       } else if ((document as any).webkitExitFullscreen) {
         await (document as any).webkitExitFullscreen();
+      } else if ((document as any).mozCancelFullScreen) {
+        await (document as any).mozCancelFullScreen();
       } else if ((document as any).msExitFullscreen) {
         await (document as any).msExitFullscreen();
       }
@@ -45,6 +43,7 @@ export default function FullScreenContainer({
     if (
       document.fullscreenElement ||
       (document as any).webkitFullscreenElement ||
+      (document as any).mozFullScreenElement ||
       (document as any).msFullscreenElement
     ) {
       await exitFullscreen();
@@ -58,41 +57,25 @@ export default function FullScreenContainer({
       setIsFullscreen(
         Boolean(
           document.fullscreenElement ||
-            (document as any).webkitFullscreenElement ||
-            (document as any).msFullscreenElement,
-        ),
+          (document as any).webkitFullscreenElement ||
+          (document as any).mozFullScreenElement ||
+          (document as any).msFullscreenElement
+        )
       );
     };
 
     document.addEventListener("fullscreenchange", handleFullscreenChange);
     document.addEventListener("webkitfullscreenchange", handleFullscreenChange);
+    document.addEventListener("mozfullscreenchange", handleFullscreenChange);
     document.addEventListener("msfullscreenchange", handleFullscreenChange);
 
     return () => {
       document.removeEventListener("fullscreenchange", handleFullscreenChange);
-      document.removeEventListener(
-        "webkitfullscreenchange",
-        handleFullscreenChange,
-      );
-      document.removeEventListener(
-        "msfullscreenchange",
-        handleFullscreenChange,
-      );
+      document.removeEventListener("webkitfullscreenchange", handleFullscreenChange);
+      document.removeEventListener("mozfullscreenchange", handleFullscreenChange);
+      document.removeEventListener("msfullscreenchange", handleFullscreenChange);
     };
   }, []);
 
-  return (
-    <div
-      ref={ref}
-      className={`relative [&:fullscreen>*:first-child]:h-full ${className}`}
-      onClick={toggleFullscreen}
-    >
-      {children}
-      <span
-        className={`${isFullscreen ? "hidden" : "block"} absolute right-4 bottom-4 z-50`}
-      >
-        FullScreen
-      </span>
-    </div>
-  );
+  return { ref, isFullscreen, toggleFullscreen };
 }

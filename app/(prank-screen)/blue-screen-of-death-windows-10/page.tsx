@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { getRouteByPath } from '@/constants/routes';
 import BlueScreenWindow10 from './components/BlueScreenWindow10';
-
+import PageLayout from '../components/PageLayout';
 export async function generateMetadata(): Promise<Metadata> {
   const screen = getRouteByPath("/blue-screen-of-death-windows-10");
 
@@ -25,6 +25,8 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function Page() {
   return (
-    <BlueScreenWindow10 />
+    <PageLayout
+      mid={<BlueScreenWindow10 />}
+    />
   );
 }

@@ -6,6 +6,7 @@ import BottomPanel from '@/components/Layout/BottomPanel'
 import LeftSidePanel from '@/components/Layout/LeftSidePanel'
 import PreviewBox from '@/components/Layout/PreviewBox'
 import RightSidePanel from '@/components/Layout/RightSidePanel'
+import NavigateBar from '@/app/(prank-screen)/components/NavigateBar'
 import { usePathname } from 'next/navigation'
 
 export default function PrankScreen() {
@@ -20,20 +21,21 @@ export default function PrankScreen() {
         <LeftSidePanel>
           <div className="flex flex-col gap-4"></div>
         </LeftSidePanel>
-        
+
         {/* Main preview area showing the selected color */}
         <PreviewBox>
-          {currentPath === "/blue-screen-of-death-windows" && <FakeBlueScreen />}
+          {currentPath === "/blue-screen-of-death-windows" && < />}
+          {currentPath === "/blue-screen-of-death-windows-10" && <BlueScreenWindow10 />}
         </PreviewBox>
 
         {/* Right panel containing color settings and controls */}
         <RightSidePanel>
-        <div className="flex flex-col gap-4"></div>
+          <div className="flex flex-col gap-4"></div>
         </RightSidePanel>
 
         {/* Bottom panel with screen navigation options */}
         <BottomPanel>
-        <div className="flex flex-col gap-4"></div>
+          <NavigateBar />
         </BottomPanel>
       </main>
     </div>
