@@ -19,20 +19,22 @@ const FlipClockPreview = () => {
   const seconds = time.getSeconds().toString().padStart(2, '0');
 
   return (
-    <div className={styles.flipClock}>
-      <div className={styles.timeUnit}>
-        <div className={styles.digit}>{hours[0]}</div>
-        <div className={styles.digit}>{hours[1]}</div>
-      </div>
-      <div className={styles.separator}>:</div>
-      <div className={styles.timeUnit}>
-        <div className={styles.digit}>{minutes[0]}</div>
-        <div className={styles.digit}>{minutes[1]}</div>
-      </div>
-      <div className={styles.separator}>:</div>
-      <div className={styles.timeUnit}>
-        <div className={styles.digit}>{seconds[0]}</div>
-        <div className={styles.digit}>{seconds[1]}</div>
+    <div className="flex items-center justify-center w-full h-full">
+      <div className={styles.flipClock}>
+        <div className={styles.timeUnit}>
+          <div className={styles.digit}>{hours[0]}</div>
+          <div className={styles.digit}>{hours[1]}</div>
+        </div>
+        <div className={styles.separator}>:</div>
+        <div className={styles.timeUnit}>
+          <div className={styles.digit}>{minutes[0]}</div>
+          <div className={styles.digit}>{minutes[1]}</div>
+        </div>
+        <div className={styles.separator}>:</div>
+        <div className={styles.timeUnit}>
+          <div className={styles.digit}>{seconds[0]}</div>
+          <div className={styles.digit}>{seconds[1]}</div>
+        </div>
       </div>
     </div>
   );

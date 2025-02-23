@@ -11,12 +11,18 @@ import { useState } from 'react'
 import { DVDBottom } from '@/components/DVDSaver/DVDBottom'
 import { usePathname } from 'next/navigation'
 import FlipClockPreview from '@/components/FlipClock/FlipClockPreview'
+import NoSignalPreview from '@/components/NoSignalPage/NoSignalPreview'
+import MotivationQuotesPreview from '@/components/MotivationQuotes/MotivationQuotesPreview'
+import MotivationQuotesRight from '@/components/MotivationQuotes/MotivationQuotesRight'
 
 export default function HomeScreenSaver() {
   const [speed, setSpeed] = useState(10)
-  const [size, setSize] = useState(10)
+  const [size, setSize] = useState(24)
+  const [customQuoteText, setCustomQuoteText] = useState('')
+  const [customQuoteAuthor, setCustomQuoteAuthor] = useState('')
 
-  // const currentPath = usePathname()
+
+  const currentPath = usePathname()
  
 
   return (
@@ -30,18 +36,32 @@ export default function HomeScreenSaver() {
         
         {/* Main preview area showing the selected color */}
         <PreviewBox>
-          {/* <DVDScreensaver speed={speed} size={size} /> */}
-          <FlipClockPreview />
+          {currentPath === '/dvd-screensaver' && <DVDScreensaver speed={speed} size={size} />}
+          {currentPath === '/flip-clock' && <FlipClockPreview />}
+          {currentPath === '/no-signal' && <NoSignalPreview />}
+          {currentPath === '/motivational-quote' && <MotivationQuotesPreview paragraph={customQuoteText} author={customQuoteAuthor} textSize={size} />}
         </PreviewBox>
 
         {/* Right panel containing color settings and controls */}
         <RightSidePanel>
-          <DVDRights 
-            speed={speed} 
-            size={size} 
-            onSpeedChange={setSpeed} 
-            onSizeChange={setSize} 
-          />
+          {currentPath === '/dvd-screensaver' && (
+            <DVDRights 
+              speed={speed} 
+              size={size} 
+              onSpeedChange={setSpeed} 
+              onSizeChange={setSize} 
+            />
+          )}
+          {currentPath === '/motivational-quote' && (
+            <MotivationQuotesRight
+              size={size}
+              onSizeChange={(e) => setSize(Number(e.target.value))}
+              customQuoteText={customQuoteText}
+              customQuoteAuthor={customQuoteAuthor}
+              onCustomQuoteTextChange={(e) => setCustomQuoteText(e.target.value)}
+              onCustomQuoteAuthorChange={(e) => setCustomQuoteAuthor(e.target.value)}
+            />
+          )}
         </RightSidePanel>
 
         {/* Bottom panel with screen navigation options */}
