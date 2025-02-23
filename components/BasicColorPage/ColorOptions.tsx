@@ -4,7 +4,7 @@ import { getColorRoutes } from '@/constants/routes'
 import { useRouter } from 'next/navigation'
 
 export default function ColorOptions() {
- 
+
   const navigate = useRouter()
 
   const navigateTo = (path: string) => {
@@ -23,7 +23,7 @@ export default function ColorOptions() {
         >
           <div
             className="w-12 md:w-14 h-8 rounded"
-            style={{ 
+            style={{
               backgroundColor: route.color,
               boxShadow: `0 0 16px 0 rgba(0, 0, 0, 0.3)`
             }}
