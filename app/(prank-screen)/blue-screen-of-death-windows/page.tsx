@@ -1,8 +1,6 @@
-import { Metadata } from "next";
+import PrankScreen from "@/app/screens/PrankScreen";
 import { getRouteByPath } from "@/constants/routes";
-import FakeBlueScreen from "./components/FakeBlueScreen";
-import PageLayout from "../PageLayout";
-import React from "react";
+import { Metadata } from "next";
 
 export async function generateMetadata(): Promise<Metadata> {
   const screen = getRouteByPath("/blue-screen-of-death-windows");
@@ -30,13 +28,6 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default function Page() {
   return (
-    <React.Fragment>
-      <h1 className="text-5xl text-center mb-8">Fake Blue Screen of Death</h1>
-      <PageLayout
-        mid={<FakeBlueScreen />}
-        left={<div></div>}
-        right={<div></div>}
-      />
-    </React.Fragment>
+    <PrankScreen />
   );
 }

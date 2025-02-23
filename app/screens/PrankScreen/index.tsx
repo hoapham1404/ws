@@ -1,13 +1,16 @@
 'use client'
 
+import FakeBlueScreen from '@/app/(prank-screen)/blue-screen-of-death-windows/components/FakeBlueScreen'
 import Header from '@/components/Header'
 import BottomPanel from '@/components/Layout/BottomPanel'
 import LeftSidePanel from '@/components/Layout/LeftSidePanel'
 import PreviewBox from '@/components/Layout/PreviewBox'
 import RightSidePanel from '@/components/Layout/RightSidePanel'
+import { usePathname } from 'next/navigation'
 
-export default function FakeUpdateScreen() {
+export default function PrankScreen() {
 
+  const currentPath = usePathname();
 
   return (
     <div className="min-h-screen p-3 md:p-5 bg-white text-black">
@@ -20,7 +23,7 @@ export default function FakeUpdateScreen() {
         
         {/* Main preview area showing the selected color */}
         <PreviewBox>
-            <div className="flex flex-col gap-4"></div>
+          {currentPath === "/blue-screen-of-death-windows" && <FakeBlueScreen />}
         </PreviewBox>
 
         {/* Right panel containing color settings and controls */}
