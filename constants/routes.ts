@@ -42,12 +42,17 @@ export const routes: RouteStore[] = [
   { name: "Fake Update Mac OS X", path: "/fake-update-mac-os-x", icon: "https://emojicdn.elk.sh/🍎" },
   { name: "Fake Update Ubuntu 22.04", path: "/fake-update-ubuntu-22-04", icon: "https://emojicdn.elk.sh/🐧" },
   { name: "Fake Update Chrome OS", path: "/fake-update-chrome-os", icon: "https://emojicdn.elk.sh/🌐" },
+  { name: "Fake Update Android", path: "/fake-android-update", icon: "https://emojicdn.elk.sh/🤖" },
+  { name: "Fake Update Windows 11", path: "/fake-update-windows-11", icon: "https://emojicdn.elk.sh/🪟" },
 
   // Screensaver Screens
   { name: "DVD Screensaver", path: "/dvd-screensaver", icon: "https://emojicdn.elk.sh/📀", },
   { name: "Flip Clock", path: "/flip-clock", icon: "https://emojicdn.elk.sh/⏰" },
   { name: "Motivational Quote", path: "/motivational-quote", icon: "https://emojicdn.elk.sh/💬" },
   { name: "No Signal", path: "/no-signal", icon: "https://emojicdn.elk.sh/📡" },
+
+
+
 ];
 
 export const getRouteByPath = (path: string) => routes.find((route) => route.path === path);

@@ -1,8 +1,10 @@
+
 import { Metadata } from 'next';
 import { getRouteByPath } from '@/constants/routes';
 import FakeUpdateScreen from '../screens/FakeUpdateScreen';
+
 export async function generateMetadata(): Promise<Metadata> {
-  const screen = getRouteByPath("/fake-update-windows-10");
+  const screen = getRouteByPath("/fake-update-chrome-os");
 
   if (!screen) {
     return { title: "Unknown Screen" };
@@ -22,6 +24,10 @@ export async function generateMetadata(): Promise<Metadata> {
   };
 }
 
-export default function FakeUpdatePage() {
-  return <FakeUpdateScreen />;
+export default function Page() {
+  return (
+    <div>
+      <FakeUpdateScreen />
+    </div>
+  );
 }

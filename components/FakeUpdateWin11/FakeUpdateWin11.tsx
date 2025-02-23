@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import styles from './FakeUpdateWin10.module.css';
+import styles from './FakeUpdateWin11.module.css';
 
 export default function FakeUpdateWin10() {
   const [percentage, setPercentage] = useState(0);
@@ -26,10 +26,10 @@ export default function FakeUpdateWin10() {
         <div className={styles.content}>
           <div className={styles.spinner}></div>
           <div className={styles.text}>
-            <p>Working on updates {percentage}% complete.</p>
-            <p>Please keep your computer on.</p>
+            <p>Working on updates</p>
+            <p>{percentage}% complete</p>
           </div>
-          <p className={styles.warning}>Your computer will restart automatically.</p>
+          <p className={styles.warning}>Don&apos;t turn off your computer</p>
         </div>
       </div>    
 

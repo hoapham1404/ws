@@ -1,0 +1,47 @@
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: #0078D4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.androidLogo {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.updateText {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.percentage {
+    font-size: 18px;
+}
+
+.progressBar {
+    width: 300px;
+    height: 4px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 2px;
+    overflow: hidden;
+}
+
+.progressFill {
+    height: 100%;
+    background-color: white;
+    transition: width 0.3s ease-in-out;
+} 
