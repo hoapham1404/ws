@@ -4,7 +4,7 @@ import routes from '@/constants/routes';
 import { usePathname, useRouter } from 'next/navigation';
 
 
-export default function ScreenOptions() {  
+export default function ScreenOptions() {
   const handleFullScreen = () => {
     const previewBox = document.getElementById('preview-box');
     if (previewBox && previewBox.requestFullscreen) {
@@ -34,7 +34,7 @@ export default function ScreenOptions() {
           </div>
         ))}
       </div>
-      <button 
+      <button
         onClick={handleFullScreen}
         className="block mx-auto px-4 md:px-6 py-2 border rounded bg-white hover:bg-gray-50 text-sm md:text-base"
       >
@@ -42,4 +42,4 @@ export default function ScreenOptions() {
       </button>
     </>
   )
-} 
+}

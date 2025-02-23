@@ -61,6 +61,7 @@ export default function BlueScreenWindow10() {
   }, [])
   return (
     <React.Fragment>
+      <h1 className="text-5xl text-center mb-8">Fake Blue Screen of Death 10</h1>
       <div className="flex gap-8">
         <div ref={containerRef} className={`relative flex-1 ${isFullscreen ? "" : "aspect-video"}`}>
           <div
