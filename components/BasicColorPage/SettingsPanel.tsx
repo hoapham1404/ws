@@ -17,9 +17,17 @@ const defaultPresets: Preset[] = [
 
 interface SettingsPanelProps {
   currentColor: string;
+  temperature: number;
+  rgb: { r: number; g: number; b: number };
+  onTemperatureChange?: (temp: number) => void;
 }
 
-export default function SettingsPanel({ currentColor }: SettingsPanelProps) {
+export default function SettingsPanel({ 
+  currentColor, 
+  temperature, 
+  rgb,
+  onTemperatureChange 
+}: SettingsPanelProps) {
   const [dimensions, setDimensions] = useState<{ width: number; height: number; label?: string }>({
     width: 1920,
     height: 1080,
@@ -135,6 +143,38 @@ export default function SettingsPanel({ currentColor }: SettingsPanelProps) {
         />
         <span>{currentColor}</span>
       </div>
+
+      <div className="flex items-center gap-2 mt-4">
+        <label className="text-sm text-gray-600">Temperature</label>
+        <div className="flex gap-2">
+          <input
+            type="number"
+            min="1000"
+            max="40000"
+            value={temperature}
+            onChange={(e) => onTemperatureChange?.(Number(e.target.value))}
+            className="w-24 p-2 border rounded"
+          />
+          <span className="self-center">K</span>
+        </div>
+      </div>
+      {currentPath === '/zoom-lighting' && (
+        <div className="flex items-center gap-4 mt-4">
+          <div className="flex items-center gap-2">
+            <label className="text-sm text-gray-600">R:</label>
+            <span>{rgb.r}</span>
+          </div>
+          <div className="flex items-center gap-2">
+            <label className="text-sm text-gray-600">G:</label>
+            <span>{rgb.g}</span>
+          </div>
+          <div className="flex items-center gap-2">
+            <label className="text-sm text-gray-600">B:</label>
+            <span>{rgb.b}</span>
+          </div>
+        </div>
+      )}
+      
     </>
   )
-} 
+}
