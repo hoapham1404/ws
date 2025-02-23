@@ -17,7 +17,7 @@ import MotivationQuotesRight from '@/components/MotivationQuotes/MotivationQuote
 
 export default function HomeScreenSaver() {
   const [speed, setSpeed] = useState(10)
-  const [size, setSize] = useState(14)
+  const [size, setSize] = useState(48)
   const [customQuoteText, setCustomQuoteText] = useState('')
   const [customQuoteAuthor, setCustomQuoteAuthor] = useState('')
 

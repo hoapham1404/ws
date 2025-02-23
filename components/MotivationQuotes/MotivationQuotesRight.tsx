@@ -19,17 +19,17 @@ export default function MotivationQuotesRight({
   onCustomQuoteAuthorChange,
 }: MotivationQuotesRightProps) {
   return (
-    <div className="flex flex-col gap-6 p-6">
+    <div className="flex flex-col gap-6 p-6 w-[300px]">
       <div className="space-y-2">
-        <label className="text-sm font-medium">Size, use ↑↓ keys</label>
+        <label className="text-sm font-medium">Size: {size}px</label>
         <Input
-          type="number"
+          type="range"
           value={size}
           onChange={onSizeChange}
           min={10}
           max={100}
           step={1}
-          className="w-full"
+          className="w-full cursor-pointer"
         />
       </div>
 
