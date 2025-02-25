@@ -1,33 +1,34 @@
-import Home from '@/app/screens/ColorScreen';
-import { getRouteByPath } from '@/constants/routes';
-import { Metadata } from 'next';
-
+import RootLayout from "@/components/Layout/PageLayout";
+import { getRouteByPath, RouteStore } from "@/constants/routes";
+import { Metadata } from "next";
+import { notFound } from "next/navigation";
 
 export async function generateMetadata(): Promise<Metadata> {
-
-  const screen = getRouteByPath("/");
-
+  const route: RouteStore | undefined = getRouteByPath("/");
+  if (!route) return notFound();
   return {
-    title: `Color: ${screen?.name || "Unknown"}`,
-
-    icons: screen?.color
-      ? [{
-        url: `data:image/svg+xml,
+    title: `${route.color ? `Color: ${route.name}` : `${route.name}`} | Online Tool`,
+    icons: route.color
+      ? [
+          {
+            url: `data:image/svg+xml,
         <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
-            <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(screen?.color)}'/>
-        </svg>` }]
-      : screen?.icon
-        ? [{ url: screen.icon }]
+            <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(route.color)}'/>
+        </svg>`,
+          },
+        ]
+      : route.icon
+        ? [{ url: route.icon }]
         : undefined,
   };
 }
 
 export default function Page() {
-  
   return (
-    <div>
-      <Home />
-    </div>
+    <RootLayout
+      left={<div>Left Sidebar</div>}
+      mid={<div>Main Content</div>}
+      right={<div>Right Sidebar</div>}
+    />
   );
 }
-
