@@ -15,7 +15,7 @@ import FakeUpdateWinXP from '@/components/FakeUpdateWinXP/FakeUpdateWinXP'
 import FakeOSUpdate from '@/components/FakeOSUpdate/FakeOSUpdate'
 import FakeUbuntu from '@/components/FakeUbuntu/FakeUbuntu'
 import FakeChromeOS from '@/components/FakeChromeOS/FakeChromeOS'
-
+import { FakeUpdateScreenRight } from './FakeUpdateScreenRight'
 export default function FakeUpdateScreen() {
   const pathname = usePathname();
 
@@ -41,7 +41,7 @@ export default function FakeUpdateScreen() {
 
         {/* Right panel containing color settings and controls */}
         <RightSidePanel>
-        <div className="flex flex-col gap-4"></div>
+          <FakeUpdateScreenRight />
         </RightSidePanel>
 
         {/* Bottom panel with screen navigation options */}
