@@ -19,27 +19,25 @@ export default function RootLayout({
   children,
 }: PageLayoutProps) {
   return (
-    <section className="max-w-7xl mx-auto">
-      <div className="min-h-screen p-3 md:p-5 bg-white text-black">
-        <Header />
-        <main className="max-w-7xl mx-auto relative flex flex-col md:block">
-          <LeftSidePanel>
-            <div className="flex flex-col gap-4">{left}</div>
-          </LeftSidePanel>
+    <div className="min-h-screen p-3 md:p-5 bg-white text-black">
+      <Header />
+      <main className="max-w-7xl mx-auto relative flex flex-col md:block">
+        <LeftSidePanel>
+          <div className="flex flex-col gap-4">{left}</div>
+        </LeftSidePanel>
 
-          <PreviewBox>
-            {mid || children} {/* Fallback to children if mid isn’t provided */}
-          </PreviewBox>
+        <PreviewBox>
+          {mid || children} {/* Fallback to children if mid isn’t provided */}
+        </PreviewBox>
 
-          <RightSidePanel>
-            <div className="flex flex-col gap-4">{right}</div>
-          </RightSidePanel>
+        <RightSidePanel>
+          <div className="flex flex-col gap-4">{right}</div>
+        </RightSidePanel>
 
-          <BottomPanel>
-            <div>Nothing</div>
-          </BottomPanel>
-        </main>
-      </div>
-    </section>
+        <BottomPanel>
+          <div>Nothing</div>
+        </BottomPanel>
+      </main>
+    </div>
   );
 }
