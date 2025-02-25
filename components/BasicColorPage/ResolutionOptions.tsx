@@ -1,11 +1,15 @@
 "use client";
 
+import downloadImage from "@/lib/downloadImage";
 import { colorStore } from "@/store/colorStore";
 
 export default function ResolutionOptions() {
-  const { currentResolution, setResolution, setPresetResolution } = colorStore(
-    (state) => state,
-  );
+  const {
+    currentResolution,
+    setResolution,
+    setPresetResolution,
+    currentColor,
+  } = colorStore((state) => state);
 
   return (
     <div className="flex flex-col gap-4">
@@ -15,12 +19,12 @@ export default function ResolutionOptions() {
         onChange={(e) =>
           setPresetResolution(
             e.target.value as
-            | "480p"
-            | "720p"
-            | "1080p"
-            | "1440p 2K"
-            | "2160p 4K"
-            | "4320p 8K",
+              | "480p"
+              | "720p"
+              | "1080p"
+              | "1440p 2K"
+              | "2160p 4K"
+              | "4320p 8K",
           )
         }
         defaultValue="1080p"
@@ -55,6 +59,14 @@ export default function ResolutionOptions() {
         />
         <span>px</span>
       </div>
+
+      {/* Download Button */}
+      <button
+        onClick={() => downloadImage(currentResolution, currentColor)}
+        className="mt-4 p-2 bg-blue-500 text-white rounded"
+      >
+        Download
+      </button>
     </div>
   );
 }
