@@ -1,10 +1,10 @@
 // constants/routes.ts
 
-import FakeBlueScreen10 from "@/app/(prank-screen)/blue-screen-of-death-windows-10/components/FakeBlueScreen10";
-import FakeBlueScreen from "@/app/(prank-screen)/blue-screen-of-death-windows/components/FakeBlueScreen";
+import FakeBlueScreen10 from "@/app/(prank-screen)/blue-screen-of-death-windows-10/FakeBlueScreen10";
+import FakeBlueScreen from "@/app/(prank-screen)/blue-screen-of-death-windows/FakeBlueScreen";
 import BrokenScreen from "@/app/(prank-screen)/broken-screen/BrokenScreen";
 import NavigateBar from "@/app/(prank-screen)/components/NavigateBar";
-import WhiteNoiseScreen from "@/app/white-noise/components/WhiteNoiseScreen";
+import WhiteNoiseScreen from "@/app/(prank-screen)/white-noise/WhiteNoiseScreen";
 import { ReactNode } from "react";
 
 export class RouteStore {
