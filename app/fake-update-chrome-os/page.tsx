@@ -1,6 +1,6 @@
-import Home from '@/app/screens/ColorScreen';
-import { Metadata } from 'next';
-import { getRouteByPath } from '@/constants/routes';
+import FakeUpdateScreen from "@/app/screens/FakeUpdateScreen";
+import { Metadata } from "next";
+import { getRouteByPath } from "@/constants/routes";
 
 export async function generateMetadata(): Promise<Metadata> {
   const screen = getRouteByPath("/fake-update-chrome-os");
@@ -26,7 +26,7 @@ export async function generateMetadata(): Promise<Metadata> {
 export default function Page() {
   return (
     <div>
-      <Home />
+      <FakeUpdateScreen />
     </div>
   );
 }

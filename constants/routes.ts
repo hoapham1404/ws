@@ -59,5 +59,7 @@ export const getRouteByPath = (path: string) => routes.find((route) => route.pat
 export const getColorRoutes = () => routes.filter((route) => route.color);
 export const getIconRoutes = () => routes.filter((route) => route.icon);
 
+export const FAKE_UPDATE_WINXP = '/fake-update-windows-xp';
+
 export default routes;
 
