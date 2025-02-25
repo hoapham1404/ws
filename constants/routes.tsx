@@ -1,5 +1,8 @@
 // constants/routes.ts
 
+import WhiteNoiseScreen from "@/app/white-noise/components/WhiteNoiseScreen";
+import { ReactNode } from "react";
+
 export class RouteStore {
   name: string;
   path: string;
@@ -7,13 +10,19 @@ export class RouteStore {
   icon?: string;
   isAxis?: boolean;
   title: string;
-  type: 'color' | 'prank' | 'fake-update' | 'screensaver';
+  type: "color" | "prank" | "fake-update" | "screensaver";
+  components?: {
+    left?: ReactNode;
+    mid?: ReactNode;
+    right?: ReactNode;
+    bottom?: ReactNode;
+  };
 
   constructor(
     name: string,
     path: string,
     title: string,
-    type: 'color' | 'prank' | 'fake-update' | 'screensaver',
+    type: "color" | "prank" | "fake-update" | "screensaver",
     color?: string,
     icon?: string,
     isAxis?: boolean,
@@ -36,7 +45,7 @@ export const routes: RouteStore[] = [
     color: "#FFFFFF",
     isAxis: false,
     title: "White screen",
-    type: "color"
+    type: "color",
   },
   {
     name: "Black Screen",
@@ -44,8 +53,7 @@ export const routes: RouteStore[] = [
     color: "#000000",
     isAxis: false,
     title: "Full Black Screen",
-    type: "color"
-
+    type: "color",
   },
   {
     name: "Red Screen",
@@ -53,7 +61,7 @@ export const routes: RouteStore[] = [
     color: "#FF0000",
     isAxis: false,
     title: "Red screen",
-    type: "color"
+    type: "color",
   },
   {
     name: "Green Screen",
@@ -61,7 +69,7 @@ export const routes: RouteStore[] = [
     color: "#00FF00",
     isAxis: false,
     title: "Green screen",
-    type: "color"
+    type: "color",
   },
   {
     name: "Blue Screen",
@@ -69,7 +77,7 @@ export const routes: RouteStore[] = [
     color: "#0000FF",
     isAxis: false,
     title: "Blue screen",
-    type: "color"
+    type: "color",
   },
   {
     name: "Yellow Screen",
@@ -77,7 +85,7 @@ export const routes: RouteStore[] = [
     color: "#FFFF00",
     isAxis: true,
     title: "Yellow screen",
-    type: "color"
+    type: "color",
   },
   {
     name: "Orange Screen",
@@ -85,7 +93,7 @@ export const routes: RouteStore[] = [
     color: "#FFA500",
     isAxis: true,
     title: "Orange screen",
-    type: "color"
+    type: "color",
   },
   {
     name: "Pink Screen",
@@ -93,7 +101,7 @@ export const routes: RouteStore[] = [
     color: "#FFC0CB",
     isAxis: true,
     title: "Pink screen",
-    type: "color"
+    type: "color",
   },
   {
     name: "Purple Screen",
@@ -101,7 +109,7 @@ export const routes: RouteStore[] = [
     color: "#800080",
     isAxis: true,
     title: "Purple screen",
-    type: "color"
+    type: "color",
   },
   {
     name: "Zoom Lighting",
@@ -109,7 +117,7 @@ export const routes: RouteStore[] = [
     color: "#FFC5C2",
     isAxis: true,
     title: "Lighting for zoom calls",
-    type: "color"
+    type: "color",
   },
   // Prank Screens
   {
@@ -117,35 +125,39 @@ export const routes: RouteStore[] = [
     path: "/white-noise",
     icon: "https://emojicdn.elk.sh/🔊",
     title: "White noise for sleep",
-    type: "prank"
+    type: "prank",
+    components: {
+      mid: <WhiteNoiseScreen />,
+      right: <div>Right</div>,
+    },
   },
   {
     name: "Fake Broken screen",
     path: "/broken-screen",
     icon: "https://emojicdn.elk.sh/💔",
     title: "Fake Broken screen - Prank",
-    type: "prank"
+    type: "prank",
   },
   {
     name: "Fake Blue Screen of Death",
     path: "/blue-screen-of-death-windows",
     icon: "https://emojicdn.elk.sh/💻",
     title: "Windows Fake Blue Screen of Death",
-    type: "prank"
+    type: "prank",
   },
   {
     name: "Fake Blue Screen of Death 10",
     path: "/blue-screen-of-death-windows-10",
     icon: "https://emojicdn.elk.sh/💻",
     title: "Windows 10 Fake Blue Screen of Death",
-    type: "prank"
+    type: "prank",
   },
   {
     name: "Hacker Typer Screen",
     path: "/hacker-screen",
     icon: "https://emojicdn.elk.sh/👨‍💻",
     title: "Hacker Typer Screen - Prank",
-    type: "prank"
+    type: "prank",
   },
 
   // Fake Update Screens
@@ -154,35 +166,35 @@ export const routes: RouteStore[] = [
     path: "/fake-update-windows-10",
     icon: "https://emojicdn.elk.sh/🪟",
     title: "Windows 10 Fake Update",
-    type: "fake-update"
+    type: "fake-update",
   },
   {
     name: "Fake Update Windows XP",
     path: "/fake-update-windows-xp",
     icon: "https://emojicdn.elk.sh/🪟",
     title: "Windows XP Fake Update",
-    type: "fake-update"
+    type: "fake-update",
   },
   {
     name: "Fake Update Mac OS X",
     path: "/fake-update-mac-os-x",
     icon: "https://emojicdn.elk.sh/🍎",
     title: "Mac OS X Fake Update",
-    type: "fake-update"
+    type: "fake-update",
   },
   {
     name: "Fake Update Ubuntu 22.04",
     path: "/fake-update-ubuntu-22-04",
     icon: "https://emojicdn.elk.sh/🐧",
     title: "Ubuntu 22.04 Fake Update",
-    type: "fake-update"
+    type: "fake-update",
   },
   {
     name: "Fake Update Chrome OS",
     path: "/fake-update-chrome-os",
     icon: "https://emojicdn.elk.sh/🌐",
     title: "ChromeOS Fake Update",
-    type: "fake-update"
+    type: "fake-update",
   },
 
   // Screensaver Screens
@@ -191,28 +203,28 @@ export const routes: RouteStore[] = [
     path: "/dvd-screensaver",
     icon: "https://emojicdn.elk.sh/📀",
     title: "DVD Screensaver",
-    type: "screensaver"
+    type: "screensaver",
   },
   {
     name: "Flip Clock",
     path: "/flip-clock",
     icon: "https://emojicdn.elk.sh/⏰",
     title: "Flip Clock Screensaver",
-    type: "screensaver"
+    type: "screensaver",
   },
   {
     name: "Motivational Quote",
     path: "/motivational-quote",
     icon: "https://emojicdn.elk.sh/💬",
     title: "Motivational Quote Screensaver",
-    type: "screensaver"
+    type: "screensaver",
   },
   {
     name: "No Signal",
     path: "/no-signal",
     icon: "https://emojicdn.elk.sh/📡",
     title: "Color Bars - No Signal TV Screen",
-    type: "screensaver"
+    type: "screensaver",
   },
 ];
 

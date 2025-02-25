@@ -53,7 +53,13 @@ export default async function DynamicPage({
     case "prank":
     case "fake-update":
     case "screensaver":
-      return <RootLayout mid={<div>{route.title}</div>} />;
+      return (
+        <RootLayout
+          mid={route.components?.mid}
+          right={route.components?.right}
+          bottom={route.components?.bottom}
+        />
+      );
     default:
       return <RootLayout mid={<div>Main Content</div>} />;
   }
