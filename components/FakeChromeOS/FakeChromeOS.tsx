@@ -5,17 +5,17 @@
     const FakeChromeOS: FC = () => {
     return (
         <div className="w-full h-full bg-[#1f1f1f] flex-col items-center justify-center text-white">
-        <div className="flex flex-col items-start justify-center h-full p-16">
+        <div className="flex flex-col items-start justify-center h-full p-8">
             <div className='flex items-center justify-center'>
                 <div className="flex items-center justify-center">
                 <Image
                     src={ChromeOSLogo}
                     alt="Chrome OS"
-                    width={30}
-                    height={30}
+                    width={20}
+                    height={20}
                 />
                 </div>
-                <div className='ml-4'>chromeOS</div>
+                <div className='ml-2'>chromeOS</div>
             </div>
 
             <hr className='w-full my-2' />
