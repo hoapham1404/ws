@@ -1,15 +1,11 @@
 "use client";
 
-import downloadImage from "@/lib/downloadImage";
 import { colorStore } from "@/store/colorStore";
 
 export default function ResolutionOptions() {
-  const {
-    currentResolution,
-    setResolution,
-    setPresetResolution,
-    currentColor,
-  } = colorStore((state) => state);
+  const { currentResolution, setResolution, setPresetResolution } = colorStore(
+    (state) => state,
+  );
 
   return (
     <div className="flex flex-col gap-4">
@@ -59,14 +55,6 @@ export default function ResolutionOptions() {
         />
         <span>px</span>
       </div>
-
-      {/* Download Button */}
-      <button
-        onClick={() => downloadImage(currentResolution, currentColor)}
-        className="mt-4 p-2 bg-blue-500 text-white rounded"
-      >
-        Download
-      </button>
     </div>
   );
 }
