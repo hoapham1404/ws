@@ -1,22 +1,10 @@
-import { useEffect, useState } from 'react';
+'use client'
+
+import { useUpdateProgress } from '@/app/contexts/UpdateProgressContext';
 import styles from './FakeAndroidUpdate.module.css';
 
 export default function FakeAndroidUpdate() {
-    const [progress, setProgress] = useState(0);
-
-    useEffect(() => {
-        const interval = setInterval(() => {
-            setProgress((prev) => {
-                if (prev >= 100) {
-                    clearInterval(interval);
-                    return 100;
-                }
-                return prev + 1;
-            });
-        }, 1000);
-
-        return () => clearInterval(interval);
-    }, []);
+    const { progress } = useUpdateProgress();
 
     return (
         <div className={styles.container}>

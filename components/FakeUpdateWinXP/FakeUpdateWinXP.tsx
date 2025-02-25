@@ -1,29 +1,12 @@
-
 'use client'
 
-import { useState, useEffect } from 'react';
+import { useUpdateProgress } from '@/app/contexts/UpdateProgressContext';
 import styles from './FakeUpdateWinXP.module.css';
 import WindowsXPLogo from '@/public/window-xp-logo.png';
 import Image from 'next/image';
 
-
-
 export default function FakeUpdateWinXP() {
-  const [progress, setProgress] = useState(0);
-
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setProgress(prev => {
-            if (prev >= 100) {
-            clearInterval(interval);
-          return 100;
-        }
-        return prev + Math.floor(Math.random() * 10);
-      });
-    }, 3000);
-
-    return () => clearInterval(interval);
-  }, []);
+  const { progress } = useUpdateProgress();
 
   return (
     <div className={styles.container}>
