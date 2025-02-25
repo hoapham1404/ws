@@ -3,6 +3,7 @@ import { getRouteByPath, RouteStore } from "@/constants/routes";
 import RootLayout from "@/components/Layout/PageLayout";
 import PreviewContent from "@/components/BasicColorPage/PreviewContent";
 import ColorOptions from "@/components/BasicColorPage/ColorOptions";
+import ResolutionOptions from "@/components/BasicColorPage/ResolutionOptions";
 
 export async function generateMetadata({
   params,
@@ -16,13 +17,13 @@ export async function generateMetadata({
     title: `${route.color ? `Color: ${route.name}` : `${route.name}`} | Online Tool`,
     icons: route.color
       ? [
-          {
-            url: `data:image/svg+xml,
+        {
+          url: `data:image/svg+xml,
         <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
             <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(route.color)}'/>
         </svg>`,
-          },
-        ]
+        },
+      ]
       : route.icon
         ? [{ url: route.icon }]
         : undefined,
@@ -40,7 +41,7 @@ export default async function DynamicPage({
 
   switch (route.type) {
     case "color":
-      return <RootLayout left={<ColorOptions />} mid={<PreviewContent />} />;
+      return <RootLayout left={<ColorOptions />} mid={<PreviewContent />} right={<ResolutionOptions />} />;
     case "prank":
     case "fake-update":
     case "screensaver":
