@@ -1,5 +1,9 @@
 // constants/routes.ts
 
+import FakeBlueScreen10 from "@/app/(prank-screen)/blue-screen-of-death-windows-10/components/FakeBlueScreen10";
+import FakeBlueScreen from "@/app/(prank-screen)/blue-screen-of-death-windows/components/FakeBlueScreen";
+import BrokenScreen from "@/app/(prank-screen)/broken-screen/BrokenScreen";
+import NavigateBar from "@/app/(prank-screen)/components/NavigateBar";
 import WhiteNoiseScreen from "@/app/white-noise/components/WhiteNoiseScreen";
 import { ReactNode } from "react";
 
@@ -128,7 +132,7 @@ export const routes: RouteStore[] = [
     type: "prank",
     components: {
       mid: <WhiteNoiseScreen />,
-      right: <div>Right</div>,
+      bottom: <NavigateBar />,
     },
   },
   {
@@ -137,6 +141,10 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/💔",
     title: "Fake Broken screen - Prank",
     type: "prank",
+    components: {
+      mid: <BrokenScreen />,
+      bottom: <NavigateBar />,
+    },
   },
   {
     name: "Fake Blue Screen of Death",
@@ -144,6 +152,10 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/💻",
     title: "Windows Fake Blue Screen of Death",
     type: "prank",
+    components: {
+      mid: <FakeBlueScreen />,
+      bottom: <NavigateBar />,
+    },
   },
   {
     name: "Fake Blue Screen of Death 10",
@@ -151,6 +163,10 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/💻",
     title: "Windows 10 Fake Blue Screen of Death",
     type: "prank",
+    components: {
+      mid: <FakeBlueScreen10 />,
+      bottom: <NavigateBar />,
+    },
   },
   {
     name: "Hacker Typer Screen",
