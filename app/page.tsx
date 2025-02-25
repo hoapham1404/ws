@@ -1,3 +1,7 @@
+import ColorOptions from "@/components/BasicColorPage/ColorOptions";
+import PreviewContent from "@/components/BasicColorPage/PreviewContent";
+import ScreenOptions from "@/components/BasicColorPage/ScreenOptions";
+import SettingsPanel from "@/components/BasicColorPage/SettingsPanel";
 import RootLayout from "@/components/Layout/PageLayout";
 import { getRouteByPath, RouteStore } from "@/constants/routes";
 import { Metadata } from "next";
@@ -26,9 +30,10 @@ export async function generateMetadata(): Promise<Metadata> {
 export default function Page() {
   return (
     <RootLayout
-      left={<div>Left Sidebar</div>}
-      mid={<div>Main Content</div>}
-      right={<div>Right Sidebar</div>}
+      left={<ColorOptions />}
+      mid={<PreviewContent />}
+      right={<SettingsPanel />}
+      bottom={<ScreenOptions />}
     />
   );
 }

@@ -15,7 +15,7 @@ export async function generateMetadata({
   const route: RouteStore | undefined = getRouteByPath(slug);
   if (!route) return notFound();
   return {
-    title: `${route.color ? `Color: ${route.name}` : `${route.name}`} | Online Tool`,
+    title: `${route.color ? `${route.name}` : `${route.name}`} | Online Tool`,
     icons: route.color
       ? [
           {
