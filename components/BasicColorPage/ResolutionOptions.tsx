@@ -11,7 +11,7 @@ export default function ResolutionOptions() {
     <div className="flex flex-col gap-4">
       {/* Preset Selection */}
       <select
-        className="p-2 border rounded"
+        className="w-full p-2 border rounded"
         onChange={(e) =>
           setPresetResolution(
             e.target.value as
@@ -34,26 +34,36 @@ export default function ResolutionOptions() {
       </select>
 
       {/* Custom Resolution Inputs */}
-      <div className="flex gap-2 items-center">
-        <input
-          type="number"
-          value={currentResolution.resX}
-          onChange={(e) =>
-            setResolution(Number(e.target.value), currentResolution.resY)
-          }
-          className="w-24 p-2 border rounded"
-        />
-        <span>px</span>
-        <span>×</span>
-        <input
-          type="number"
-          value={currentResolution.resY}
-          onChange={(e) =>
-            setResolution(currentResolution.resX, Number(e.target.value))
-          }
-          className="w-24 p-2 border rounded"
-        />
-        <span>px</span>
+      <div className="flex gap-4 mt-4">
+        <div>
+          <label className="text-sm text-gray-600">Width</label>
+          <div className="flex gap-2">
+            <input
+              type="number"
+              min="1"
+              value={currentResolution.resX}
+              onChange={(e) =>
+                setResolution(Number(e.target.value), currentResolution.resY)
+              }
+              className="w-24 p-2 border rounded"
+            />
+            <span className="self-center">px</span>
+          </div>
+        </div>
+        <div>
+          <label className="text-sm text-gray-600">Height</label>
+          <div className="flex gap-2">
+            <input
+              type="number"
+              value={currentResolution.resY}
+              onChange={(e) =>
+                setResolution(currentResolution.resX, Number(e.target.value))
+              }
+              className="w-24 p-2 border rounded"
+            />
+            <span className="self-center">px</span>
+          </div>
+        </div>
       </div>
     </div>
   );

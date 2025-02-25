@@ -9,6 +9,7 @@ interface PageLayoutProps {
   left?: React.ReactNode;
   mid: React.ReactNode;
   right?: React.ReactNode;
+  bottom?: React.ReactNode;
   children?: React.ReactNode; // For nested pages/layouts
 }
 
@@ -16,6 +17,7 @@ export default function RootLayout({
   left,
   mid,
   right,
+  bottom,
   children,
 }: PageLayoutProps) {
   return (
@@ -35,7 +37,7 @@ export default function RootLayout({
         </RightSidePanel>
 
         <BottomPanel>
-          <div>Nothing</div>
+          <div className="flex flex-col gap-4">{bottom}</div>
         </BottomPanel>
       </main>
     </div>
