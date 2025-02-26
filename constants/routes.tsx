@@ -12,6 +12,7 @@ import DVDSaver from "@/components/DVDSaver/DVDSaver";
 import FlipClockPreview from "@/components/FlipClock/FlipClockPreview";
 import MotivationQuotesPreview from "@/components/MotivationQuotes/MotivationQuotesPreview";
 import MotivationQuotesRight from "@/components/MotivationQuotes/MotivationQuotesRight";
+import NoSignalPreview from "@/components/NoSignalPage/NoSignalPreview";
 import { ReactNode } from "react";
 
 export class RouteStore {
@@ -260,6 +261,9 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/📡",
     title: "Color Bars - No Signal TV Screen",
     type: "screensaver",
+    components: {
+      mid: <NoSignalPreview />,
+    },
   },
 ];
 
