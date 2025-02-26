@@ -1,105 +1,170 @@
-'use client'
+"use client"
 
-import { useEffect, useRef, useState } from 'react'
-import dvdLogo from '@/public/dvd_logo.png'
-import Image from 'next/image'
+import { useEffect, useRef, useState, useMemo, useCallback } from "react"
+import dvdLogo from "@/public/dvd_logo.png"
+import Image from "next/image"
 
 interface DVDScreensaverProps {
   speed?: number
   size?: number
   className?: string
+  changeColors?: boolean
+  pausable?: boolean
+  padding?: number
+  startPosition?: "random" | "top-left" | "top-right" | "bottom-left" | "bottom-right" | "center"
 }
 
-const DVDScreensaver = ({ 
-  speed = 50, 
+const LOGO_COLORS = [
+  "#ff0000",
+  "#00ff00",
+  "#0000ff",
+  "#ffff00",
+  "#ff00ff",
+  "#00ffff",
+  "#ff8000",
+  "#8000ff",
+  "#0080ff",
+  "#ff0080",
+]
+
+const DVDScreensaver = ({
+  speed = 50,
   size = 50,
-  className = "" 
+  className = "",
+  changeColors = true,
+  pausable = false,
+  padding = 10,
+  startPosition = "random",
 }: DVDScreensaverProps) => {
   const containerRef = useRef<HTMLDivElement>(null)
   const logoRef = useRef<HTMLDivElement>(null)
   const animationRef = useRef<number | null>(null)
-  
+
   const [position, setPosition] = useState<{ x: number; y: number } | null>(null)
-  const [direction, setDirection] = useState({ x: 3, y: 3 })
+  const [direction, setDirection] = useState({ x: 2, y: 2 })
+  const [logoColor, setLogoColor] = useState(LOGO_COLORS[0])
+  const [isPaused, setIsPaused] = useState(false)
+  const [lastCollisionTime, setLastCollisionTime] = useState(0)
+  const [containerBounds, setContainerBounds] = useState({ width: 0, height: 0 })
+  const [logoDimensions, setLogoDimensions] = useState({ width: 0, height: 0 })
 
-  // Improve speed scaling for smoother movement
-  const actualSpeed = Math.max(0.5, (speed / 50) * 3) // Minimum speed of 0.5, max of 6
-  const actualSize = Math.max(30, Math.min((size / 100) * 200, 200)) // Clamp size between 30-200px
+  const actualSpeed = useMemo(() => {
+    if (isPaused) return 0
+    return Math.max(0.5, (speed / 100) * 4)
+  }, [speed, isPaused])
 
-  // Modify getRandomDirection to use actualSpeed
-  const getRandomDirection = () => {
-    const patterns = [
-      { x: actualSpeed, y: actualSpeed },    // top-left to bottom-right
-      { x: -actualSpeed, y: -actualSpeed },  // bottom-right to top-left
-      { x: -actualSpeed, y: actualSpeed },   // top-right to bottom-left
-      { x: actualSpeed, y: -actualSpeed }    // bottom-left to top-right
-    ]
+  const actualSize = useMemo(() => {
+    return Math.max(30, Math.min((size / 100) * 200, 200))
+  }, [size])
 
-    // Randomly choose between diagonal patterns
-    if (Math.random() > 0.5) {
-      // top-left ↔ bottom-right pattern
-      return Math.random() > 0.5 ? patterns[0] : patterns[1]
-    } else {
-      // top-right ↔ bottom-left pattern
-      return Math.random() > 0.5 ? patterns[2] : patterns[3]
+  const bounds = useMemo(() => {
+    const safePadding = Math.min(padding, Math.min(containerBounds.width, containerBounds.height) / 4)
+    return {
+      minX: safePadding,
+      maxX: containerBounds.width - logoDimensions.width - safePadding,
+      minY: safePadding,
+      maxY: containerBounds.height - logoDimensions.height - safePadding,
     }
-  }
+  }, [containerBounds, logoDimensions, padding])
 
-  // Set initial position when component mounts
+  const getRandomColor = useCallback(() => {
+    if (!changeColors) return logoColor
+    const filteredColors = LOGO_COLORS.filter((color) => color !== logoColor)
+    return filteredColors[Math.floor(Math.random() * filteredColors.length)]
+  }, [logoColor, changeColors])
+
+  const getInitialDirection = useCallback(() => {
+    if (isPaused) return { x: 0, y: 0 }
+    const baseSpeed = actualSpeed
+    const directions = [
+      { x: baseSpeed, y: baseSpeed },
+      { x: -baseSpeed, y: baseSpeed },
+      { x: baseSpeed, y: -baseSpeed },
+      { x: -baseSpeed, y: -baseSpeed },
+    ]
+    return directions[Math.floor(Math.random() * directions.length)]
+  }, [actualSpeed, isPaused])
+
+  const updateDimensions = useCallback(() => {
+    if (!containerRef.current || !logoRef.current) return
+
+    const container = containerRef.current.getBoundingClientRect()
+    const logo = logoRef.current.getBoundingClientRect()
+
+    setContainerBounds({ width: container.width, height: container.height })
+    setLogoDimensions({ width: logo.width, height: logo.height })
+
+    setPosition((prev) => {
+      if (!prev) return prev
+      const safePadding = Math.min(padding, Math.min(container.width, container.height) / 4)
+      const safeMinX = safePadding
+      const safeMaxX = container.width - logo.width - safePadding
+      const safeMinY = safePadding
+      const safeMaxY = container.height - logo.height - safePadding
+
+      return {
+        x: Math.max(safeMinX, Math.min(prev.x, safeMaxX)),
+        y: Math.max(safeMinY, Math.min(prev.y, safeMaxY)),
+      }
+    })
+  }, [padding])
+
+  const getStartingPosition = useCallback(
+    (container: DOMRect, logo: DOMRect, safePadding: number) => {
+      const positions = {
+        "top-left": { x: safePadding, y: safePadding },
+        "top-right": { x: container.width - logo.width - safePadding, y: safePadding },
+        "bottom-left": { x: safePadding, y: container.height - logo.height - safePadding },
+        "bottom-right": {
+          x: container.width - logo.width - safePadding,
+          y: container.height - logo.height - safePadding,
+        },
+        center: { x: (container.width - logo.width) / 2, y: (container.height - logo.height) / 2 },
+      }
+
+      if (startPosition === "random") {
+        const corners = ["top-left", "top-right", "bottom-left", "bottom-right"] as const
+        const randomCorner = corners[Math.floor(Math.random() * corners.length)]
+        return positions[randomCorner]
+      }
+
+      return positions[startPosition]
+    },
+    [startPosition],
+  )
+
   useEffect(() => {
     const initializePosition = () => {
       if (!containerRef.current || !logoRef.current) return
-      
+
+      updateDimensions()
+
       const container = containerRef.current.getBoundingClientRect()
       const logo = logoRef.current.getBoundingClientRect()
-      
-      // Start from a corner
-      const corners = [
-        { x: 0, y: 0 },                                    // top-left
-        { x: container.width - logo.width, y: 0 },         // top-right
-        { x: 0, y: container.height - logo.height },       // bottom-left
-        { x: container.width - logo.width, 
-          y: container.height - logo.height }              // bottom-right
-      ]
-      
-      const startCorner = corners[Math.floor(Math.random() * corners.length)]
-      setPosition(startCorner)
-      setDirection(getRandomDirection())
+      const safePadding = Math.min(padding, Math.min(container.width, container.height) / 4)
+      const startPos = getStartingPosition(container, logo, safePadding)
+
+      setPosition(startPos)
+      setDirection(getInitialDirection())
     }
 
     initializePosition()
-    
-    // Debounce resize handler to prevent excessive updates
-    let resizeTimer: NodeJS.Timeout
+
     const handleResize = () => {
-      clearTimeout(resizeTimer)
-      resizeTimer = setTimeout(() => {
-        if (containerRef.current && logoRef.current) {
-          const container = containerRef.current.getBoundingClientRect()
-          const logo = logoRef.current.getBoundingClientRect()
-          
-          // Adjust position if logo is outside bounds after resize
-          setPosition(prev => {
-            if (!prev) return prev
-            return {
-              x: Math.min(prev.x, container.width - logo.width),
-              y: Math.min(prev.y, container.height - logo.height)
-            }
-          })
-        }
-      }, 100)
+      updateDimensions()
     }
 
-    window.addEventListener('resize', handleResize)
+    window.addEventListener("resize", handleResize)
     return () => {
-      window.removeEventListener('resize', handleResize)
-      clearTimeout(resizeTimer)
+      window.removeEventListener("resize", handleResize)
+      if (animationRef.current !== null) {
+        cancelAnimationFrame(animationRef.current)
+      }
     }
-  }, []) // Remove position dependency to prevent re-initialization
+  }, [getInitialDirection, padding, updateDimensions, getStartingPosition])
 
   useEffect(() => {
-    if (!position || speed === 0) {
-      // Clean up any existing animation frame when speed is 0
+    if (!position || speed === 0 || isPaused) {
       if (animationRef.current !== null) {
         cancelAnimationFrame(animationRef.current)
         animationRef.current = null
@@ -107,9 +172,9 @@ const DVDScreensaver = ({
       return
     }
 
-    const updatePosition = () => {
+    let lastTime = performance.now()
+    const updatePosition = (currentTime: number) => {
       if (!containerRef.current || !logoRef.current) {
-        // Clean up if refs are no longer valid
         if (animationRef.current !== null) {
           cancelAnimationFrame(animationRef.current)
           animationRef.current = null
@@ -117,41 +182,44 @@ const DVDScreensaver = ({
         return
       }
 
-      const container = containerRef.current.getBoundingClientRect()
-      const logo = logoRef.current.getBoundingClientRect()
+      const deltaTime = currentTime - lastTime
+      lastTime = currentTime
 
-      setPosition(prevPos => {
+      setPosition((prevPos) => {
         if (!prevPos) return prevPos
 
-        const nextX = prevPos.x + direction.x
-        const nextY = prevPos.y + direction.y
+        const nextX = prevPos.x + direction.x * (deltaTime / 16)
+        const nextY = prevPos.y + direction.y * (deltaTime / 16)
 
-        // Check boundaries
-        const hitRight = nextX + logo.width >= container.width
-        const hitLeft = nextX <= 0
-        const hitBottom = nextY + logo.height >= container.height
-        const hitTop = nextY <= 0
+        const hitRight = nextX >= bounds.maxX
+        const hitLeft = nextX <= bounds.minX
+        const hitBottom = nextY >= bounds.maxY
+        const hitTop = nextY <= bounds.minY
 
-        // Handle corner collisions with diagonal movement
-        if ((hitLeft && hitTop) || 
-            (hitRight && hitTop) || 
-            (hitLeft && hitBottom) || 
-            (hitRight && hitBottom)) {
-          setDirection(getRandomDirection())
-        } else {
-          // Handle wall collisions
-          if (hitLeft || hitRight) {
-            setDirection(prev => ({ ...prev, x: -prev.x }))
-          }
-          if (hitTop || hitBottom) {
-            setDirection(prev => ({ ...prev, y: -prev.y }))
-          }
+        const hasCollision = hitLeft || hitRight || hitTop || hitBottom
+        const now = Date.now()
+
+        if (hasCollision && now - lastCollisionTime > 200) {
+          setLogoColor(getRandomColor())
+          setLastCollisionTime(now)
         }
 
-        // Keep within bounds
+        const newDirection = { ...direction }
+
+        if (hitLeft || hitRight) {
+          newDirection.x = -direction.x
+        }
+        if (hitTop || hitBottom) {
+          newDirection.y = -direction.y
+        }
+
+        if (newDirection.x !== direction.x || newDirection.y !== direction.y) {
+          setDirection(newDirection)
+        }
+
         return {
-          x: Math.max(0, Math.min(nextX, container.width - logo.width)),
-          y: Math.max(0, Math.min(nextY, container.height - logo.height))
+          x: Math.max(bounds.minX, Math.min(nextX, bounds.maxX)),
+          y: Math.max(bounds.minY, Math.min(nextY, bounds.maxY)),
         }
       })
 
@@ -166,51 +234,61 @@ const DVDScreensaver = ({
         animationRef.current = null
       }
     }
-  }, [position, direction, speed]) // Add speed to dependencies
+  }, [position, direction, speed, isPaused, getRandomColor, lastCollisionTime, bounds])
 
-  // Update direction when speed changes
   useEffect(() => {
-    if (speed === 0) {
-      // Stop movement when speed is 0
+    if (speed === 0 || isPaused) {
       setDirection({ x: 0, y: 0 })
+    } else if (!direction.x && !direction.y) {
+      setDirection(getInitialDirection())
     } else {
-      setDirection(prev => {
-        const currentMagnitude = Math.sqrt(prev.x * prev.x + prev.y * prev.y)
-        // If previously stopped (magnitude === 0), generate new direction
-        if (currentMagnitude === 0) {
-          return getRandomDirection()
-        }
-        // Otherwise scale the current direction
-        return {
-          x: (prev.x / currentMagnitude) * actualSpeed,
-          y: (prev.y / currentMagnitude) * actualSpeed
-        }
-      })
+      const dirX = direction.x !== 0 ? Math.sign(direction.x) * actualSpeed : 0
+      const dirY = direction.y !== 0 ? Math.sign(direction.y) * actualSpeed : 0
+
+      if (Math.abs(dirX) !== Math.abs(direction.x) || Math.abs(dirY) !== Math.abs(direction.y)) {
+        setDirection({
+          x: dirX,
+          y: dirY,
+        })
+      }
     }
-  }, [actualSpeed, speed])
+  }, [actualSpeed, speed, isPaused, getInitialDirection, direction.x, direction.y])
+
+  const togglePause = useCallback(() => {
+    if (pausable) {
+      setIsPaused((prev) => !prev)
+    }
+  }, [pausable])
 
   return (
-    <div 
+    <div
       ref={containerRef}
       className={`w-full h-full bg-black relative overflow-hidden rounded-lg ${className}`}
+      onClick={togglePause}
+      style={{ cursor: pausable ? "pointer" : "default" }}
     >
+      {pausable && isPaused && (
+        <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50 z-10">
+          <div className="text-white text-2xl font-bold">PAUSED</div>
+        </div>
+      )}
       <div
         ref={logoRef}
         style={{
+          position: "absolute",
           transform: `translate3d(${position?.x ?? 0}px, ${position?.y ?? 0}px, 0)`,
-          transition: speed === 0 ? 'none' : 'transform 0.016s linear',
-          willChange: 'transform'
+          willChange: "transform",
+          filter: `drop-shadow(0 0 2px ${logoColor}) hue-rotate(${LOGO_COLORS.indexOf(logoColor) * 36}deg)`,
         }}
-        className="absolute"
       >
         <Image
-          src={dvdLogo}
+          src={dvdLogo || "/placeholder.svg"}
           alt="DVD Logo"
           width={actualSize}
           height={actualSize / 2}
           priority
           draggable={false}
-          style={{ userSelect: 'none' }}
+          style={{ userSelect: "none" }}
         />
       </div>
     </div>
@@ -218,3 +296,4 @@ const DVDScreensaver = ({
 }
 
 export default DVDScreensaver
+
