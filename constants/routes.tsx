@@ -1,6 +1,7 @@
 // constants/routes.ts
 
 import FakeBlueScreen10 from "@/app/(prank-screen)/blue-screen-of-death-windows-10/FakeBlueScreen10";
+import FakeBlueScreen10_Sidebar from "@/app/(prank-screen)/blue-screen-of-death-windows-10/FakeBlueScreen10_Sidebar";
 import FakeBlueScreen from "@/app/(prank-screen)/blue-screen-of-death-windows/FakeBlueScreen";
 import BrokenScreen from "@/app/(prank-screen)/broken-screen/BrokenScreen";
 import NavigateBar from "@/app/(prank-screen)/components/NavigateBar";
@@ -165,6 +166,7 @@ export const routes: RouteStore[] = [
     type: "prank",
     components: {
       mid: <FakeBlueScreen10 />,
+      right: <FakeBlueScreen10_Sidebar />,
       bottom: <NavigateBar />,
     },
   },
