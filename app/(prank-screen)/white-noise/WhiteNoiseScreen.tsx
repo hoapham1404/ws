@@ -1,18 +1,9 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { Play, Pause, Maximize2, Minimize2 } from "lucide-react";
+import { Play, Pause } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import React from "react";
-
-const effects = [
-  { id: "white-noise", name: "White Noise", color: "bg-gray-200" },
-  { id: "broken", name: "Broken Screen", color: "bg-gray-900" },
-  { id: "xp", name: "Screen of Death XP", color: "bg-blue-600" },
-  { id: "win10", name: "Screen of Death 10", color: "bg-blue-500" },
-  { id: "hacker", name: "Hacker Typer", color: "bg-black" },
-];
 
 export default function WhiteNoiseScreen() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -20,16 +11,6 @@ export default function WhiteNoiseScreen() {
   const audioContextRef = useRef<AudioContext | null>(null);
   const gainNodeRef = useRef<GainNode | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
-  const [currentEffect, setCurrentEffect] = useState("white-noise");
-  const [isFullscreen, setIsFullscreen] = useState(false);
-
-  const toggleFullscreen = () => {
-    if (!document.fullscreenElement) {
-      containerRef.current?.requestFullscreen();
-    } else {
-      document.exitFullscreen();
-    }
-  };
 
   useEffect(() => {
     const canvas = canvasRef.current;
@@ -118,16 +99,6 @@ export default function WhiteNoiseScreen() {
     };
   }, [isPlaying]);
 
-  useEffect(() => {
-    const handleFullscreenChange = () => {
-      setIsFullscreen(!!document.fullscreenElement);
-    };
-
-    document.addEventListener("fullscreenchange", handleFullscreenChange);
-    return () =>
-      document.removeEventListener("fullscreenchange", handleFullscreenChange);
-  }, []);
-
   return (
     <React.Fragment>
       <div ref={containerRef} className="relative mb-8 aspect-video">
@@ -152,42 +123,7 @@ export default function WhiteNoiseScreen() {
             )}
           </Button>
         </div>
-        <Button
-          size="icon"
-          variant="secondary"
-          className="absolute right-4 bottom-4"
-          onClick={toggleFullscreen}
-          aria-label={isFullscreen ? "Exit Fullscreen" : "Enter Fullscreen"}
-        >
-          {isFullscreen ? (
-            <Minimize2 className="h-4 w-4" />
-          ) : (
-            <Maximize2 className="h-4 w-4" />
-          )}
-        </Button>
       </div>
-
-      <Tabs
-        defaultValue="white-noise"
-        className="w-full"
-        value={currentEffect}
-        onValueChange={setCurrentEffect}
-      >
-        <TabsList className="grid grid-cols-5 gap-4">
-          {effects.map((effect) => (
-            <TabsTrigger
-              key={effect.id}
-              value={effect.id}
-              className="relative h-24 data-[state=active]:border-orange-200 data-[state=active]:shadow-orange-100"
-            >
-              <div className={`absolute inset-2 rounded ${effect.color}`} />
-              <span className="absolute bottom-1 text-xs font-medium">
-                {effect.name}
-              </span>
-            </TabsTrigger>
-          ))}
-        </TabsList>
-      </Tabs>
     </React.Fragment>
   );
 }
