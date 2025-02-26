@@ -21,7 +21,7 @@ const defaultRoutes = [
     path: "/blue-screen-of-death-windows-10",
     image: Death10Icon,
   },
-  { name: "Hacker Typer", path: "/hacker-typer", image: HackerTyperIcon },
+  { name: "Hacker Typer", path: "/hacker-screen", image: HackerTyperIcon },
 ];
 
 export default function NavigateBar() {

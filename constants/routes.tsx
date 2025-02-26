@@ -5,6 +5,7 @@ import FakeBlueScreen10_Sidebar from "@/app/(prank-screen)/blue-screen-of-death-
 import FakeBlueScreen from "@/app/(prank-screen)/blue-screen-of-death-windows/FakeBlueScreen";
 import BrokenScreen from "@/app/(prank-screen)/broken-screen/BrokenScreen";
 import NavigateBar from "@/app/(prank-screen)/components/NavigateBar";
+import { WhiteNoisePlayButton } from "@/app/(prank-screen)/white-noise/WhiteNoisePlayButton";
 import WhiteNoiseScreen from "@/app/(prank-screen)/white-noise/WhiteNoiseScreen";
 import { ReactNode } from "react";
 
@@ -133,6 +134,7 @@ export const routes: RouteStore[] = [
     type: "prank",
     components: {
       mid: <WhiteNoiseScreen />,
+      right: <WhiteNoisePlayButton />,
       bottom: <NavigateBar />,
     },
   },
@@ -176,6 +178,10 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/👨‍💻",
     title: "Hacker Typer Screen - Prank",
     type: "prank",
+    components: {
+      // mid: <HackerTyperScreen />,
+      bottom: <NavigateBar />,
+    },
   },
 
   // Fake Update Screens

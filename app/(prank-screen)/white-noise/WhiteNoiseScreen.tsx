@@ -1,16 +1,15 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
-import { Play, Pause } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { useEffect, useRef } from "react";
 import React from "react";
+import { whiteNoiseStore } from "./whiteNoise";
 
 export default function WhiteNoiseScreen() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const audioContextRef = useRef<AudioContext | null>(null);
   const gainNodeRef = useRef<GainNode | null>(null);
-  const [isPlaying, setIsPlaying] = useState(false);
+  const isPlaying = whiteNoiseStore((state) => state.isPlaying);
 
   useEffect(() => {
     const canvas = canvasRef.current;
@@ -21,7 +20,6 @@ export default function WhiteNoiseScreen() {
 
     let animationId: number;
 
-    // Function to draw white noise on the canvas
     const drawNoise = () => {
       const imageData = ctx.createImageData(canvas.width, canvas.height);
       const data = imageData.data;
@@ -40,7 +38,6 @@ export default function WhiteNoiseScreen() {
 
     drawNoise();
 
-    // Cleanup function to cancel the animation frame
     return () => {
       cancelAnimationFrame(animationId);
     };
@@ -109,20 +106,6 @@ export default function WhiteNoiseScreen() {
             boxShadow: "0 0 40px rgba(255, 166, 0, 0.2)",
           }}
         />
-        <div className="absolute right-4 top-4 flex gap-2">
-          <Button
-            size="icon"
-            variant="secondary"
-            onClick={() => setIsPlaying(!isPlaying)}
-            aria-label={isPlaying ? "Pause" : "Play"}
-          >
-            {isPlaying ? (
-              <Pause className="h-4 w-4" />
-            ) : (
-              <Play className="h-4 w-4" />
-            )}
-          </Button>
-        </div>
       </div>
     </React.Fragment>
   );
