@@ -10,15 +10,27 @@ interface MotivationQuotesState {
   setAdditionalSize: (additionalSize: number) => void;
 }
 
+const DEFAULT_PARAGRAPH =
+  "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.";
+const DEFAULT_AUTHOR = "Steve Jobs";
+
 const motivationQuotesStore = create<MotivationQuotesState>((set) => ({
-  paragraph:
-    "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.",
-  author: "Steve Jobs",
+  paragraph: DEFAULT_PARAGRAPH,
+  author: DEFAULT_AUTHOR,
   additionalSize: 0,
 
-  setParagraph: (paragraph: string) => set({ paragraph }),
-  setAuthor: (author: string) => set({ author }),
-  setAdditionalSize: (additionalSize: number) => set({ additionalSize }),
+  setParagraph: (newParagraph: string) =>
+    set({
+      paragraph: newParagraph.trim() ? newParagraph : DEFAULT_PARAGRAPH,
+    }),
+
+  setAuthor: (newAuthor: string) =>
+    set({
+      author: newAuthor.trim() ? newAuthor : DEFAULT_AUTHOR,
+    }),
+
+  setAdditionalSize: (newAdditionalSize: number) =>
+    set({ additionalSize: newAdditionalSize }),
 }));
 
 export default motivationQuotesStore;
