@@ -17,7 +17,7 @@ import MotivationQuotesRight from '@/components/MotivationQuotes/MotivationQuote
 
 export default function HomeScreenSaver() {
   const [speed, setSpeed] = useState(10)
-  const [size, setSize] = useState(48)
+  const [size, setSize] = useState(12)
   const [customQuoteText, setCustomQuoteText] = useState('')
   const [customQuoteAuthor, setCustomQuoteAuthor] = useState('')
 
@@ -36,7 +36,7 @@ export default function HomeScreenSaver() {
         
         {/* Main preview area showing the selected color */}
         <PreviewBox>
-          {currentPath === '/dvd-screensaver' && <DVDScreensaver speed={speed} size={size} />}
+          {currentPath === '/dvd-screensaver' && <DVDScreensaver speed={speed} size={size+36} />}
           {currentPath === '/flip-clock' && <FlipClockPreview />}
           {currentPath === '/no-signal' && <NoSignalPreview />}
           {currentPath === '/motivational-quote' && <MotivationQuotesPreview paragraph={customQuoteText} author={customQuoteAuthor} textSize={size} />}

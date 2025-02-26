@@ -6,9 +6,10 @@ import { usePathname, useRouter } from 'next/navigation';
 
 interface ScreenOptionsProps {
   onTemperatureChange?: (temp: number) => void;
+  isShowButton?: boolean;
 }
 
-export default function ScreenOptions({ onTemperatureChange }: ScreenOptionsProps) {
+export default function ScreenOptions({ onTemperatureChange, isShowButton = false }: ScreenOptionsProps) {
   const [sliderValue, setSliderValue] = useState(0);
   const currentPath = usePathname();
   const navigate = useRouter();
@@ -61,12 +62,14 @@ export default function ScreenOptions({ onTemperatureChange }: ScreenOptionsProp
           </div>
         ))}
       </div>
-      <button
-        onClick={handleFullScreen}
-        className="block mx-auto px-4 md:px-6 py-2 border rounded bg-white hover:bg-gray-50 text-sm md:text-base"
-      >
-        Open on all screens
-      </button>
+      {isShowButton && (
+        <button
+          onClick={handleFullScreen}
+          className="block mx-auto px-4 md:px-6 py-2 border rounded bg-white hover:bg-gray-50 text-sm md:text-base"
+        >
+          Open on all screens
+        </button>
+      )}
     </>
   );
 }

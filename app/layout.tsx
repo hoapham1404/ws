@@ -1,9 +1,9 @@
-import type { Metadata } from "next";
-import { Montserrat } from 'next/font/google'
-import "./globals.css";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
-
+import type { Metadata } from "next";
+import { Montserrat } from 'next/font/google';
+import "./globals.css";
+import NavigationScreen from "@/components/NavigationScreen";
 
 const montserrat = Montserrat({
   subsets: ['latin'],
@@ -29,7 +29,10 @@ export default function RootLayout({
       </head>
       <body className="relative flex min-h-screen flex-col">
         <Navbar />
-        <main className="flex-1">{children}</main>
+          <main>
+          {children}
+          <NavigationScreen />
+          </main>
         <Footer />
       </body>
     </html>
