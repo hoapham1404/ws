@@ -15,6 +15,6 @@ export const useHackerTyperStore = create<HackerTyperState>((set) => ({
   setSpeed: (speed: number) => set({ speed }),
   handleSpeedChange: (change: number) =>
     set((state) => ({
-      speed: Math.max(1, Math.min(10, state.speed + change)),
+      speed: Math.max(1, Math.min(16, state.speed + change)),
     })),
 }));

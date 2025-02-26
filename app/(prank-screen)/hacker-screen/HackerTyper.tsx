@@ -290,12 +290,14 @@ const HackerTyper = () => {
   return (
     <div
       ref={terminalRef}
-      className={`p-4 h-full w-full overflow-auto bg-black font-mono ${isFullscreen ? "text-normal" : "text-[.7rem]"}`}
+      className={`p-4 h-full w-full overflow-auto bg-black font-mono select-none ${
+        isFullscreen ? "text-normal" : "text-[.8rem]"
+      }`}
       style={{
         boxShadow: "0 0 20px rgba(0, 255, 0, 0.2)",
         color: "#00ff00",
-        scrollbarWidth: "none", // Firefox
-        msOverflowStyle: "none", // IE and Edge
+        scrollbarWidth: "none",
+        msOverflowStyle: "none",
       }}
     >
       {renderFormattedCode()}
