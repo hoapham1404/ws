@@ -1,4 +1,4 @@
-import FullScreenWrapper from "@/app/(prank-screen)/components/FullScreenWrapper";
+import FullScreenWrapper from "@/components/(prank-screen)/components/FullScreenWrapper";
 
 export default function PreviewBox({
   children,

@@ -1,6 +1,6 @@
 "use client";
 import { Fira_Mono } from "next/font/google";
-import { useFullScreen } from "@/app/(prank-screen)/hooks/useFullScreen";
+import { useFullScreen } from "@/components/(prank-screen)/hooks/useFullScreen";
 
 const monoFont = Fira_Mono({
   weight: "400",

@@ -1,14 +1,14 @@
 // constants/routes.ts
 
-import FakeBlueScreen10 from "@/app/(prank-screen)/blue-screen-of-death-windows-10/FakeBlueScreen10";
-import FakeBlueScreen10_Sidebar from "@/app/(prank-screen)/blue-screen-of-death-windows-10/FakeBlueScreen10_Sidebar";
-import FakeBlueScreen from "@/app/(prank-screen)/blue-screen-of-death-windows/FakeBlueScreen";
-import BrokenScreen from "@/app/(prank-screen)/broken-screen/BrokenScreen";
-import NavigateBar from "@/app/(prank-screen)/components/NavigateBar";
-import HackerSpeedInput from "@/app/(prank-screen)/hacker-screen/HackerSpeedInput";
-import HackerTyper from "@/app/(prank-screen)/hacker-screen/HackerTyper";
-import { WhiteNoisePlayButton } from "@/app/(prank-screen)/white-noise/WhiteNoisePlayButton";
-import WhiteNoiseScreen from "@/app/(prank-screen)/white-noise/WhiteNoiseScreen";
+import FakeBlueScreen10 from "@/components/(prank-screen)/blue-screen-of-death-windows-10/FakeBlueScreen10";
+import FakeBlueScreen10_Sidebar from "@/components/(prank-screen)/blue-screen-of-death-windows-10/FakeBlueScreen10_Sidebar";
+import FakeBlueScreen from "@/components/(prank-screen)/blue-screen-of-death-windows/FakeBlueScreen";
+import BrokenScreen from "@/components/(prank-screen)/broken-screen/BrokenScreen";
+import NavigateBar from "@/components/(prank-screen)/components/NavigateBar";
+import HackerSpeedInput from "@/components/(prank-screen)/hacker-screen/HackerSpeedInput";
+import HackerTyper from "@/components/(prank-screen)/hacker-screen/HackerTyper";
+import { WhiteNoisePlayButton } from "@/components/(prank-screen)/white-noise/WhiteNoisePlayButton";
+import WhiteNoiseScreen from "@/components/(prank-screen)/white-noise/WhiteNoiseScreen";
 import { ReactNode } from "react";
 
 export class RouteStore {
