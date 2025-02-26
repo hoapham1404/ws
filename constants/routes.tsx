@@ -4,11 +4,14 @@ import FakeBlueScreen10 from "@/components/(prank-screen)/blue-screen-of-death-w
 import FakeBlueScreen10_Sidebar from "@/components/(prank-screen)/blue-screen-of-death-windows-10/FakeBlueScreen10_Sidebar";
 import FakeBlueScreen from "@/components/(prank-screen)/blue-screen-of-death-windows/FakeBlueScreen";
 import BrokenScreen from "@/components/(prank-screen)/broken-screen/BrokenScreen";
-import NavigateBar from "@/components/(prank-screen)/components/NavigateBar";
 import HackerSpeedInput from "@/components/(prank-screen)/hacker-screen/HackerSpeedInput";
 import HackerTyper from "@/components/(prank-screen)/hacker-screen/HackerTyper";
 import { WhiteNoisePlayButton } from "@/components/(prank-screen)/white-noise/WhiteNoisePlayButton";
 import WhiteNoiseScreen from "@/components/(prank-screen)/white-noise/WhiteNoiseScreen";
+import DVDSaver from "@/components/DVDSaver/DVDSaver";
+import FlipClockPreview from "@/components/FlipClock/FlipClockPreview";
+import MotivationQuotesPreview from "@/components/MotivationQuotes/MotivationQuotesPreview";
+import MotivationQuotesRight from "@/components/MotivationQuotes/MotivationQuotesRight";
 import { ReactNode } from "react";
 
 export class RouteStore {
@@ -137,7 +140,6 @@ export const routes: RouteStore[] = [
     components: {
       mid: <WhiteNoiseScreen />,
       right: <WhiteNoisePlayButton />,
-      bottom: <NavigateBar />,
     },
   },
   {
@@ -148,7 +150,6 @@ export const routes: RouteStore[] = [
     type: "prank",
     components: {
       mid: <BrokenScreen />,
-      bottom: <NavigateBar />,
     },
   },
   {
@@ -159,7 +160,6 @@ export const routes: RouteStore[] = [
     type: "prank",
     components: {
       mid: <FakeBlueScreen />,
-      bottom: <NavigateBar />,
     },
   },
   {
@@ -171,7 +171,6 @@ export const routes: RouteStore[] = [
     components: {
       mid: <FakeBlueScreen10 />,
       right: <FakeBlueScreen10_Sidebar />,
-      bottom: <NavigateBar />,
     },
   },
   {
@@ -182,7 +181,6 @@ export const routes: RouteStore[] = [
     type: "prank",
     components: {
       mid: <HackerTyper />,
-      bottom: <NavigateBar />,
       right: <HackerSpeedInput />,
     },
   },
@@ -231,6 +229,9 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/📀",
     title: "DVD Screensaver",
     type: "screensaver",
+    components: {
+      mid: <DVDSaver />,
+    },
   },
   {
     name: "Flip Clock",
@@ -238,6 +239,9 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/⏰",
     title: "Flip Clock Screensaver",
     type: "screensaver",
+    components: {
+      mid: <FlipClockPreview />,
+    },
   },
   {
     name: "Motivational Quote",
@@ -245,6 +249,10 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/💬",
     title: "Motivational Quote Screensaver",
     type: "screensaver",
+    components: {
+      mid: <MotivationQuotesPreview />,
+      right: <MotivationQuotesRight />,
+    },
   },
   {
     name: "No Signal",

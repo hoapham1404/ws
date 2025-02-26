@@ -5,6 +5,8 @@ import PreviewContent from "@/components/BasicColorPage/PreviewContent";
 import ColorOptions from "@/components/BasicColorPage/ColorOptions";
 import SettingsPanel from "@/components/BasicColorPage/SettingsPanel";
 import ScreenOptions from "@/components/BasicColorPage/ScreenOptions";
+import NavigateBar from "@/components/(prank-screen)/components/NavigateBar";
+import { DVDBottom } from "@/components/DVDSaver/DVDBottom";
 
 export async function generateMetadata({
   params,
@@ -51,13 +53,26 @@ export default async function DynamicPage({
         />
       );
     case "prank":
+      return (
+        <RootLayout
+          mid={route.components?.mid}
+          right={route.components?.right}
+          bottom={<NavigateBar />}
+        />
+      );
     case "fake-update":
+      return (
+        <RootLayout
+          mid={route.components?.mid}
+          right={route.components?.right}
+        />
+      );
     case "screensaver":
       return (
         <RootLayout
           mid={route.components?.mid}
           right={route.components?.right}
-          bottom={route.components?.bottom}
+          bottom={route.components?.bottom || <DVDBottom />}
         />
       );
     default:
