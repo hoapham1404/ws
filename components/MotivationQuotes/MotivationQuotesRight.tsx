@@ -1,26 +1,32 @@
-"use client";
-import { useState } from "react";
-import { Input } from "@/components/ui/input";
-import motivationQuotesStore from "./motivationQuotesStore";
+import { ChangeEvent } from 'react';
+import { Input } from '@/components/ui/input';
 
-export default function MotivationQuotesRight() {
-  const { setParagraph, setAuthor, setAdditionalSize, additionalSize } =
-    motivationQuotesStore();
+interface MotivationQuotesRightProps {
+  size: number;
+  onSizeChange: (e: ChangeEvent<HTMLInputElement>) => void;
+  customQuoteText: string;
+  customQuoteAuthor: string;
+  onCustomQuoteTextChange: (e: ChangeEvent<HTMLInputElement>) => void;
+  onCustomQuoteAuthorChange: (e: ChangeEvent<HTMLInputElement>) => void;
+}
 
-  const [customQuoteText, setCustomQuoteText] = useState("");
-  const [customQuoteAuthor, setCustomQuoteAuthor] = useState("");
-
+export default function MotivationQuotesRight({
+  size,
+  onSizeChange,
+  customQuoteText,
+  customQuoteAuthor,
+  onCustomQuoteTextChange,
+  onCustomQuoteAuthorChange,
+}: MotivationQuotesRightProps) {
   return (
     <div className="flex flex-col gap-6 p-6 w-[300px]">
       <div className="space-y-2">
-        <label className="text-sm font-medium">Size: {additionalSize}px</label>
+        <label className="text-sm font-medium">Size: {size}px</label>
         <Input
           type="range"
-          value={additionalSize}
-          onChange={(e) => {
-            setAdditionalSize(Number(e.target.value));
-          }}
-          min={0}
+          value={size}
+          onChange={onSizeChange}
+          min={10}
           max={100}
           step={1}
           className="w-full cursor-pointer"
@@ -32,10 +38,7 @@ export default function MotivationQuotesRight() {
           <Input
             placeholder="Custom quote text"
             value={customQuoteText}
-            onChange={(e) => {
-              setCustomQuoteText(e.target.value);
-              setParagraph(e.target.value);
-            }}
+            onChange={onCustomQuoteTextChange}
             className="w-full"
           />
         </div>
@@ -44,10 +47,7 @@ export default function MotivationQuotesRight() {
           <Input
             placeholder="Custom quote author"
             value={customQuoteAuthor}
-            onChange={(e) => {
-              setCustomQuoteAuthor(e.target.value);
-              setAuthor(e.target.value);
-            }}
+            onChange={onCustomQuoteAuthorChange}
             className="w-full"
           />
         </div>

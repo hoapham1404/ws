@@ -65,6 +65,7 @@ export default async function DynamicPage({
         <RootLayout
           mid={route.components?.mid}
           right={route.components?.right}
+          bottom={<FakeUp}
         />
       );
     case "screensaver":
