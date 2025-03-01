@@ -44,12 +44,14 @@ export default function FakeUpdateScreen() {
 
           {/* Right panel containing color settings and controls */}
           <RightSidePanel>
-            <FakeUpdateScreenRight />
+            {pathname !== '/fake-update-chrome-os' && pathname !== '/fake-update-ubuntu-22-04' && (
+              <FakeUpdateScreenRight />
+            )}
           </RightSidePanel>
 
           {/* Bottom panel with screen navigation options */}
           <BottomPanel>
-            <FakeUpdateScreenBottom />
+              <FakeUpdateScreenBottom />
           </BottomPanel>
         </main>
       </div>
