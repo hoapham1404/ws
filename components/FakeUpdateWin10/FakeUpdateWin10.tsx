@@ -17,6 +17,6 @@ export default function FakeUpdateWin10() {
         </div>
         <p className={styles.warning}>Your computer will restart automatically.</p>
       </div>
-    </div>    
+    </div>
   );
 }

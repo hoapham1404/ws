@@ -7,6 +7,8 @@ import SettingsPanel from "@/components/BasicColorPage/SettingsPanel";
 import ScreenOptions from "@/components/BasicColorPage/ScreenOptions";
 import NavigateBar from "@/components/(prank-screen)/components/NavigateBar";
 import { DVDBottom } from "@/components/DVDSaver/DVDBottom";
+import { FakeUpdateScreenBottom } from "../screens/FakeUpdateScreen/FakeUpdateScreenBottom";
+import { FakeUpdateScreenLeft } from "../screens/FakeUpdateScreen/FakeUpdateScreenLeft";
 
 export async function generateMetadata({
   params,
@@ -20,13 +22,13 @@ export async function generateMetadata({
     title: `${route.color ? `${route.name}` : `${route.name}`} | Online Tool`,
     icons: route.color
       ? [
-          {
-            url: `data:image/svg+xml,
+        {
+          url: `data:image/svg+xml,
         <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
             <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(route.color)}'/>
         </svg>`,
-          },
-        ]
+        },
+      ]
       : route.icon
         ? [{ url: route.icon }]
         : undefined,
@@ -63,9 +65,10 @@ export default async function DynamicPage({
     case "fake-update":
       return (
         <RootLayout
+          left={route.components?.left ?? <FakeUpdateScreenLeft />}
           mid={route.components?.mid}
           right={route.components?.right}
-          bottom={<FakeUp}
+          bottom={<FakeUpdateScreenBottom />}
         />
       );
     case "screensaver":

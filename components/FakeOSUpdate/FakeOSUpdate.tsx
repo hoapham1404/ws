@@ -1,3 +1,4 @@
+"use client"
 import AppleLogo from "@/public/apple.jpg";
 import Image from "next/image";
 import { useEffect, useState } from 'react';
@@ -24,7 +25,7 @@ export default function FakeOSUpdate() {
       <Image src={AppleLogo} alt="Apple Logo" width={80} height={80} />
       <div className="flex flex-col items-center mt-8">
         <div className="w-2/3 h-1 bg-gray-700 rounded-full overflow-hidden">
-          <div 
+          <div
             className="h-full bg-white transition-all duration-1000"
             style={{ width: `${progress}%` }}
           />

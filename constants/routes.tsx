@@ -9,6 +9,11 @@ import HackerTyper from "@/components/(prank-screen)/hacker-screen/HackerTyper";
 import { WhiteNoisePlayButton } from "@/components/(prank-screen)/white-noise/WhiteNoisePlayButton";
 import WhiteNoiseScreen from "@/components/(prank-screen)/white-noise/WhiteNoiseScreen";
 import DVDSaver from "@/components/DVDSaver/DVDSaver";
+import FakeChromeOS from "@/components/FakeChromeOS/FakeChromeOS";
+import FakeOSUpdate from "@/components/FakeOSUpdate/FakeOSUpdate";
+import FakeUbuntu from "@/components/FakeUbuntu/FakeUbuntu";
+import FakeUpdateWin10 from "@/components/FakeUpdateWin10/FakeUpdateWin10";
+import FakeUpdateWinXP from "@/components/FakeUpdateWinXP/FakeUpdateWinXP";
 import FlipClockPreview from "@/components/FlipClock/FlipClockPreview";
 import MotivationQuotesPreview from "@/components/MotivationQuotes/MotivationQuotesPreview";
 import MotivationQuotesRight from "@/components/MotivationQuotes/MotivationQuotesRight";
@@ -193,6 +198,10 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/🪟",
     title: "Windows 10 Fake Update",
     type: "fake-update",
+    components: {
+      mid: <FakeUpdateWin10 />
+    }
+
   },
   {
     name: "Fake Update Windows XP",
@@ -200,6 +209,9 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/🪟",
     title: "Windows XP Fake Update",
     type: "fake-update",
+    components: {
+      mid: <FakeUpdateWinXP />
+    }
   },
   {
     name: "Fake Update Mac OS X",
@@ -207,6 +219,10 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/🍎",
     title: "Mac OS X Fake Update",
     type: "fake-update",
+    components: {
+      mid: <FakeOSUpdate />
+
+    }
   },
   {
     name: "Fake Update Ubuntu 22.04",
@@ -214,6 +230,9 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/🐧",
     title: "Ubuntu 22.04 Fake Update",
     type: "fake-update",
+    components: {
+      mid: <FakeUbuntu />
+    }
   },
   {
     name: "Fake Update Chrome OS",
@@ -221,6 +240,9 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/🌐",
     title: "ChromeOS Fake Update",
     type: "fake-update",
+    components: {
+      mid: <FakeChromeOS />
+    }
   },
 
   // Screensaver Screens
@@ -252,7 +274,7 @@ export const routes: RouteStore[] = [
     type: "screensaver",
     components: {
       mid: <MotivationQuotesPreview />,
-      right: <MotivationQuotesRight />,
+      // right: <MotivationQuotesRight />,
     },
   },
   {

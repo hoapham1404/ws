@@ -1,3 +1,4 @@
+"use client"
 import UbuntuLogo from "@/public/ubuntu-logo.png";
 import Image from "next/image";
 import { useEffect, useState } from 'react';
@@ -21,9 +22,8 @@ export default function FakeUbuntu() {
           {[...Array(5)].map((_, index) => (
             <div
               key={index}
-              className={`w-1 h-1 rounded-full ${
-                index === activeDot ? 'bg-red-500' : 'bg-white'
-              }`}
+              className={`w-1 h-1 rounded-full ${index === activeDot ? 'bg-red-500' : 'bg-white'
+                }`}
             />
           ))}
         </div>
