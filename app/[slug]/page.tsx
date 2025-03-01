@@ -10,6 +10,7 @@ import { DVDBottom } from "@/components/DVDSaver/DVDBottom";
 import { FakeUpdateScreenBottom } from "../screens/FakeUpdateScreen/FakeUpdateScreenBottom";
 import { FakeUpdateScreenLeft } from "../screens/FakeUpdateScreen/FakeUpdateScreenLeft";
 import { UpdateProgressProvider } from "../contexts/UpdateProgressContext";
+import { FakeUpdateScreenRight } from "../screens/FakeUpdateScreen/FakeUpdateScreenRight";
 
 export async function generateMetadata({
   params,
@@ -70,8 +71,13 @@ export default async function DynamicPage({
           <RootLayout
             left={route.components?.left ?? <FakeUpdateScreenLeft />}
             mid={route.components?.mid}
-            right={route.components?.right}
-            bottom={<FakeUpdateScreenBottom />}
+            right={
+              ["/fake-update-ubuntu-22-04", "/fake-update-chrome-os"].includes(route.path) ?
+                route.components?.right : <FakeUpdateScreenRight />
+            }
+            bottom={
+              route.components?.bottom ?? <FakeUpdateScreenBottom />
+            }
           />
         </UpdateProgressProvider>
 
