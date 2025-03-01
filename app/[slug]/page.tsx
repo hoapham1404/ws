@@ -9,6 +9,7 @@ import NavigateBar from "@/components/(prank-screen)/components/NavigateBar";
 import { DVDBottom } from "@/components/DVDSaver/DVDBottom";
 import { FakeUpdateScreenBottom } from "../screens/FakeUpdateScreen/FakeUpdateScreenBottom";
 import { FakeUpdateScreenLeft } from "../screens/FakeUpdateScreen/FakeUpdateScreenLeft";
+import { UpdateProgressProvider } from "../contexts/UpdateProgressContext";
 
 export async function generateMetadata({
   params,
@@ -64,12 +65,16 @@ export default async function DynamicPage({
       );
     case "fake-update":
       return (
-        <RootLayout
-          left={route.components?.left ?? <FakeUpdateScreenLeft />}
-          mid={route.components?.mid}
-          right={route.components?.right}
-          bottom={<FakeUpdateScreenBottom />}
-        />
+        <UpdateProgressProvider>
+
+          <RootLayout
+            left={route.components?.left ?? <FakeUpdateScreenLeft />}
+            mid={route.components?.mid}
+            right={route.components?.right}
+            bottom={<FakeUpdateScreenBottom />}
+          />
+        </UpdateProgressProvider>
+
       );
     case "screensaver":
       return (
