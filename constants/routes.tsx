@@ -667,6 +667,38 @@ export const routes: RouteStore[] = [
       right: <FakeBlueScreen10_Sidebar />,
     },
     thumbnail: Death10Icon,
+    tips: {
+      "Office Prank: Windows BSOD Fullscreen During Lunch Break": "Quick office prank - open this fake blue screen while coworkers are at lunch. Set it for 20 minutes and let them think their Windows PC crashed. Simple but effective prank screen!",
+      "Online BSOD Simulator: Escape Boring Video Calls": "Need a break from endless meetings? Set this fake Windows death screen to appear after 10 minutes. Perfect excuse to 'fix your PC' and grab a coffee!",
+      "Windows Blue Screen Training: IT Support Practice Tool": "Train new IT staff with this online BSOD simulator. Create realistic Windows crash scenarios with custom progress percentages. Perfect for hands-on practice without breaking real PCs.",
+      "Gaming Prank: Fullscreen Windows Death Screen Mid-Game": "Ultimate gaming prank - set up this fake BSOD to appear when your friend is winning. Watch them panic when their screen goes blue mid-match!",
+      "Viral Prank Videos: Windows BSOD Reaction Recordings": "Create funny content by recording reactions to this fake blue screen of death. Set it to pop up during normal PC use and capture the moment they think their Windows crashed!",
+      "IT Team Testing: Online BSOD Emergency Response": "Test your IT team's response time with this Windows BSOD simulator. Perfect for creating realistic crash scenarios and measuring emergency response effectiveness.",
+      "Windows Death Screen Tutorial: Learn About BSOD": "Help new users understand blue screens. Use this online simulator to show what a Windows BSOD looks like without risking real crashes. Great for building confidence with computers!"
+    },
+    subTips: {
+      "Fun Pranks": [
+        "quick office pranks with fake BSOD",
+        "gaming stream blue screen trolling",
+        "family computer crash pranks",
+        "Windows death screen reaction videos",
+        "fullscreen BSOD party jokes"
+      ],
+      "Educational Uses": [
+        "IT support BSOD training tool",
+        "Windows crash screen demos",
+        "computer literacy teaching aid",
+        "technical workshop examples",
+        "blue screen response practice"
+      ],
+      "Content Creation": [
+        "YouTube BSOD prank videos",
+        "Windows crash meme content",
+        "social media reaction clips",
+        "streaming fake blue screens",
+        "tech tutorial demonstrations"
+      ]
+    }
   },
   {
     name: "Hacker Typer Screen",
@@ -679,6 +711,39 @@ export const routes: RouteStore[] = [
       right: <HackerSpeedInput />,
     },
     thumbnail: HackerTyperIcon,
+    tips: {
+      "Prank Your Co-Workers with the Hacker Typer Screen": "Elevate office pranks to the next level with our hacker typer tool. Imagine the look on your colleagues' faces when they think you've turned into a real hacker, typing away with codes flowing in fullscreen. This prank is perfect for adding some fun and intrigue to your workplace.",
+      "Engage Students in Computer Classes": "Teachers can use our hacker screen tool to captivate and educate their students by simulating what coding work looks like in a real-world scenario. It's an engaging way to introduce students to the basics of programming in a fun, visually stimulating fullscreen environment.",
+      "Enhance Your Live Streaming Aesthetics": "Streamers can utilize the hacker typer tool to enhance the visual appeal of their streams. Set the backdrop to a fullscreen flow of coding script, perfect for creating a thematic hacker vibe during gaming sessions or tech-related streams.",
+      "Create Engaging Content for Tech Vlogs": "Vloggers focusing on technology can use the hacker typer screen to create compelling content. Whether discussing cybersecurity or the latest in software development, having a dynamic fullscreen coding backdrop will captivate your audience and enhance your message.",
+      "Add Flair to Tech Presentations": "Incorporate the hacker typer in your tech presentations to keep your audience engaged. This tool can simulate a live hacking scenario, making your explanations more vivid and entertaining. It's an excellent way to break the ice and add a fullscreen visual element that keeps everyone hooked.",
+      "Film Production for Cybersecurity Scenes": "Filmmakers can use the hacker screen tool to add authenticity to scenes involving cybersecurity and hacking. The fullscreen display of coding provides a realistic and intense backdrop, perfect for scenes depicting high-stakes coding or hacking challenges.",
+      "Boost Audience Engagement at Tech Events": "Event organizers can use the hacker typer to engage attendees at tech conferences or workshops. Set up screens showing live, fullscreen simulations of hacking or coding, adding a unique interactive element to your event that is both educational and visually fascinating."
+    },
+    subTips: {
+      "Entertainment & Pranks": [
+        "Impress friends with fake hacking skills",
+        "Play pranks on family members",
+        "Add fun to office parties",
+        "Create amusing social media content",
+        "Fool friends into thinking you're a coder"
+      ],
+      "Educational Purposes": [
+        "Demonstrate coding in classrooms",
+        "Visualize programming concepts",
+        "Engage students in technology",
+        "Spice up tech presentations",
+        "Introduce coding to beginners"
+      ],
+      "Creative & Professional Use": [
+        "Enhance live streaming visuals",
+        "Create authentic tech scenes in films",
+        "Add hacker aesthetics to videos",
+        "Generate interest at tech conferences",
+        "Inspire cybersecurity discussions"
+      ]
+    }
+    
   },
 
   // Fake Update Screens
@@ -692,6 +757,42 @@ export const routes: RouteStore[] = [
       mid: <FakeUpdateWin10 />,
     },
     thumbnail: Windows10UpdateScreen,
+    tips: {
+      "Pranked my friend with an authentic-looking Windows 10 update screen!": "Used the Windows 10 fake update page to trick my friend into thinking their computer was actually updating. The realistic progress bar and messages worked like a charm!",
+      "Foolproof prank with the Windows 10 fake update screen!": "Pulled off a successful prank by displaying the fake Windows 10 update screen on my colleague's computer. The genuine-looking messages and progress made it seem like the real deal!",
+      "Impressed my friends with a realistic Windows 10 update simulation!": "Shared a screenshot of the Windows 10 fake update screen I created using the simulation page. The authentic visuals and status messages made it look like a genuine update in progress!",
+      "The Windows 10 update prank was a hit at the party!": "Used the Windows 10 fake update page to prank my friends during a gathering. The realistic update screen, complete with messages and progress, had everyone in stitches!",
+      "Had a good laugh with the Windows 10 fake update screen!": "Visited the Windows 10 update prank tool and customized the messages to create a funny scenario. The realistic appearance and progress bar made it a hilarious experience for all involved."
+    },
+    subTips: {
+      "Simulated Windows 10 Update": [
+        "Windows 10 fake update",
+        "Windows 10 update simulation",
+        "Simulate Windows 10 update",
+        "Fake Windows 10 update screen",
+        "Emulate Windows 10 update",
+        "Windows 10 update prank",
+        "Windows 10 update process"
+      ],
+      "Realistic Experience": [
+        "Authentic-looking Windows 10 update",
+        "Realistic Windows 10 update screen",
+        "Fool friends with Windows 10 update",
+        "Realistic Windows 10 update progress",
+        "Genuine Windows 10 update simulation",
+        "Authentic Windows 10 update messages",
+        "Windows 10 update stage"
+      ],
+      "Entertainment and Fun": [
+        "Entertaining Windows 10 update prank",
+        "Fun fake Windows 10 update",
+        "Enjoy simulated Windows 10 update",
+        "Prank with Windows 10 fake update",
+        "Exciting Windows 10 update experience",
+        "Windows 10 update for amusement",
+        "Windows 10 update prank tool"
+      ]
+    }
   },
   {
     name: "Fake Update Windows XP",
@@ -703,6 +804,47 @@ export const routes: RouteStore[] = [
       mid: <FakeUpdateWinXP />,
     },
     thumbnail: WindowsXPUpdateScreen,
+    tips: {
+      "Office Pranks with Windows XP Update Screen": "Ideal for office humor, the dynamic Windows XP update screen serves as a fun tool for pranking colleagues, simulating a classic, endless software update process that adds a light-hearted twist to the work environment.",
+      "Humorous Windows XP Update Tests": "The Windows XP update prank is perfect for testing the patience of friends and family. This amusing fake update screen replicates the Windows XP experience, creating a believable and entertaining scenario.",
+      "Retro Computing with Windows XP": "Nostalgia enthusiasts and tech lovers use the fake Windows XP update screen to relive the golden era of Windows XP, reminiscing about the older, simpler days of personal computing and software updates.",
+      "Creating Viral Content with Windows XP Simulation": "Content creators and social media influencers find the Windows XP update screen a unique prop to produce engaging, viral content, often using it in creative skits, reaction videos, or tech-related humor.",
+      "Tech Education Using Windows XP Interface": "The fake Windows XP update screen serves an educational purpose, too. It's used in tech classes to demonstrate the historical aspects of operating systems, offering students a practical insight into the evolution of user interfaces and software upgrades.",
+      "Pranked my friend with an authentic-looking Windows XP update screen!": "Used the Windows XP fake update page to trick my friend into thinking their computer was actually updating. The realistic progress bar and messages worked like a charm!",
+      "Foolproof prank with the Windows XP fake update screen!": "Pulled off a successful prank by displaying the fake Windows XP update screen on my colleague's computer. The genuine-looking messages and progress made it seem like the real deal!",
+      "Impressed my friends with a realistic Windows XP update simulation!": "Shared a screenshot of the Windows XP fake update screen I created using the simulation page. The authentic visuals and status messages made it look like a genuine update in progress!",
+      "The Windows XP update prank was a hit at the party!": "Used the Windows XP fake update page to prank my friends during a gathering. The realistic update screen, complete with messages and progress, had everyone in stitches!",
+      "Had a good laugh with the Windows XP fake update screen!": "Visited the Windows XP update prank tool and customized the messages to create a funny scenario. The realistic appearance and progress bar made it a hilarious experience for all involved."
+    },
+    subTips: {
+      "Simulated Windows XP Update": [
+        "Windows XP fake update",
+        "Windows XP update simulation",
+        "Simulate Windows XP update",
+        "Fake Windows XP update screen",
+        "Emulate Windows XP update",
+        "Windows XP update prank",
+        "Windows XP update process"
+      ],
+      "Realistic Experience": [
+        "Authentic-looking Windows XP update",
+        "Realistic Windows XP update screen",
+        "Fool friends with Windows XP update",
+        "Realistic Windows XP update progress",
+        "Genuine Windows XP update simulation",
+        "Authentic Windows XP update messages",
+        "Windows XP update stage"
+      ],
+      "Entertainment and Fun": [
+        "Entertaining Windows XP update prank",
+        "Fun fake Windows XP update",
+        "Enjoy simulated Windows XP update",
+        "Prank with Windows XP fake update",
+        "Exciting Windows XP update experience",
+        "Windows XP update for amusement",
+        "Windows XP update prank tool"
+      ]
+    }
   },
   {
     name: "Fake Update Mac OS X",
@@ -714,6 +856,42 @@ export const routes: RouteStore[] = [
       mid: <FakeOSUpdate />,
     },
     thumbnail: MacOSXUpdateScreen,
+    tips: {
+      "Prank your friends": "Use our Mac OS X fake update tool to play a harmless prank on your friends, making them believe their computer is going through a significant update. Watch their reactions and have a laugh!",
+      "Test patience": "Find out how your colleagues or loved ones react to unexpected updates. It's a funny way to check their patience without causing any real inconvenience.",
+      "Tech teaching aid": "Use the fake update tool as a teaching aid for tech courses or workshops. It can be used to explain system updates and how to manage them.",
+      "UI/UX testing": "For UI/UX designers, our tool can provide an interesting case study on the user experience during system updates. Analyze user interaction and engagement during this process.",
+      "Content creation": "Content creators can use this tool for creating interesting tech-related content or social experiments for their blogs, vlogs, or social media platforms."
+    },
+    subTips: {
+      "Simulated Mac OS X Update": [
+        "Mac OS X fake update",
+        "Mac OS X update simulation",
+        "Simulate Mac OS X update",
+        "Fake Mac OS X update screen",
+        "Emulate Mac OS X update",
+        "Mac OS X update prank",
+        "Mac OS X update process"
+      ],
+      "Realistic Experience": [
+        "Authentic-looking Mac OS X update",
+        "Realistic Mac OS X update screen",
+        "Fool friends with Mac OS X update",
+        "Realistic Mac OS X update progress",
+        "Genuine Mac OS X update simulation",
+        "Authentic Mac OS X update messages",
+        "Mac OS X update stage"
+      ],
+      "Entertainment and Fun": [
+        "Entertaining Mac OS X update prank",
+        "Fun fake Mac OS X update",
+        "Enjoy simulated Mac OS X update",
+        "Prank with Mac OS X fake update",
+        "Exciting Mac OS X update experience",
+        "Mac OS X update for amusement",
+        "Mac OS X update prank tool"
+      ]
+    }
   },
   {
     name: "Fake Update Ubuntu 22.04",
@@ -725,6 +903,42 @@ export const routes: RouteStore[] = [
       mid: <FakeUbuntu />,
     },
     thumbnail: Ubuntu2204UpdateScreen,
+    tips: {
+      "Ubuntu Fake Screen for Pranks": "The dynamic fake Ubuntu update screen is a favorite for tech pranks, perfect for tricking colleagues into believing their system is perpetually updating, creating light-hearted moments in the office.",
+      "Simulating Updates with Ubuntu Fake Screen": "Developers and IT professionals use the fake Ubuntu 22.04 update screen to simulate system updates and test user patience or response to interface changes without affecting system operations.",
+      "Ubuntu Update Screen for Training": "Trainers utilize the fake Ubuntu 22.04 screen to educate IT students on the process of system updates, familiarizing them with the visual cues of an actual Ubuntu upgrade.",
+      "Content Creation with Ubuntu Fake Update": "Content creators incorporate the dynamic Ubuntu fake update screen into their videos and streams to add a layer of authenticity when discussing tech topics or creating tutorials on system upgrades.",
+      "Staging Systems with Fake Ubuntu 22.04 Screen": "Tech staging environments use the Ubuntu 22.04 fake update screen to represent the update process in scenarios like trade shows or software demonstrations, without committing to an actual update."
+    },
+    subTips: {
+      "Simulated Ubuntu 22.04 Update": [
+        "Ubuntu 22.04 fake update",
+        "Ubuntu 22.04 update simulation",
+        "Simulate Ubuntu 22.04 update",
+        "Fake Ubuntu 22.04 update screen",
+        "Emulate Ubuntu 22.04 update",
+        "Ubuntu 22.04 update prank",
+        "Ubuntu 22.04 update process"
+      ],
+      "Realistic Experience": [
+        "Authentic-looking Ubuntu 22.04 update",
+        "Realistic Ubuntu 22.04 update screen",
+        "Fool friends with Ubuntu 22.04 update",
+        "Realistic Ubuntu 22.04 update progress",
+        "Genuine Ubuntu 22.04 update simulation",
+        "Authentic Ubuntu 22.04 update messages",
+        "Ubuntu 22.04 update stage"
+      ],
+      "Entertainment and Fun": [
+        "Entertaining Ubuntu 22.04 update prank",
+        "Fun fake Ubuntu 22.04 update",
+        "Enjoy simulated Ubuntu 22.04 update",
+        "Prank with Ubuntu 22.04 fake update",
+        "Exciting Ubuntu 22.04 update experience",
+        "Ubuntu 22.04 update for amusement",
+        "Ubuntu 22.04 update prank tool"
+      ]
+    }
   },
   {
     name: "Fake Update Chrome OS",
@@ -736,6 +950,38 @@ export const routes: RouteStore[] = [
       mid: <FakeChromeOS />,
     },
     thumbnail: ChromeOSUpdateScreen,
+    tips: {
+      "Prank your friends with a fake ChromeOS update screen": "Open this fullscreen fake update tool when your friend leaves their Chromebook unattended. They'll come back thinking their device is stuck in a system update. Perfect for quick pranks that won't actually harm their device.",
+      "Test how people react to system updates during presentations": "Use this Chrome OS update screen simulator during talks or demos to see how people handle unexpected interruptions. Great for IT training sessions or teaching users about staying calm when real updates pop up.",
+      "Create realistic ChromeOS scenes for videos or screenshots": "Making a tutorial or video about Chromebooks? Use this fullscreen fake update screen to capture authentic-looking footage of the Chrome OS update process without waiting for real updates.",
+      "Prank your school's computer lab": "Looking for a harmless school prank? Open this fake Chrome OS update screen on lab computers during breaks. Watch as students and teachers try to figure out why all the Chromebooks are updating at once.",
+      "Practice IT support scenarios with a fake update screen": "Train IT support staff by simulating stuck Chrome OS updates. This fullscreen tool helps teams practice handling common Chromebook issues without risking real devices.",
+      "Make your ChromeOS presentation more engaging": "Giving a talk about software updates or system maintenance? Use this fake update screen to show exactly what Chrome OS users see, without boring your audience with static screenshots.",
+      "Pull off the ultimate office prank with fake updates": "Want to prank your coworkers? Launch this fullscreen Chrome OS update simulator on office Chromebooks. It's a fun way to surprise your team without causing any real disruption to their work."
+    },
+    subTips: {
+      "Fun & Entertainment": [
+        "Prank friends during lunch break",
+        "Surprise family members",
+        "Create funny reaction videos",
+        "School computer lab prank",
+        "Office ChromeOS prank"
+      ],
+      "Education & Training": [
+        "IT support training scenarios",
+        "Software update workshops",
+        "ChromeOS tutorial recordings",
+        "System admin presentations",
+        "User behavior studies"
+      ],
+      "Content Creation": [
+        "ChromeOS update screenshots",
+        "Tech review visuals",
+        "Tutorial video backgrounds",
+        "Software documentation images",
+        "ChromeOS demo materials"
+      ]
+    }
   },
 
   // Screensaver Screens
@@ -749,6 +995,38 @@ export const routes: RouteStore[] = [
       mid: <DVDSaver />,
     },
     thumbnail: DVDIcon,
+    tips: {
+      "Relax with the Classic DVD Screensaver": "Unwind after a long day by watching the nostalgic DVD logo screensaver move around your full-screen. This DVD screensaver simulator brings back the charm of classic screensavers, creating a calming ambiance on your screen.",
+      "Enhance Your Presentation Background": "Add a dynamic touch to your presentations by using the DVD screensaver in full-screen mode. Adjust the logo size and movement speed to fit your style, making your presentation background engaging and professional.",
+      "Perfect for Waiting Rooms": "Keep visitors entertained with the DVD logo screensaver in your waiting room. This online tool allows you to customize the logo size and movement speed, providing a visually appealing experience for your guests.",
+      "Create a Fun Party Atmosphere": "Use the DVD screensaver simulator during parties to create a fun and nostalgic atmosphere. Set it to full-screen mode and let the moving DVD logo add a unique touch to your event, adjustable to any size and speed.",
+      "Focus Booster for Study Sessions": "Boost your concentration by using the DVD screensaver while studying. The gentle movement of the DVD logo on full-screen can help maintain focus, with adjustable size and speed to suit your preference.",
+      "Entertainment During Downtime": "Fill your screen with the DVD logo screensaver during breaks or downtime. This online tool is perfect for creating a soothing background, with easy adjustments for logo size and movement speed.",
+      "Showcase Retro Style in Stores": "Attract customers to your store with the retro DVD screensaver in full-screen mode. The moving DVD logo, customizable in size and speed, can add a vintage flair to your display screens."
+    },
+    subTips: {
+      "Relaxation and Ambiance": [
+        "Unwind with a nostalgic screensaver",
+        "Create a calming environment",
+        "Enjoy a retro feel",
+        "Set a tranquil background",
+        "Perfect for meditation sessions"
+      ],
+      "Professional and Business Use": [
+        "Enhance presentations with motion",
+        "Dynamic waiting room display",
+        "Engaging office background",
+        "Professional screensaver for meetings",
+        "Attention-grabbing store displays"
+      ],
+      "Entertainment and Fun": [
+        "Party ambiance creator",
+        "Fun study break tool",
+        "Interactive screensaver for kids",
+        "Visual entertainment during downtime",
+        "Customizable party screen"
+      ]
+    }
   },
   {
     name: "Flip Clock",
@@ -760,6 +1038,38 @@ export const routes: RouteStore[] = [
       mid: <FlipClockPreview />,
     },
     thumbnail: FlipClockIcon,
+    tips: {
+      "Relax with a Retro Flip Clock": "Enjoy a soothing, retro aesthetic with the Flip Clock Screensaver in fullscreen mode. Perfect for unwinding and adding a vintage touch to your workspace, this mac flip clock is customizable with your preferred time.",
+      "Create a Stylish Office Environment": "Use the Flip Clock Screensaver to bring a stylish and professional look to your office. The fullscreen mode and customizable time make it a great addition to any workplace, helping you keep track of time in a visually appealing way.",
+      "Perfect for Presentation Backgrounds": "Impress your audience by using the Flip Clock Screensaver as a background during presentations. The fullscreen mode provides a sleek, modern clock display that can be set to any custom time, making your presentations stand out.",
+      "Set a Modern Ambiance at Home": "Transform your home environment with the Flip Clock Screensaver in fullscreen mode. Ideal for living rooms or home offices, this mac flip clock adds a modern, minimalist touch while displaying a customizable time.",
+      "Ideal for Study Sessions": "Keep track of your study time with the Flip Clock Screensaver. The fullscreen clock helps maintain focus, and you can customize the time to match your study schedule. Perfect for creating a structured study environment.",
+      "Visually Engaging Waiting Room Display": "Make your waiting room more engaging with the Flip Clock Screensaver. The fullscreen, customizable clock provides a stylish time display that can help keep visitors informed and entertained while they wait.",
+      "Add a Retro Vibe to Events": "Use the Flip Clock Screensaver during events to create a retro vibe. The fullscreen mode and customizable time make it a unique and eye-catching feature, perfect for parties, exhibitions, and gatherings."
+    },
+    subTips: {
+      "Relaxation and Aesthetics": [
+        "Vintage aesthetic",
+        "Soothing full-screen clock",
+        "Retro ambiance",
+        "Modern minimalist design",
+        "Stylish home decor"
+      ],
+      "Professional and Productivity": [
+        "Office time display",
+        "Presentation background",
+        "Structured study environment",
+        "Engaging waiting room clock",
+        "Time management tool"
+      ],
+      "Entertainment and Events": [
+        "Party ambiance",
+        "Event decoration",
+        "Exhibition feature",
+        "Interactive display",
+        "Custom time for events"
+      ]
+    }
   },
   {
     name: "Motivational Quote",
@@ -772,6 +1082,38 @@ export const routes: RouteStore[] = [
       // right: <MotivationQuotesRight />,
     },
     thumbnail: MotivationalQuoteIcon,
+    tips: {
+      "Boost Morning Motivation": "Start your day with powerful motivational quotes on full screen. Refresh the page for new inspirational quotes that set a positive tone for your day.",
+      "Create a Motivational Workspace": "Transform your workspace with the Motivational Quote Screensaver. Display inspirational motivational quotes on full screen to keep you focused and driven.",
+      "Host Inspiring Meetings": "Use the Motivational Quote Screensaver during meetings to inspire and energize your team. Show custom quotes with author names to motivate and spark creativity.",
+      "Stay Inspired During Study Sessions": "Keep your spirits high while studying with inspo quotes displayed on your screen. Refresh for new quotes or add custom motivational quotes for success.",
+      "Enhance Home Ambiance": "Add a touch of inspiration to your home with full-screen inspirational quotes. Perfect for living rooms or home offices, the screensaver changes quotes with each refresh.",
+      "Perfect for Fitness Motivation": "Stay motivated during workouts with powerful motivational quotes on your screen. Use the Motivational Quote Screensaver to keep pushing your limits.",
+      "Customize for Personal Inspiration": "Personalize your inspiration by adding custom quotes and author names. The Motivational Quote Screensaver allows you to display your favorite quotes in full screen."
+    },
+    subTips: {
+      "Daily Motivation": [
+        "Morning inspiration boost",
+        "Positive start to the day",
+        "Daily dose of motivation",
+        "Uplifting quotes on refresh",
+        "Start day with positivity"
+      ],
+      "Productivity and Focus": [
+        "Stay focused at work",
+        "Motivate during study",
+        "Boost team creativity",
+        "Inspirational work breaks",
+        "Enhance workspace vibes"
+      ],
+      "Personal and Home Use": [
+        "Inspire home decor",
+        "Customizable quotes display",
+        "Personal favorite quotes",
+        "Encourage fitness routines",
+        "Motivational home ambiance"
+      ]
+    }
   },
   {
     name: "No Signal",
@@ -783,6 +1125,38 @@ export const routes: RouteStore[] = [
       mid: <NoSignalPreview />,
     },
     thumbnail: NoSignalIcon,
+    tips: {
+      "Create Retro TV Vibes with Color Bars Screen": "Missing those classic TV test patterns? Run this color bars generator fullscreen to transform any monitor into a vintage television display. Perfect for setting up retro gaming streams or creating that nostalgic broadcast feel.",
+      "TV No Signal Screen for Video Production": "Need professional SMPTE color bars for video projects? This online tool generates broadcast-quality test patterns right in your browser. Great for setting up displays or adding authentic technical elements to your productions.",
+      "Customize Your Stream's Break Screen": "Looking for a professional 'be right back' screen? Use this online TV test card generator to create a classic broadcast look for your streaming breaks. Add that professional touch to your channel with authentic color bars.",
+      "Classic No Signal Screen for Art Installations": "Want that authentic TV static look for your art project? This online color bars generator creates genuine-looking test patterns and no signal screens. Perfect for galleries, installations, or any retro-tech aesthetic.",
+      "Set the Mood with Retro Test Card Patterns": "Transform any screen into a nostalgic TV display with authentic color bars and test patterns. Great for parties, themed events, or just creating that perfect vintage atmosphere in your space.",
+      "Prank Your Friends with a No Signal Screen": "Want to pull off a classic TV prank? Open this fullscreen color bars generator when your friends aren't looking. Watch them try to 'fix' the TV when they see the classic no signal pattern!",
+      "Professional SMPTE Pattern for Display Testing": "Need to calibrate displays or test video equipment? Use this online color bars tool to generate standard test patterns. Great for checking monitors, projectors, or any display that needs quick visual testing."
+    },
+    subTips: {
+      "Entertainment & Pranks": [
+        "fullscreen no signal screen pranks",
+        "retro TV party decorations",
+        "streaming break screen effects",
+        "vintage broadcast aesthetics",
+        "gaming room ambiance"
+      ],
+      "Professional Uses": [
+        "SMPTE color bars testing",
+        "monitor calibration patterns",
+        "video production test cards",
+        "display setup reference",
+        "broadcast equipment checks"
+      ],
+      "Creative Projects": [
+        "art installation backgrounds",
+        "retro video aesthetics",
+        "vintage TV set design",
+        "film production props",
+        "nostalgic media displays"
+      ]
+    }
   },
 ];
 
