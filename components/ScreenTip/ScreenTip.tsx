@@ -17,7 +17,6 @@ export default function ScreenTip() {
     <div className="container mx-auto flex flex-col gap-4">
       <h2 className="text-3xl font-medium text-center text-gray-800 mb-4">
         People use {
-          // not to capitalize all the words
           currentRoute.name.split("-").map((word) => word.charAt(0).toUpperCase() + word.slice(1)).join(" ")
         } for:
       </h2>
