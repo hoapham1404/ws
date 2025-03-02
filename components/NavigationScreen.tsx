@@ -1,8 +1,4 @@
 'use client';
-
-import { FakeUpdateScreenBottom } from "@/app/screens/FakeUpdateScreen/FakeUpdateScreenBottom";
-import ScreenOptions from "./BasicColorPage/ScreenOptions";
-import { DVDBottom } from "./DVDSaver/DVDBottom";
 import { getNavigationRoutes, RouteStore } from "@/constants/routes";
 import { usePathname } from "next/navigation";
 import Image from "next/image";

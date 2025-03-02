@@ -218,7 +218,7 @@ export const routes: RouteStore[] = [
   // Fake Update Screens
   {
     name: "Fake Update Windows 10",
-    path: "/fake-update-windows-10",
+    path: "/fake-windows-10-update-screen",
     icon: "https://emojicdn.elk.sh/🪟",
     title: "Windows 10 Fake Update",
     type: "fake-update",
@@ -230,7 +230,7 @@ export const routes: RouteStore[] = [
   },
   {
     name: "Fake Update Windows XP",
-    path: "/fake-update-windows-xp",
+    path: "/fake-windows-xp-update-screen",
     icon: "https://emojicdn.elk.sh/🪟",
     title: "Windows XP Fake Update",
     type: "fake-update",
@@ -241,7 +241,7 @@ export const routes: RouteStore[] = [
   },
   {
     name: "Fake Update Mac OS X",
-    path: "/fake-update-mac-os-x",
+    path: "/fake-mac-os-x-update-screen",
     icon: "https://emojicdn.elk.sh/🍎",
     title: "Mac OS X Fake Update",
     type: "fake-update",
@@ -253,7 +253,7 @@ export const routes: RouteStore[] = [
   },
   {
     name: "Fake Update Ubuntu 22.04",
-    path: "/fake-update-ubuntu-22-04",
+    path: "/fake-ubuntu-22-04-update-screen",
     icon: "https://emojicdn.elk.sh/🐧",
     title: "Ubuntu 22.04 Fake Update",
     type: "fake-update",
@@ -264,7 +264,7 @@ export const routes: RouteStore[] = [
   },
   {
     name: "Fake Update Chrome OS",
-    path: "/fake-update-chrome-os",
+    path: "/fake-chrome-os-update-screen",
     icon: "https://emojicdn.elk.sh/🌐",
     title: "ChromeOS Fake Update",
     type: "fake-update",
@@ -288,7 +288,7 @@ export const routes: RouteStore[] = [
   },
   {
     name: "Flip Clock",
-    path: "/flip-clock",
+    path: "/flip-clock-screensaver",
     icon: "https://emojicdn.elk.sh/⏰",
     title: "Flip Clock Screensaver",
     type: "screensaver",
@@ -299,7 +299,7 @@ export const routes: RouteStore[] = [
   },
   {
     name: "Motivational Quote",
-    path: "/motivational-quote",
+    path: "/motivational-quote-screensaver",
     icon: "https://emojicdn.elk.sh/💬",
     title: "Motivational Quote Screensaver",
     type: "screensaver",
@@ -311,7 +311,7 @@ export const routes: RouteStore[] = [
   },
   {
     name: "No Signal",
-    path: "/no-signal",
+    path: "/no-signal-smpte-color-bars-screensaver",
     icon: "https://emojicdn.elk.sh/📡",
     title: "Color Bars - No Signal TV Screen",
     type: "screensaver",

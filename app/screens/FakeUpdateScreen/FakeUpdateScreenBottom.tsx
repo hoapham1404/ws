@@ -9,11 +9,11 @@ import Ubuntu2204UpdateScreen from '@/public/ubuntu-22-04-update-screen.webp'
 import MacOSXUpdateScreen from '@/public/mac-os-x-update-screen.webp'
 
 const defaultRoutes = [
-  { name: "Windows 10", path: "/fake-update-windows-10", icon: Windows10UpdateScreen },
-  { name: "Windows XP", path: "/fake-update-windows-xp", icon: WindowsXPUpdateScreen },
-  { name: "Mac OS X", path: "/fake-update-mac-os-x", icon: MacOSXUpdateScreen },
-  { name: "Ubuntu 22.04", path: "/fake-update-ubuntu-22-04", icon: Ubuntu2204UpdateScreen },
-  { name: "Chrome OS", path: "/fake-update-chrome-os", icon: ChromeOSUpdateScreen },
+  { name: "Windows 10", path: "/fake-windows-10-update-screen", icon: Windows10UpdateScreen },
+  { name: "Windows XP", path: "/fake-windows-xp-update-screen", icon: WindowsXPUpdateScreen },
+  { name: "Mac OS X", path: "/fake-mac-os-x-update-screen", icon: MacOSXUpdateScreen },
+  { name: "Ubuntu 22.04", path: "/fake-ubuntu-22-04-update-screen", icon: Ubuntu2204UpdateScreen },
+  { name: "Chrome OS", path: "/fake-chrome-os-update-screen", icon: ChromeOSUpdateScreen },
 ]
 
 export const FakeUpdateScreenBottom = () => {
