@@ -18,7 +18,23 @@ import FlipClockPreview from "@/components/FlipClock/FlipClockPreview";
 import MotivationQuotesPreview from "@/components/MotivationQuotes/MotivationQuotesPreview";
 import MotivationQuotesRight from "@/components/MotivationQuotes/MotivationQuotesRight";
 import NoSignalPreview from "@/components/NoSignalPage/NoSignalPreview";
+import ChromeOSUpdateScreen from '@/public/chrome-os-update-screen.webp'
+import WindowsXPUpdateScreen from '@/public/windows-xp-update-screen.webp'
+import Windows10UpdateScreen from '@/public/windows-10-update-screen.webp'
+import Ubuntu2204UpdateScreen from '@/public/ubuntu-22-04-update-screen.webp'
+import MacOSXUpdateScreen from '@/public/mac-os-x-update-screen.webp'
+import WhiteNoiseIcon from "@/public/white-noise.webp";
+import BrokenScreenIcon from "@/public/broken.webp";
+import DeathXPIcon from "@/public/death.webp";
+import Death10Icon from "@/public/death-10.webp";
+import HackerTyperIcon from "@/public/hacker-typer.webp";
+import DVDIcon from '@/public/dvd.webp';
+import FlipClockIcon from '@/public/flip-clock.webp';
+import MotivationalQuoteIcon from '@/public/motivational-quote.webp';
+import NoSignalIcon from '@/public/saver-color-bars.png';
+
 import { ReactNode } from "react";
+import { StaticImageData } from "next/image";
 
 export class RouteStore {
   name: string;
@@ -34,6 +50,7 @@ export class RouteStore {
     right?: ReactNode;
     bottom?: ReactNode;
   };
+  thumbnail?: StaticImageData;
 
   constructor(
     name: string,
@@ -43,6 +60,7 @@ export class RouteStore {
     color?: string,
     icon?: string,
     isAxis?: boolean,
+    thumbnail?: StaticImageData
   ) {
     this.name = name;
     this.path = path;
@@ -51,6 +69,7 @@ export class RouteStore {
     this.isAxis = isAxis;
     this.title = title;
     this.type = type;
+    this.thumbnail = thumbnail;
   }
 }
 
@@ -147,6 +166,7 @@ export const routes: RouteStore[] = [
       mid: <WhiteNoiseScreen />,
       right: <WhiteNoisePlayButton />,
     },
+    thumbnail: WhiteNoiseIcon,
   },
   {
     name: "Fake Broken screen",
@@ -157,6 +177,7 @@ export const routes: RouteStore[] = [
     components: {
       mid: <BrokenScreen />,
     },
+    thumbnail: BrokenScreenIcon,
   },
   {
     name: "Fake Blue Screen of Death",
@@ -167,6 +188,7 @@ export const routes: RouteStore[] = [
     components: {
       mid: <FakeBlueScreen />,
     },
+    thumbnail: DeathXPIcon,
   },
   {
     name: "Fake Blue Screen of Death 10",
@@ -178,6 +200,7 @@ export const routes: RouteStore[] = [
       mid: <FakeBlueScreen10 />,
       right: <FakeBlueScreen10_Sidebar />,
     },
+    thumbnail: Death10Icon,
   },
   {
     name: "Hacker Typer Screen",
@@ -189,6 +212,7 @@ export const routes: RouteStore[] = [
       mid: <HackerTyper />,
       right: <HackerSpeedInput />,
     },
+    thumbnail: HackerTyperIcon,
   },
 
   // Fake Update Screens
@@ -200,7 +224,8 @@ export const routes: RouteStore[] = [
     type: "fake-update",
     components: {
       mid: <FakeUpdateWin10 />
-    }
+    },
+    thumbnail: Windows10UpdateScreen
 
   },
   {
@@ -211,7 +236,8 @@ export const routes: RouteStore[] = [
     type: "fake-update",
     components: {
       mid: <FakeUpdateWinXP />
-    }
+    },
+    thumbnail: WindowsXPUpdateScreen
   },
   {
     name: "Fake Update Mac OS X",
@@ -222,7 +248,8 @@ export const routes: RouteStore[] = [
     components: {
       mid: <FakeOSUpdate />
 
-    }
+    },
+    thumbnail: MacOSXUpdateScreen
   },
   {
     name: "Fake Update Ubuntu 22.04",
@@ -232,7 +259,8 @@ export const routes: RouteStore[] = [
     type: "fake-update",
     components: {
       mid: <FakeUbuntu />
-    }
+    },
+    thumbnail: Ubuntu2204UpdateScreen
   },
   {
     name: "Fake Update Chrome OS",
@@ -242,7 +270,8 @@ export const routes: RouteStore[] = [
     type: "fake-update",
     components: {
       mid: <FakeChromeOS />
-    }
+    },
+    thumbnail: ChromeOSUpdateScreen
   },
 
   // Screensaver Screens
@@ -255,6 +284,7 @@ export const routes: RouteStore[] = [
     components: {
       mid: <DVDSaver />,
     },
+    thumbnail: DVDIcon
   },
   {
     name: "Flip Clock",
@@ -265,6 +295,7 @@ export const routes: RouteStore[] = [
     components: {
       mid: <FlipClockPreview />,
     },
+    thumbnail: FlipClockIcon
   },
   {
     name: "Motivational Quote",
@@ -276,6 +307,7 @@ export const routes: RouteStore[] = [
       mid: <MotivationQuotesPreview />,
       // right: <MotivationQuotesRight />,
     },
+    thumbnail: MotivationalQuoteIcon
   },
   {
     name: "No Signal",
@@ -286,6 +318,7 @@ export const routes: RouteStore[] = [
     components: {
       mid: <NoSignalPreview />,
     },
+    thumbnail: NoSignalIcon
   },
 ];
 
@@ -316,5 +349,13 @@ export const getRouteByPathAsync = async (
 
 export const getColorRoutes = () => routes.filter((route) => route.color);
 export const getIconRoutes = () => routes.filter((route) => route.icon);
+export const getNavigationRoutes = (pathName: string): RouteStore[] | undefined => {
+  const existRoute = getRouteByPath(pathName);
+  if (!existRoute) return undefined;
+
+  const routeType = existRoute.type;
+  const navigationRoutes = routes.filter((route) => route.type !== routeType);
+  return navigationRoutes;
+}
 
 export default routes;
