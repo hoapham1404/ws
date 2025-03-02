@@ -4,6 +4,7 @@ import "./globals.css";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import NavigationScreen from "@/components/NavigationScreen";
+import ScreenTip from "@/components/ScreenTip/ScreenTip";
 
 const montserrat = Montserrat({
   subsets: ["latin"],
@@ -31,6 +32,7 @@ export default function RootLayout({
         <Navbar />
         <main className="flex-1">{children}</main>
         <NavigationScreen />
+        <ScreenTip />
         <Footer />
       </body>
     </html>

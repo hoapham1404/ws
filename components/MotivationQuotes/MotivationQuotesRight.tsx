@@ -1,23 +1,8 @@
 import { ChangeEvent } from 'react';
 import { Input } from '@/components/ui/input';
 
-interface MotivationQuotesRightProps {
-  size: number;
-  onSizeChange: (e: ChangeEvent<HTMLInputElement>) => void;
-  customQuoteText: string;
-  customQuoteAuthor: string;
-  onCustomQuoteTextChange: (e: ChangeEvent<HTMLInputElement>) => void;
-  onCustomQuoteAuthorChange: (e: ChangeEvent<HTMLInputElement>) => void;
-}
 
-export default function MotivationQuotesRight({
-  size,
-  onSizeChange,
-  customQuoteText,
-  customQuoteAuthor,
-  onCustomQuoteTextChange,
-  onCustomQuoteAuthorChange,
-}: MotivationQuotesRightProps) {
+export default function MotivationQuotesRight() {
   return (
     <div className="flex flex-col gap-6 p-6 w-[300px]">
       <div className="space-y-2">
