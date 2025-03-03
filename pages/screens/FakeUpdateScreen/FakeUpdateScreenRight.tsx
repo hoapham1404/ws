@@ -1,6 +1,6 @@
 'use client'
 
-import { useUpdateProgress } from '@/app/contexts/UpdateProgressContext';
+import { useUpdateProgress } from '@/pages/contexts/UpdateProgressContext';
 
 export const FakeUpdateScreenRight = () => {
     const { minutes, startPercentage, setMinutes, setStartPercentage, handleRestart } = useUpdateProgress();
@@ -9,9 +9,9 @@ export const FakeUpdateScreenRight = () => {
         <div className="w-[300px] h-full bg-white flex flex-col gap-1 items-center">
             <p className="text-xl">Update time</p>
             <div className="flex gap-2 my-2 justify-center items-center">
-                <input 
-                    type="number" 
-                    min="1" 
+                <input
+                    type="number"
+                    min="1"
                     max="100"
                     value={minutes}
                     onChange={(e) => setMinutes(Number(e.target.value))}
@@ -22,9 +22,9 @@ export const FakeUpdateScreenRight = () => {
 
             <p className="text-xl">Start time</p>
             <div className="flex gap-2 my-2 justify-center items-center">
-                <input 
-                    type="number" 
-                    min="0" 
+                <input
+                    type="number"
+                    min="0"
                     max="100"
                     value={startPercentage}
                     onChange={(e) => setStartPercentage(Number(e.target.value))}
@@ -33,7 +33,7 @@ export const FakeUpdateScreenRight = () => {
                 <p>%</p>
             </div>
 
-            <button 
+            <button
                 onClick={handleRestart}
                 className="mt-8 bg-white text-black border border-black rounded py-2 px-4 textxl hover:bg-gray-100 transition-colors"
             >

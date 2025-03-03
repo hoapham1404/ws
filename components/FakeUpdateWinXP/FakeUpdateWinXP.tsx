@@ -1,6 +1,6 @@
 'use client'
 
-import { useUpdateProgress } from '@/app/contexts/UpdateProgressContext';
+import { useUpdateProgress } from '@/pages/contexts/UpdateProgressContext';
 import styles from './FakeUpdateWinXP.module.css';
 import WindowsXPLogo from '@/public/window-xp-logo.png';
 import Image from 'next/image';
@@ -11,8 +11,8 @@ export default function FakeUpdateWinXP() {
   return (
     <div className={styles.container}>
       <div className={styles.content}>
-        <Image 
-          src={WindowsXPLogo.src} 
+        <Image
+          src={WindowsXPLogo.src}
           alt="Windows XP Logo"
           width={80}
           height={40}

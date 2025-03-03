@@ -1,6 +1,6 @@
 'use client';
 
-import { useUpdateProgress } from '@/app/contexts/UpdateProgressContext';
+import { useUpdateProgress } from '@/pages/contexts/UpdateProgressContext';
 import styles from './FakeUpdateWin11.module.css';
 
 export default function FakeUpdateWin11() {
@@ -16,6 +16,6 @@ export default function FakeUpdateWin11() {
         </div>
         <p className={styles.warning}>Don&apos;t turn off your computer</p>
       </div>
-    </div>    
+    </div>
   );
 }

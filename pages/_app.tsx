@@ -1,10 +1,12 @@
-import type { Metadata } from "next";
+import type { AppProps } from "next/app";
 import { Montserrat } from "next/font/google";
 import "./globals.css";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import NavigationScreen from "@/components/NavigationScreen";
 import ScreenTip from "@/components/ScreenTip/ScreenTip";
+import Head from "next/head";
+import React from "react";
 
 const montserrat = Montserrat({
   subsets: ["latin"],
@@ -12,29 +14,22 @@ const montserrat = Montserrat({
   display: "swap",
 });
 
-export const metadata: Metadata = {
-  title: "Change My Mind",
-  description: "Change My Mind",
-};
-
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <html lang="en" className={`${montserrat.className} mdl-js`}>
-      <head>
+    <React.Fragment>
+      <Head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-      </head>
-      <body className="relative flex min-h-screen flex-col">
+      </Head>
+      <div className={`${montserrat.className} mdl-js`}>
         <Navbar />
-        <main className="flex-1">{children}</main>
+        <main className="flex-1">
+          <Component {...pageProps} />
+        </main>
         <NavigationScreen />
         <ScreenTip />
         <Footer />
-      </body>
-    </html>
+      </div>
+    </React.Fragment>
   );
 }
