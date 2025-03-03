@@ -32,9 +32,13 @@ import DVDIcon from "@/public/dvd.webp";
 import FlipClockIcon from "@/public/flip-clock.webp";
 import MotivationalQuoteIcon from "@/public/motivational-quote.webp";
 import NoSignalIcon from "@/public/saver-color-bars.png";
-
 import { ReactNode } from "react";
 import { StaticImageData } from "next/image";
+import FakeUpdateWin11 from "@/components/FakeUpdateWin11/FakeUpdateWin11";
+import FakeAndroidUpdateIcon from '@/public/android-logo.png'
+import FakeWin11UpdateIcon from '@/public/fake-update-win11.png'
+import FakeAndroidUpdate from "@/components/FakeAndroidUpdate/FakeAndroidUpdate";
+
 
 export class RouteStore {
   name: string;
@@ -958,6 +962,108 @@ export const routes: RouteStore[] = [
       }
     }
   },
+  {
+    name: "Fake Update Windows 11",
+    path: "/fake-windows-11-update-screen",
+    icon: "https://emojicdn.elk.sh/🪟",
+    title: "Windows 11 Fake Update",
+    type: "fake-update",
+    components: {
+      mid: <FakeUpdateWin11 />
+    },
+    thumbnail: FakeWin11UpdateIcon,
+    tip: {
+      title: "Windows 11 Update Screen",
+      content: {
+        "Had a blast simulating a Windows 11 update process!": "Visited the Windows 11 update simulation page and customized the progress to create a convincing fake update. It was so much fun watching my friends' reactions!",
+        "Spiced up the office with a Windows 11 update prank!": "Used the Windows 11 update prank tool to simulate an update on my coworker's PC. The authentic messages and progress bar had everyone fooled and resulted in some hilarious moments!",
+        "Hilarious Windows 11 update prank for a good laugh!": "Used the Windows 11 fake update screen to play a prank on my sibling. They were completely fooled by the authentic-looking update process and the progress bar ticking away!",
+        "Impressed my tech-savvy friends with the authenticity of the Windows 11 update simulation!": "Shared a video recording of the Windows 11 update simulation I created using the website. The genuine-looking progress bar and status messages amazed my friends, who thought it was an actual update!",
+        "Shared a video recording of the Windows 11 update simulation I created using the website. The genuine-looking progress bar and status messages amazed my friends, who thought it was an actual update!": "Used the Windows 11 fake update screen to trick my coworker into thinking their computer was undergoing a major update. The authentic visuals and progress animation had them panicking for a moment!"
+      },
+      subTips: {
+        "Simulated Windows 11 Update": [
+          "Windows 11 fake update",
+          "Windows 11 update simulation",
+          "Simulate Windows 11 update",
+          "Fake Windows 11 update screen",
+          "Emulate Windows 11 update",
+          "Windows 11 update prank",
+          "Windows 11 update process"
+        ],
+        "Realistic Experience": [
+          "Authentic-looking Windows 11 update",
+          "Realistic Windows 11 update screen",
+          "Fool friends with Windows 11 update",
+          "Realistic Windows 11 update progress",
+          "Genuine Windows 11 update simulation",
+          "Authentic Windows 11 update messages",
+          "Windows 11 update stage"
+        ],
+        "Entertainment and Fun": [
+          "Entertaining Windows 11 update prank",
+          "Fun fake Windows 11 update",
+          "Enjoy simulated Windows 11 update",
+          "Prank with Windows 11 fake update",
+          "Exciting Windows 11 update experience",
+          "Windows 11 update for amusement",
+          "Windows 11 update prank tool"
+        ]
+      }
+    }
+  },
+  {
+    name: "Android Fake Update",
+    path: "/fake-android-update",
+    icon: "https://emojicdn.elk.sh/📱",
+    title: "Fake Android Update",
+    type: "fake-update",
+    components: {
+      mid: <FakeAndroidUpdate />
+    },
+    thumbnail: FakeAndroidUpdateIcon,
+    tip: {
+      title: "Android Fake Update Screen",
+      content: {
+        "Simulate Android Update for Software Testing": "Utilize our Android fake update tool to create authentic-looking update screens for software testing and demonstration purposes.",
+        "Engage Your Audience with a Realistic Android Update Screen": "Capture the attention of tech enthusiasts by showcasing a genuine Android update simulation during presentations or tech blogs.",
+        "Elevate Tech Education with Android Update Prank Tool": "Incorporate our realistic Android update screen into tech education scenarios to teach about system updates and user interface design.",
+        "Create Entertaining Content with Android Fake Update": "Produce engaging video content or live streams using an entertaining Android update prank, adding humor to tech discussions.",
+        "Prank Friends with a Genuine Android Update Simulation": "Surprise your friends by using our tool to prank with an Android fake update, turning ordinary moments into memorable tech pranks.",
+        "Enhance User Experience Design Learning with Simulated Updates": "Use the exciting Android update experience to educate UX/UI designers on the impact of system updates on user experience.",
+        "Demonstrate System Recovery Scenarios with Android Update Prank Tool": "Leverage the authentic-looking Android update tool to simulate system recovery processes for IT training and workshops."
+      },
+      subTips: {
+        "Simulated Android Update": [
+          "Android fake update",
+          "Android update simulation",
+          "Simulate Android update",
+          "Fake Android update screen",
+          "Emulate Android update",
+          "Android update prank",
+          "Android update process"
+        ],
+        "Realistic Experience": [
+          "Authentic-looking Android update",
+          "Realistic Android update screen",
+          "Fool friends with Android update",
+          "Realistic Android update progress",
+          "Genuine Android update simulation",
+          "Authentic Android update messages",
+          "Android update stage"
+        ],
+        "Entertainment and Fun": [
+          "Entertaining Android update prank",
+          "Fun fake Android update",
+          "Enjoy simulated Android update",
+          "Prank with Android fake update",
+          "Exciting Android update experience",
+          "Android update for amusement",
+          "Android update prank tool"
+        ]
+      }
+    }
+  },
 
   // Screensaver Screens
   {
@@ -1060,7 +1166,7 @@ export const routes: RouteStore[] = [
     type: "screensaver",
     components: {
       mid: <MotivationQuotesPreview />,
-      right: <MotivationQuotesRight />,
+      // right: <MotivationQuotesRight />,
     },
     thumbnail: MotivationalQuoteIcon,
     tip: {

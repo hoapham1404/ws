@@ -3,6 +3,7 @@ import { Input } from '@/components/ui/input';
 
 
 export default function MotivationQuotesRight() {
+  const { size, customQuoteText, customQuoteAuthor, onSizeChange, onCustomQuoteTextChange, onCustomQuoteAuthorChange } = useMotivationQuotesStore();
   return (
     <div className="flex flex-col gap-6 p-6 w-[300px]">
       <div className="space-y-2">
