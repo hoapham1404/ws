@@ -1,7 +1,9 @@
 import Link from "next/link"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
+import { useRouter } from "next/router"
 
 export default function Navbar() {
+  const { locale, asPath } = useRouter()
   return (
     <header className="py-[20px]">
       <div className="container mx-auto px-4 h-14 flex items-center justify-between">
@@ -18,9 +20,26 @@ export default function Navbar() {
             <SelectValue placeholder="Language" />
           </SelectTrigger>
           <SelectContent>
-            <SelectItem value="en">English</SelectItem>
-            <SelectItem value="es">Español</SelectItem>
-            <SelectItem value="fr">Français</SelectItem>
+            <SelectItem value="en">
+              <Link href={asPath} locale="en">
+                English
+              </Link>
+            </SelectItem>
+            <SelectItem value="es">
+              <Link href={asPath} locale="es">
+                Español
+              </Link>
+            </SelectItem>
+            <SelectItem value="fr">
+              <Link href={asPath} locale="fr">
+                Français
+              </Link>
+            </SelectItem>
+            <SelectItem value="vi">
+              <Link href={asPath} locale="vi">
+                Tiếng Việt
+              </Link>
+            </SelectItem>
           </SelectContent>
         </Select>
       </div>
