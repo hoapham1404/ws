@@ -7,24 +7,72 @@
     "type": "color",
     "tip": {
       "title": "white screen",
-      "content": {
-        "white screen to copy drawings": "I needed to have something bright under a paper, so i could redraw a image easier.",
-        "white screen as a light source": "Lighting up the back of a lightbox for product photography",
-        "white screen to check monitor": "Check your monitor and find dead pixels.",
-        "white screen to blank screen": "Don't want to be distrupted? Want to take a brake? Use a white screen to blank your screen.",
-        "white screen as a light to read": "To get a source of light and be able to read books when it's dark in the room and the light switch is too far away.",
-        "white screen as a light to makeup": "As a bright light source for doing makeup or taking pictures",
-        "white screen to clean monitor": "Silly, but I use it for monitor cleaning. It makes things on the screen obvious. :) I also use it to validate plain colour reproduction for different monitors, but that only comes up rarely and I'm not looking for professional colour grading.",
-        "white screen to look for dust": "Consistent backdrop to clean my monitor on, and also to check for dead/stuck pixels. Also sometimes for lighting my face when I'm using a webcam.",
-        "white screen to catch flies": "I was catching little flies as they were attracted to white screen on my display",
-        "white screen to make a flipbook": "I'm working on a animated sequence, and i'm doing it the traditional way (by hand), so i need a white surface with light that allows me to put one piece of paper over another and be able to see both, so since i don't have a professional screen for this, i'm using my computer and putting the white screen on it so i don't touch anything by mistake",
-        "white screen to focus yourself": "While studying, I use 2 screens, one with a timer and one to search whatever I need on the internet. When I am not searching, I put the white screen so I don't get distracted with anything on the computer",
-        "white screen to configure your monitor settings": "Useful when adjusting settings in my secondary monitor (since it's quite old it doesn't just set stuff how it should be by default). Settings like vertical/horizontal position and vertical/horizontal scale. Also useful when searching for dead pixels.",
-        "white screen to draw at night": "If I'm drawing on paper, I can put paper on top of my display drawing tablet and see what I'm drawing at night",
-        "White Screen for Lighting": "Turn your display into a simple and efficient light source with our white screen tool. Perfect for video calls or photography where extra lighting is needed.",
-        "White Screen for Visual Purity": "Experience a pure, clean and soothing visual environment using our full-screen white display. Ideal for relaxing, meditating or focusing on tasks without visual distractions.",
-        "White Screen for Design Work": "Utilize our white screen tool as a blank canvas for design, drawing or any creative activities. A blank white screen allows your creativity to flow unimpeded."
-      },
+      "content": [
+        {
+          "title": "white screen to copy drawings",
+          "description": "I needed to have something bright under a paper, so i could redraw a image easier."
+        },
+        {
+          "title": "white screen as a light source",
+          "description": "Lighting up the back of a lightbox for product photography"
+        },
+        {
+          "title": "white screen to check monitor",
+          "description": "Check your monitor and find dead pixels."
+        },
+        {
+          "title": "white screen to blank screen",
+          "description": "Don't want to be distrupted? Want to take a brake? Use a white screen to blank your screen."
+        },
+        {
+          "title": "white screen as a light to read",
+          "description": "To get a source of light and be able to read books when it's dark in the room and the light switch is too far away."
+        },
+        {
+          "title": "white screen as a light to makeup",
+          "description": "As a bright light source for doing makeup or taking pictures"
+        },
+        {
+          "title": "white screen to clean monitor",
+          "description": "Silly, but I use it for monitor cleaning. It makes things on the screen obvious. :) I also use it to validate plain colour reproduction for different monitors, but that only comes up rarely and I'm not looking for professional colour grading."
+        },
+        {
+          "title": "white screen to look for dust",
+          "description": "Consistent backdrop to clean my monitor on, and also to check for dead/stuck pixels. Also sometimes for lighting my face when I'm using a webcam."
+        },
+        {
+          "title": "white screen to catch flies",
+          "description": "I was catching little flies as they were attracted to white screen on my display"
+        },
+        {
+          "title": "white screen to make a flipbook",
+          "description": "I'm working on a animated sequence, and i'm doing it the traditional way (by hand), so i need a white surface with light that allows me to put one piece of paper over another and be able to see both, so since i don't have a professional screen for this, i'm using my computer and putting the white screen on it so i don't touch anything by mistake"
+        },
+        {
+          "title": "white screen to focus yourself",
+          "description": "While studying, I use 2 screens, one with a timer and one to search whatever I need on the internet. When I am not searching, I put the white screen so I don't get distracted with anything on the computer"
+        },
+        {
+          "title": "white screen to configure your monitor settings",
+          "description": "Useful when adjusting settings in my secondary monitor (since it's quite old it doesn't just set stuff how it should be by default). Settings like vertical/horizontal position and vertical/horizontal scale. Also useful when searching for dead pixels."
+        },
+        {
+          "title": "white screen to draw at night",
+          "description": "If I'm drawing on paper, I can put paper on top of my display drawing tablet and see what I'm drawing at night"
+        },
+        {
+          "title": "White Screen for Lighting",
+          "description": "Turn your display into a simple and efficient light source with our white screen tool. Perfect for video calls or photography where extra lighting is needed."
+        },
+        {
+          "title": "White Screen for Visual Purity",
+          "description": "Experience a pure, clean and soothing visual environment using our full-screen white display. Ideal for relaxing, meditating or focusing on tasks without visual distractions."
+        },
+        {
+          "title": "White Screen for Design Work",
+          "description": "Utilize our white screen tool as a blank canvas for design, drawing or any creative activities. A blank white screen allows your creativity to flow unimpeded."
+        }
+      ],
       "subTips": {
         "White screen for cleaning": [
           "white screen for monitor cleaning",

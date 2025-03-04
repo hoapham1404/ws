@@ -4,7 +4,7 @@ import { useRouter } from "next/router"
 
 export default function Navbar() {
   const router = useRouter();
-  const { locale: activeLocale, locales, pathname, query, asPath } = router;
+  const { locale: activeLocale, locales, pathname, query, asPath, defaultLocale } = router;
 
   const handleLocaleChange = (newLocale: string) => {
     router.push({ pathname, query }, asPath, { locale: newLocale });
@@ -13,9 +13,8 @@ export default function Navbar() {
   const getLanguageLabel = (locale: string) => {
     const labels: Record<string, string> = {
       en: 'English',
-      es: 'Español',
       fr: 'Français',
-      vi: 'Tiếng Việt'
+      // vi: 'Tiếng Việt'
     };
     return labels[locale] || locale;
   };
@@ -32,9 +31,9 @@ export default function Navbar() {
           </Link>
         </div>
 
-        <Select defaultValue={activeLocale} onValueChange={handleLocaleChange}>
+        <Select defaultValue={defaultLocale} onValueChange={handleLocaleChange}>
           <SelectTrigger className="w-[130px]">
-            <SelectValue placeholder={getLanguageLabel(activeLocale || 'en')} />
+            <SelectValue placeholder={getLanguageLabel(defaultLocale || 'en')} />
           </SelectTrigger>
           <SelectContent>
             {locales?.map((locale) => (

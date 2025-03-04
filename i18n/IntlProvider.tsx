@@ -9,7 +9,7 @@ type Props = {
 
 export default function IntlProvider({ children, locale, messages }: Props) {
   return (
-    <NextIntlClientProvider locale={locale} messages={messages} timeZone={"Asia/Ho_Chi_Minh"}>
+    <NextIntlClientProvider locale={locale} messages={messages} timeZone={"UTC"}>
       {children}
     </NextIntlClientProvider>
   );
