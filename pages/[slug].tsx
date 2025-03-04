@@ -51,6 +51,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps<{ slug: string }> = async ({ params }) => {
   const slug = params?.slug as string;
+
   const route = getRouteByPath(slug);
   if (!route) return { notFound: true };
 

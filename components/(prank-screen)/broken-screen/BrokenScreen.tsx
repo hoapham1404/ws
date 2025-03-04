@@ -7,7 +7,6 @@ export default function BrokenScreen() {
       src={Broken}
       alt="Broken Screen"
       className="w-full h-full object-cover"
-      layout="fill"
     />
   );
 }
