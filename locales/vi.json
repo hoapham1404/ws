@@ -1,4 +1,16 @@
 {
-  "title": "Chào mừng",
-  "description": "Đây là một ví dụ về i18n trong Next.js"
+  "/": {
+    "name": "Màn hình trắng",
+    "color": "#FFFFFF",
+    "isAxis": false,
+    "title": "Màn hình trắng",
+    "type": "color",
+    "tip": {
+      "title": "màn hình trắng",
+      "content": {
+        "white screen to copy drawings": "Tôi cần có một thứ gì đó sáng hơn dưới giấy, để tôi có thể vẽ lại hình ảnh dễ dàng hơn."
+      }
+    }
+
+  }
 }

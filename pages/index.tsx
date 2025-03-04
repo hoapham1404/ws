@@ -17,6 +17,7 @@ export const getStaticProps: GetStaticProps = async ({ locale, locales }) => {
     props: {
       locale,
       locales,
+      messages: (await import(`@/locales/${locale}.json`)).default,
     },
   };
 };
@@ -25,13 +26,13 @@ export default function HomePage(props: InferGetStaticPropsType<typeof getStatic
   const route = getRouteByPath("/");
   if (!route) return;
 
-  const t = useTranslations();
+  const t = useTranslations("/");
   const { defaultLocale } = router;
   return (
     <React.Fragment>
       <Head>
-        <title>{route.color ? route.name + " | Online Tool" : route.name + " | Online Tool"}</title>
-        <meta name="description" content={route.path} />
+        <title>{t("name")}</title>
+        <meta name="description" content={t("tip.title")} />
         <link rel="icon" href={route.color ? `data:image/svg+xml,
       <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
           <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(route.color)}'/>
