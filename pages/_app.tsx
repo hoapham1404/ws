@@ -8,7 +8,7 @@ import ScreenTip from "@/components/ScreenTip/ScreenTip";
 import Head from "next/head";
 import React from "react";
 import { useRouter } from 'next/router';
-import IntlProvider from "@/components/IntlProvider/IntlProvider";
+import IntlProvider from "@/i18n/IntlProvider";
 
 const montserrat = Montserrat({
   subsets: ["latin"],

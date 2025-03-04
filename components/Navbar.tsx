@@ -3,7 +3,23 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { useRouter } from "next/router"
 
 export default function Navbar() {
-  const { locale, asPath } = useRouter()
+  const router = useRouter();
+  const { locale: activeLocale, locales, pathname, query, asPath } = router;
+
+  const handleLocaleChange = (newLocale: string) => {
+    router.push({ pathname, query }, asPath, { locale: newLocale });
+  };
+
+  const getLanguageLabel = (locale: string) => {
+    const labels: Record<string, string> = {
+      en: 'English',
+      es: 'Español',
+      fr: 'Français',
+      vi: 'Tiếng Việt'
+    };
+    return labels[locale] || locale;
+  };
+
   return (
     <header className="py-[20px]">
       <div className="container mx-auto px-4 h-14 flex items-center justify-between">
@@ -15,31 +31,17 @@ export default function Navbar() {
             Feedback
           </Link>
         </div>
-        <Select defaultValue="en">
-          <SelectTrigger className="w-[100px]">
-            <SelectValue placeholder="Language" />
+
+        <Select defaultValue={activeLocale} onValueChange={handleLocaleChange}>
+          <SelectTrigger className="w-[130px]">
+            <SelectValue placeholder={getLanguageLabel(activeLocale || 'en')} />
           </SelectTrigger>
           <SelectContent>
-            <SelectItem value="en">
-              <Link href={asPath} locale="en">
-                English
-              </Link>
-            </SelectItem>
-            <SelectItem value="es">
-              <Link href={asPath} locale="es">
-                Español
-              </Link>
-            </SelectItem>
-            <SelectItem value="fr">
-              <Link href={asPath} locale="fr">
-                Français
-              </Link>
-            </SelectItem>
-            <SelectItem value="vi">
-              <Link href={asPath} locale="vi">
-                Tiếng Việt
-              </Link>
-            </SelectItem>
+            {locales?.map((locale) => (
+              <SelectItem key={locale} value={locale}>
+                {getLanguageLabel(locale)}
+              </SelectItem>
+            ))}
           </SelectContent>
         </Select>
       </div>
