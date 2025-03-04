@@ -4,12 +4,23 @@ import ScreenOptions from "@/components/BasicColorPage/ScreenOptions";
 import SettingsPanel from "@/components/BasicColorPage/SettingsPanel";
 import RootLayout from "@/components/Layout/PageLayout";
 import { getRouteByPath } from "@/constants/routes";
+import { GetStaticProps } from "next";
+import { useTranslations } from "next-intl";
 import Head from "next/head";
 import React from "react";
 
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
+  const messages = (await import(`@/locales/${locale}.json`)).default;
+
+  return {
+    props: { messages },
+  };
+};
 export default function HomePage() {
   const route = getRouteByPath("/");
   if (!route) return;
+
+  const t = useTranslations();
 
   return (
     <React.Fragment>
@@ -28,6 +39,8 @@ export default function HomePage() {
           right={<SettingsPanel />}
           bottom={<ScreenOptions />}
         />
+        <p>{t("title")}</p>
+        <p>{t("description")}</p>
       </div>
 
     </React.Fragment>
