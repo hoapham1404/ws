@@ -1,6 +1,6 @@
 'use client';
 
-import { useUpdateProgress } from '@/pages/contexts/UpdateProgressContext';
+import { useUpdateProgress } from '@/contexts/UpdateProgressContext';
 import styles from './FakeUpdateWin11.module.css';
 
 export default function FakeUpdateWin11() {

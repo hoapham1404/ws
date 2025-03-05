@@ -10,12 +10,13 @@ export default function MotivationQuotesPreview() {
   const pathname = usePathname();
   const t = useTranslations(pathname);
   const { paragraph, author, additionalSize, setParagraph, setAuthor } = motivationQuotesStore()
+
   useEffect(() => {
     const defaultParagraph = t("quote.paragraph")
     const defaultAuthor = t("quote.author")
     setParagraph(defaultParagraph)
     setAuthor(defaultAuthor)
-  }, [])
+  }, [setAuthor, setParagraph, t])
 
   return (
     <div className="relative w-full h-full flex items-center justify-center bg-white">

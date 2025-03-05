@@ -16,7 +16,7 @@ import FakeOSUpdate from '@/components/FakeOSUpdate/FakeOSUpdate'
 import FakeUbuntu from '@/components/FakeUbuntu/FakeUbuntu'
 import FakeChromeOS from '@/components/FakeChromeOS/FakeChromeOS'
 import { FakeUpdateScreenRight } from './FakeUpdateScreenRight'
-import { UpdateProgressProvider } from '@/pages/contexts/UpdateProgressContext'
+import { UpdateProgressProvider } from '@/contexts/UpdateProgressContext'
 
 export default function FakeUpdateScreen() {
   const pathname = usePathname();

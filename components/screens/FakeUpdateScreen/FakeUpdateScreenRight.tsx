@@ -1,6 +1,6 @@
 'use client'
 
-import { useUpdateProgress } from '@/pages/contexts/UpdateProgressContext';
+import { useUpdateProgress } from '@/contexts/UpdateProgressContext';
 import { useTranslations } from 'next-intl';
 
 export const FakeUpdateScreenRight = () => {
