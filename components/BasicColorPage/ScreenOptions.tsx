@@ -17,7 +17,7 @@ export default function ScreenOptions() {
 
       <div className="flex flex-wrap justify-center mb-4 cursor-pointer">
         {routes.map((option: RouteStore) => (
-          <Link key={option.name} href={option.path} className={`flex flex-col items-center p-6 ${option.path === currentPath ? 'bg-gray-300' : ''}`}>
+          <Link key={option.path} href={option.path} className={`flex flex-col items-center p-6 ${option.path === currentPath ? 'bg-gray-300' : ''}`}>
             <button
               onClick={() => navigate.push(option.path)}
               className="w-24 md:w-32 h-12 md:h-16 rounded-md shadow-md hover:opacity-90 transition-opacity"
