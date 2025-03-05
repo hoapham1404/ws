@@ -36,15 +36,12 @@ export default function HomePage() {
           <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(route.color)}'/>
       </svg>` : route.icon} />
       </Head>
-
-      <div>
-        <RootLayout
-          left={<ColorOptions />}
-          mid={<PreviewContent />}
-          right={<SettingsPanel />}
-          bottom={<ScreenOptions />}
-        />
-      </div>
+      <RootLayout
+        left={<ColorOptions />}
+        mid={<PreviewContent />}
+        right={<SettingsPanel />}
+        bottom={<ScreenOptions />}
+      />
     </React.Fragment >
   )
 }

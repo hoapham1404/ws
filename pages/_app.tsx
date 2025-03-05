@@ -25,9 +25,9 @@ export default function MyApp({ Component, pageProps }: AppProps) {
           <meta charSet="utf-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
         </Head>
-        <div className={`${montserrat.className} mdl-js`}>
+        <div className={`${montserrat.className} mdl-js `}>
           <Navbar />
-          <main className="flex-1">
+          <main className="max-w-screen-lg mx-auto">
             <Component {...pageProps} />
           </main>
           <NavigationScreen />
@@ -35,6 +35,6 @@ export default function MyApp({ Component, pageProps }: AppProps) {
           <Footer />
         </div>
       </IntlProvider>
-    </React.Fragment>
+    </React.Fragment >
   );
 }

@@ -6,8 +6,6 @@ export default function Header() {
   const t = useTranslations(pathName);
 
   return (
-    <div className="text-center mb-12 mt-16">
-      <h1 className="text-5xl ">{t("name")}</h1>
-    </div>
+    <h1 className="text-center mb-12 mt-16 text-5xl">{t("name")}</h1>
   )
 }
