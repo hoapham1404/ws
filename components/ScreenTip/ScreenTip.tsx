@@ -1,5 +1,3 @@
-"use client"
-import { getRouteByPath } from "@/constants/routes"
 import { usePathname } from "next/navigation"
 import React from "react"
 import TipItem from "./TipItem"
@@ -7,24 +5,13 @@ import { useTranslations } from "next-intl"
 
 export default function ScreenTip() {
   const path = usePathname()
-  const currentRoute = getRouteByPath(path)
-  if (!currentRoute) return null
-
-  const t = useTranslations(`${currentRoute.path}`)
+  const t = useTranslations(path)
   const tip = t.raw("tip")
 
   if (!tip) return null;
 
   return (
     <React.Fragment>
-      <pre>
-        {
-          JSON.stringify(
-            t.raw("tip.title")
-          )
-        }
-      </pre>
-
       <div className="container mx-auto flex flex-col gap-4">
         <h2 className="text-3xl font-medium text-center text-gray-800 mb-4">
           People use {

@@ -15,31 +15,8 @@ import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from "next";
 import React from "react";
 import Head from "next/head";
 import { useRouter } from "next/router";
-// export async function generateMetadata({
-//   params,
-// }: {
-//   params: Promise<{ slug: string }>;
-// }) {
-//   const slug = (await params).slug;
-//   const route: RouteStore | undefined = getRouteByPath(slug);
-//   if (!route) return notFound();
-//   return {
-//     title: `${route.color ? `${route.name}` : `${route.name}`} | Online Tool`,
-//     icons: route.color
-//       ? [
-//         {
-//           url: `data:image/svg+xml,
-//         <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
-//             <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(route.color)}'/>
-//         </svg>`,
-//         },
-//       ]
-//       : route.icon
-//         ? [{ url: route.icon }]
-//         : undefined,
-//   };
-// }
-//
+
+
 export const getStaticPaths: GetStaticPaths = async ({ locales = [] }) => {
   const paths = []
   for (const locale of locales) {
@@ -80,7 +57,7 @@ type GspPageProps = InferGetStaticPropsType<typeof getStaticProps>;
 
 export default function DynamicPage(props: GspPageProps) {
   const router = useRouter()
-  const { locales, defaultLocale, locale, query, isFallback } = router
+  const { query, isFallback } = router
   const route = getRouteByPath(query.slug as string);
   if (!route) return;
 
@@ -97,15 +74,6 @@ export default function DynamicPage(props: GspPageProps) {
         </svg>` : route.icon} />
       </Head>
       <div>
-        <pre>
-          {JSON.stringify({
-            defaultLocale,
-            locale,
-            query,
-            isFallback,
-            locales,
-          })}
-        </pre>
         {route.type === "color" && (
           <RootLayout
             left={<ColorOptions />}
