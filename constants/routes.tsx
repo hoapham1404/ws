@@ -1482,5 +1482,7 @@ export const getNavigationRoutes = (
   const navigationRoutes = routes.filter((route) => route.type !== routeType);
   return navigationRoutes;
 };
-
+export const getColorNavigationRoutes = (): RouteStore[] => {
+  return routes.filter((option: RouteStore) => !option.isAxis && option.color)
+}
 export default routes;
