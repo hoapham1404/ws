@@ -13,8 +13,7 @@ export default function Navbar() {
   const getLanguageLabel = (locale: string) => {
     const labels: Record<string, string> = {
       en: 'English',
-      fr: 'Français',
-      // vi: 'Tiếng Việt'
+      vi: 'Tiếng Việt'
     };
     return labels[locale] || locale;
   };

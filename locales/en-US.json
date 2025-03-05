@@ -1266,13 +1266,28 @@
     "type": "fake-update",
     "tip": {
       "title": "Mac OS X Fake Update",
-      "content": {
-        "Prank your friends": "Use our Mac OS X fake update tool to play a harmless prank on your friends, making them believe their computer is going through a significant update. Watch their reactions and have a laugh!",
-        "Test patience": "Find out how your colleagues or loved ones react to unexpected updates. It's a funny way to check their patience without causing any real inconvenience.",
-        "Tech teaching aid": "Use the fake update tool as a teaching aid for tech courses or workshops. It can be used to explain system updates and how to manage them.",
-        "UI/UX testing": "For UI/UX designers, our tool can provide an interesting case study on the user experience during system updates. Analyze user interaction and engagement during this process.",
-        "Content creation": "Content creators can use this tool for creating interesting tech-related content or social experiments for their blogs, vlogs, or social media platforms."
-      },
+      "content": [
+        {
+          "title": "Prank your friends",
+          "description": "Use our Mac OS X fake update tool to play a harmless prank on your friends, making them believe their computer is going through a significant update. Watch their reactions and have a laugh!"
+        },
+        {
+          "title": "Test patience",
+          "description": "Find out how your colleagues or loved ones react to unexpected updates. It's a funny way to check their patience without causing any real inconvenience."
+        },
+        {
+          "title": "Tech teaching aid",
+          "description": "Use the fake update tool as a teaching aid for tech courses or workshops. It can be used to explain system updates and how to manage them."
+        },
+        {
+          "title": "UI/UX testing",
+          "description": "For UI/UX designers, our tool can provide an interesting case study on the user experience during system updates. Analyze user interaction and engagement during this process."
+        },
+        {
+          "title": "Content creation",
+          "description": "Content creators can use this tool for creating interesting tech-related content or social experiments for their blogs, vlogs, or social media platforms."
+        }
+      ],
       "subTips": [
         {
           "title": "Simulated Mac OS X Update",
@@ -1320,13 +1335,28 @@
     "type": "fake-update",
     "tip": {
       "title": "Ubuntu 22.04 Fake Update",
-      "content": {
-        "Ubuntu Fake Screen for Pranks": "The dynamic fake Ubuntu update screen is a favorite for tech pranks, perfect for tricking colleagues into believing their system is perpetually updating, creating light-hearted moments in the office.",
-        "Simulating Updates with Ubuntu Fake Screen": "Developers and IT professionals use the fake Ubuntu 22.04 update screen to simulate system updates and test user patience or response to interface changes without affecting system operations.",
-        "Ubuntu Update Screen for Training": "Trainers utilize the fake Ubuntu 22.04 screen to educate IT students on the process of system updates, familiarizing them with the visual cues of an actual Ubuntu upgrade.",
-        "Content Creation with Ubuntu Fake Update": "Content creators incorporate the dynamic Ubuntu fake update screen into their videos and streams to add a layer of authenticity when discussing tech topics or creating tutorials on system upgrades.",
-        "Staging Systems with Fake Ubuntu 22.04 Screen": "Tech staging environments use the Ubuntu 22.04 fake update screen to represent the update process in scenarios like trade shows or software demonstrations, without committing to an actual update."
-      },
+      "content": [
+        {
+          "title": "Ubuntu Fake Screen for Pranks",
+          "description": "The dynamic fake Ubuntu update screen is a favorite for tech pranks, perfect for tricking colleagues into believing their system is perpetually updating, creating light-hearted moments in the office."
+        },
+        {
+          "title": "Simulating Updates with Ubuntu Fake Screen",
+          "description": "Developers and IT professionals use the fake Ubuntu 22.04 update screen to simulate system updates and test user patience or response to interface changes without affecting system operations."
+        },
+        {
+          "title": "Ubuntu Update Screen for Training",
+          "description": "Trainers utilize the fake Ubuntu 22.04 screen to educate IT students on the process of system updates, familiarizing them with the visual cues of an actual Ubuntu upgrade."
+        },
+        {
+          "title": "Content Creation with Ubuntu Fake Update",
+          "description": "Content creators incorporate the dynamic Ubuntu fake update screen into their videos and streams to add a layer of authenticity when discussing tech topics or creating tutorials on system upgrades."
+        },
+        {
+          "title": "Staging Systems with Fake Ubuntu 22.04 Screen",
+          "description": "Tech staging environments use the Ubuntu 22.04 fake update screen to represent the update process in scenarios like trade shows or software demonstrations, without committing to an actual update."
+        }
+      ],
       "subTips": [
         {
           "title": "Simulated Ubuntu 22.04 Update",
