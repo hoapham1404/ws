@@ -1913,6 +1913,9 @@
       "Start time",
       "minutes",
       "Restart"
+    ],
+    "color": [
+      "Download"
     ]
   }
 }

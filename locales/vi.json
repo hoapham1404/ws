@@ -891,10 +891,10 @@
   "/blue-screen-of-death-windows": {
     "name": "Màn hình xanh chết chóc giả",
     "icon": "https: //emojicdn.elk.sh/💻",
-    "title": "Màn hình xanh chết chóc giả mạo của Windows",
+    "title": "Màn hình xanh chết chóc giả của Windows",
     "type": "chơi khăm",
     "tip": {
-      "title": "Màn hình xanh chết chóc giả mạo của Windows",
+      "title": "Màn hình xanh chết chóc giả của Windows",
       "content": [
         {
           "title": "Đùa giỡn bạn bè của bạn bằng màn hình xanh chết chóc giả",
@@ -962,10 +962,10 @@
   "/blue-screen-of-death-windows-10": {
     "name": "Màn hình xanh chết chóc giả 10",
     "icon": "https: //emojicdn.elk.sh/💻",
-    "title": "Màn hình xanh chết chóc giả mạo Windows 10",
+    "title": "Màn hình xanh chết chóc giả Windows 10",
     "type": "chơi khăm",
     "tip": {
-      "title": "Màn hình xanh chết chóc giả mạo Windows 10",
+      "title": "Màn hình xanh chết chóc giả Windows 10",
       "content": [
         {
           "title": "Trò đùa văn phòng: Toàn màn hình BSOD của Windows trong giờ nghỉ trưa",
@@ -1104,29 +1104,29 @@
   "/fake-windows-10-update-screen": {
     "name": "Cập nhật giả Windows 10",
     "icon": "https: //emojicdn.elk.sh/🪟",
-    "title": "Bản cập nhật giả mạo Windows 10",
+    "title": "Bản cập nhật giả Windows 10",
     "type": "cập nhật giả",
     "tip": {
-      "title": "Bản cập nhật giả mạo Windows 10",
+      "title": "Bản cập nhật giả Windows 10",
       "content": [
         {
           "title": "Đùa giỡn bạn tôi bằng màn hình cập nhật Windows 10 trông như thật!",
-          "description": "Sử dụng trang cập nhật giả mạo Windows 10 để lừa bạn tôi nghĩ rằng máy tính của họ thực sự đang cập nhật. Thanh tiến trình thực tế và các thông báo hoạt động như một cơ duyên!"
+          "description": "Sử dụng trang cập nhật giả Windows 10 để lừa bạn tôi nghĩ rằng máy tính của họ thực sự đang cập nhật. Thanh tiến trình thực tế và các thông báo hoạt động như một cơ duyên!"
         },
         {
-          "title": "Trò đùa hoàn hảo với màn hình cập nhật giả mạo Windows 10!",
+          "title": "Trò đùa hoàn hảo với màn hình cập nhật giả Windows 10!",
           "description": "Đã thực hiện một trò đùa thành công bằng cách hiển thị màn hình cập nhật Windows 10 giả trên máy tính của đồng nghiệp của tôi. Các thông báo và tiến trình trông giống như thật khiến nó có vẻ giống như hàng thật!"
         },
         {
           "title": "Gây ấn tượng với bạn bè của tôi bằng mô phỏng cập nhật Windows 10 thực tế!",
-          "description": "Đã chia sẻ ảnh chụp màn hình cập nhật giả mạo Windows 10 mà tôi đã tạo bằng trang mô phỏng. Hình ảnh xác thực và thông báo trạng thái khiến nó trông giống như một bản cập nhật chính hãng đang được tiến hành!"
+          "description": "Đã chia sẻ ảnh chụp màn hình cập nhật giả Windows 10 mà tôi đã tạo bằng trang mô phỏng. Hình ảnh xác thực và thông báo trạng thái khiến nó trông giống như một bản cập nhật chính hãng đang được tiến hành!"
         },
         {
           "title": "Trò chơi khăm cập nhật Windows 10 đã gây ấn tượng mạnh trong bữa tiệc!",
-          "description": "Sử dụng trang cập nhật giả mạo Windows 10 để chơi khăm bạn bè tôi trong một buổi tụ tập. Màn hình cập nhật thực tế, đầy đủ các thông báo và tiến trình, khiến mọi người phải khốn đốn!"
+          "description": "Sử dụng trang cập nhật giả Windows 10 để chơi khăm bạn bè tôi trong một buổi tụ tập. Màn hình cập nhật thực tế, đầy đủ các thông báo và tiến trình, khiến mọi người phải khốn đốn!"
         },
         {
-          "title": "Cười vui vẻ với màn hình cập nhật giả mạo Windows 10!",
+          "title": "Cười vui vẻ với màn hình cập nhật giả Windows 10!",
           "description": "Đã truy cập công cụ chơi khăm cập nhật Windows 10 và tùy chỉnh các thông báo để tạo ra một kịch bản hài hước. Giao diện thực tế và thanh tiến trình khiến nó trở thành một trải nghiệm vui nhộn cho tất cả những người liên quan."
         }
       ],
@@ -1134,7 +1134,7 @@
         {
           "title": "Bản cập nhật Windows 10 mô phỏng",
           "content": [
-            "Bản cập nhật giả mạo Windows 10",
+            "Bản cập nhật giả Windows 10",
             "Mô phỏng cập nhật Windows 10",
             "Mô phỏng bản cập nhật Windows 10",
             "Màn hình cập nhật Windows 10 giả",
@@ -1161,7 +1161,7 @@
             "Trò đùa thú vị khi cập nhật Windows 10",
             "Bản cập nhật Windows 10 giả thú vị",
             "Tận hưởng bản cập nhật Windows 10 mô phỏng",
-            "Trò đùa với bản cập nhật giả mạo Windows 10",
+            "Trò đùa với bản cập nhật giả Windows 10",
             "Trải nghiệm cập nhật Windows 10 thú vị",
             "Bản cập nhật Windows 10 để giải trí",
             "Công cụ chơi khăm cập nhật Windows 10"
@@ -1171,12 +1171,12 @@
     }
   },
   "/fake-windows-xp-update-screen": {
-    "name": "Cập nhật giả mạo Windows XP",
+    "name": "Cập nhật giả Windows XP",
     "icon": "https: //emojicdn.elk.sh/🪟",
-    "title": "Bản cập nhật giả mạo Windows XP",
+    "title": "Bản cập nhật giả Windows XP",
     "type": "cập nhật giả",
     "tip": {
-      "title": "Bản cập nhật giả mạo Windows XP",
+      "title": "Bản cập nhật giả Windows XP",
       "content": [
         {
           "title": "Trò đùa Office với màn hình cập nhật Windows XP",
@@ -1184,7 +1184,7 @@
         },
         {
           "title": "Bài kiểm tra cập nhật Windows XP hài hước",
-          "description": "Trò đùa cập nhật Windows XP hoàn hảo để kiểm tra sự kiên nhẫn của bạn bè và gia đình. Màn hình cập nhật giả mạo thú vị này tái tạo trải nghiệm Windows XP, tạo ra một kịch bản đáng tin cậy và thú vị."
+          "description": "Trò đùa cập nhật Windows XP hoàn hảo để kiểm tra sự kiên nhẫn của bạn bè và gia đình. Màn hình cập nhật giả thú vị này tái tạo trải nghiệm Windows XP, tạo ra một kịch bản đáng tin cậy và thú vị."
         },
         {
           "title": "Máy tính cổ điển với Windows XP",
@@ -1196,26 +1196,26 @@
         },
         {
           "title": "Giáo dục công nghệ sử dụng giao diện Windows XP",
-          "description": "Màn hình cập nhật Windows XP giả mạo cũng phục vụ mục đích giáo dục. Nó được sử dụng trong các lớp công nghệ để chứng minh các khía cạnh lịch sử của hệ điều hành, cung cấp cho sinh viên cái nhìn sâu sắc thực tế về sự phát triển của giao diện người dùng và nâng cấp phần mềm."
+          "description": "Màn hình cập nhật Windows XP giả cũng phục vụ mục đích giáo dục. Nó được sử dụng trong các lớp công nghệ để chứng minh các khía cạnh lịch sử của hệ điều hành, cung cấp cho sinh viên cái nhìn sâu sắc thực tế về sự phát triển của giao diện người dùng và nâng cấp phần mềm."
         },
         {
           "title": "Đùa giỡn bạn tôi bằng màn hình cập nhật Windows XP trông giống như thật!",
-          "description": "Sử dụng trang cập nhật giả mạo Windows XP để lừa bạn tôi nghĩ rằng máy tính của họ thực sự đang cập nhật. Thanh tiến trình thực tế và các thông báo hoạt động như một cơ duyên!"
+          "description": "Sử dụng trang cập nhật giả Windows XP để lừa bạn tôi nghĩ rằng máy tính của họ thực sự đang cập nhật. Thanh tiến trình thực tế và các thông báo hoạt động như một cơ duyên!"
         },
         {
-          "title": "Trò đùa hoàn hảo với màn hình cập nhật giả mạo Windows XP!",
+          "title": "Trò đùa hoàn hảo với màn hình cập nhật giả Windows XP!",
           "description": "Đã thực hiện một trò đùa thành công bằng cách hiển thị màn hình cập nhật Windows XP giả trên máy tính của đồng nghiệp của tôi. Các thông báo và tiến trình trông giống như thật khiến nó có vẻ giống như hàng thật!"
         },
         {
           "title": "Gây ấn tượng với bạn bè của tôi bằng mô phỏng cập nhật Windows XP thực tế!",
-          "description": "Đã chia sẻ ảnh chụp màn hình cập nhật giả mạo Windows XP mà tôi đã tạo bằng trang mô phỏng. Hình ảnh xác thực và thông báo trạng thái khiến nó trông giống như một bản cập nhật chính hãng đang được tiến hành!"
+          "description": "Đã chia sẻ ảnh chụp màn hình cập nhật giả Windows XP mà tôi đã tạo bằng trang mô phỏng. Hình ảnh xác thực và thông báo trạng thái khiến nó trông giống như một bản cập nhật chính hãng đang được tiến hành!"
         },
         {
           "title": "Trò chơi khăm cập nhật Windows XP đã gây ấn tượng mạnh trong bữa tiệc!",
-          "description": "Sử dụng trang cập nhật giả mạo Windows XP để chơi khăm bạn bè tôi trong một buổi tụ tập. Màn hình cập nhật thực tế, đầy đủ các thông báo và tiến trình, khiến mọi người phải khốn đốn!"
+          "description": "Sử dụng trang cập nhật giả Windows XP để chơi khăm bạn bè tôi trong một buổi tụ tập. Màn hình cập nhật thực tế, đầy đủ các thông báo và tiến trình, khiến mọi người phải khốn đốn!"
         },
         {
-          "title": "Cười vui vẻ với màn hình cập nhật giả mạo Windows XP!",
+          "title": "Cười vui vẻ với màn hình cập nhật giả Windows XP!",
           "description": "Đã truy cập công cụ chơi khăm cập nhật Windows XP và tùy chỉnh các thông báo để tạo ra một kịch bản hài hước. Giao diện thực tế và thanh tiến trình khiến nó trở thành một trải nghiệm vui nhộn cho tất cả những người liên quan."
         }
       ],
@@ -1223,7 +1223,7 @@
         {
           "title": "Bản cập nhật Windows XP mô phỏng",
           "content": [
-            "Bản cập nhật giả mạo Windows XP",
+            "Bản cập nhật giả Windows XP",
             "Mô phỏng cập nhật Windows XP",
             "Mô phỏng bản cập nhật Windows XP",
             "Màn hình cập nhật Windows XP giả",
@@ -1250,7 +1250,7 @@
             "Trò chơi khăm cập nhật Windows XP mang tính giải trí",
             "Bản cập nhật Windows XP giả thú vị",
             "Tận hưởng bản cập nhật Windows XP mô phỏng",
-            "Trò đùa với bản cập nhật giả mạo Windows XP",
+            "Trò đùa với bản cập nhật giả Windows XP",
             "Trải nghiệm cập nhật Windows XP thú vị",
             "Cập nhật Windows XP để giải trí",
             "Công cụ chơi khăm cập nhật Windows XP"
@@ -1260,16 +1260,16 @@
     }
   },
   "/fake-mac-os-x-update-screen": {
-    "name": "Cập nhật giả mạo Mac OS X",
+    "name": "Cập nhật giả Mac OS X",
     "icon": "https: //emojicdn.elk.sh/🍎",
-    "title": "Bản cập nhật giả mạo Mac OS X",
+    "title": "Bản cập nhật giả Mac OS X",
     "type": "cập nhật giả",
     "tip": {
-      "title": "Bản cập nhật giả mạo Mac OS X",
+      "title": "Bản cập nhật giả Mac OS X",
       "content": [
         {
           "title": "Trò đùa bạn bè",
-          "description": "Sử dụng công cụ cập nhật giả mạo Mac OS X của chúng tôi để chơi khăm bạn bè bạn, khiến họ tin rằng máy tính của họ đang trải qua một bản cập nhật quan trọng. Hãy xem phản ứng của họ và cười lớn!"
+          "description": "Sử dụng công cụ cập nhật giả Mac OS X của chúng tôi để chơi khăm bạn bè bạn, khiến họ tin rằng máy tính của họ đang trải qua một bản cập nhật quan trọng. Hãy xem phản ứng của họ và cười lớn!"
         },
         {
           "title": "Kiểm tra sự kiên nhẫn",
@@ -1292,7 +1292,7 @@
         {
           "title": "Cập nhật Mac OS X mô phỏng",
           "content": [
-            "Bản cập nhật giả mạo Mac OS X",
+            "Bản cập nhật giả Mac OS X",
             "Mô phỏng cập nhật Mac OS X",
             "Mô phỏng bản cập nhật Mac OS X",
             "Màn hình cập nhật Mac OS X giả",
@@ -1319,7 +1319,7 @@
             "Trò chơi khăm cập nhật Mac OS X mang tính giải trí",
             "Bản cập nhật Mac OS X giả thú vị",
             "Tận hưởng bản cập nhật Mac OS X mô phỏng",
-            "Trò đùa với bản cập nhật giả mạo Mac OS X",
+            "Trò đùa với bản cập nhật giả Mac OS X",
             "Trải nghiệm cập nhật Mac OS X thú vị",
             "Bản cập nhật Mac OS X để giải trí",
             "Công cụ chơi khăm cập nhật Mac OS X"
@@ -1329,12 +1329,12 @@
     }
   },
   "/fake-ubuntu-22-04-update-screen": {
-    "name": "Cập nhật giả mạo Ubuntu 22.04",
+    "name": "Cập nhật giả Ubuntu 22.04",
     "icon": "https: //emojicdn.elk.sh/🐧",
-    "title": "Bản cập nhật giả mạo Ubuntu 22.04",
+    "title": "Bản cập nhật giả Ubuntu 22.04",
     "type": "cập nhật giả",
     "tip": {
-      "title": "Bản cập nhật giả mạo Ubuntu 22.04",
+      "title": "Bản cập nhật giả Ubuntu 22.04",
       "content": [
         {
           "title": "Màn hình giả Ubuntu dành cho trò đùa",
@@ -1342,26 +1342,26 @@
         },
         {
           "title": "Mô phỏng cập nhật bằng màn hình giả Ubuntu",
-          "description": "Các nhà phát triển và chuyên gia CNTT sử dụng màn hình cập nhật Ubuntu 22.04 giả mạo để mô phỏng các bản cập nhật hệ thống và kiểm tra sự kiên nhẫn của người dùng hoặc phản ứng với những thay đổi giao diện mà không ảnh hưởng đến hoạt động của hệ thống."
+          "description": "Các nhà phát triển và chuyên gia CNTT sử dụng màn hình cập nhật Ubuntu 22.04 giả để mô phỏng các bản cập nhật hệ thống và kiểm tra sự kiên nhẫn của người dùng hoặc phản ứng với những thay đổi giao diện mà không ảnh hưởng đến hoạt động của hệ thống."
         },
         {
           "title": "Màn hình cập nhật Ubuntu dành cho đào tạo",
           "description": "Giảng viên sử dụng màn hình Ubuntu 22.04 giả để hướng dẫn sinh viên CNTT về quy trình cập nhật hệ thống, giúp họ làm quen với các dấu hiệu trực quan của bản nâng cấp Ubuntu thực tế."
         },
         {
-          "title": "Tạo nội dung bằng Bản cập nhật giả mạo Ubuntu",
-          "description": "Người tạo nội dung kết hợp màn hình cập nhật giả mạo Ubuntu động vào video và luồng của họ để tăng thêm lớp xác thực khi thảo luận về các chủ đề công nghệ hoặc tạo hướng dẫn về nâng cấp hệ thống."
+          "title": "Tạo nội dung bằng Bản cập nhật giả Ubuntu",
+          "description": "Người tạo nội dung kết hợp màn hình cập nhật giả Ubuntu động vào video và luồng của họ để tăng thêm lớp xác thực khi thảo luận về các chủ đề công nghệ hoặc tạo hướng dẫn về nâng cấp hệ thống."
         },
         {
           "title": "Hệ thống dàn dựng với màn hình Ubuntu 22.04 giả",
-          "description": "Môi trường dàn dựng công nghệ sử dụng màn hình cập nhật giả mạo Ubuntu 22.04 để thể hiện quá trình cập nhật trong các tình huống như triển lãm thương mại hoặc trình diễn phần mềm mà không cam kết cập nhật thực tế."
+          "description": "Môi trường dàn dựng công nghệ sử dụng màn hình cập nhật giả Ubuntu 22.04 để thể hiện quá trình cập nhật trong các tình huống như triển lãm thương mại hoặc trình diễn phần mềm mà không cam kết cập nhật thực tế."
         }
       ],
       "subTips": [
         {
           "title": "Bản cập nhật Ubuntu 22.04 mô phỏng",
           "content": [
-            "Bản cập nhật giả mạo Ubuntu 22.04",
+            "Bản cập nhật giả Ubuntu 22.04",
             "Mô phỏng cập nhật Ubuntu 22.04",
             "Mô phỏng bản cập nhật Ubuntu 22.04",
             "Màn hình cập nhật Ubuntu 22.04 giả",
@@ -1388,7 +1388,7 @@
             "Trò chơi khăm cập nhật Ubuntu 22.04 mang tính giải trí",
             "Bản cập nhật Ubuntu 22.04 giả thú vị",
             "Tận hưởng bản cập nhật Ubuntu 22.04 mô phỏng",
-            "Trò đùa với bản cập nhật giả mạo Ubuntu 22.04",
+            "Trò đùa với bản cập nhật giả Ubuntu 22.04",
             "Trải nghiệm cập nhật Ubuntu 22.04 thú vị",
             "Bản cập nhật Ubuntu 22.04 để giải trí",
             "Công cụ chơi khăm cập nhật Ubuntu 22.04"
@@ -1398,16 +1398,16 @@
     }
   },
   "/fake-chrome-os-update-screen": {
-    "name": "Cập nhật Chrome OS giả mạo",
+    "name": "Cập nhật Chrome OS giả  ",
     "icon": "https: //emojicdn.elk.sh/🌐",
-    "title": "Bản cập nhật giả mạo ChromeOS",
+    "title": "Bản cập nhật giả ChromeOS",
     "type": "cập nhật giả",
     "tip": {
-      "title": "Bản cập nhật giả mạo ChromeOS",
+      "title": "Bản cập nhật giả ChromeOS",
       "content": [
         {
           "title": "Đùa giỡn bạn bè của bạn bằng màn hình cập nhật ChromeOS giả",
-          "description": "Mở công cụ cập nhật giả mạo toàn màn hình này khi bạn của bạn không giám sát Chromebook của họ. Khi quay lại, họ sẽ nghĩ rằng thiết bị của họ bị kẹt trong bản cập nhật hệ thống. Hoàn hảo cho những trò đùa nhanh mà không thực sự gây hại cho thiết bị của họ."
+          "description": "Mở công cụ cập nhật giả toàn màn hình này khi bạn của bạn không giám sát Chromebook của họ. Khi quay lại, họ sẽ nghĩ rằng thiết bị của họ bị kẹt trong bản cập nhật hệ thống. Hoàn hảo cho những trò đùa nhanh mà không thực sự gây hại cho thiết bị của họ."
         },
         {
           "title": "Kiểm tra cách mọi người phản ứng với các bản cập nhật hệ thống trong khi thuyết trình",
@@ -1427,10 +1427,10 @@
         },
         {
           "title": "Làm cho bản trình bày ChromeOS của bạn hấp dẫn hơn",
-          "description": "Nói về cập nhật phần mềm hoặc bảo trì hệ thống? Sử dụng màn hình cập nhật giả mạo này để hiển thị chính xác những gì người dùng Chrome OS nhìn thấy mà không làm khán giả nhàm chán bằng ảnh chụp màn hình tĩnh."
+          "description": "Nói về cập nhật phần mềm hoặc bảo trì hệ thống? Sử dụng màn hình cập nhật giả này để hiển thị chính xác những gì người dùng Chrome OS nhìn thấy mà không làm khán giả nhàm chán bằng ảnh chụp màn hình tĩnh."
         },
         {
-          "title": "Thực hiện trò chơi khăm văn phòng đỉnh cao bằng các bản cập nhật giả mạo",
+          "title": "Thực hiện trò chơi khăm văn phòng đỉnh cao bằng các bản cập nhật giả  ",
           "description": "Bạn muốn chơi khăm đồng nghiệp của mình? Hãy khởi chạy trình mô phỏng cập nhật Chrome OS toàn màn hình này trên Chromebook văn phòng. Đây là một cách thú vị để gây bất ngờ cho nhóm của bạn mà không gây ra bất kỳ gián đoạn thực sự nào cho công việc của họ."
         }
       ],
@@ -1471,7 +1471,7 @@
   "/fake-windows-11-update-screen": {
     "name": "Cập nhật giả Windows 11",
     "icon": "https: //emojicdn.elk.sh/🪟",
-    "title": "Bản cập nhật giả mạo Windows 11",
+    "title": "Bản cập nhật giả Windows 11",
     "type": "cập nhật giả",
     "tip": {
       "title": "Màn hình cập nhật Windows 11",
@@ -1501,7 +1501,7 @@
         {
           "title": "Bản cập nhật Windows 11 mô phỏng",
           "content": [
-            "Bản cập nhật giả mạo Windows 11",
+            "Bản cập nhật giả Windows 11",
             "Mô phỏng cập nhật Windows 11",
             "Mô phỏng bản cập nhật Windows 11",
             "Màn hình cập nhật Windows 11 giả",
@@ -1538,16 +1538,16 @@
     }
   },
   "/fake-android-update": {
-    "name": "Bản cập nhật giả mạo Android",
+    "name": "Bản cập nhật giả Android",
     "icon": "https: //emojicdn.elk.sh/📱",
-    "title": "Cập nhật Android giả mạo",
+    "title": "Cập nhật Android giả  ",
     "type": "cập nhật giả",
     "tip": {
-      "title": "Màn hình cập nhật giả mạo Android",
+      "title": "Màn hình cập nhật giả Android",
       "content": [
         {
           "title": "Mô phỏng bản cập nhật Android để kiểm tra phần mềm",
-          "description": "Sử dụng công cụ cập nhật giả mạo Android của chúng tôi để tạo màn hình cập nhật trông giống như thật cho mục đích trình diễn và thử nghiệm phần mềm."
+          "description": "Sử dụng công cụ cập nhật giả Android của chúng tôi để tạo màn hình cập nhật trông giống như thật cho mục đích trình diễn và thử nghiệm phần mềm."
         },
         {
           "title": "Thu hút khán giả của bạn bằng màn hình cập nhật Android thực tế",
@@ -1558,12 +1558,12 @@
           "description": "Kết hợp màn hình cập nhật Android thực tế của chúng tôi vào các tình huống giáo dục công nghệ để dạy về cập nhật hệ thống và thiết kế giao diện người dùng."
         },
         {
-          "title": "Tạo nội dung giải trí bằng bản cập nhật giả mạo Android",
+          "title": "Tạo nội dung giải trí bằng bản cập nhật giả Android",
           "description": "Sản xuất nội dung video hấp dẫn hoặc phát trực tiếp bằng trò đùa thú vị về cập nhật Android, thêm sự hài hước vào các cuộc thảo luận về công nghệ."
         },
         {
           "title": "Đùa bạn bè bằng mô phỏng cập nhật Android chính hãng",
-          "description": "Gây ngạc nhiên cho bạn bè của bạn bằng cách sử dụng công cụ của chúng tôi để chơi khăm bằng bản cập nhật giả mạo Android, biến những khoảnh khắc bình thường thành những trò đùa công nghệ đáng nhớ."
+          "description": "Gây ngạc nhiên cho bạn bè của bạn bằng cách sử dụng công cụ của chúng tôi để chơi khăm bằng bản cập nhật giả Android, biến những khoảnh khắc bình thường thành những trò đùa công nghệ đáng nhớ."
         },
         {
           "title": "Nâng cao việc học thiết kế trải nghiệm người dùng với các bản cập nhật mô phỏng",
@@ -1578,7 +1578,7 @@
         {
           "title": "Cập nhật Android mô phỏng",
           "content": [
-            "Bản cập nhật giả mạo Android",
+            "Bản cập nhật giả Android",
             "Mô phỏng cập nhật Android",
             "Mô phỏng cập nhật Android",
             "Màn hình cập nhật Android giả",
@@ -1603,9 +1603,9 @@
           "title": "Giải trí và Vui vẻ",
           "content": [
             "Trò đùa cập nhật Android thú vị",
-            "Cập nhật Android giả mạo thú vị",
+            "Cập nhật Android giả thú vị",
             "Tận hưởng bản cập nhật Android mô phỏng",
-            "Trò đùa với bản cập nhật giả mạo Android",
+            "Trò đùa với bản cập nhật giả Android",
             "Trải nghiệm cập nhật Android thú vị",
             "Cập nhật Android để giải trí",
             "Công cụ chơi khăm cập nhật Android"
@@ -1900,9 +1900,9 @@
   },
   "navigation": {
     "color": "Màn hình màu",
-    "prank": "Màn hình prank",
-    "fake-update": "Màn hình fake update",
-    "screensaver": "Màn hình screensaver",
+    "prank": "Màn hình trò đùa",
+    "fake-update": "Màn hình cập nhật giả",
+    "screensaver": "Màn hình bảo vệ",
     "tip": {
       "header": "Người dùng {tipTitle} cho:"
     }
@@ -1913,6 +1913,9 @@
       "Thời gian bắt đầu",
       "phút",
       "Khởi động lại"
+    ],
+    "color": [
+      "Tải xuống"
     ]
   }
 }
