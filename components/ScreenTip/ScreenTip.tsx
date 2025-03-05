@@ -6,6 +6,7 @@ import { useTranslations } from "next-intl"
 export default function ScreenTip() {
   const path = usePathname()
   const t = useTranslations(path)
+  const tRaw = useTranslations()
   const tip = t.raw("tip")
 
   if (!tip) return null;
@@ -14,9 +15,7 @@ export default function ScreenTip() {
     <React.Fragment>
       <div className="container mx-auto flex flex-col gap-4">
         <h2 className="text-3xl font-medium text-center text-gray-800 mb-4">
-          People use {
-            tip.title
-          } for:
+          {tRaw("navigation.tip.header", { tipTitle: t("name") })}
         </h2>
 
         <div className="flex flex-col gap-6">

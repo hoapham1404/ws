@@ -1902,7 +1902,10 @@
     "color": "Màn hình màu",
     "prank": "Màn hình prank",
     "fake-update": "Màn hình fake update",
-    "screensaver": "Màn hình screensaver"
+    "screensaver": "Màn hình screensaver",
+    "tip": {
+      "header": "Người dùng {tipTitle} cho:"
+    }
   },
   "settings": {
     "time": [

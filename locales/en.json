@@ -1902,7 +1902,10 @@
     "color": "Color screens",
     "prank": "Prank screens",
     "fake-update": "Fake update screens",
-    "screensaver": "Screensavers screens"
+    "screensaver": "Screensavers screens",
+    "tip": {
+      "header": "People use {tipTitle} for:"
+    }
   },
   "settings": {
     "time": [
