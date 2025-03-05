@@ -55,13 +55,14 @@ export const getStaticProps: GetStaticProps<Props> = async ({
 export default function DynamicPage() {
   const pathname = usePathname();
   const t = useTranslations(pathname);
+  const raw = useTranslations();
   const route: RouteStore | undefined = getRouteByPath(pathname);
   if (!route) return <div>Not found</div>
 
   return (
     <React.Fragment>
       <Head>
-        <title>{route.color ? t("name") + " | Online Tool" : t("name") + " | Online Tool"}</title>
+        <title>{route.color ? raw("title", { title: t("name") }) : raw("title", { title: t("name") })}</title>
         <meta name="description" content={route.path} />
         <link rel="icon" href={route.color ? `data:image/svg+xml,
         <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>

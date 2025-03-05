@@ -23,12 +23,13 @@ export const getStaticProps: GetStaticProps = async ({ locale, locales }) => {
 export default function HomePage() {
   const route: RouteStore | undefined = getRouteByPath("/");
   const t = useTranslations("/");
+  const raw = useTranslations();
   if (!route) return null;
 
   return (
     <React.Fragment>
       <Head>
-        <title>{t("name")}</title>
+        <title>{raw("title", { title: t("name") })}</title>
         <meta name="description" content={t("tip.title")} />
         <link rel="icon" href={route.color ? `data:image/svg+xml,
       <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
