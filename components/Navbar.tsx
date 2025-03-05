@@ -30,7 +30,7 @@ export default function Navbar() {
           </Link>
         </div>
 
-        <Select defaultValue={defaultLocale} onValueChange={handleLocaleChange}>
+        <Select defaultValue={activeLocale} onValueChange={handleLocaleChange}>
           <SelectTrigger className="w-[130px]">
             <SelectValue placeholder={getLanguageLabel(defaultLocale || 'en')} />
           </SelectTrigger>

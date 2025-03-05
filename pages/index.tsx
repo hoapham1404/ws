@@ -22,13 +22,9 @@ export const getStaticProps: GetStaticProps = async ({ locale, locales }) => {
   };
 };
 export default function HomePage(props: InferGetStaticPropsType<typeof getStaticProps>) {
-  const router = useRouter();
   const route = getRouteByPath("/");
   if (!route) return;
-
   const t = useTranslations("/");
-  const tip = t.raw("tip")
-  const { defaultLocale } = router;
   return (
     <React.Fragment>
       <Head>
@@ -39,11 +35,7 @@ export default function HomePage(props: InferGetStaticPropsType<typeof getStatic
           <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(route.color)}'/>
       </svg>` : route.icon} />
       </Head>
-      <div>
-        <p>defaultLocale: {defaultLocale}</p>
-        <p>locale: {props?.locale || "null"}</p>
-        <p>locales: {JSON.stringify(props?.locales)}</p>
-      </div>
+
       <div>
         <RootLayout
           left={<ColorOptions />}
@@ -52,12 +44,6 @@ export default function HomePage(props: InferGetStaticPropsType<typeof getStatic
           bottom={<ScreenOptions />}
         />
       </div>
-      <div>
-        <p>
-          {JSON.stringify(tip)}
-        </p>
-      </div>
-
     </React.Fragment >
   )
 }
