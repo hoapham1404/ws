@@ -1,17 +1,19 @@
-"use client";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { useFakeBlueScreen10Store } from "./fakeBlueScreen10";
+import { usePathname } from "next/navigation";
+import { useTranslations } from "next-intl";
 
 export default function FakeBlueScreen10_Sidebar() {
   const { updateTime, startTime, setUpdateTime, setStartTime, handleRestart } =
     useFakeBlueScreen10Store();
+  const t = useTranslations("settings.time")
 
   return (
     <div className="w-48 space-y-6">
       <div className="space-y-2">
-        <Label>Update time</Label>
+        <Label>{t("0")}</Label>
         <div className="flex items-center gap-2">
           <Input
             type="number"
@@ -20,12 +22,12 @@ export default function FakeBlueScreen10_Sidebar() {
             min={1}
             className="w-20"
           />
-          <span className="text-sm text-muted-foreground">minutes</span>
+          <span className="text-sm text-muted-foreground">{t("2")}</span>
         </div>
       </div>
 
       <div className="space-y-2">
-        <Label>Start time</Label>
+        <Label>{t("1")}</Label>
         <div className="flex items-center gap-2">
           <Input
             type="number"
@@ -40,7 +42,7 @@ export default function FakeBlueScreen10_Sidebar() {
       </div>
 
       <Button className="w-full" onClick={handleRestart}>
-        Restart
+        {t("3")}
       </Button>
     </div>
   );

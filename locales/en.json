@@ -1903,5 +1903,13 @@
     "prank": "Prank screens",
     "fake-update": "Fake update screens",
     "screensaver": "Screensavers screens"
+  },
+  "settings": {
+    "time": [
+      "Update time",
+      "Start time",
+      "minutes",
+      "Restart"
+    ]
   }
 }

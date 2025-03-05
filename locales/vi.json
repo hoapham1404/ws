@@ -1903,5 +1903,13 @@
     "prank": "Màn hình prank",
     "fake-update": "Màn hình fake update",
     "screensaver": "Màn hình screensaver"
+  },
+  "settings": {
+    "time": [
+      "Thời gian cập nhật",
+      "Thời gian bắt đầu",
+      "phút",
+      "Khởi động lại"
+    ]
   }
 }
