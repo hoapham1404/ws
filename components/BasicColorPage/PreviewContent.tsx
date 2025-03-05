@@ -13,9 +13,15 @@ export default function PreviewContent() {
   }, [currentRoute, setCurrentColor]);
 
   return (
-    <div
-      className="w-full h-full"
-      style={{ backgroundColor: currentColor }}
-    ></div>
+    <div className={"h-full flex justify-center items-center "}>
+      <div
+        className={"h-5/6 w-full rounded-lg mx-2 my-auto"}
+        style={{
+          backgroundColor: currentColor,
+          boxShadow: `0 8px 30px #ffbe5c`
+        }}
+      />
+    </div>
+
   )
 }

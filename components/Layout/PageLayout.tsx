@@ -1,8 +1,4 @@
 import Header from "@/components/Header";
-import LeftSidePanel from "@/components/Layout/LeftSidePanel";
-import RightSidePanel from "@/components/Layout/RightSidePanel";
-import BottomPanel from "@/components/Layout/BottomPanel";
-import PreviewBox from "@/components/Layout/PreviewBox";
 import React from "react";
 
 interface PageLayoutProps {
@@ -19,14 +15,14 @@ export default function RootLayout({
   bottom,
 }: PageLayoutProps) {
   return (
-    <React.Fragment>
+    <div className="h-screen flex flex-col">
       <Header />
-      <main className="grid grid-cols-[2fr_3fr_2fr] grid-rows-2 gap-4">
+      <main className="grid grid-cols-[2fr_3fr_2fr] grid-rows-2">
         <div className="overflow-auto">{left}</div>
         <div className="overflow-auto">{mid}</div>
         <div className="overflow-auto">{right}</div>
         <div className="col-span-3">{bottom}</div>
       </main>
-    </React.Fragment>
+    </div>
   );
 }

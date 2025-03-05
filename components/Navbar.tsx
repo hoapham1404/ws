@@ -19,7 +19,7 @@ export default function Navbar() {
   };
 
   return (
-    <header className="py-[20px]">
+    <header className="my-4">
       <div className="container mx-auto px-4 h-14 flex items-center justify-between">
         <div className="flex items-center gap-6">
           <Link href="/" className="font-semibold text-xl">
