@@ -1,4 +1,3 @@
-'use client'
 import { getRouteByPath } from "@/constants/routes";
 import { colorStore } from "@/store/colorStore";
 import { usePathname } from "next/navigation";
@@ -9,12 +8,10 @@ export default function PreviewContent() {
   const currentPath = usePathname();
   const currentRoute = getRouteByPath(currentPath);
 
-
   useEffect(() => {
-    if (currentRoute?.type === "color") {
-      setCurrentColor(currentRoute.color ?? "#000000");
-    }
-  }, [currentRoute]);
+    setCurrentColor(currentRoute?.type === "color" ? currentRoute.color ?? "#000000" : "#000000");
+  }, [currentRoute, setCurrentColor]);
+
   return (
     <div
       className="w-full h-full"

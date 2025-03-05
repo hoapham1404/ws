@@ -2,7 +2,6 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { useFakeBlueScreen10Store } from "./fakeBlueScreen10";
-import { usePathname } from "next/navigation";
 import { useTranslations } from "next-intl";
 
 export default function FakeBlueScreen10_Sidebar() {

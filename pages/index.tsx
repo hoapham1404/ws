@@ -3,11 +3,10 @@ import PreviewContent from "@/components/BasicColorPage/PreviewContent";
 import ScreenOptions from "@/components/BasicColorPage/ScreenOptions";
 import SettingsPanel from "@/components/BasicColorPage/SettingsPanel";
 import RootLayout from "@/components/Layout/PageLayout";
-import { getRouteByPath } from "@/constants/routes";
-import { GetStaticProps, InferGetStaticPropsType } from "next";
+import { getRouteByPath, RouteStore } from "@/constants/routes";
+import { GetStaticProps } from "next";
 import { useTranslations } from "next-intl";
 import Head from "next/head";
-import { useRouter } from "next/router";
 import React from "react";
 
 
@@ -21,10 +20,11 @@ export const getStaticProps: GetStaticProps = async ({ locale, locales }) => {
     },
   };
 };
-export default function HomePage(props: InferGetStaticPropsType<typeof getStaticProps>) {
-  const route = getRouteByPath("/");
-  if (!route) return;
+export default function HomePage() {
+  const route: RouteStore | undefined = getRouteByPath("/");
   const t = useTranslations("/");
+  if (!route) return null;
+
   return (
     <React.Fragment>
       <Head>

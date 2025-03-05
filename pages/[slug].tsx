@@ -11,10 +11,11 @@ import { FakeUpdateScreenLeft } from "./screens/FakeUpdateScreen/FakeUpdateScree
 import { UpdateProgressProvider } from "./contexts/UpdateProgressContext";
 import { FakeUpdateScreenRight } from "./screens/FakeUpdateScreen/FakeUpdateScreenRight";
 import { routes } from "@/constants/routes";
-import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from "next";
+import { GetStaticPaths, GetStaticProps } from "next";
 import React from "react";
 import Head from "next/head";
-import { useRouter } from "next/router";
+import { usePathname } from "next/navigation";
+import { useTranslations } from "next-intl";
 
 
 export const getStaticPaths: GetStaticPaths = async ({ locales = [] }) => {
@@ -51,22 +52,16 @@ export const getStaticProps: GetStaticProps<Props> = async ({
   };
 };
 
-type GspPageProps = InferGetStaticPropsType<typeof getStaticProps>;
-
-
-
-export default function DynamicPage(props: GspPageProps) {
-  const router = useRouter()
-  const { query, isFallback } = router
-  const route = getRouteByPath(query.slug as string);
-  if (!route) return;
-
-  if (isFallback) return <div>Loading...</div>
+export default function DynamicPage() {
+  const pathname = usePathname();
+  const t = useTranslations(pathname);
+  const route: RouteStore | undefined = getRouteByPath(pathname);
+  if (!route) return <div>Not found</div>
 
   return (
     <React.Fragment>
       <Head>
-        <title>{route.color ? route.name + " | Online Tool" : route.name + " | Online Tool"}</title>
+        <title>{route.color ? t("name") + " | Online Tool" : t("name") + " | Online Tool"}</title>
         <meta name="description" content={route.path} />
         <link rel="icon" href={route.color ? `data:image/svg+xml,
         <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
