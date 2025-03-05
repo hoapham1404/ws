@@ -1,4 +1,3 @@
-"use client"
 import UbuntuLogo from "@/public/ubuntu-logo.png";
 import Image from "next/image";
 import { useEffect, useState } from 'react';

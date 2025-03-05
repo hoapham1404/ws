@@ -1,4 +1,3 @@
-"use client";
 import { useEffect, useCallback, useRef } from "react";
 import { useHackerTyperStore } from "./hackerTyperStore";
 import { useFullScreen } from "../hooks/useFullScreen";
@@ -242,10 +241,10 @@ const HackerTyper = () => {
 
       setText(
         text +
-          hackerCode.slice(
-            text.length % hackerCode.length,
-            (text.length % hackerCode.length) + speed,
-          ),
+        hackerCode.slice(
+          text.length % hackerCode.length,
+          (text.length % hackerCode.length) + speed,
+        ),
       );
     },
     [text, speed, setText, hackerCode],
@@ -290,9 +289,8 @@ const HackerTyper = () => {
   return (
     <div
       ref={terminalRef}
-      className={`p-4 h-full w-full overflow-auto bg-black font-mono select-none ${
-        isFullscreen ? "text-normal" : "text-[.8rem]"
-      }`}
+      className={`p-4 h-full w-full overflow-auto bg-black font-mono select-none ${isFullscreen ? "text-normal" : "text-[.8rem]"
+        }`}
       style={{
         boxShadow: "0 0 20px rgba(0, 255, 0, 0.2)",
         color: "#00ff00",

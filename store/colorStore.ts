@@ -25,7 +25,7 @@ const RESOLUTION_PRESETS = {
   "4320p 8K": [7680, 4320],
 } as const;
 
-export const colorStore = create<ColorState>((set) => ({
+const colorStore = create<ColorState>((set) => ({
   currentColor: "",
   currentTemperature: 1111,
   currentResolution: {
@@ -48,3 +48,7 @@ export const colorStore = create<ColorState>((set) => ({
       currentColor: temperatureToHex(temperature),
     })),
 }));
+
+export default colorStore;
+export const useColorStore = colorStore;
+

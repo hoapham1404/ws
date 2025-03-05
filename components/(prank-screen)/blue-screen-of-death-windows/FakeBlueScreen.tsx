@@ -1,4 +1,3 @@
-"use client";
 import { Fira_Mono } from "next/font/google";
 import { useFullScreen } from "@/components/(prank-screen)/hooks/useFullScreen";
 
@@ -11,11 +10,10 @@ export default function FakeBlueScreen() {
   const { isFullscreen } = useFullScreen();
   return (
     <div
-      className={`${monoFont.className}   bg-[#004091] text-white h-full p-8 cursor-pointer ${
-        isFullscreen
-          ? "fixed inset-0 z-50 flex items-center justify-center"
-          : ""
-      }`}
+      className={`${monoFont.className}   bg-[#004091] text-white h-full p-8 cursor-pointer ${isFullscreen
+        ? "fixed inset-0 z-50 flex items-center justify-center"
+        : ""
+        }`}
     >
       <div
         className={`${isFullscreen ? "max-w-[80%] pt-[5%] text-2xl space-y-8" : "text-[.52rem] space-y-3"}`}

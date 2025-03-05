@@ -1,4 +1,3 @@
-"use client"
 import AppleLogo from "@/public/apple.jpg";
 import Image from "next/image";
 import { useEffect, useState } from 'react';

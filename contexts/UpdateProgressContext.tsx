@@ -1,5 +1,3 @@
-'use client'
-
 import { createContext, useContext, useState, useEffect } from 'react';
 
 interface UpdateProgressContextType {
@@ -30,11 +28,11 @@ export function UpdateProgressProvider({ children }: { children: React.ReactNode
     const intervalTime = (minutes * 60 * 1000) / totalProgress;
     const remainingProgress = 100 - progress;
     const remainingTimeMs = (remainingProgress * intervalTime);
-    
+
     // Calculate minutes and seconds remaining
     const minutesLeft = Math.floor(remainingTimeMs / 60000);
     const secondsLeft = Math.floor((remainingTimeMs % 60000) / 1000);
-    
+
     setTimeRemaining(`${minutesLeft}:${secondsLeft.toString().padStart(2, '0')} remaining`);
 
     const interval = setInterval(() => {
@@ -75,4 +73,4 @@ export function useUpdateProgress() {
     throw new Error('useUpdateProgress must be used within UpdateProgressProvider');
   }
   return context;
-} 
+}

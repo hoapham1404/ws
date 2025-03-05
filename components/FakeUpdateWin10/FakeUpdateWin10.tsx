@@ -1,5 +1,3 @@
-'use client';
-
 import { useUpdateProgress } from '@/contexts/UpdateProgressContext';
 import styles from './FakeUpdateWin10.module.css';
 

@@ -1,4 +1,3 @@
-'use client';
 import { getNavigationRoutes, RouteStore } from "@/constants/routes";
 import { usePathname } from "next/navigation";
 import Image from "next/image";

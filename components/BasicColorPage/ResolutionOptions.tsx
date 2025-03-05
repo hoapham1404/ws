@@ -1,11 +1,7 @@
-"use client";
-
-import { colorStore } from "@/store/colorStore";
+import colorStore from "@/store/colorStore";
 
 export default function ResolutionOptions() {
-  const { currentResolution, setResolution, setPresetResolution } = colorStore(
-    (state) => state,
-  );
+  const { currentResolution, setResolution, setPresetResolution } = colorStore();
 
   return (
     <div className="flex flex-col gap-2">

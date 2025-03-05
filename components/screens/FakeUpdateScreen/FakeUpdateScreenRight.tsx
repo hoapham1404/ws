@@ -1,5 +1,3 @@
-'use client'
-
 import { useUpdateProgress } from '@/contexts/UpdateProgressContext';
 import { useTranslations } from 'next-intl';
 

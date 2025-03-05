@@ -1,5 +1,3 @@
-'use client'
-
 import Header from '@/components/Header'
 import BottomPanel from '@/components/Layout/BottomPanel'
 import LeftSidePanel from '@/components/Layout/LeftSidePanel'

@@ -1,4 +1,3 @@
-"use client";
 import { useFullScreen } from "../hooks/useFullScreen";
 
 export default function FullScreenWrapper({

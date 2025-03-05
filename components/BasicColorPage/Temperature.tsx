@@ -1,16 +1,16 @@
 import { hexToRgb } from "@/lib/temperature";
-import { colorStore } from "@/store/colorStore";
+import colorStore from "@/store/colorStore";
 import { usePathname } from "next/navigation";
 import React from "react";
 
 export default function Temperature() {
   const currentPath = usePathname();
-  const { currentColor } = colorStore();
+  const { currentColor, currentTemperature } = colorStore();
   const rgb = hexToRgb(currentColor);
   if (!rgb) return null;
   return (
-    <section className={`${currentPath !== "/zoom-lighting" ? "hidden" : ""} mt-4`}>
-      <div className="flex items-center gap-4 mt-4">
+    <section className={`${currentPath !== "/zoom-lighting" ? "hidden" : ""} w-full mt-4 flex flex-col gap-2`}>
+      <div className="w-full flex justify-between items-center ">
         <div className="flex items-center gap-2">
           <label className="text-sm text-gray-600">R:</label>
           <span>{rgb.r}</span>

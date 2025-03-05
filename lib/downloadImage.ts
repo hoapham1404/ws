@@ -1,5 +1,3 @@
-"use client";
-
 export default function downloadImage(
   currentResolution: { resX: number; resY: number },
   currentColor: string,

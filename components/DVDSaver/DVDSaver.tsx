@@ -1,5 +1,3 @@
-"use client"
-
 import { useEffect, useRef, useState, useMemo, useCallback } from "react"
 import dvdLogo from "@/public/dvd_logo.png"
 import Image from "next/image"

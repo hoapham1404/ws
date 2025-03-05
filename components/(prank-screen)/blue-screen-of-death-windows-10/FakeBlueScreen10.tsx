@@ -1,5 +1,3 @@
-"use client";
-
 import Image from "next/image";
 import windowQRCode from "@/public/window-qr.svg";
 import { useEffect } from "react";
@@ -16,11 +14,10 @@ export default function FakeBlueScreen10() {
 
   return (
     <div
-      className={`bg-[#0078D7] text-white h-full cursor-pointer ${
-        isFullscreen
-          ? "fixed inset-0 z-50 flex flex-col items-center justify-center"
-          : ""
-      }`}
+      className={`bg-[#0078D7] text-white h-full cursor-pointer ${isFullscreen
+        ? "fixed inset-0 z-50 flex flex-col items-center justify-center"
+        : ""
+        }`}
     >
       <div
         className={`w-4/5 flex flex-col items-start gap-4  ${isFullscreen ? "justify-center " : " mx-auto pt-6  text-[.52rem]"}`}

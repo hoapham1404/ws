@@ -1,5 +1,3 @@
-'use client'
-
 export default function NoSignalPreview() {
   return (
     <div className="relative w-full h-full">
@@ -13,15 +11,15 @@ export default function NoSignalPreview() {
         <div className="flex-1 bg-blue-700"></div>
         <div className="flex-1 bg-black"></div>
       </div>
-      
+
       <div className="absolute inset-0 flex items-center justify-center">
         <div className="bg-green-900 px-4 py-2">
           <span className="text-white font-mono text-lg">NO SIGNAL</span>
         </div>
       </div>
-      
+
       {/* Add scan line effect */}
-      <div 
+      <div
         className="absolute inset-0 pointer-events-none"
         style={{
           background: 'repeating-linear-gradient(0deg, rgba(0,0,0,0.1) 0px, rgba(0,0,0,0.1) 1px, transparent 2px, transparent 4px)',

@@ -1,5 +1,3 @@
-'use client'
-
 import { usePathname, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import ChromeOSUpdateScreen from '@/public/chrome-os-update-screen.webp'

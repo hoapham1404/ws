@@ -1,5 +1,3 @@
-'use client'
-
 import { useUpdateProgress } from '@/contexts/UpdateProgressContext';
 import styles from './FakeUpdateWinXP.module.css';
 import WindowsXPLogo from '@/public/window-xp-logo.png';

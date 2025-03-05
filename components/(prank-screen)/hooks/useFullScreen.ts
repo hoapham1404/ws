@@ -1,4 +1,3 @@
-"use client";
 import { useRef, useState, useEffect } from "react";
 
 export function useFullScreen() {
@@ -57,9 +56,9 @@ export function useFullScreen() {
       setIsFullscreen(
         Boolean(
           document.fullscreenElement ||
-            (document as any).webkitFullscreenElement ||
-            (document as any).mozFullScreenElement ||
-            (document as any).msFullscreenElement,
+          (document as any).webkitFullscreenElement ||
+          (document as any).mozFullScreenElement ||
+          (document as any).msFullscreenElement,
         ),
       );
     };

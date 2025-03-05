@@ -1,5 +1,5 @@
 import { getRouteByPath } from "@/constants/routes";
-import { colorStore } from "@/store/colorStore";
+import colorStore from "@/store/colorStore";
 import { usePathname } from "next/navigation";
 import { useEffect } from "react";
 

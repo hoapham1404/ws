@@ -1,4 +1,3 @@
-"use client";
 import { useHackerTyperStore } from "./hackerTyperStore";
 
 const HackerSpeedInput = () => {
