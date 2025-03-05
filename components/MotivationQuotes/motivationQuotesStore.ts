@@ -34,4 +34,3 @@ const motivationQuotesStore = create<MotivationQuotesState>((set) => ({
 }));
 
 export default motivationQuotesStore;
-export const useMotivationQuotesStore = motivationQuotesStore;

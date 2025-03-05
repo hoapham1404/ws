@@ -1,5 +1,3 @@
-// constants/routes.ts
-
 import FakeBlueScreen10 from "@/components/(prank-screen)/blue-screen-of-death-windows-10/FakeBlueScreen10";
 import FakeBlueScreen10_Sidebar from "@/components/(prank-screen)/blue-screen-of-death-windows-10/FakeBlueScreen10_Sidebar";
 import FakeBlueScreen from "@/components/(prank-screen)/blue-screen-of-death-windows/FakeBlueScreen";
@@ -272,6 +270,7 @@ export const routes: RouteStore[] = [
     type: "screensaver",
     components: {
       mid: <MotivationQuotesPreview />,
+      right: <MotivationQuotesRight />,
     },
     thumbnail: MotivationalQuoteIcon,
   },

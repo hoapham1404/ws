@@ -1757,6 +1757,10 @@
     }
   },
   "/motivational-quote-screensaver": {
+    "quote": {
+      "paragraph": "Cách duy nhất để làm việc tốt là yêu thích những gì bạn làm. Nếu bạn chưa tìm thấy nó, hãy tiếp tục tìm kiếm. Đừng từ bỏ.",
+      "author": "Steve Jobs"
+    },
     "name": "Trích dẫn tạo động lực",
     "icon": "https: //emojicdn.elk.sh/💬",
     "title": "Trình bảo vệ màn hình trích dẫn tạo động lực",
