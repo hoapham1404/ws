@@ -8,7 +8,7 @@ export default function DownloadImageButton() {
   return (
     <button
       onClick={() => downloadImage(currentResolution, currentColor)}
-      className="w-full py-2 px-4 border rounded bg-white hover:bg-gray-50 mt-4"
+      className=" mx-auto w-fit py-2 px-4 border rounded bg-white hover:bg-gray-50 "
     >
       {t("0")}
     </button>

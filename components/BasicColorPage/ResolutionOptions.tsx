@@ -8,19 +8,19 @@ export default function ResolutionOptions() {
   );
 
   return (
-    <div className="flex flex-col gap-4">
+    <div className="flex flex-col gap-2">
       {/* Preset Selection */}
       <select
         className="w-full p-2 border rounded"
         onChange={(e) =>
           setPresetResolution(
             e.target.value as
-              | "480p"
-              | "720p"
-              | "1080p"
-              | "1440p 2K"
-              | "2160p 4K"
-              | "4320p 8K",
+            | "480p"
+            | "720p"
+            | "1080p"
+            | "1440p 2K"
+            | "2160p 4K"
+            | "4320p 8K",
           )
         }
         defaultValue="1080p"
@@ -34,35 +34,28 @@ export default function ResolutionOptions() {
       </select>
 
       {/* Custom Resolution Inputs */}
-      <div className="flex gap-4 mt-4">
+      <div className="flex justify-between">
         <div>
-          <label className="text-sm text-gray-600">Width</label>
-          <div className="flex gap-2">
-            <input
-              type="number"
-              min="1"
-              value={currentResolution.resX}
-              onChange={(e) =>
-                setResolution(Number(e.target.value), currentResolution.resY)
-              }
-              className="w-24 p-2 border rounded"
-            />
-            <span className="self-center">px</span>
-          </div>
+          <input
+            type="text"
+            value={currentResolution.resX}
+            onChange={(e) =>
+              setResolution(Number(e.target.value), currentResolution.resY)
+            }
+            className="w-20 p-2 border rounded"
+          />
+          <span className="ml-2 self-center">px</span>
         </div>
         <div>
-          <label className="text-sm text-gray-600">Height</label>
-          <div className="flex gap-2">
-            <input
-              type="number"
-              value={currentResolution.resY}
-              onChange={(e) =>
-                setResolution(currentResolution.resX, Number(e.target.value))
-              }
-              className="w-24 p-2 border rounded"
-            />
-            <span className="self-center">px</span>
-          </div>
+          <input
+            type="text"
+            value={currentResolution.resY}
+            onChange={(e) =>
+              setResolution(currentResolution.resX, Number(e.target.value))
+            }
+            className="w-20 p-2 border rounded"
+          />
+          <span className="ml-2 self-center">px</span>
         </div>
       </div>
     </div>
