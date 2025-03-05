@@ -1897,5 +1897,11 @@
         }
       ]
     }
+  },
+  "navigation": {
+    "color": "Màn hình màu",
+    "prank": "Màn hình prank",
+    "fake-update": "Màn hình fake update",
+    "screensaver": "Màn hình screensaver"
   }
 }
