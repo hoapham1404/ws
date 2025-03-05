@@ -1,5 +1,3 @@
-'use client'
-
 import { useState } from 'react';
 import routes from '@/constants/routes';
 import { usePathname, useRouter } from 'next/navigation';
