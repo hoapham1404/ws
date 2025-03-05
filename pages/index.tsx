@@ -27,6 +27,7 @@ export default function HomePage(props: InferGetStaticPropsType<typeof getStatic
   if (!route) return;
 
   const t = useTranslations("/");
+  const tip = t.raw("tip")
   const { defaultLocale } = router;
   return (
     <React.Fragment>
@@ -50,6 +51,11 @@ export default function HomePage(props: InferGetStaticPropsType<typeof getStatic
           right={<SettingsPanel />}
           bottom={<ScreenOptions />}
         />
+      </div>
+      <div>
+        <p>
+          {JSON.stringify(tip)}
+        </p>
       </div>
 
     </React.Fragment >

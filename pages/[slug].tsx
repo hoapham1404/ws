@@ -11,9 +11,10 @@ import { FakeUpdateScreenLeft } from "./screens/FakeUpdateScreen/FakeUpdateScree
 import { UpdateProgressProvider } from "./contexts/UpdateProgressContext";
 import { FakeUpdateScreenRight } from "./screens/FakeUpdateScreen/FakeUpdateScreenRight";
 import { routes } from "@/constants/routes";
-import { GetStaticPaths, GetStaticProps } from "next";
+import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from "next";
 import React from "react";
 import Head from "next/head";
+import { useRouter } from "next/router";
 // export async function generateMetadata({
 //   params,
 // }: {
@@ -39,32 +40,51 @@ import Head from "next/head";
 //   };
 // }
 //
-export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = routes.map((route: RouteStore) => ({
-    params: { slug: route.path },
-  }));
+export const getStaticPaths: GetStaticPaths = async ({ locales = [] }) => {
+  const paths = []
+  for (const locale of locales) {
+    for (const route of routes) {
+      paths.push({
+        params: { slug: route.path },
+        locale,
+      });
+    }
+  }
+
   return {
     paths,
     fallback: "blocking",
   };
 }
+type Props = {
+  locale?: string;
+  locales?: string[];
+};
 
-export const getStaticProps: GetStaticProps<{ slug: string }> = async ({ params }) => {
-  const slug = params?.slug as string;
-
-  const route = getRouteByPath(slug);
-  if (!route) return { notFound: true };
-
+export const getStaticProps: GetStaticProps<Props> = async ({
+  locale,
+  locales,
+}) => {
   return {
     props: {
-      slug: params?.slug as string,
+      locale,
+      locales,
+      messages: (await import(`@/locales/${locale}.json`)).default,
     },
   };
-}
+};
 
-export default function DynamicPage({ slug }: { slug: string }) {
-  const route = getRouteByPath(slug);
+type GspPageProps = InferGetStaticPropsType<typeof getStaticProps>;
+
+
+
+export default function DynamicPage(props: GspPageProps) {
+  const router = useRouter()
+  const { locales, defaultLocale, locale, query, isFallback } = router
+  const route = getRouteByPath(query.slug as string);
   if (!route) return;
+
+  if (isFallback) return <div>Loading...</div>
 
   return (
     <React.Fragment>
@@ -77,6 +97,15 @@ export default function DynamicPage({ slug }: { slug: string }) {
         </svg>` : route.icon} />
       </Head>
       <div>
+        <pre>
+          {JSON.stringify({
+            defaultLocale,
+            locale,
+            query,
+            isFallback,
+            locales,
+          })}
+        </pre>
         {route.type === "color" && (
           <RootLayout
             left={<ColorOptions />}
