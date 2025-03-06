@@ -22,7 +22,7 @@ const FakeChromeOS: FC = () => {
 
         <hr className='w-full my-2' />
 
-        <div className={`flex items-center ${isFullscreen ? 'm-[20%] gap-10' : 'my-4 gap-4'}`}>
+        <div className={`flex items-center ${isFullscreen ? 'm-[20%] gap-10' : 'm-4 gap-4'}`}>
           <div className={`${isFullscreen ? 'w-14' : 'w-14'} aspect-square border-4 border-gray-300 border-t-blue-500 rounded-full animate-spin`} />
           <div className={`flex flex-col gap-6 ${isFullscreen ? 'text-2xl' : 'text-sm'}`}>
             <h2>Firmware updating</h2>
