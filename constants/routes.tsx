@@ -314,6 +314,14 @@ export const getRouteByPathAsync = async (
 
 export const getColorRoutes = () => routes.filter((route) => route.color);
 export const getIconRoutes = () => routes.filter((route) => route.icon);
+export const getPrankRoutes = () => routes.filter((route) => route.type === "prank");
+export const getFakeUpdateRoutes = (): RouteStore[] => {
+  return routes.filter((route) => route.type === "fake-update")
+    .filter((route) => route.path !== '/fake-windows-11-update-screen' && route.path !== '/fake-android-update')
+}
+export const getScreenSaverRoutes = (): RouteStore[] => {
+  return routes.filter((route) => route.type === "screensaver")
+}
 export const getNavigationRoutes = (
   pathName: string,
 ): RouteStore[] | undefined => {
