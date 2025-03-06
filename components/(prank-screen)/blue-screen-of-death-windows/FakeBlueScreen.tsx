@@ -10,7 +10,7 @@ export default function FakeBlueScreen() {
   const { isFullscreen } = useFullScreen();
   return (
     <div
-      className={`${monoFont.className}   bg-[#004091] text-white h-full p-8 cursor-pointer ${isFullscreen
+      className={`${monoFont.className} bg-[#004091] text-white p-8 cursor-pointer ${isFullscreen
         ? "fixed inset-0 z-50 flex items-center justify-center"
         : ""
         }`}

@@ -20,7 +20,11 @@ export default function PageLayout({
       <Header />
       <main className="grid grid-cols-[2fr_3fr_2fr] grid-rows-2">
         <div className="overflow-auto">{left}</div>
-        <div className="overflow-auto">
+        <div className="overflow-auto rounded-lg overflow-hidden aspect-video"
+          style={{
+            boxShadow: "0 8px 30px #ffbe5c"
+          }}
+        >
           <FullScreenWrapper>
             {mid}
           </FullScreenWrapper>

@@ -29,9 +29,10 @@ export default function MyApp({ Component, pageProps }: AppProps) {
           <Navbar />
           <main className="max-w-screen-lg mx-auto">
             <Component {...pageProps} />
+            <NavigationScreen />
+            <ScreenTip />
           </main>
-          <NavigationScreen />
-          <ScreenTip />
+
           <Footer />
         </div>
       </IntlProvider>
