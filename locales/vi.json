@@ -1,0 +1,1926 @@
+{
+  "/": {
+    "name": "Màn hình trắng",
+    "color": "#FFFFFF",
+    "isAxis": false,
+    "title": "Màn hình trắng",
+    "type": "color",
+    "tip": {
+      "title": "màn hình trắng",
+      "content": [
+        {
+          "title": "Màn hình trắng để sao chép bản vẽ",
+          "description": "Tôi cần có thứ gì đó sáng sủa dưới tờ giấy để tôi có thể vẽ lại hình ảnh dễ dàng hơn."
+        },
+        {
+          "title": "Màn hình trắng làm nguồn sáng",
+          "description": "Thắp sáng mặt sau hộp đèn để chụp ảnh sản phẩm"
+        },
+        {
+          "title": "Màn hình trắng để kiểm tra màn hình",
+          "description": "Kiểm tra màn hình của bạn và tìm các điểm ảnh chết."
+        },
+        {
+          "title": "màn hình trắng sang màn hình trống",
+          "description": "Bạn không muốn bị làm phiền? Bạn muốn dừng lại? Hãy sử dụng màn hình trắng để xóa màn hình của bạn."
+        },
+        {
+          "title": "màn hình trắng như đèn để đọc",
+          "description": "Để có được nguồn sáng và có thể đọc sách khi trong phòng tối và công tắc đèn ở quá xa."
+        },
+        {
+          "title": "Màn hình trắng như ánh sáng trang điểm",
+          "description": "Là nguồn sáng để trang điểm hoặc chụp ảnh"
+        },
+        {
+          "title": "Màn hình trắng để làm sạch màn hình",
+          "description": "Ngớ ngẩn, nhưng tôi dùng nó để lau màn hình. Nó làm cho mọi thứ trên màn hình trở nên rõ ràng. :) Tôi cũng sử dụng nó để xác nhận khả năng tái tạo màu đơn giản cho các màn hình khác nhau, nhưng điều đó hiếm khi xuất hiện và tôi không tìm cách phân loại màu chuyên nghiệp."
+        },
+        {
+          "title": "màn hình trắng để tìm bụi",
+          "description": "Phông nền nhất quán để làm sạch màn hình của tôi và cũng để kiểm tra các điểm ảnh chết/bị kẹt. Đôi khi cũng để chiếu sáng khuôn mặt của tôi khi tôi sử dụng webcam."
+        },
+        {
+          "title": "Màn hình trắng để bắt ruồi",
+          "description": "Tôi đang bắt những con ruồi nhỏ khi chúng bị thu hút bởi màn hình trắng trên màn hình của tôi"
+        },
+        {
+          "title": "Màn hình trắng để tạo một cuốn sách lật",
+          "description": "Tôi đang làm một chuỗi hoạt hình và tôi đang thực hiện nó theo cách truyền thống (bằng tay), vì vậy tôi cần một bề mặt trắng có ánh sáng cho phép tôi đặt mảnh giấy này lên mảnh giấy kia và có thể nhìn thấy cả hai, vì vậy vì tôi không có màn hình chuyên nghiệp cho việc này nên tôi đang sử dụng máy tính và đặt màn hình trắng lên đó để tôi không chạm nhầm vào bất cứ thứ gì"
+        },
+        {
+          "title": "Màn hình trắng để bạn tập trung",
+          "description": "Khi học mình dùng 2 màn hình, một màn hình hẹn giờ và một màn hình để tìm kiếm những gì mình cần trên mạng. Khi không tìm kiếm, tôi để màn hình trắng để không bị phân tâm bởi bất cứ thứ gì trên máy tính"
+        },
+        {
+          "title": "Màn hình trắng để định cấu hình cài đặt màn hình của bạn",
+          "description": "Hữu ích khi điều chỉnh cài đặt trong màn hình phụ của tôi (vì nó khá cũ nên nó không chỉ đặt nội dung theo mặc định). Các cài đặt như vị trí dọc/ngang và tỷ lệ dọc/ngang. Cũng hữu ích khi tìm kiếm điểm ảnh chết."
+        },
+        {
+          "title": "màn hình trắng để vẽ vào ban đêm",
+          "description": "Nếu tôi vẽ trên giấy, tôi có thể đặt giấy lên trên màn hình máy tính bảng vẽ của mình và xem tôi đang vẽ gì vào ban đêm"
+        },
+        {
+          "title": "Màn hình trắng để chiếu sáng",
+          "description": "Biến màn hình của bạn thành nguồn sáng đơn giản và hiệu quả bằng công cụ màn hình trắng của chúng tôi. Hoàn hảo cho các cuộc gọi điện video hoặc chụp ảnh khi cần thêm ánh sáng."
+        },
+        {
+          "title": "Màn hình trắng cho hình ảnh rõ nét",
+          "description": "Trải nghiệm môi trường hình ảnh trong lành, sạch sẽ và êm dịu bằng cách sử dụng màn hình trắng toàn màn hình của chúng tôi. Lý tưởng để thư giãn, thiền định hoặc tập trung vào công việc mà không bị phân tâm về thị giác."
+        },
+        {
+          "title": "Màn hình trắng cho công việc thiết kế",
+          "description": "Sử dụng công cụ màn hình trắng của chúng tôi như một khung vẽ trống để thiết kế, vẽ hoặc bất kỳ hoạt động sáng tạo nào. Màn hình trắng trống cho phép khả năng sáng tạo của bạn tuôn chảy không bị cản trở."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Màn hình trắng để dọn dẹp",
+          "content": [
+            "màn hình trắng để làm sạch màn hình",
+            "màn hình trắng để tìm điểm ảnh chết",
+            "Màn hình trắng để tìm vết bẩn"
+          ]
+        },
+        {
+          "title": "Ánh sáng trắng trực tuyến",
+          "content": [
+            "ánh sáng trắng để đọc sách",
+            "ánh sáng trắng cho cuộc gọi điện video",
+            "ánh sáng màu trắng",
+            "màn hình/đèn trắng để chụp ảnh tự sướng",
+            "đèn led trắng trực tuyến"
+          ]
+        },
+        {
+          "title": "Khác",
+          "content": [
+            "màn hình trắng cho máy chiếu",
+            "màn hình trắng cho trẻ em",
+            "nền toàn màn hình trắng"
+          ]
+        }
+      ]
+    }
+  },
+  "/black-screen": {
+    "name": "Màn hình đen",
+    "color": "#000000",
+    "isAxis": false,
+    "title": "Màn hình đen toàn bộ",
+    "type": "color",
+    "tip": {
+      "title": "màn hình đen",
+      "content": [
+        {
+          "title": "màn hình đen để làm tối màn hình thứ hai mà không cần tắt",
+          "description": "Nhanh chóng làm tối màn hình thứ hai mà không cần tắt nó khi chơi một trò chơi nào đó trong không khí hoặc xem một số bộ phim đáng làm như vậy."
+        },
+        {
+          "title": "Màn hình đen để tiết kiệm điện",
+          "description": "Cố gắng tiết kiệm điện, giảm lượng khí thải carbon."
+        },
+        {
+          "title": "màn hình đen để ẩn thông tin máy tính đang hoạt động",
+          "description": "Để bật 4 màn hình khi tôi đi ngủ, thay vì để chúng đi ngủ."
+        },
+        {
+          "title": "màn hình đen để làm sạch màn hình",
+          "description": "Dễ thấy vết bẩn hơn khi tôi lau màn hình"
+        },
+        {
+          "title": "Màn hình đen để tạo nền tối",
+          "description": "Nền của trò chơi. Màn hình quá lớn3440x1440. Không thích chơi lớn như vậy nên tôi chọn 2560x1440. Cần viền đen ở cả hai bên."
+        },
+        {
+          "title": "Màn hình đen giúp tránh cháy TV plasma",
+          "description": "Tôi có một TV plasma cũ. Tôi không có loa máy tính nên khi muốn phát nhạc to, tôi bật TV và kết nối qua HDMI. Plasma rất dễ bị cháy ảnh nên thay vì để Windows Media Player hay bất cứ thứ gì trên màn hình, tôi sử dụng màn hình đen để tránh hiện tượng burn in. Tôi đã sử dụng nhiều trang web khác nhau. Nhưng chúng dường như không trực tuyến được lâu."
+        },
+        {
+          "title": "Màn hình đen để tập trung khi học",
+          "description": "Để không tắt màn hình và tập trung khi học. Màn hình của tôi rất sáng và không giúp ích gì cho việc tập trung, màn hình đen sẽ khắc phục điều đó."
+        },
+        {
+          "title": "Màn hình đen giúp mắt thư giãn",
+          "description": "Bởi vì tôi cần thư giãn đôi mắt của mình và chỉ có một màn hình đen ngay cả khi tôi phát nhạc trên máy tính của mình hoặc muốn chuyển nhanh giữa toàn màu đen và thứ gì khác. Giá trị nhất là chất lượng của nó, của màu sắc và những thứ còn lại, và tất nhiên, nó có thể dễ dàng chuyển sang và thoát khỏi chế độ toàn màn hình."
+        },
+        {
+          "title": "Màn hình đen để lấy nét và tối giản",
+          "description": "Nắm bắt chủ nghĩa tối giản và giảm bớt phiền nhiễu bằng công cụ màn hình đen của chúng tôi. Lý tưởng cho các công việc cần tập trung hoặc cho những cá nhân thực hành chủ nghĩa tối giản kỹ thuật số."
+        },
+        {
+          "title": "Màn hình đen để tiết kiệm năng lượng",
+          "description": "Tận dụng công cụ màn hình đen của chúng tôi như một giải pháp tiết kiệm năng lượng cho màn hình OLED và AMOLED. Hiển thị các điểm ảnh màu đen có thể góp phần tiết kiệm pin."
+        },
+        {
+          "title": "Màn hình đen cho tác phẩm nghệ thuật kỹ thuật số",
+          "description": "Các nghệ sĩ có thể sử dụng màn hình đen toàn màn hình của chúng tôi làm canvas để tạo độ tương phản nổi bật trong tác phẩm nghệ thuật kỹ thuật số. Nền đen có thể nâng cao độ sâu và cường độ của màu sắc."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Màn hình đen khi dọn dẹp",
+          "content": [
+            "màn hình đen để làm sạch màn hình",
+            "màn hình đen để tìm điểm ảnh chết",
+            "Màn hình đen để tìm vết bẩn"
+          ]
+        },
+        {
+          "title": "Màu đen trực tuyến",
+          "content": [
+            "màn hình máy tính trống",
+            "màn hình đen hoàn toàn",
+            "màn hình đen toàn tập"
+          ]
+        },
+        {
+          "title": "Khác",
+          "content": [
+            "màn hình đen cho máy chiếu",
+            "màn hình đen cho trẻ em",
+            "nền toàn màn hình đen"
+          ]
+        }
+      ]
+    }
+  },
+  "/red-screen": {
+    "name": "Màn hình đỏ",
+    "color": "#FF0000",
+    "isAxis": false,
+    "title": "Màn hình đỏ",
+    "type": "color",
+    "tip": {
+      "title": "màn hình đỏ",
+      "content": [
+        {
+          "title": "Màn hình đỏ cho phim và ảnh",
+          "description": "Sử dụng màn hình đỏ của chúng tôi để thử nghiệm các bộ lọc và hiệu ứng màu trong phim và nhiếp ảnh. Nền đỏ rực rỡ có thể tạo thêm điểm nhấn ấn tượng cho tác phẩm của bạn."
+        },
+        {
+          "title": "Hiển thị màu đỏ cho sức khỏe của mắt",
+          "description": "Có thể sử dụng công cụ màn hình đỏ của chúng tôi để giảm tác động của ánh sáng xanh, giúp mắt thoải mái và khỏe mạnh, đặc biệt là trong điều kiện ánh sáng yếu hoặc trước khi ngủ."
+        },
+        {
+          "title": "Màn hình đỏ cho sự kiện ảo",
+          "description": "Tạo môi trường sự kiện ảo quyến rũ bằng màn hình đỏ toàn màn hình của chúng tôi. Nó có thể tạo nên tông màu và tâm trạng đặc biệt cho các buổi họp mặt của bạn."
+        },
+        {
+          "title": "Màn hình đỏ dành cho thiết kế đồ họa",
+          "description": "Các nhà thiết kế đồ họa có thể tận dụng công cụ màn hình đỏ của chúng tôi để tạo ra những thiết kế táo bạo và có sức ảnh hưởng lớn. Màu đỏ có thể gợi lên những cảm xúc mạnh mẽ và thu hút sự chú ý của người xem."
+        },
+        {
+          "title": "Màn hình đỏ cho bài thuyết trình chuyên đề",
+          "description": "Các nhà giáo dục và người thuyết trình có thể sử dụng màn hình đỏ của chúng tôi để tạo các bài thuyết trình theo chủ đề, nêu bật những điểm quan trọng và thu hút sự quan tâm của khán giả."
+        },
+        {
+          "title": "Màn hình đỏ tươi để tạo tiktok",
+          "description": "Bởi vì tôi bật đèn LED màu xanh và nó rất phù hợp khiến khuôn mặt của tôi hoặc một phần khuôn mặt của tôi đỏ lên và để lại đèn xanh phía sau. Tôi thích màn hình đỏ tbh, thật tuyệt khi tạo tiktok hoặc thích ảnh và chỉnh sửa chúng để khiến chúng trông chuyên nghiệp."
+        },
+        {
+          "title": "màn hình đèn đỏ cho cuộc gọi trực tuyến",
+          "description": "Để chỉnh sửa màu sắc khi sử dụng Google Meets."
+        },
+        {
+          "title": "Màn hình đỏ để duy trì tầm nhìn ban đêm",
+          "description": "Không gây khó chịu cho mắt, nhất là khi ra khỏi vùng tối"
+        },
+        {
+          "title": "màn hình đỏ để đọc sách",
+          "description": "Để đọc một cuốn sách có ít ánh sáng xanh hơn."
+        },
+        {
+          "title": "Màn hình đỏ để sửa máy chiếu",
+          "description": "nó giúp sửa chữa keystone của máy chiếu"
+        },
+        {
+          "title": "đèn đỏ để chơi khăm",
+          "description": "Để chơi khăm bạn bè và nói rằng tôi có đèn LED."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Màu đỏ trực tuyến",
+          "content": [
+            "màn hình đỏ cho tiktok",
+            "màn hình đỏ cho cuộc gọi trực tuyến",
+            "màn hình đỏ cho ảnh"
+          ]
+        },
+        {
+          "title": "Đèn đỏ trực tuyến",
+          "content": [
+            "đèn màu đỏ",
+            "đèn đỏ để chụp ảnh tự sướng",
+            "đèn led đỏ trực tuyến"
+          ]
+        },
+        {
+          "title": "Khác",
+          "content": [
+            "màn hình đỏ của máy chiếu",
+            "màn hình trống màu đỏ dành cho trẻ em",
+            "nền toàn màn hình đỏ"
+          ]
+        }
+      ]
+    }
+  },
+  "/green-screen": {
+    "name": "Màn hình xanh",
+    "color": "#00FF00",
+    "isAxis": false,
+    "title": "Màn hình xanh",
+    "type": "color",
+    "tip": {
+      "title": "màn hình xanh",
+      "content": [
+        {
+          "title": "Màn hình xanh để tạo nội dung video",
+          "description": "Tận dụng màn hình xanh toàn màn hình của chúng tôi để tạo video chất lượng chuyên nghiệp. Màn hình xanh hoàn hảo cho các hiệu ứng video và chỉnh sửa hậu kỳ."
+        },
+        {
+          "title": "Trải nghiệm hình ảnh êm dịu với màn hình xanh",
+          "description": "Sử dụng công cụ màn hình xanh của chúng tôi để tạo ra một môi trường thị giác êm dịu. Màu sắc nhẹ nhàng của màu xanh lá cây có thể giúp giảm mỏi mắt và thúc đẩy sự thư giãn."
+        },
+        {
+          "title": "Màn hình xanh cho trải nghiệm chơi game đắm chìm",
+          "description": "Nâng cao trải nghiệm chơi game của bạn với màn hình xanh toàn màn hình của chúng tôi. Nó có thể đóng vai trò là nền động cho môi trường chơi game đắm chìm hơn."
+        },
+        {
+          "title": "Màn hình xanh cho cuộc họp ảo",
+          "description": "Sử dụng công cụ màn hình xanh của chúng tôi để thêm hình nền chuyên nghiệp trong các cuộc họp ảo của bạn. Công cụ này có thể cải thiện đáng kể chất lượng cuộc gọi điện video của bạn."
+        },
+        {
+          "title ": "Màn hình xanh làm trợ giúp giảng dạy",
+          "description": "Các nhà giáo dục có thể sử dụng công cụ màn hình xanh của chúng tôi để giúp việc giảng dạy trực tuyến trở nên tương tác và hấp dẫn hơn. Đó là một cách tuyệt vời để minh họa các khái niệm phức tạp một cách trực quan."
+        },
+        {
+          "title ": "màn hình xanh đối với photoshop",
+          "description": "Tôi tự Photoshop trong phòng nên khi tôi gỡ nó xuống và tôi vẫn ở trong phòng, mọi người sẽ ồ lên trong vài giây, điều này khiến tôi hạnh phúc vì theo một cách nào đó, tôi là nhân tố đáng kinh ngạc trong vài giây đó trong cuộc đời họ."
+        },
+        {
+          "title ": "màn hình xanh để thư giãn",
+          "description": "Trong tình huống lớp học, khi tạm dừng làm việc trên máy tính và lắng nghe người khác. Màu xanh lá cây, vì nó là màu thư giãn nhất. Nó chỉ là một màu xanh lục tĩnh lặng, bất động, màu của cỏ và cây. Nhờ có nó, màn hình phát ra một số ánh sáng xanh lục, thư giãn khi máy tính tạm dừng."
+        },
+        {
+          "title": "màn hình xanh cho cuộc gọi trực tuyến",
+          "description": "Để thêm ánh sáng xanh trong cuộc họp."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Màn hình xanh khi dọn dẹp",
+          "content": [
+            "màn hình xanh để làm sạch màn hình",
+            "màn hình xanh để tìm điểm ảnh chết",
+            "màn hình xanh để tìm chỗ bẩn"
+          ]
+        },
+        {
+          "title": "Đèn xanh trực tuyến",
+          "content": [
+            "đèn xanh cho cuộc gọi điện video",
+            "ánh sáng màn hình xanh",
+            "đèn màu xanh",
+            "bật đèn xanh cho ảnh tự sướng",
+            "đèn led xanh trực tuyến"
+          ]
+        },
+        {
+          "tiêu đề": "Khác",
+          "content": [
+            "màn hình xanh cho máy chiếu",
+            "màn hình xanh cho trẻ em",
+            "nền toàn màn hình xanh lá cây"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen": {
+    "name": "Màn hình xanh",
+    "color": "#0000FF",
+    "isAxis": false,
+    "title": "Màn hình xanh",
+    "type": "color",
+    "tip": {
+      "title": "màn hình xanh",
+      "content": [
+        {
+          "title": "Thư giãn với màn hình xanh",
+          "description": "Khám phá sức mạnh êm dịu của màn hình xanh toàn màn hình của chúng tôi. Tông màu xanh êm dịu của nó có thể giúp giảm căng thẳng và thúc đẩy sự thư giãn sau một ngày dài."
+        },
+        {
+          "title": "Hỗ trợ giấc ngủ bằng Công cụ màn hình xanh",
+          "description": "Công cụ màn hình xanh của chúng tôi có thể được sử dụng như một công cụ hỗ trợ giấc ngủ. Ánh sáng xanh êm dịu dịu được biết là có tác dụng khuyến khích cơn buồn ngủ và cải thiện chất lượng giấc ngủ của bạn."
+        },
+        {
+          "title": "Bộ lọc ánh sáng xanh cho mỏi mắt kỹ thuật số",
+          "description": "Sử dụng màn hình xanh lam toàn màn hình của chúng tôi làm bộ lọc ánh sáng xanh để giảm mỏi mắt do kỹ thuật số. Lý tưởng khi sử dụng màn hình nhiều giờ, nó có thể giúp duy trì sức khỏe của mắt bạn."
+        },
+        {
+          "title": "Màn hình xanh hỗ trợ trực quan trong bài thuyết trình",
+          "description": "Sử dụng công cụ màn hình xanh của chúng tôi làm công cụ hỗ trợ trực quan trong bài thuyết trình. Nền xanh có thể giúp nhấn mạnh văn bản và hình ảnh, nâng cao khả năng giao tiếp và khả năng hiểu."
+        },
+        {
+          "title": "Màn hình xanh để tạo video",
+          "description": "Bởi vì video YouTube của tôi có màn hình xanh lam tốt hơn & vì màn hình xanh lục được đánh giá quá cao"
+        },
+        {
+          "title": "Màn hình xanh để sao chép hình ảnh",
+          "description": "Để sao chép một hình ảnh mà bạn cùng lớp của tôi đã vẽ"
+        },
+        {
+          "title": "màn hình xanh để tạo cảm giác",
+          "description": "Tôi thích cảm giác mà nó mang lại"
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Màn hình xanh để làm sạch",
+          "content": [
+            "Màn hình xanh để làm sạch màn hình",
+            "Màn hình xanh tìm điểm ảnh chết",
+            "Màn hình xanh tìm vết bẩn"
+          ]
+        },
+        {
+          "title": "Ánh sáng xanh trực tuyến",
+          "content": [
+            "Đèn xanh cho cuộc gọi điện video",
+            "Ánh sáng màu xanh",
+            "Ánh sáng xanh để chụp ảnh tự sướng",
+            "Đèn led xanh trực tuyến"
+          ]
+        },
+        {
+          "title": "Khác",
+          "content": [
+            "Màn hình xanh cho máy chiếu",
+            "Màn hình xanh cho trẻ em",
+            "Nền toàn màn hình xanh"
+          ]
+        }
+      ]
+    }
+  },
+  "/yellow-screen": {
+    "name": "Màn hình vàng",
+    "color": "#FFFF00",
+    "isAxis": true,
+    "title": "Màn hình vàng",
+    "type": "color",
+    "tip": {
+      "title": "màn hình vàng",
+      "content": [
+        {
+          "title": "Nền màu vàng đa năng cho nội dung",
+          "description": "Đưa khán giả của bạn vào một môi trường ấm áp và hấp dẫn với màn hình vàng toàn màn hình. Lý tưởng để truyền năng lượng và sự tích cực vào nội dung trực tuyến, lớp học ảo hoặc buổi phát trực tiếp của bạn."
+        },
+        {
+          "title": "Màn hình vàng giúp dễ chịu cho mắt",
+          "description": "Cải thiện sự thoải mái về mặt thị giác với màn hình vàng. Sử dụng công cụ của chúng tôi để giảm mỏi mắt do ánh sáng xanh, đặc biệt là khi duyệt web vào ban đêm hoặc làm việc nhiều giờ."
+        },
+        {
+          "title": "Người bắt đầu bảng tâm trạng sáng tạo",
+          "description": "Bắt đầu các dự án sáng tạo của bạn bằng bảng tâm trạng màu vàng. Màn hình vàng toàn màn hình của chúng tôi có thể giúp truyền cảm hứng cho các ý tưởng thiết kế và tư duy sáng tạo."
+        },
+        {
+          "title": "Kiểm tra màn hình thiết bị",
+          "description": "Kiểm tra độ chính xác màu của thiết bị hiển thị của bạn bằng đầu ra màu vàng toàn màn hình. Đây là một công cụ hữu ích để tinh chỉnh cài đặt màu của màn hình, máy tính bảng hoặc điện thoại thông minh."
+        },
+        {
+          "title": "Hỗ trợ giảng dạy tương tác",
+          "description": "Sử dụng màn hình vàng toàn màn hình làm công cụ hỗ trợ giảng dạy trong lớp học ảo. Nó có thể dùng làm nền hấp dẫn để trình bày tài liệu học tập, làm nổi bật thông tin và thu hút sự chú ý của học sinh."
+        },
+        {
+          "title": "Màn hình vàng để tạo cảm giác",
+          "description": "Tôi thích cảm giác mà nó mang lại"
+        },
+        {
+          "title": "màn hình vàng để sao chép hình ảnh",
+          "description": "Để sao chép một hình ảnh mà bạn cùng lớp của tôi đã vẽ"
+        },
+        {
+          "title": "Màn hình vàng để tạo video",
+          "description": "Bởi vì video YouTube của tôi có màn hình vàng tốt hơn và vì màn hình xanh lá cây được đánh giá quá cao"
+        },
+        {
+          "title": "màn hình vàng cho cuộc gọi trực tuyến",
+          "description": "Để thêm ánh sáng màu vàng trong cuộc họp."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Màn hình vàng khi dọn dẹp",
+          "content": [
+            "màn hình vàng để làm sạch màn hình",
+            "Màn hình vàng để tìm điểm ảnh chết",
+            "màn hình vàng để tìm chỗ bẩn"
+          ]
+        },
+        {
+          "title": "Màu vàng trực tuyến",
+          "content": [
+            "màn hình máy tính trống",
+            "màn hình vàng toàn tập",
+            "màn hình vàng toàn tập"
+          ]
+        },
+        {
+          "title": "Khác",
+          "content": [
+            "màn hình vàng cho máy chiếu",
+            "màn hình vàng cho trẻ em",
+            "nền toàn màn hình vàng"
+          ]
+        }
+      ]
+    }
+  },
+  "/orange-screen": {
+    "name": "Màn hình cam",
+    "color": "#FFA500",
+    "isAxis": true,
+    "title": "Màn hình cam",
+    "type": "color",
+    "tip": {
+      "title": "màn hình cam",
+      "content": [
+        {
+          "title": "Màu cam toàn màn hình cho nền ảo",
+          "description": "Sử dụng công cụ của chúng tôi để tạo màn hình cam sống động, hoàn hảo cho nền ảo trong các cuộc họp trực tuyến, hội thảo trên web hoặc các cuộc tụ họp xã hội ảo. Một mảng màu sắc rực rỡ để làm sống động các tương tác kỹ thuật số của bạn."
+        },
+        {
+          "title": "Màn hình cam giúp xoa dịu giấc ngủ",
+          "description": "Hưởng lợi từ tác dụng êm dịu và êm dịu của màn hình cam. Giảm ánh sáng xanh gay gắt và tạo môi trường thân thiện với giấc ngủ để duyệt web hoặc đọc sách trước khi đi ngủ."
+        },
+        {
+          "title": "Cảm hứng dự án sáng tạo với màu cam",
+          "description": "Khơi dậy sự sáng tạo với màn hình cam toàn màn hình sống động. Lý tưởng để truyền cảm hứng cho các dự án thiết kế, nghệ thuật và thủ công hoặc khởi đầu quá trình sáng tạo của bạn."
+        },
+        {
+          "title": "Hiệu chỉnh màn hình thiết bị với màn hình cam",
+          "description": "Xác minh khả năng hiển thị màu của màn hình kỹ thuật số của bạn bằng đầu ra toàn màn hình cam. Đây là công cụ cần thiết cho những ai muốn tinh chỉnh cài đặt màu của thiết bị cho thiết kế đồ họa hoặc chỉnh sửa ảnh."
+        },
+        {
+          "title": "Công cụ học tập tương tác màu cam",
+          "description": "Sử dụng màn hình cam toàn màn hình làm công cụ hỗ trợ trực quan sinh động cho việc giảng dạy. Màu đậm có thể làm nổi bật thông tin quan trọng, giúp việc học trực tuyến trở nên hấp dẫn và có tác động hơn."
+        },
+        {
+          "title": "Màn hình cam tạo cảm giác rung cảm",
+          "description": "Tôi thích cảm giác màu cam mang lại"
+        },
+        {
+          "title": "Màn hình cam để sao chép hình ảnh",
+          "description": "Để sao chép một hình ảnh mà bạn cùng lớp của tôi đã vẽ"
+        },
+        {
+          "title": "Màn hình cam để tạo video",
+          "description": "Vì video YouTube của tôi đẹp hơn khi có màn hình cam"
+        },
+        {
+          "title": "Màn hình cam cho cuộc gọi trực tuyến",
+          "description": "Để thêm ánh sáng màu cam trong cuộc họp."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Màn hình cam khi vệ sinh",
+          "content": [
+            "màn hình cam để làm sạch màn hình",
+            "màn hình cam để tìm điểm ảnh chết",
+            "màn hình cam để tìm chỗ bẩn"
+          ]
+        },
+        {
+          "title": "Màu cam trực tuyến",
+          "content": [
+            "màn hình máy tính trống",
+            "toàn màn hình cam",
+            "toàn màn hình cam"
+          ]
+        },
+        {
+          "title": "Khác",
+          "content": [
+            "màn hình cam cho máy chiếu",
+            "màn hình cam cho trẻ em",
+            "nền toàn màn hình cam"
+          ]
+        }
+      ]
+    }
+  },
+  "/pink-screen": {
+    "name": "Màn hình hồng",
+    "color": "#FFC0CB",
+    "isAxis": true,
+    "title": "Màn hình hồng",
+    "type": "color",
+    "tip": {
+      "title": "màn hình hồng",
+      "content": [
+        {
+          "title": "Nền màu hồng để sáng tạo nội dung",
+          "description": "Dễ dàng đạt được phông nền màu hồng khi sáng tạo nội dung trực tuyến. Công cụ này cung cấp màn hình hồng toàn màn hình, hoàn hảo để thêm màu sắc rực rỡ vào video, buổi phát trực tiếp và bản trình bày ảo của bạn."
+        },
+        {
+          "title": "Liệu pháp ánh sáng hồng dễ dàng",
+          "description": "Biến màn hình của bạn thành nguồn ánh sáng hồng trị liệu. Hưởng lợi từ tác dụng xoa dịu của liệu pháp ánh sáng hồng ngay từ màn hình thiết bị của bạn. Lý tưởng để thư giãn, nâng cao tâm trạng và giảm căng thẳng."
+        },
+        {
+          "title": "Cảm hứng thiết kế trực quan",
+          "description": "Truyền cảm hứng sáng tạo trong thiết kế của bạn bằng canvas màu hồng toàn màn hình. Công cụ của chúng tôi cho phép các nhà thiết kế đắm mình trong màu hồng, kích thích ý tưởng sáng tạo cho các dự án thiết kế."
+        },
+        {
+          "title": "Kiểm tra hiệu chỉnh màu",
+          "description": "Đánh giá độ chính xác màu sắc của màn hình bằng màn hình hồng trong công cụ của chúng tôi. Hoàn hảo để kiểm tra độ trung thực của sắc hồng trên các thiết bị và cài đặt màn hình khác nhau."
+        },
+        {
+          "title": "Hiển thị thu hút sự chú ý",
+          "description": "Thu hút sự chú ý bằng màn hình hồng toàn màn hình trong các buổi thuyết trình trực tuyến, hội thảo trên web hoặc cuộc họp ảo. Hãy sử dụng công cụ của chúng tôi để nhấn mạnh những khoảnh khắc quan trọng và thu hút khán giả của bạn theo cách độc đáo."
+        },
+        {
+          "title": "Màn hình hồng tạo cảm giác rung cảm",
+          "description": "Tôi thích cảm giác màu hồng mang lại"
+        },
+        {
+          "title": "Màn hình hồng để sao chép hình ảnh",
+          "description": "Để sao chép một hình ảnh mà bạn cùng lớp của tôi đã vẽ"
+        },
+        {
+          "title": "Màn hình hồng để tạo video",
+          "description": "Vì video YouTube của tôi đẹp hơn khi có màn hình hồng"
+        },
+        {
+          "title": "Màn hình hồng cho cuộc gọi trực tuyến",
+          "description": "Để thêm ánh sáng hồng trong cuộc họp."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Màn hình hồng để làm sạch",
+          "content": [
+            "màn hình hồng để làm sạch màn hình",
+            "màn hình hồng để tìm điểm ảnh chết",
+            "Màn hình hồng để tìm vết bẩn"
+          ]
+        },
+        {
+          "title": "Màu hồng trực tuyến",
+          "content": [
+            "màn hình máy tính trống",
+            "tổng màn hình hồng",
+            "toàn màn hình hồng"
+          ]
+        },
+        {
+          "title": "Khác",
+          "content": [
+            "màn hình hồng cho máy chiếu",
+            "màn hình hồng dành cho trẻ em",
+            "nền toàn màn hình hồng"
+          ]
+        }
+      ]
+    }
+  },
+  "/purple-screen": {
+    "name": "Màn hình tím",
+    "color": "#800080",
+    "isAxis": true,
+    "title": "Màn hình tím",
+    "type": "color",
+    "tip": {
+      "title": "màn hình tím",
+      "content": [
+        {
+          "title": "Màu tím toàn màn hình cho ứng dụng chăm sóc sức khỏe",
+          "description": "Tích hợp công cụ của chúng tôi vào ứng dụng chăm sóc sức khỏe của bạn để tạo ra màn hình tím êm dịu, hoàn hảo cho các bài tập thiền định và chánh niệm. Màu sắc thanh bình giúp thư giãn và an lành tinh thần."
+        },
+        {
+          "title": "Màn hình tím cho hiệu ứng ánh sáng",
+          "description": "Tạo hiệu ứng ánh sáng động với màn hình tím toàn màn hình. Hoàn hảo để thiết lập bầu không khí độc đáo cho cuộc gọi video, sự kiện ảo hoặc phiên âm nhạc của bạn."
+        },
+        {
+          "title": "Nghiên cứu lý thuyết màu sắc với màn hình tím",
+          "description": "Sử dụng màn hình tím toàn màn hình rực rỡ làm công cụ học tập về lý thuyết màu sắc. Nó giúp sinh viên nghệ thuật và nhà thiết kế hiểu được tác động và tầm quan trọng của màu sắc trong tác phẩm của họ."
+        },
+        {
+          "title": "Thử nghiệm hiển thị với toàn màn hình tím",
+          "description": "Kiểm tra độ chính xác màu của màn hình hoặc các màn hình của bạn bằng công cụ tạo màn hình tím toàn màn hình của chúng tôi. Cần thiết cho các nhà thiết kế, nhiếp ảnh gia và nhà quay phim."
+        },
+        {
+          "title": "Màn hình tím tương tác phục vụ việc học tập của trẻ em",
+          "description": "Thu hút trẻ tham gia chương trình học trực tuyến tương tác bằng màn hình tím toàn màn hình. Màu sắc đậm kích thích trí tưởng tượng và sự tập trung, nâng cao trải nghiệm học tập."
+        },
+        {
+          "title": "Màn hình tím để tạo cảm giác",
+          "description": "Tôi thích cảm giác mà màu tím mang lại"
+        },
+        {
+          "title": "Màn hình tím để sao chép hình ảnh",
+          "description": "Để sao chép một hình ảnh mà bạn cùng lớp của tôi đã vẽ"
+        },
+        {
+          "title": "Màn hình tím để tạo video",
+          "description": "Vì video YouTube của tôi đẹp hơn khi có màn hình tím"
+        },
+        {
+          "title": "màn hình tím cho cuộc gọi trực tuyến",
+          "description": "Để thêm ánh sáng màu tím trong cuộc họp."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Màn hình tím để vệ sinh",
+          "content": [
+            "màn hình tím để làm sạch màn hình",
+            "màn hình tím để tìm điểm ảnh chết",
+            "Màn hình tím để tìm vết bẩn"
+          ]
+        },
+        {
+          "title": "Màu tím trực tuyến",
+          "content": [
+            "màn hình máy tính trống",
+            "màn hình tím hoàn toàn",
+            "toàn màn hình tím"
+          ]
+        },
+        {
+          "title": "Khác",
+          "content": [
+            "màn hình tím cho máy chiếu",
+            "màn hình tím cho trẻ em",
+            "nền toàn màn hình tím"
+          ]
+        }
+      ]
+    }
+  },
+  "/zoom-lighting": {
+    "name": "Thu phóng ánh sáng",
+    "color": "#FFC5C2",
+    "isAxis": true,
+    "title": "Ánh sáng cho cuộc gọi thu phóng",
+    "type": "color",
+    "tip": {
+      "title": "Ánh sáng cho cuộc gọi thu phóng",
+      "content": [
+        {
+          "title": "Ánh sáng tùy chỉnh cho hội nghị truyền hình",
+          "description": "Sử dụng công cụ màn hình chiếu sáng thu phóng của chúng tôi để tạo ra thiết lập ánh sáng hoàn hảo cho cuộc gọi điện video của bạn. Với màu sắc và nhiệt độ có thể điều chỉnh, bạn có thể dễ dàng đạt được ánh sáng hội nghị video ở cấp độ chuyên nghiệp."
+        },
+        {
+          "title": "Phông nền chụp ảnh với màn hình chiếu sáng zoom",
+          "description": "Nâng cao thiết lập chụp ảnh của bạn với màn hình chiếu sáng thu phóng có thể điều chỉnh của chúng tôi. Điều chỉnh màu sắc và nhiệt độ để phù hợp với tâm trạng buổi chụp ảnh của bạn và tạo ra những bức ảnh tuyệt đẹp."
+        },
+        {
+          "title": "Cải thiện trải nghiệm học tập trực tuyến với ánh sáng tối ưu",
+          "description": "Với màn hình chiếu sáng thu phóng của chúng tôi, hãy tạo môi trường học tập thuận lợi cho Học tập trực tuyến. Cài đặt ánh sáng có thể tùy chỉnh đảm bảo sự thoải mái khi đọc tối ưu và cải thiện khả năng tập trung."
+        },
+        {
+          "title": "Công cụ kiểm tra ánh sáng dành cho nhà phát triển web",
+          "description": "Các nhà phát triển web có thể sử dụng màn hình chiếu sáng thu phóng toàn màn hình của chúng tôi để kiểm tra xem nhiệt độ ánh sáng và màu sắc khác nhau ảnh hưởng như thế nào đến hình thức thiết kế của họ, giúp tạo ra các trang web hấp dẫn về mặt hình ảnh và có thể truy cập được."
+        },
+        {
+          "title": "Liệu pháp màu sắc với màn hình chiếu sáng zoom",
+          "description": "Các nhà trị liệu và huấn luyện viên chăm sóc sức khỏe có thể sử dụng màn hình chiếu sáng thu phóng của chúng tôi với màu sắc và nhiệt độ có thể điều chỉnh cho các buổi trị liệu bằng màu sắc, thúc đẩy sự thư giãn và chữa lành."
+        },
+        {
+          "title": "Màn hình trắng làm ánh sáng cho cuộc gọi thu phóng",
+          "description": "Đối với cuộc gọi điện video! Tôi không có đèn chuông dễ dàng nhưng có hai màn hình. Vì vậy, tôi có thể sử dụng một trong các màn hình để chiếu sáng khuôn mặt của mình!"
+        },
+        {
+          "title": "Thu phóng ánh sáng để có độ sáng",
+          "description": "Tôi sử dụng nó để tăng độ sáng khi đang gọi điện video"
+        },
+        {
+          "title": "Thu phóng ánh sáng để chiếu sáng",
+          "description": "Để sáng lên khi tôi sử dụng cuộc gọi hội nghị truyền hình"
+        },
+        {
+          "title": "Thu phóng ánh sáng để biến màn hình của tôi thành ánh sáng",
+          "description": "Biến màn hình của tôi thành đèn để bù đắp cho việc bị ngược sáng trong cuộc gọi điện video"
+        }
+      ]
+    }
+  },
+  "/white-noise": {
+    "name": "Tiếng ồn trắng",
+    "icon": "https: //emojicdn.elk.sh/🔊",
+    "title": "Tiếng ồn trắng gây buồn ngủ",
+    "type": "chơi khăm",
+    "tip": {
+      "title": "Tiếng ồn trắng gây buồn ngủ",
+      "content": [
+        {
+          "title": "Cách sử dụng tiếng ồn trắng để nâng cao khả năng tập trung của bạn",
+          "description": "Khám phá cách máy tạo tiếng ồn trắng trở thành công cụ không thể thiếu cho các cá nhân muốn tăng cường sự tập trung và năng suất của họ. Bằng cách loại bỏ những tiếng ồn gây mất tập trung, tiếng ồn trắng thiết lập một phông nền thính giác nhất quán, cho phép người dùng tập trung sâu vào công việc, học tập hoặc đọc sách. Hướng dẫn này khám phá khả năng tăng cường tập trung đáng kể do video và âm thanh tiếng ồn trắng mang lại, khiến nó trở thành lựa chọn hàng đầu cho những người đam mê năng suất."
+        },
+        {
+          "title": "Sử dụng tiếng ồn trắng để có giấc ngủ ngon hơn: Hướng dẫn toàn diện",
+          "description": "Khám phá sức mạnh biến đổi của tiếng ồn trắng trong việc tạo điều kiện cho giấc ngủ ngon giữa một thế giới đầy rẫy sự xáo trộn. Hướng dẫn toàn diện này đi sâu vào cách các video và bản âm thanh tiếng ồn trắng che giấu những âm thanh gây rối loạn môi trường, mang lại khung cảnh âm thanh yên tĩnh giúp bạn nhanh chóng chìm vào giấc ngủ và tận hưởng sự nghỉ ngơi không bị gián đoạn. Lý tưởng cho những ai đang khó ngủ, hãy khám phá bí quyết để có một đêm nghỉ ngơi yên bình."
+        },
+        {
+          "title": "Tiếng ồn trắng giúp dỗ trẻ: Mẹo và thủ thuật",
+          "description": "Khám phá sự kỳ diệu của tiếng ồn trắng trong việc dỗ trẻ sơ sinh đang khóc và giúp trẻ ngủ ngon hơn. Bắt chước những âm thanh dễ chịu của bụng mẹ, tiếng ồn trắng mang lại trải nghiệm thính giác quen thuộc và êm dịu cho trẻ sơ sinh. Bài viết này cung cấp cho các bậc cha mẹ những mẹo và thủ thuật thực tế về cách sử dụng video và âm thanh tiếng ồn trắng để giúp trẻ thư giãn và ngủ, khiến đây trở thành một công cụ thiết yếu cho những người mới làm cha mẹ."
+        },
+        {
+          "title": "Nâng cao khả năng thiền định của bạn bằng tiếng ồn trắng: Kỹ thuật chánh niệm",
+          "description": "Nâng cao khả năng thực hành thiền định và chánh niệm của bạn bằng cách tích hợp tiếng ồn trắng vào thói quen của bạn. Tìm hiểu các kỹ thuật sử dụng video và âm thanh tiếng ồn trắng làm nền cho thiền định, hỗ trợ đạt được sự tập trung và thư giãn sâu hơn. Hướng dẫn này giúp các học viên tìm thấy sự bình yên và trong sáng bên trong, giúp các buổi thiền hiệu quả và mang tính biến đổi hơn."
+        },
+        {
+          "title": "Cách tạo ra những trò đùa ma quái với tiếng ồn trắng trong dịp Halloween này",
+          "description": "Hãy sáng tạo trong Halloween này bằng cách sử dụng video và âm thanh tiếng ồn trắng để tạo ra bầu không khí kỳ lạ hoàn hảo cho các trò đùa. Cho dù sắp đặt một ngôi nhà ma ám hay lên kế hoạch gây bất ngờ ma quái cho bạn bè và gia đình, hãy khám phá xem những âm thanh mơ hồ của tiếng ồn trắng có thể tăng thêm sự hồi hộp và phấn khích cho những trò đùa Halloween của bạn như thế nào. Hướng dẫn này sẽ hướng dẫn bạn cách tạo ra những nỗi sợ hãi đáng nhớ, chắc chắn sẽ khiến bạn thích thú và khiếp sợ."
+        },
+        {
+          "title": "Những trò đùa vui trong văn phòng với tiếng ồn trắng: Hướng dẫn cách thực hiện",
+          "description": "Hãy thắp sáng nơi làm việc bằng một số trò vui nhẹ nhàng bằng cách sử dụng tiếng ồn trắng cho những trò đùa ở văn phòng. Hướng dẫn cách thực hiện này hướng dẫn bạn cách thực hiện những trò đùa vô hại khiến đồng nghiệp của bạn bối rối và thích thú. Học cách sử dụng tiếng ồn trắng một cách kín đáo để khơi dậy sự tò mò và tiếng cười, nâng cao tình bạn thân thiết và phá vỡ thói quen hàng ngày bằng một chút hài hước và bí ẩn."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Nâng cao năng suất và sự tập trung",
+          "content": [
+            "Cải thiện sự tập trung trong môi trường ồn ào",
+            "Tăng năng suất trong công việc",
+            "Tăng cường sự tập trung trong các buổi học",
+            "Giảm thiểu phiền nhiễu khi làm việc ở nhà",
+            "Tạo điều kiện thuận lợi cho thời gian làm việc sâu"
+          ]
+        },
+        {
+          "title": "Giấc ngủ và thư giãn",
+          "content": [
+            "Thúc đẩy giấc ngủ bắt đầu nhanh hơn",
+            "che giấu những tiếng ồn gây rối vào ban đêm",
+            "Cải thiện chất lượng giấc ngủ cho người mất ngủ",
+            "Làm dịu trẻ sơ sinh và trẻ nhỏ",
+            "Tạo thói quen đi ngủ êm dịu"
+          ]
+        },
+        {
+          "title": "Sức khỏe và hạnh phúc",
+          "content": [
+            "Giảm mức độ căng thẳng và lo lắng",
+            "Hỗ trợ thực hành thiền định và chánh niệm",
+            "Giúp kiểm soát các triệu chứng ù tai",
+            "Khuyến khích thư giãn khi tập yoga",
+            "Hỗ trợ sức khỏe tâm thần bằng cách giảm tình trạng quá tải cảm giác"
+          ]
+        }
+      ]
+    }
+  },
+  "/broken-screen": {
+    "name": "Màn hình bị hỏng giả",
+    "icon": "https: //emojicdn.elk.sh/💔",
+    "title": "Màn hình bị hỏng giả - Trò đùa",
+    "type": "chơi khăm",
+    "tip": {
+      "title": "Màn hình bị hỏng giả - Trò đùa",
+      "content": [
+        {
+          "title": "Hù dọa bạn bè của bạn bằng trò đùa màn hình vỡ thực tế",
+          "description": "Thực hiện trò chơi khăm đỉnh cao bằng cách khiến bạn bè tin rằng màn hình thiết bị của họ đã vỡ tan."
+        },
+        {
+          "title": "Tạo nội dung hấp dẫn với hiệu ứng màn hình bị nứt",
+          "description": "Nâng cao video hoặc bài thuyết trình của bạn bằng cách thêm lớp phủ màn hình có vết nứt ấn tượng."
+        },
+        {
+          "title": "Kiểm tra phản ứng của chính bạn khi màn hình bị hỏng",
+          "description": "Xem cách bạn phản ứng với những rủi ro kỹ thuật số không mong muốn bằng cách mô phỏng màn hình bị hỏng."
+        },
+        {
+          "title": "Sử dụng hình ảnh màn hình bị hỏng cho các dự án sáng tạo",
+          "description": "Kết hợp hình ảnh màn hình vỡ chất lượng cao vào tác phẩm nghệ thuật kỹ thuật số hoặc thiết kế sáng tạo của bạn."
+        },
+        {
+          "title": "Giáo dục về độ bền của miếng bảo vệ màn hình",
+          "description": "Thể hiện tầm quan trọng của việc bảo vệ màn hình bằng cách chỉ ra những hư hỏng có thể xảy ra."
+        },
+        {
+          "title": "Tăng cường các bài đánh giá công nghệ của bạn bằng màn hình giả bị hỏng",
+          "description": "Thêm điểm nhấn cho bài đánh giá thiết bị bằng cách mô phỏng hư hỏng màn hình và thảo luận về độ bền."
+        },
+        {
+          "title": "Kết hợp màn hình bị nứt trực tuyến vào trang trí Halloween của bạn",
+          "description": "Biến thiết bị thành đồ trang trí ma quái với hoạt ảnh hiển thị bị hỏng toàn màn hình."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Trò đùa và trò đùa",
+          "content": [
+            "Trò đùa công nghệ hoành tráng",
+            "Đe dọa bạn bè và gia đình",
+            "Ý tưởng chơi khăm nơi công sở",
+            "Trò đùa Cá tháng Tư",
+            "Làm ai đó giật mình cho vui"
+          ]
+        },
+        {
+          "title": "Nội dung và tính sáng tạo",
+          "content": [
+            "Phông nền nghệ thuật kỹ thuật số độc đáo",
+            "Nội dung truyền thông xã hội hấp dẫn",
+            "Hình ảnh dự án sáng tạo",
+            "Hiệu ứng ấn tượng trong video",
+            "Minh họa truyện kinh dị công nghệ"
+          ]
+        },
+        {
+          "title": "Giáo dục và Nhận thức",
+          "content": [
+            "Thể hiện sự mong manh của màn hình",
+            "Quảng bá phụ kiện bảo vệ",
+            "Bài thuyết trình về an toàn công nghệ",
+            "Hỗ trợ trực quan cho các buổi nói chuyện về cách chăm sóc thiết bị",
+            "Nêu bật tầm quan trọng của bảo hành"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows": {
+    "name": "Màn hình xanh chết chóc giả",
+    "icon": "https: //emojicdn.elk.sh/💻",
+    "title": "Màn hình xanh chết chóc giả của Windows",
+    "type": "chơi khăm",
+    "tip": {
+      "title": "Màn hình xanh chết chóc giả của Windows",
+      "content": [
+        {
+          "title": "Đùa giỡn bạn bè của bạn bằng màn hình xanh chết chóc giả",
+          "description": "Nâng cao trò chơi khăm của bạn bằng cách lừa bạn bè nghĩ rằng PC của họ bị hỏng. Hoàn hảo cho một trận cười vô hại."
+        },
+        {
+          "title": "Tạo những bữa tiệc theo chủ đề công nghệ đáng nhớ",
+          "description": "Thêm điểm nhấn kỳ quặc cho các bữa tiệc theo chủ đề công nghệ bằng cách trình chiếu màn hình xanh chết chóc mang tính icon của Windows trên màn hình."
+        },
+        {
+          "title": "Giáo dục về màn hình xanh chết chóc của Windows",
+          "description": "Sử dụng mô phỏng như một công cụ giáo dục để dạy về cách khắc phục sự cố và ngăn chặn BSOD thực sự."
+        },
+        {
+          "title": "Nâng cao kỹ năng hỗ trợ kỹ thuật của bạn",
+          "description": "Thực hành kỹ năng phản ứng và chẩn đoán của bạn bằng cách sử dụng BSOD giả làm công cụ đào tạo."
+        },
+        {
+          "title": "Tăng cường kênh YouTube công nghệ của bạn",
+          "description": "Tạo nội dung hấp dẫn bằng cách kết hợp màn hình xanh chết chóc vào video công nghệ của bạn."
+        },
+        {
+          "title": "Thử thách sự kiên nhẫn",
+          "description": "Thử thách sự kiên nhẫn của bạn hoặc của bạn bè bằng cách đối mặt với tình huống màn hình xanh đáng sợ một cách có kiểm soát."
+        },
+        {
+          "title": "Sản xuất phim và Cảnh công nghệ",
+          "description": "Kết hợp hoạt hình BSOD thực tế của Windows vào quá trình sản xuất phim hoặc video của bạn để tạo nên một bộ phim công nghệ chân thực."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Trò đùa và giải trí",
+          "content": [
+            "Trò đùa vô hại trên máy tính",
+            "Trò đùa công nghệ Cá tháng Tư",
+            "Trò đùa về bữa tiệc theo chủ đề công nghệ",
+            "Hù dọa bạn bè cho vui",
+            "Tạo nội dung chơi khăm lan truyền"
+          ]
+        },
+        {
+          "title": "Mục đích giáo dục",
+          "content": [
+            "Dạy cách khắc phục sự cố BSOD",
+            "Mô phỏng lỗi hệ thống",
+            "Đào tạo nhân viên hỗ trợ CNTT",
+            "Chứng minh khả năng phục hồi hệ thống",
+            "Giáo dục về các thông báo lỗi"
+          ]
+        },
+        {
+          "title": "Sáng tạo nội dung",
+          "content": [
+            "Nâng cao video công nghệ",
+            "Tạo hướng dẫn hấp dẫn",
+            "Phim cảnh công nghệ thực tế",
+            "Thêm kịch tính vào các bài đánh giá công nghệ",
+            "Thảo luận minh họa độ ổn định của hệ thống"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows-10": {
+    "name": "Màn hình xanh chết chóc giả 10",
+    "icon": "https: //emojicdn.elk.sh/💻",
+    "title": "Màn hình xanh chết chóc giả Windows 10",
+    "type": "chơi khăm",
+    "tip": {
+      "title": "Màn hình xanh chết chóc giả Windows 10",
+      "content": [
+        {
+          "title": "Trò đùa văn phòng: Toàn màn hình BSOD của Windows trong giờ nghỉ trưa",
+          "description": "Trò đùa văn phòng nhanh - mở màn hình xanh giả này trong khi đồng nghiệp đang ăn trưa. Đặt nó trong 20 phút và để họ nghĩ rằng PC Windows của họ bị hỏng. Màn hình chơi khăm đơn giản nhưng hiệu quả!"
+        },
+        {
+          "title": "Trình mô phỏng BSOD trực tuyến: Thoát khỏi cuộc gọi video nhàm chán",
+          "description": "Bạn cần nghỉ ngơi sau những cuộc họp bất tận? Đặt màn hình chết Windows giả này xuất hiện sau 10 phút. Lý do hoàn hảo để sửa PC của bạn và đi uống cà phê!"
+        },
+        {
+          "title": "Đào tạo về màn hình xanh Windows: Công cụ thực hành hỗ trợ CNTT",
+          "description": "Đào tạo nhân viên CNTT mới bằng trình mô phỏng BSOD trực tuyến này. Tạo các kịch bản sự cố Windows thực tế với tỷ lệ phần trăm tiến độ tùy chỉnh. Hoàn hảo để thực hành thực hành mà không làm hỏng PC thật."
+        },
+        {
+          "title": "Trò chơi khăm: Màn hình chết chóc của Windows toàn màn hình giữa trò chơi",
+          "description": "Trò chơi khăm đỉnh cao - thiết lập BSOD giả này để xuất hiện khi bạn của bạn chiến thắng. Hãy xem họ hoảng sợ khi màn hình của họ chuyển sang màu xanh giữa trận đấu!"
+        },
+        {
+          "title": "Video Prank lan truyền: Bản ghi phản ứng BSOD của Windows",
+          "description": "Tạo nội dung hài hước bằng cách ghi lại phản ứng với màn hình xanh chết chóc giả này. Đặt nó bật lên trong quá trình sử dụng PC thông thường và ghi lại khoảnh khắc họ nghĩ rằng Windows của họ bị lỗi!"
+        },
+        {
+          "title": "Thử nghiệm của nhóm CNTT: Ứng phó khẩn cấp BSOD trực tuyến",
+          "description": "Kiểm tra thời gian phản hồi của nhóm CNTT của bạn bằng trình mô phỏng BSOD của Windows này. Hoàn hảo để tạo các tình huống sự cố thực tế và đo lường hiệu quả ứng phó khẩn cấp."
+        },
+        {
+          "title": "Hướng dẫn về màn hình chết chóc của Windows: Tìm hiểu về BSOD",
+          "description": "Giúp người dùng mới hiểu về màn hình xanh. Sử dụng trình mô phỏng trực tuyến này để hiển thị BSOD của Windows trông như thế nào mà không gặp rủi ro về sự cố thực sự. Tuyệt vời để xây dựng sự tự tin với máy tính!"
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Trò đùa vui nhộn",
+          "content": [
+            "trò đùa văn phòng nhanh chóng với BSOD giả",
+            "troll màn hình xanh trong luồng game",
+            "trò đùa về sự cố máy tính của gia đình",
+            "Video phản ứng màn hình chết của Windows",
+            "trò đùa BSOD toàn màn hình"
+          ]
+        },
+        {
+          "title": "Công dụng giáo dục",
+          "content": [
+            "Công cụ đào tạo BSOD hỗ trợ CNTT",
+            "Bản trình diễn màn hình sự cố của Windows",
+            "hỗ trợ giảng dạy kiến thức máy tính",
+            "ví dụ hội thảo kỹ thuật",
+            "thực hành phản ứng với màn hình xanh"
+          ]
+        },
+        {
+          "title": "Sáng tạo nội dung",
+          "content": [
+            "Video chơi khăm BSOD trên YouTube",
+            "Nội dung meme lỗi Windows",
+            "clip phản ứng trên mạng xã hội",
+            "phát trực tuyến màn hình xanh giả",
+            "trình diễn hướng dẫn công nghệ"
+          ]
+        }
+      ]
+    }
+  },
+  "/hacker-screen": {
+    "name": "Màn hình đánh máy của Hacker",
+    "icon": "https: //emojicdn.elk.sh/💻‍💻",
+    "title": "Màn hình đánh máy của Hacker - Trò đùa",
+    "type": "chơi khăm",
+    "tip": {
+      "title": "Màn hình đánh máy của Hacker - Trò đùa",
+      "content": [
+        {
+          "title": "Đùa giỡn đồng nghiệp của bạn bằng màn hình Hacker Typer",
+          "description": "Nâng tầm những trò đùa trong văn phòng lên một tầm cao mới với công cụ đánh máy tin tặc của chúng tôi. Hãy tưởng tượng vẻ mặt của đồng nghiệp khi họ nghĩ bạn đã biến thành một hacker thực sự, gõ phím với những dòng mã chạy toàn màn hình. Trò đùa này hoàn hảo để thêm chút thú vị và hấp dẫn vào nơi làm việc của bạn."
+        },
+        {
+          "title": "Thu hút học sinh tham gia các lớp học máy tính",
+          "description": "Giáo viên có thể sử dụng công cụ giám sát hacker của chúng tôi để thu hút và giáo dục học sinh của mình bằng cách mô phỏng công việc viết mã trông như thế nào trong một tình huống thực tế. Đó là một cách hấp dẫn để giới thiệu cho học sinh những kiến ​​thức cơ bản về lập trình trong một môi trường toàn màn hình vui nhộn, kích thích trực quan."
+        },
+        {
+          "title": "Nâng cao tính thẩm mỹ khi phát trực tiếp của bạn",
+          "description": "Người truyền phát có thể sử dụng công cụ đánh máy của hacker để tăng cường sự hấp dẫn trực quan cho luồng của họ. Đặt phông nền thành luồng tập lệnh mã hóa toàn màn hình, hoàn hảo để tạo cảm giác tin tặc theo chủ đề trong các phiên chơi trò chơi hoặc các luồng liên quan đến công nghệ."
+        },
+        {
+          "title": "Tạo nội dung hấp dẫn cho Vlog công nghệ",
+          "description": "Các vlogger tập trung vào công nghệ có thể sử dụng màn hình đánh máy của hacker để tạo nội dung hấp dẫn. Dù thảo luận về an ninh mạng hay thông tin mới nhất về phát triển phần mềm, việc có phông nền mã hóa toàn màn hình động sẽ thu hút khán giả và nâng cao thông điệp của bạn."
+        },
+        {
+          "title": "Thêm nét tinh tế cho bài thuyết trình công nghệ",
+          "description": "Kết hợp công cụ đánh máy hacker trong bài thuyết trình công nghệ của bạn để thu hút khán giả. Công cụ này có thể mô phỏng một kịch bản hack trực tiếp, làm cho lời giải thích của bạn sinh động và thú vị hơn. Đó là một cách tuyệt vời để phá băng và thêm yếu tố hình ảnh toàn màn hình khiến mọi người bị cuốn hút."
+        },
+        {
+          "title": "Sản xuất phim về các cảnh an ninh mạng",
+          "description": "Các nhà làm phim có thể sử dụng công cụ màn hình hacker để tăng thêm tính chân thực cho các cảnh liên quan đến an ninh mạng và hack. Màn hình mã hóa toàn màn hình mang đến bối cảnh chân thực và mãnh liệt, hoàn hảo cho những cảnh mô tả các thử thách mã hóa hoặc hack có mức độ đặt cược cao."
+        },
+        {
+          "title": "Tăng cường mức độ tương tác của khán giả tại các sự kiện công nghệ",
+          "description": "Người tổ chức sự kiện có thể sử dụng máy đánh chữ hacker để thu hút người tham dự tại các hội nghị hoặc hội thảo công nghệ. Thiết lập màn hình hiển thị mô phỏng trực tiếp, toàn màn hình về hoạt động hack hoặc mã hóa, thêm yếu tố tương tác độc đáo vừa mang tính giáo dục vừa hấp dẫn về mặt hình ảnh cho sự kiện của bạn."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Giải trí & Trò đùa",
+          "content": [
+            "Gây ấn tượng với bạn bè bằng kỹ năng hack giả",
+            "Chơi khăm các thành viên trong gia đình",
+            "Thêm niềm vui cho những bữa tiệc văn phòng",
+            "Tạo nội dung truyền thông xã hội thú vị",
+            "Đánh lừa bạn bè nghĩ bạn là lập trình viên"
+          ]
+        },
+        {
+          "title": "Mục đích giáo dục",
+          "content": [
+            "Thể hiện mã hóa trong lớp học",
+            "Trực quan hóa các khái niệm lập trình",
+            "Thu hút sinh viên làm quen với công nghệ",
+            "Tăng cường các bài thuyết trình công nghệ",
+            "Giới thiệu mã hóa cho người mới bắt đầu"
+          ]
+        },
+        {
+          "title": "Sử dụng sáng tạo và chuyên nghiệp",
+          "content": [
+            "Nâng cao hình ảnh phát trực tiếp",
+            "Tạo cảnh công nghệ chân thực trong phim",
+            "Thêm tính thẩm mỹ của hacker vào video",
+            "Tạo sự quan tâm tại các hội nghị công nghệ",
+            "Truyền cảm hứng cho các cuộc thảo luận về an ninh mạng"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-10-update-screen": {
+    "name": "Cập nhật giả Windows 10",
+    "icon": "https: //emojicdn.elk.sh/🪟",
+    "title": "Bản cập nhật giả Windows 10",
+    "type": "cập nhật giả",
+    "tip": {
+      "title": "Bản cập nhật giả Windows 10",
+      "content": [
+        {
+          "title": "Đùa giỡn bạn tôi bằng màn hình cập nhật Windows 10 trông như thật!",
+          "description": "Sử dụng trang cập nhật giả Windows 10 để lừa bạn tôi nghĩ rằng máy tính của họ thực sự đang cập nhật. Thanh tiến trình thực tế và các thông báo hoạt động như một cơ duyên!"
+        },
+        {
+          "title": "Trò đùa hoàn hảo với màn hình cập nhật giả Windows 10!",
+          "description": "Đã thực hiện một trò đùa thành công bằng cách hiển thị màn hình cập nhật Windows 10 giả trên máy tính của đồng nghiệp của tôi. Các thông báo và tiến trình trông giống như thật khiến nó có vẻ giống như hàng thật!"
+        },
+        {
+          "title": "Gây ấn tượng với bạn bè của tôi bằng mô phỏng cập nhật Windows 10 thực tế!",
+          "description": "Đã chia sẻ ảnh chụp màn hình cập nhật giả Windows 10 mà tôi đã tạo bằng trang mô phỏng. Hình ảnh xác thực và thông báo trạng thái khiến nó trông giống như một bản cập nhật chính hãng đang được tiến hành!"
+        },
+        {
+          "title": "Trò chơi khăm cập nhật Windows 10 đã gây ấn tượng mạnh trong bữa tiệc!",
+          "description": "Sử dụng trang cập nhật giả Windows 10 để chơi khăm bạn bè tôi trong một buổi tụ tập. Màn hình cập nhật thực tế, đầy đủ các thông báo và tiến trình, khiến mọi người phải khốn đốn!"
+        },
+        {
+          "title": "Cười vui vẻ với màn hình cập nhật giả Windows 10!",
+          "description": "Đã truy cập công cụ chơi khăm cập nhật Windows 10 và tùy chỉnh các thông báo để tạo ra một kịch bản hài hước. Giao diện thực tế và thanh tiến trình khiến nó trở thành một trải nghiệm vui nhộn cho tất cả những người liên quan."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Bản cập nhật Windows 10 mô phỏng",
+          "content": [
+            "Bản cập nhật giả Windows 10",
+            "Mô phỏng cập nhật Windows 10",
+            "Mô phỏng bản cập nhật Windows 10",
+            "Màn hình cập nhật Windows 10 giả",
+            "Giả lập bản cập nhật Windows 10",
+            "Trò đùa cập nhật Windows 10",
+            "Quy trình cập nhật Windows 10"
+          ]
+        },
+        {
+          "title": "Trải nghiệm thực tế",
+          "content": [
+            "Bản cập nhật Windows 10 trông như thật",
+            "Màn hình cập nhật Windows 10 thực tế",
+            "Những người bạn ngốc nghếch với bản cập nhật Windows 10",
+            "Tiến trình cập nhật Windows 10 thực tế",
+            "Mô phỏng cập nhật Windows 10 chính hãng",
+            "Thông báo cập nhật Windows 10 đích thực",
+            "Giai đoạn cập nhật Windows 10"
+          ]
+        },
+        {
+          "title": "Giải trí và Vui vẻ",
+          "content": [
+            "Trò đùa thú vị khi cập nhật Windows 10",
+            "Bản cập nhật Windows 10 giả thú vị",
+            "Tận hưởng bản cập nhật Windows 10 mô phỏng",
+            "Trò đùa với bản cập nhật giả Windows 10",
+            "Trải nghiệm cập nhật Windows 10 thú vị",
+            "Bản cập nhật Windows 10 để giải trí",
+            "Công cụ chơi khăm cập nhật Windows 10"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-xp-update-screen": {
+    "name": "Cập nhật giả Windows XP",
+    "icon": "https: //emojicdn.elk.sh/🪟",
+    "title": "Bản cập nhật giả Windows XP",
+    "type": "cập nhật giả",
+    "tip": {
+      "title": "Bản cập nhật giả Windows XP",
+      "content": [
+        {
+          "title": "Trò đùa Office với màn hình cập nhật Windows XP",
+          "description": "Lý tưởng cho sự hài hước trong văn phòng, màn hình cập nhật Windows XP động đóng vai trò như một công cụ thú vị để chơi khăm đồng nghiệp, mô phỏng quy trình cập nhật phần mềm cổ điển, vô tận, mang lại cảm giác nhẹ nhàng cho môi trường làm việc."
+        },
+        {
+          "title": "Bài kiểm tra cập nhật Windows XP hài hước",
+          "description": "Trò đùa cập nhật Windows XP hoàn hảo để kiểm tra sự kiên nhẫn của bạn bè và gia đình. Màn hình cập nhật giả thú vị này tái tạo trải nghiệm Windows XP, tạo ra một kịch bản đáng tin cậy và thú vị."
+        },
+        {
+          "title": "Máy tính cổ điển với Windows XP",
+          "description": "Những người đam mê hoài cổ và những người yêu công nghệ sử dụng màn hình cập nhật Windows XP giả để sống lại kỷ nguyên vàng của Windows XP, hồi tưởng về những ngày cũ hơn, đơn giản hơn của các bản cập nhật phần mềm và máy tính cá nhân."
+        },
+        {
+          "title": "Tạo nội dung lan truyền bằng mô phỏng Windows XP",
+          "description": "Những người sáng tạo nội dung và những người có ảnh hưởng trên mạng xã hội nhận thấy màn hình cập nhật Windows XP là một điểm tựa độc đáo để tạo ra nội dung hấp dẫn, có tính lan truyền, thường sử dụng nó trong các tiểu phẩm sáng tạo, video phản ứng hoặc hài hước liên quan đến công nghệ."
+        },
+        {
+          "title": "Giáo dục công nghệ sử dụng giao diện Windows XP",
+          "description": "Màn hình cập nhật Windows XP giả cũng phục vụ mục đích giáo dục. Nó được sử dụng trong các lớp công nghệ để chứng minh các khía cạnh lịch sử của hệ điều hành, cung cấp cho sinh viên cái nhìn sâu sắc thực tế về sự phát triển của giao diện người dùng và nâng cấp phần mềm."
+        },
+        {
+          "title": "Đùa giỡn bạn tôi bằng màn hình cập nhật Windows XP trông giống như thật!",
+          "description": "Sử dụng trang cập nhật giả Windows XP để lừa bạn tôi nghĩ rằng máy tính của họ thực sự đang cập nhật. Thanh tiến trình thực tế và các thông báo hoạt động như một cơ duyên!"
+        },
+        {
+          "title": "Trò đùa hoàn hảo với màn hình cập nhật giả Windows XP!",
+          "description": "Đã thực hiện một trò đùa thành công bằng cách hiển thị màn hình cập nhật Windows XP giả trên máy tính của đồng nghiệp của tôi. Các thông báo và tiến trình trông giống như thật khiến nó có vẻ giống như hàng thật!"
+        },
+        {
+          "title": "Gây ấn tượng với bạn bè của tôi bằng mô phỏng cập nhật Windows XP thực tế!",
+          "description": "Đã chia sẻ ảnh chụp màn hình cập nhật giả Windows XP mà tôi đã tạo bằng trang mô phỏng. Hình ảnh xác thực và thông báo trạng thái khiến nó trông giống như một bản cập nhật chính hãng đang được tiến hành!"
+        },
+        {
+          "title": "Trò chơi khăm cập nhật Windows XP đã gây ấn tượng mạnh trong bữa tiệc!",
+          "description": "Sử dụng trang cập nhật giả Windows XP để chơi khăm bạn bè tôi trong một buổi tụ tập. Màn hình cập nhật thực tế, đầy đủ các thông báo và tiến trình, khiến mọi người phải khốn đốn!"
+        },
+        {
+          "title": "Cười vui vẻ với màn hình cập nhật giả Windows XP!",
+          "description": "Đã truy cập công cụ chơi khăm cập nhật Windows XP và tùy chỉnh các thông báo để tạo ra một kịch bản hài hước. Giao diện thực tế và thanh tiến trình khiến nó trở thành một trải nghiệm vui nhộn cho tất cả những người liên quan."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Bản cập nhật Windows XP mô phỏng",
+          "content": [
+            "Bản cập nhật giả Windows XP",
+            "Mô phỏng cập nhật Windows XP",
+            "Mô phỏng bản cập nhật Windows XP",
+            "Màn hình cập nhật Windows XP giả",
+            "Giả lập bản cập nhật Windows XP",
+            "Trò đùa cập nhật Windows XP",
+            "Quy trình cập nhật Windows XP"
+          ]
+        },
+        {
+          "title": "Trải nghiệm thực tế",
+          "content": [
+            "Bản cập nhật Windows XP trông như thật",
+            "Màn hình cập nhật Windows XP thực tế",
+            "Đánh lừa người bạn với bản cập nhật Windows XP",
+            "Tiến trình cập nhật Windows XP thực tế",
+            "Mô phỏng cập nhật Windows XP chính hãng",
+            "Thông báo cập nhật Windows XP đích thực",
+            "Giai đoạn cập nhật Windows XP"
+          ]
+        },
+        {
+          "title": "Giải trí và Vui vẻ",
+          "content": [
+            "Trò chơi khăm cập nhật Windows XP mang tính giải trí",
+            "Bản cập nhật Windows XP giả thú vị",
+            "Tận hưởng bản cập nhật Windows XP mô phỏng",
+            "Trò đùa với bản cập nhật giả Windows XP",
+            "Trải nghiệm cập nhật Windows XP thú vị",
+            "Cập nhật Windows XP để giải trí",
+            "Công cụ chơi khăm cập nhật Windows XP"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-mac-os-x-update-screen": {
+    "name": "Cập nhật giả Mac OS X",
+    "icon": "https: //emojicdn.elk.sh/🍎",
+    "title": "Bản cập nhật giả Mac OS X",
+    "type": "cập nhật giả",
+    "tip": {
+      "title": "Bản cập nhật giả Mac OS X",
+      "content": [
+        {
+          "title": "Trò đùa bạn bè",
+          "description": "Sử dụng công cụ cập nhật giả Mac OS X của chúng tôi để chơi khăm bạn bè bạn, khiến họ tin rằng máy tính của họ đang trải qua một bản cập nhật quan trọng. Hãy xem phản ứng của họ và cười lớn!"
+        },
+        {
+          "title": "Kiểm tra sự kiên nhẫn",
+          "description": "Tìm hiểu xem đồng nghiệp hoặc người thân của bạn phản ứng thế nào trước những cập nhật bất ngờ. Đó là một cách thú vị để kiểm tra sự kiên nhẫn của họ mà không gây ra bất kỳ sự bất tiện thực sự nào."
+        },
+        {
+          "title": "Hỗ trợ giảng dạy công nghệ",
+          "description": "Sử dụng công cụ cập nhật giả làm công cụ hỗ trợ giảng dạy cho các khóa học hoặc hội thảo công nghệ. Công cụ này có thể được sử dụng để giải thích các bản cập nhật hệ thống và cách quản lý chúng."
+        },
+        {
+          "title": "Thử nghiệm UI/UX",
+          "description": "Đối với các nhà thiết kế UI/UX, công cụ của chúng tôi có thể cung cấp một nghiên cứu điển hình thú vị về trải nghiệm người dùng trong quá trình cập nhật hệ thống. Phân tích sự tương tác và mức độ tương tác của người dùng trong quá trình này."
+        },
+        {
+          "title": "Sáng tạo nội dung",
+          "description": "Người tạo nội dung có thể sử dụng công cụ này để tạo nội dung thú vị liên quan đến công nghệ hoặc thử nghiệm xã hội cho blog, vlog hoặc nền tảng truyền thông xã hội của họ."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Cập nhật Mac OS X mô phỏng",
+          "content": [
+            "Bản cập nhật giả Mac OS X",
+            "Mô phỏng cập nhật Mac OS X",
+            "Mô phỏng bản cập nhật Mac OS X",
+            "Màn hình cập nhật Mac OS X giả",
+            "Giả lập bản cập nhật Mac OS X",
+            "Trò đùa cập nhật Mac OS X",
+            "Quá trình cập nhật Mac OS X"
+          ]
+        },
+        {
+          "title": "Trải nghiệm thực tế",
+          "content": [
+            "Bản cập nhật Mac OS X trông như thật",
+            "Màn hình cập nhật Mac OS X thực tế",
+            "Đánh lừa những người bạn với bản cập nhật Mac OS X",
+            "Tiến trình cập nhật Mac OS X thực tế",
+            "Mô phỏng cập nhật Mac OS X chính hãng",
+            "Thông báo cập nhật Mac OS X đích thực",
+            "Giai đoạn cập nhật Mac OS X"
+          ]
+        },
+        {
+          "title": "Giải trí và Vui vẻ",
+          "content": [
+            "Trò chơi khăm cập nhật Mac OS X mang tính giải trí",
+            "Bản cập nhật Mac OS X giả thú vị",
+            "Tận hưởng bản cập nhật Mac OS X mô phỏng",
+            "Trò đùa với bản cập nhật giả Mac OS X",
+            "Trải nghiệm cập nhật Mac OS X thú vị",
+            "Bản cập nhật Mac OS X để giải trí",
+            "Công cụ chơi khăm cập nhật Mac OS X"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-ubuntu-22-04-update-screen": {
+    "name": "Cập nhật giả Ubuntu 22.04",
+    "icon": "https: //emojicdn.elk.sh/🐧",
+    "title": "Bản cập nhật giả Ubuntu 22.04",
+    "type": "cập nhật giả",
+    "tip": {
+      "title": "Bản cập nhật giả Ubuntu 22.04",
+      "content": [
+        {
+          "title": "Màn hình giả Ubuntu dành cho trò đùa",
+          "description": "Màn hình cập nhật Ubuntu giả động được yêu thích cho các trò đùa công nghệ, hoàn hảo để đánh lừa đồng nghiệp tin rằng hệ thống của họ đang cập nhật liên tục, tạo ra những khoảnh khắc vui vẻ trong văn phòng."
+        },
+        {
+          "title": "Mô phỏng cập nhật bằng màn hình giả Ubuntu",
+          "description": "Các nhà phát triển và chuyên gia CNTT sử dụng màn hình cập nhật Ubuntu 22.04 giả để mô phỏng các bản cập nhật hệ thống và kiểm tra sự kiên nhẫn của người dùng hoặc phản ứng với những thay đổi giao diện mà không ảnh hưởng đến hoạt động của hệ thống."
+        },
+        {
+          "title": "Màn hình cập nhật Ubuntu dành cho đào tạo",
+          "description": "Giảng viên sử dụng màn hình Ubuntu 22.04 giả để hướng dẫn sinh viên CNTT về quy trình cập nhật hệ thống, giúp họ làm quen với các dấu hiệu trực quan của bản nâng cấp Ubuntu thực tế."
+        },
+        {
+          "title": "Tạo nội dung bằng Bản cập nhật giả Ubuntu",
+          "description": "Người tạo nội dung kết hợp màn hình cập nhật giả Ubuntu động vào video và luồng của họ để tăng thêm lớp xác thực khi thảo luận về các chủ đề công nghệ hoặc tạo hướng dẫn về nâng cấp hệ thống."
+        },
+        {
+          "title": "Hệ thống dàn dựng với màn hình Ubuntu 22.04 giả",
+          "description": "Môi trường dàn dựng công nghệ sử dụng màn hình cập nhật giả Ubuntu 22.04 để thể hiện quá trình cập nhật trong các tình huống như triển lãm thương mại hoặc trình diễn phần mềm mà không cam kết cập nhật thực tế."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Bản cập nhật Ubuntu 22.04 mô phỏng",
+          "content": [
+            "Bản cập nhật giả Ubuntu 22.04",
+            "Mô phỏng cập nhật Ubuntu 22.04",
+            "Mô phỏng bản cập nhật Ubuntu 22.04",
+            "Màn hình cập nhật Ubuntu 22.04 giả",
+            "Giả lập bản cập nhật Ubuntu 22.04",
+            "Trò đùa cập nhật Ubuntu 22.04",
+            "Quá trình cập nhật Ubuntu 22.04"
+          ]
+        },
+        {
+          "title": "Trải nghiệm thực tế",
+          "content": [
+            "Bản cập nhật Ubuntu 22.04 trông như thật",
+            "Màn hình cập nhật Ubuntu 22.04 thực tế",
+            "Đánh lừa những người bạn với bản cập nhật Ubuntu 22.04",
+            "Tiến trình cập nhật Ubuntu 22.04 thực tế",
+            "Mô phỏng cập nhật Ubuntu 22.04 chính hãng",
+            "Thông báo cập nhật Ubuntu 22.04 đích thực",
+            "Giai đoạn cập nhật Ubuntu 22.04"
+          ]
+        },
+        {
+          "title": "Giải trí và Vui vẻ",
+          "content": [
+            "Trò chơi khăm cập nhật Ubuntu 22.04 mang tính giải trí",
+            "Bản cập nhật Ubuntu 22.04 giả thú vị",
+            "Tận hưởng bản cập nhật Ubuntu 22.04 mô phỏng",
+            "Trò đùa với bản cập nhật giả Ubuntu 22.04",
+            "Trải nghiệm cập nhật Ubuntu 22.04 thú vị",
+            "Bản cập nhật Ubuntu 22.04 để giải trí",
+            "Công cụ chơi khăm cập nhật Ubuntu 22.04"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-chrome-os-update-screen": {
+    "name": "Cập nhật Chrome OS giả  ",
+    "icon": "https: //emojicdn.elk.sh/🌐",
+    "title": "Bản cập nhật giả ChromeOS",
+    "type": "cập nhật giả",
+    "tip": {
+      "title": "Bản cập nhật giả ChromeOS",
+      "content": [
+        {
+          "title": "Đùa giỡn bạn bè của bạn bằng màn hình cập nhật ChromeOS giả",
+          "description": "Mở công cụ cập nhật giả toàn màn hình này khi bạn của bạn không giám sát Chromebook của họ. Khi quay lại, họ sẽ nghĩ rằng thiết bị của họ bị kẹt trong bản cập nhật hệ thống. Hoàn hảo cho những trò đùa nhanh mà không thực sự gây hại cho thiết bị của họ."
+        },
+        {
+          "title": "Kiểm tra cách mọi người phản ứng với các bản cập nhật hệ thống trong khi thuyết trình",
+          "description": "Sử dụng trình mô phỏng màn hình cập nhật Chrome OS này trong các buổi nói chuyện hoặc trình diễn để xem cách mọi người xử lý những gián đoạn không mong muốn. Rất phù hợp cho các buổi đào tạo về CNTT hoặc dạy người dùng cách giữ bình tĩnh khi có các bản cập nhật thực sự xuất hiện."
+        },
+        {
+          "title": "Tạo cảnh ChromeOS chân thực cho video hoặc ảnh chụp màn hình",
+          "description": "Tạo hướng dẫn hoặc video về Chromebook? Sử dụng màn hình cập nhật giả toàn màn hình này để ghi lại cảnh quay chân thực về quá trình cập nhật Chrome OS mà không cần chờ cập nhật thực sự."
+        },
+        {
+          "title": "Đùa giỡn với phòng máy tính của trường bạn",
+          "description": "Bạn đang tìm một trò đùa vô hại ở trường học? Hãy mở màn hình cập nhật Chrome OS giả này trên máy tính trong phòng thí nghiệm trong giờ giải lao. Hãy xem học sinh và giáo viên cố gắng tìm hiểu lý do tại sao tất cả Chromebook lại cập nhật cùng một lúc."
+        },
+        {
+          "title": "Thực hành các tình huống hỗ trợ CNTT với màn hình cập nhật giả",
+          "description": "Đào tạo nhân viên hỗ trợ CNTT bằng cách mô phỏng các bản cập nhật Chrome OS bị lỗi. Công cụ toàn màn hình này giúp các nhóm thực hành xử lý các sự cố phổ biến của Chromebook mà không gây rủi ro cho thiết bị thực."
+        },
+        {
+          "title": "Làm cho bản trình bày ChromeOS của bạn hấp dẫn hơn",
+          "description": "Nói về cập nhật phần mềm hoặc bảo trì hệ thống? Sử dụng màn hình cập nhật giả này để hiển thị chính xác những gì người dùng Chrome OS nhìn thấy mà không làm khán giả nhàm chán bằng ảnh chụp màn hình tĩnh."
+        },
+        {
+          "title": "Thực hiện trò chơi khăm văn phòng đỉnh cao bằng các bản cập nhật giả  ",
+          "description": "Bạn muốn chơi khăm đồng nghiệp của mình? Hãy khởi chạy trình mô phỏng cập nhật Chrome OS toàn màn hình này trên Chromebook văn phòng. Đây là một cách thú vị để gây bất ngờ cho nhóm của bạn mà không gây ra bất kỳ gián đoạn thực sự nào cho công việc của họ."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Vui vẻ & Giải trí",
+          "content": [
+            "Trò đùa bạn bè trong giờ nghỉ trưa",
+            "Thành viên gia đình bất ngờ",
+            "Tạo video phản ứng hài hước",
+            "Trò đùa trong phòng thí nghiệm máy tính của trường",
+            "Trò đùa ChromeOS của văn phòng"
+          ]
+        },
+        {
+          "title": "Giáo dục & Đào tạo",
+          "content": [
+            "Các kịch bản đào tạo hỗ trợ CNTT",
+            "Hội thảo cập nhật phần mềm",
+            "Bản ghi hướng dẫn ChromeOS",
+            "Bài thuyết trình của quản trị viên hệ thống",
+            "Nghiên cứu hành vi người dùng"
+          ]
+        },
+        {
+          "title": "Sáng tạo nội dung",
+          "content": [
+            "Ảnh chụp màn hình cập nhật ChromeOS",
+            "Hình ảnh đánh giá công nghệ",
+            "Nền video hướng dẫn",
+            "Hình ảnh tài liệu phần mềm",
+            "Tài liệu demo ChromeOS"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-11-update-screen": {
+    "name": "Cập nhật giả Windows 11",
+    "icon": "https: //emojicdn.elk.sh/🪟",
+    "title": "Bản cập nhật giả Windows 11",
+    "type": "cập nhật giả",
+    "tip": {
+      "title": "Màn hình cập nhật Windows 11",
+      "content": [
+        {
+          "title": "Thật thú vị khi mô phỏng quá trình cập nhật Windows 11!",
+          "description": "Đã truy cập trang mô phỏng cập nhật Windows 11 và tùy chỉnh tiến trình để tạo ra một bản cập nhật giả thuyết phục. Thật thú vị khi xem phản ứng của bạn bè tôi!"
+        },
+        {
+          "title": "Tăng thêm hương vị cho văn phòng bằng trò đùa cập nhật Windows 11!",
+          "description": "Sử dụng công cụ chơi khăm cập nhật Windows 11 để mô phỏng bản cập nhật trên PC của đồng nghiệp của tôi. Thông báo xác thực và thanh tiến trình đã khiến mọi người bị lừa và dẫn đến một số khoảnh khắc vui nhộn!"
+        },
+        {
+          "title": "Trò đùa cập nhật Windows 11 vui nhộn mang lại tiếng cười sảng khoái!",
+          "description": "Sử dụng màn hình cập nhật giả Windows 11 để chơi khăm anh chị em của tôi. Họ hoàn toàn bị đánh lừa bởi quá trình cập nhật trông giống như thật và thanh tiến trình đang tích tắc!"
+        },
+        {
+          "title": "Gây ấn tượng với những người bạn am hiểu công nghệ của tôi về tính xác thực của mô phỏng cập nhật Windows 11!",
+          "description": "Đã chia sẻ một đoạn video mô phỏng bản cập nhật Windows 11 mà tôi đã tạo bằng trang web. Thanh tiến trình và thông báo trạng thái trông chân thực đã khiến bạn bè tôi ngạc nhiên, họ nghĩ đó là một bản cập nhật thực sự!"
+        },
+        {
+          "title": "Đã chia sẻ đoạn video mô phỏng bản cập nhật Windows 11 mà tôi tạo bằng trang web. Thanh tiến trình và thông báo trạng thái trông chân thực khiến bạn bè tôi ngạc nhiên, họ nghĩ đó là một bản cập nhật thực sự!",
+          "description": "Sử dụng màn hình cập nhật giả Windows 11 để lừa đồng nghiệp của tôi nghĩ rằng máy tính của họ đang trải qua một bản cập nhật lớn. Hình ảnh chân thực và hoạt ảnh tiến trình đã khiến họ hoảng sợ trong giây lát!"
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Bản cập nhật Windows 11 mô phỏng",
+          "content": [
+            "Bản cập nhật giả Windows 11",
+            "Mô phỏng cập nhật Windows 11",
+            "Mô phỏng bản cập nhật Windows 11",
+            "Màn hình cập nhật Windows 11 giả",
+            "Giả lập bản cập nhật Windows 11",
+            "Trò đùa cập nhật Windows 11",
+            "Quy trình cập nhật Windows 11"
+          ]
+        },
+        {
+          "title": "Trải nghiệm thực tế",
+          "content": [
+            "Bản cập nhật Windows 11 trông như thật",
+            "Màn hình cập nhật Windows 11 thực tế",
+            "Những người bạn ngốc nghếch với bản cập nhật Windows 11",
+            "Tiến trình cập nhật Windows 11 thực tế",
+            "Mô phỏng cập nhật Windows 11 chính hãng",
+            "Thông báo cập nhật Windows 11 đích thực",
+            "Giai đoạn cập nhật Windows 11"
+          ]
+        },
+        {
+          "title": "Giải trí và Vui vẻ",
+          "content": [
+            "Trò đùa thú vị khi cập nhật Windows 11",
+            "Bản cập nhật Windows 11 giả thú vị",
+            "Tận hưởng bản cập nhật Windows 11 mô phỏng",
+            "Trò đùa với bản cập nhật giả Windows 11",
+            "Trải nghiệm cập nhật Windows 11 thú vị",
+            "Bản cập nhật Windows 11 để giải trí",
+            "Công cụ chơi khăm cập nhật Windows 11"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-android-update": {
+    "name": "Bản cập nhật giả Android",
+    "icon": "https: //emojicdn.elk.sh/📱",
+    "title": "Cập nhật Android giả  ",
+    "type": "cập nhật giả",
+    "tip": {
+      "title": "Màn hình cập nhật giả Android",
+      "content": [
+        {
+          "title": "Mô phỏng bản cập nhật Android để kiểm tra phần mềm",
+          "description": "Sử dụng công cụ cập nhật giả Android của chúng tôi để tạo màn hình cập nhật trông giống như thật cho mục đích trình diễn và thử nghiệm phần mềm."
+        },
+        {
+          "title": "Thu hút khán giả của bạn bằng màn hình cập nhật Android thực tế",
+          "description": "Thu hút sự chú ý của những người đam mê công nghệ bằng cách hiển thị mô phỏng cập nhật Android chính hãng trong các buổi thuyết trình hoặc blog công nghệ."
+        },
+        {
+          "title": "Nâng cao nền giáo dục công nghệ bằng Công cụ chơi khăm cập nhật Android",
+          "description": "Kết hợp màn hình cập nhật Android thực tế của chúng tôi vào các tình huống giáo dục công nghệ để dạy về cập nhật hệ thống và thiết kế giao diện người dùng."
+        },
+        {
+          "title": "Tạo nội dung giải trí bằng bản cập nhật giả Android",
+          "description": "Sản xuất nội dung video hấp dẫn hoặc phát trực tiếp bằng trò đùa thú vị về cập nhật Android, thêm sự hài hước vào các cuộc thảo luận về công nghệ."
+        },
+        {
+          "title": "Đùa bạn bè bằng mô phỏng cập nhật Android chính hãng",
+          "description": "Gây ngạc nhiên cho bạn bè của bạn bằng cách sử dụng công cụ của chúng tôi để chơi khăm bằng bản cập nhật giả Android, biến những khoảnh khắc bình thường thành những trò đùa công nghệ đáng nhớ."
+        },
+        {
+          "title": "Nâng cao việc học thiết kế trải nghiệm người dùng với các bản cập nhật mô phỏng",
+          "description": "Sử dụng trải nghiệm cập nhật Android thú vị để hướng dẫn các nhà thiết kế UX/UI về tác động của các bản cập nhật hệ thống đối với trải nghiệm người dùng."
+        },
+        {
+          "title": "Thể hiện các kịch bản khôi phục hệ thống bằng Công cụ chơi khăm cập nhật Android",
+          "description": "Tận dụng công cụ cập nhật Android có giao diện chân thực để mô phỏng quá trình khôi phục hệ thống cho các hội thảo và đào tạo về CNTT."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Cập nhật Android mô phỏng",
+          "content": [
+            "Bản cập nhật giả Android",
+            "Mô phỏng cập nhật Android",
+            "Mô phỏng cập nhật Android",
+            "Màn hình cập nhật Android giả",
+            "Giả lập bản cập nhật Android",
+            "Trò đùa cập nhật Android",
+            "Quy trình cập nhật Android"
+          ]
+        },
+        {
+          "title": "Trải nghiệm thực tế",
+          "content": [
+            "Bản cập nhật Android trông giống như thật",
+            "Màn hình cập nhật Android thực tế",
+            "Đánh lừa những người bạn với bản cập nhật Android",
+            "Tiến trình cập nhật Android thực tế",
+            "Mô phỏng cập nhật Android chính hãng",
+            "Thông báo cập nhật Android đích thực",
+            "Giai đoạn cập nhật Android"
+          ]
+        },
+        {
+          "title": "Giải trí và Vui vẻ",
+          "content": [
+            "Trò đùa cập nhật Android thú vị",
+            "Cập nhật Android giả thú vị",
+            "Tận hưởng bản cập nhật Android mô phỏng",
+            "Trò đùa với bản cập nhật giả Android",
+            "Trải nghiệm cập nhật Android thú vị",
+            "Cập nhật Android để giải trí",
+            "Công cụ chơi khăm cập nhật Android"
+          ]
+        }
+      ]
+    }
+  },
+  "/dvd-screensaver": {
+    "name": "Trình bảo vệ màn hình DVD",
+    "icon": "https: //emojicdn.elk.sh/📀",
+    "title": "Trình bảo vệ màn hình DVD",
+    "type": "trình bảo vệ màn hình",
+    "tip": {
+      "title": "Trình bảo vệ màn hình DVD",
+      "content": [
+        {
+          "title": "Thư giãn với Trình bảo vệ màn hình DVD cổ điển",
+          "description": "Thư giãn sau một ngày dài bằng cách xem trình bảo vệ màn hình có logo DVD hoài cổ di chuyển xung quanh toàn màn hình của bạn. Trình mô phỏng bảo vệ màn hình DVD này mang lại nét quyến rũ của các trình bảo vệ màn hình cổ điển, tạo ra bầu không khí êm dịu trên màn hình của bạn."
+        },
+        {
+          "title": "Nâng cao nền trình bày của bạn",
+          "description": "Thêm cảm giác sống động vào bản trình bày của bạn bằng cách sử dụng trình bảo vệ màn hình DVD ở chế độ toàn màn hình. Điều chỉnh kích thước logo và tốc độ chuyển động để phù hợp với phong cách của bạn, làm cho nền bản trình bày của bạn trở nên hấp dẫn và chuyên nghiệp."
+        },
+        {
+          "title": "Hoàn hảo cho phòng chờ",
+          "description": "Giúp khách truy cập giải trí với trình bảo vệ màn hình logo DVD trong phòng chờ của bạn. Công cụ trực tuyến này cho phép bạn tùy chỉnh kích thước logo và tốc độ di chuyển, mang lại trải nghiệm trực quan hấp dẫn cho khách của bạn."
+        },
+        {
+          "title": "Tạo không khí bữa tiệc vui vẻ",
+          "description": "Sử dụng trình mô phỏng bảo vệ màn hình DVD trong các bữa tiệc để tạo bầu không khí vui vẻ và hoài cổ. Đặt nó ở chế độ toàn màn hình và để logo DVD chuyển động tạo thêm điểm nhấn độc đáo cho sự kiện của bạn, có thể điều chỉnh theo mọi kích thước và tốc độ."
+        },
+        {
+          "title": "Tăng cường sự tập trung cho các buổi học",
+          "description": "Tăng cường sự tập trung của bạn bằng cách sử dụng trình bảo vệ màn hình DVD trong khi học. Chuyển động nhẹ nhàng của logo DVD trên toàn màn hình có thể giúp duy trì sự tập trung, với kích thước và tốc độ có thể điều chỉnh phù hợp với sở thích của bạn."
+        },
+        {
+          "title": "Giải trí trong thời gian ngừng hoạt động",
+          "description": "Lấp đầy màn hình của bạn bằng trình bảo vệ màn hình logo DVD trong thời gian nghỉ hoặc thời gian ngừng hoạt động. Công cụ trực tuyến này hoàn hảo để tạo nền êm dịu, với các điều chỉnh dễ dàng về kích thước logo và tốc độ chuyển động."
+        },
+        {
+          "title": "Trưng bày phong cách cổ điển trong cửa hàng",
+          "description": "Thu hút khách hàng đến cửa hàng của bạn bằng trình bảo vệ màn hình DVD cổ điển ở chế độ toàn màn hình. Logo DVD chuyển động, có thể tùy chỉnh về kích thước và tốc độ, có thể tạo thêm nét tinh tế cổ điển cho màn hình hiển thị của bạn."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Thư giãn và không khí",
+          "content": [
+            "Thư giãn với trình bảo vệ màn hình hoài cổ",
+            "Tạo một môi trường yên tĩnh",
+            "Tận hưởng cảm giác cổ điển",
+            "Đặt nền yên tĩnh",
+            "Hoàn hảo cho các buổi thiền"
+          ]
+        },
+        {
+          "title": "Sử dụng chuyên nghiệp và kinh doanh",
+          "content": [
+            "Nâng cao khả năng thuyết trình bằng chuyển động",
+            "Màn hình phòng chờ động",
+            "Nền văn phòng hấp dẫn",
+            "Trình bảo vệ màn hình chuyên nghiệp cho cuộc họp",
+            "Màn hình cửa hàng thu hút sự chú ý"
+          ]
+        },
+        {
+          "title": "Giải trí và Vui vẻ",
+          "content": [
+            "Người tạo không khí tiệc tùng",
+            "Công cụ nghỉ học thú vị",
+            "Trình bảo vệ màn hình tương tác cho trẻ em",
+            "Giải trí trực quan trong thời gian ngừng hoạt động",
+            "Màn hình bữa tiệc có thể tùy chỉnh"
+          ]
+        }
+      ]
+    }
+  },
+  "/flip-clock-screensaver": {
+    "name": "Đồng hồ lật",
+    "icon": "https: //emojicdn.elk.sh/⏰",
+    "title": "Trình bảo vệ màn hình đồng hồ lật",
+    "type": "trình bảo vệ màn hình",
+    "tip": {
+      "title": "Trình bảo vệ màn hình đồng hồ lật",
+      "content": [
+        {
+          "title": "Thư giãn với Đồng hồ lật cổ điển",
+          "description": "Tận hưởng vẻ đẹp cổ điển, nhẹ nhàng với Trình bảo vệ màn hình đồng hồ lật ở chế độ toàn màn hình. Hoàn hảo để thư giãn và thêm nét cổ điển vào không gian làm việc của bạn, đồng hồ lật mac này có thể tùy chỉnh theo thời gian ưa thích của bạn."
+        },
+        {
+          "title": "Tạo môi trường văn phòng phong cách",
+          "description": "Sử dụng Trình bảo vệ màn hình Đồng hồ Lật để mang đến vẻ ngoài phong cách và chuyên nghiệp cho văn phòng của bạn. Chế độ toàn màn hình và thời gian có thể tùy chỉnh khiến nó trở thành một sự bổ sung tuyệt vời cho bất kỳ nơi làm việc nào, giúp bạn theo dõi thời gian một cách trực quan hấp dẫn."
+        },
+        {
+          "title": "Hoàn hảo cho hình nền thuyết trình",
+          "description": "Gây ấn tượng với khán giả bằng cách sử dụng Trình bảo vệ màn hình Đồng hồ Lật làm nền trong khi thuyết trình. Chế độ toàn màn hình cung cấp màn hình đồng hồ hiện đại, đẹp mắt có thể được đặt thành bất kỳ thời gian tùy chỉnh nào, làm cho bài thuyết trình của bạn nổi bật."
+        },
+        {
+          "title": "Tạo không gian hiện đại cho ngôi nhà",
+          "description": "Biến đổi môi trường gia đình của bạn bằng Trình bảo vệ màn hình đồng hồ lật ở chế độ toàn màn hình. Lý tưởng cho phòng khách hoặc văn phòng tại nhà, đồng hồ lật mac này mang đến cảm giác hiện đại, tối giản đồng thời hiển thị thời gian có thể tùy chỉnh."
+        },
+        {
+          "title": "Lý tưởng cho các buổi học",
+          "description": "Theo dõi thời gian học của bạn bằng Flip Clock Screensaver. Đồng hồ toàn màn hình giúp duy trì sự tập trung và bạn có thể tùy chỉnh thời gian để phù hợp với lịch học của mình. Hoàn hảo để tạo một môi trường học tập có tổ chức."
+        },
+        {
+          "title": "Màn hình phòng chờ hấp dẫn về mặt hình ảnh",
+          "description": "Làm cho phòng chờ của bạn hấp dẫn hơn với Trình bảo vệ màn hình Đồng hồ Lật. Đồng hồ toàn màn hình, có thể tùy chỉnh cung cấp cách hiển thị thời gian phong cách có thể giúp khách truy cập luôn cập nhật thông tin và giải trí trong khi chờ đợi."
+        },
+        {
+          "title": "Thêm cảm giác cổ điển vào sự kiện",
+          "description": "Sử dụng Trình bảo vệ màn hình đồng hồ lật trong các sự kiện để tạo cảm giác cổ điển. Chế độ toàn màn hình và thời gian có thể tùy chỉnh khiến nó trở thành một tính năng độc đáo và bắt mắt, hoàn hảo cho các bữa tiệc, triển lãm và họp mặt."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Thư giãn và thẩm mỹ",
+          "content": [
+            "Thẩm mỹ cổ điển",
+            "Đồng hồ toàn màn hình nhẹ nhàng",
+            "Bầu không khí cổ điển",
+            "Thiết kế tối giản hiện đại",
+            "Trang trí nhà phong cách"
+          ]
+        },
+        {
+          "title": "Chuyên nghiệp và năng suất",
+          "content": [
+            "Hiển thị thời gian văn phòng",
+            "Nền thuyết trình",
+            "Môi trường học tập có cấu trúc",
+            "Đồng hồ phòng chờ hấp dẫn",
+            "Công cụ quản lý thời gian"
+          ]
+        },
+        {
+          "title": "Giải trí và Sự kiện",
+          "content": [
+            "Không khí tiệc tùng",
+            "Trang trí sự kiện",
+            "Tính năng triển lãm",
+            "Hiển thị tương tác",
+            "Thời gian tùy chỉnh cho các sự kiện"
+          ]
+        }
+      ]
+    }
+  },
+  "/motivational-quote-screensaver": {
+    "quote": {
+      "paragraph": "Cách duy nhất để làm việc tốt là yêu thích những gì bạn làm. Nếu bạn chưa tìm thấy nó, hãy tiếp tục tìm kiếm. Đừng từ bỏ.",
+      "author": "Steve Jobs"
+    },
+    "name": "Trích dẫn tạo động lực",
+    "icon": "https: //emojicdn.elk.sh/💬",
+    "title": "Trình bảo vệ màn hình trích dẫn tạo động lực",
+    "type": "trình bảo vệ màn hình",
+    "tip": {
+      "title": "Trình bảo vệ màn hình trích dẫn tạo động lực",
+      "content": [
+        {
+          "title": "Tăng động lực buổi sáng",
+          "description": "Bắt đầu ngày mới của bạn với những câu nói tạo động lực mạnh mẽ trên toàn màn hình. Hãy làm mới trang để xem những câu nói truyền cảm hứng mới giúp tạo không khí tích cực cho ngày của bạn."
+        },
+        {
+          "title": "Tạo không gian làm việc tạo động lực",
+          "description": "Thay đổi không gian làm việc của bạn với Trình bảo vệ màn hình trích dẫn tạo động lực. Hiển thị các trích dẫn tạo động lực đầy cảm hứng trên toàn màn hình để giúp bạn tập trung và có động lực."
+        },
+        {
+          "title": "Tổ chức các cuộc họp truyền cảm hứng",
+          "description": "Sử dụng Trình bảo vệ màn hình trích dẫn tạo động lực trong các cuộc họp để truyền cảm hứng và tiếp thêm năng lượng cho nhóm của bạn. Hiển thị các trích dẫn tùy chỉnh có tên tác giả để thúc đẩy và khơi dậy sự sáng tạo."
+        },
+        {
+          "title": "Luôn truyền cảm hứng trong suốt buổi học",
+          "description": "Hãy giữ tinh thần phấn chấn khi học tập với những câu trích dẫn truyền cảm hứng hiển thị trên màn hình của bạn. Làm mới để có những câu trích dẫn mới hoặc thêm những câu trích dẫn tạo động lực tùy chỉnh để thành công."
+        },
+        {
+          "title": "Nâng cao không khí gia đình",
+          "description": "Thêm cảm hứng cho ngôi nhà của bạn bằng những câu trích dẫn đầy cảm hứng trên toàn màn hình. Hoàn hảo cho phòng khách hoặc văn phòng tại nhà, trình bảo vệ màn hình sẽ thay đổi những câu trích dẫn sau mỗi lần làm mới."
+        },
+        {
+          "title": "Hoàn hảo cho động lực tập thể dục",
+          "description": "Luôn có động lực trong quá trình tập luyện với những câu trích dẫn tạo động lực mạnh mẽ trên màn hình của bạn. Hãy sử dụng Trình bảo vệ màn hình câu nói tạo động lực để tiếp tục vượt qua giới hạn của bạn."
+        },
+        {
+          "title": "Tùy chỉnh theo cảm hứng cá nhân",
+          "description": "Cá nhân hóa nguồn cảm hứng của bạn bằng cách thêm các trích dẫn tùy chỉnh và tên tác giả. Trình bảo vệ màn hình trích dẫn tạo động lực cho phép bạn hiển thị các trích dẫn yêu thích của mình trên toàn màn hình."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Động lực hàng ngày",
+          "content": [
+            "Thúc đẩy cảm hứng buổi sáng",
+            "Khởi đầu ngày mới tích cực",
+            "Liều động lực hàng ngày",
+            "Những câu trích dẫn nâng cao tinh thần khi làm mới",
+            "Bắt đầu ngày mới với sự tích cực"
+          ]
+        },
+        {
+          "title": "Năng suất và sự tập trung",
+          "content": [
+            "Hãy tập trung vào công việc",
+            "Tạo động lực trong quá trình học tập",
+            "Thúc đẩy sự sáng tạo của nhóm",
+            "Những giờ nghỉ làm đầy cảm hứng",
+            "Tăng cường không khí làm việc"
+          ]
+        },
+        {
+          "title": "Sử dụng cá nhân và gia đình",
+          "content": [
+            "Truyền cảm hứng trang trí nhà cửa",
+            "Hiển thị báo giá có thể tùy chỉnh",
+            "Trích dẫn yêu thích cá nhân",
+            "Khuyến khích thói quen tập thể dục",
+            "Không khí gia đình đầy cảm hứng"
+          ]
+        }
+      ]
+    }
+  },
+  "/no-signal-smpte-color-bars-screensaver": {
+    "name": "Không có tín hiệu",
+    "icon": "https: //emojicdn.elk.sh/📡",
+    "title": "Thanh màu - Không có màn hình TV có tín hiệu",
+    "type": "trình bảo vệ màn hình",
+    "tip": {
+      "title": "Thanh màu - Không có màn hình TV có tín hiệu",
+      "content": [
+        {
+          "title": "Tạo cảm giác TV cổ điển bằng màn hình thanh màu",
+          "description": "Bạn thiếu các mẫu thử nghiệm TV cổ điển đó? Chạy toàn màn hình trình tạo thanh màu này để biến bất kỳ màn hình nào thành màn hình tivi cổ điển. Hoàn hảo để thiết lập luồng trò chơi cổ điển hoặc tạo cảm giác phát sóng hoài cổ."
+        },
+        {
+          "title": "TV Không có màn hình tín hiệu để sản xuất video",
+          "description": "Bạn cần các thanh màu SMPTE chuyên nghiệp cho các dự án video? Công cụ trực tuyến này tạo ra các mẫu thử nghiệm chất lượng phát sóng ngay trong trình duyệt của bạn. Rất lý tưởng để thiết lập màn hình hoặc thêm các yếu tố kỹ thuật xác thực vào sản phẩm của bạn."
+        },
+        {
+          "title": "Tùy chỉnh màn hình ngắt luồng của bạn",
+          "description": "Bạn đang tìm kiếm màn hình quay lại ngay chuyên nghiệp? Hãy sử dụng trình tạo thẻ thử nghiệm truyền hình trực tuyến này để tạo giao diện phát sóng cổ điển cho thời gian phát trực tuyến của bạn. Thêm nét chuyên nghiệp đó vào kênh của bạn bằng các thanh màu chân thực."
+        },
+        {
+          "title": "Màn hình không có tín hiệu cổ điển dành cho tác phẩm nghệ thuật sắp đặt",
+          "description": "Bạn muốn có giao diện tĩnh TV đích thực cho dự án nghệ thuật của mình? Trình tạo thanh màu trực tuyến này tạo ra các mẫu thử nghiệm trông chân thực và không có màn hình tín hiệu. Hoàn hảo cho các phòng trưng bày, tác phẩm sắp đặt hoặc bất kỳ thẩm mỹ công nghệ cổ điển nào."
+        },
+        {
+          "title": "Tạo tâm trạng với các mẫu thẻ kiểm tra cổ điển",
+          "description": "Biến bất kỳ màn hình nào thành màn hình TV hoài cổ với các thanh màu sắc chân thực và mẫu thử nghiệm. Tuyệt vời cho các bữa tiệc, sự kiện theo chủ đề hoặc chỉ tạo ra bầu không khí cổ điển hoàn hảo trong không gian của bạn."
+        },
+        {
+          "title": "Đùa bạn bè của bạn bằng màn hình không có tín hiệu",
+          "description": "Bạn muốn thực hiện một trò đùa truyền hình cổ điển? Hãy mở trình tạo thanh màu toàn màn hình này khi bạn bè của bạn không để ý. Hãy xem họ cố gắng sửa TV khi họ thấy kiểu không có tín hiệu cổ điển!"
+        },
+        {
+          "title": "Mẫu SMPTE chuyên nghiệp để kiểm tra hiển thị",
+          "description": "Cần hiệu chỉnh màn hình hoặc kiểm tra thiết bị video? Hãy sử dụng công cụ thanh màu trực tuyến này để tạo các mẫu kiểm tra tiêu chuẩn. Tuyệt vời để kiểm tra màn hình, máy chiếu hoặc bất kỳ màn hình nào cần kiểm tra trực quan nhanh chóng."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Giải trí & Trò đùa",
+          "content": [
+            "trò đùa toàn màn hình không có tín hiệu màn hình",
+            "trang trí bữa tiệc truyền hình cổ điển",
+            "hiệu ứng màn hình ngắt phát trực tuyến",
+            "thẩm mỹ truyền hình cổ điển",
+            "không khí phòng chơi game"
+          ]
+        },
+        {
+          "title": "Sử dụng chuyên nghiệp",
+          "content": [
+            "Thử nghiệm thanh màu SMPTE",
+            "theo dõi các mẫu hiệu chỉnh",
+            "thẻ thử nghiệm sản xuất video",
+            "tham chiếu thiết lập hiển thị",
+            "kiểm tra thiết bị phát sóng"
+          ]
+        },
+        {
+          "title": "Dự án sáng tạo",
+          "content": [
+            "nền nghệ thuật sắp đặt",
+            "thẩm mỹ video cổ điển",
+            "thiết kế TV cổ điển",
+            "đạo cụ sản xuất phim",
+            "màn trình diễn phương tiện hoài cổ"
+          ]
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "color": "Màn hình màu",
+    "prank": "Màn hình trò đùa",
+    "fake-update": "Màn hình cập nhật giả",
+    "screensaver": "Màn hình bảo vệ",
+    "tip": {
+      "header": "Người dùng {tipTitle} cho:"
+    }
+  },
+  "settings": {
+    "time": [
+      "Thời gian cập nhật",
+      "Thời gian bắt đầu",
+      "phút",
+      "Khởi động lại"
+    ],
+    "color": [
+      "Tải xuống"
+    ]
+  },
+  "title": "{title} | Công cụ trực tuyến"
+}
