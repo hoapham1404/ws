@@ -18,7 +18,7 @@ export default function ScreenTip() {
           {tRaw("navigation.tip.header", { tipTitle: t("name") })}
         </h2>
 
-        <div className="flex flex-col gap-6">
+        <div className="flex flex-col gap-14">
           {tip.content && tip.content.map((item: { title: string, description: string }) => (
             <TipItem key={item.title} title={item.title} description={item.description} />
           ))}
