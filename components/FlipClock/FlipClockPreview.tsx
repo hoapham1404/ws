@@ -1,41 +1,41 @@
-import { useEffect, useState } from 'react';
-import styles from './FlipClockPreview.module.css';
-
-const FlipClockPreview = () => {
-  const [time, setTime] = useState<Date>(new Date());
-
+import { useState, useEffect } from "react";
+import FlipUnit from "./FlipUnit";
+import { useFullScreen } from "../(prank-screen)/hooks/useFullScreen";
+export default function FlipClock() {
+  const [time, setTime] = useState<Date | null>(null);
+  const { isFullscreen } = useFullScreen();
   useEffect(() => {
-    const timer = setInterval(() => {
+    setTime(new Date());
+
+    const interval = setInterval(() => {
       setTime(new Date());
     }, 1000);
 
-    return () => clearInterval(timer);
+    return () => clearInterval(interval);
   }, []);
 
-  const hours = time.getHours().toString().padStart(2, '0');
-  const minutes = time.getMinutes().toString().padStart(2, '0');
-  const seconds = time.getSeconds().toString().padStart(2, '0');
+  if (!time) return null;
+
+  const formatTime = (date: Date) => ({
+    hours: String(date.getHours()).padStart(2, "0"),
+    minutes: String(date.getMinutes()).padStart(2, "0"),
+    seconds: String(date.getSeconds()).padStart(2, "0"),
+  });
+
+  const { hours, minutes, seconds } = formatTime(time);
 
   return (
-    <div className="flex items-center justify-center w-full h-full">
-      <div className={styles.flipClock}>
-        <div className={styles.timeUnit}>
-          <div className={styles.digit}>{hours[0]}</div>
-          <div className={styles.digit}>{hours[1]}</div>
-        </div>
-        <div className={styles.separator}>:</div>
-        <div className={styles.timeUnit}>
-          <div className={styles.digit}>{minutes[0]}</div>
-          <div className={styles.digit}>{minutes[1]}</div>
-        </div>
-        <div className={styles.separator}>:</div>
-        <div className={styles.timeUnit}>
-          <div className={styles.digit}>{seconds[0]}</div>
-          <div className={styles.digit}>{seconds[1]}</div>
-        </div>
+    <div className="h-full bg-white flex items-center justify-center">
+      <div className=" flex gap-2 text-4xl font-bold items-center">
+        <FlipUnit number={hours[0]} />
+        <FlipUnit number={hours[1]} />
+        <span className={`${isFullscreen ? 'text-[10rem]' : 'text-4xl'}`}>:</span>
+        <FlipUnit number={minutes[0]} />
+        <FlipUnit number={minutes[1]} />
+        <span className={`${isFullscreen ? 'text-[10rem]' : 'text-4xl'}`}>:</span>
+        <FlipUnit number={seconds[0]} />
+        <FlipUnit number={seconds[1]} />
       </div>
     </div>
   );
-};
-
-export default FlipClockPreview;
+}
