@@ -3,6 +3,7 @@ import ResolutionOptions from "./ResolutionOptions";
 import Temperature from "./Temperature";
 import { useTranslations } from "next-intl";
 import DownloadImageButton from "@/components/BasicColorPage/DownloadImageButton";
+import ColorPicker from "./ColorPicker";
 
 export default function SettingsPanel() {
   const currentPath = usePathname();
@@ -16,6 +17,7 @@ export default function SettingsPanel() {
         <DownloadImageButton />
       </section>
       <Temperature />
+      <ColorPicker />
     </div>
   )
 }

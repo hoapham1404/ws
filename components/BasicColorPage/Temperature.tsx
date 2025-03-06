@@ -5,7 +5,7 @@ import React from "react";
 
 export default function Temperature() {
   const currentPath = usePathname();
-  const { currentColor, currentTemperature } = colorStore();
+  const { currentColor } = colorStore();
   const rgb = hexToRgb(currentColor);
   if (!rgb) return null;
   return (

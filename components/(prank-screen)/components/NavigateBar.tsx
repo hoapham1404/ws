@@ -1,4 +1,4 @@
-import { getPrankRoutes, RouteStore } from "@/constants/routes";
+import { getPrankRoutes } from "@/constants/routes";
 import NavigationBottom from "@/components/BasicColorPage/NavigationBottom";
 
 

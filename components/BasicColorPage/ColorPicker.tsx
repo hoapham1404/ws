@@ -1,9 +1,11 @@
-import { colorStore } from "@/store/colorStore";
+import colorStore from "@/store/colorStore";
+import { usePathname } from "next/navigation";
 
 export default function ColorPicker() {
   const { currentColor, setCurrentColor } = colorStore();
+  const currentPath = usePathname();
   return (
-    <div className="flex items-center gap-2">
+    <div className={`w-full flex justify-start  items-center gap-6 ${currentPath === '/zoom-lighting' ? 'hidden' : ''} mt-2`}>
       <div className="relative inline-flex items-center">
         <label className="cursor-pointer">
           <span className="text-xl">🎨</span>
@@ -20,7 +22,7 @@ export default function ColorPicker() {
         type="text"
         value={currentColor}
         onChange={(e) => setCurrentColor(e.target.value)}
-        className="border border-gray-300 rounded "
+        className="w-24 rounded-md border border-gray-300 px-2 py-1 font-mono"
         placeholder="#FFFFFF"
       />
     </div>

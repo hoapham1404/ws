@@ -1,8 +1,7 @@
 import { getNavigationRoutes, RouteStore } from "@/constants/routes";
 import { usePathname } from "next/navigation";
-import Image from "next/image";
-import Link from "next/link";
 import { useTranslations } from "next-intl";
+import NavigationBottom from "./BasicColorPage/NavigationBottom";
 
 
 export default function NavigationScreen() {
@@ -13,16 +12,23 @@ export default function NavigationScreen() {
 
   // Group routes by type
   const groupedRoutes: Record<string, RouteStore[]> = {};
-
   navigationRoutes?.forEach((route: RouteStore) => {
     if (!groupedRoutes[route.type]) {
       groupedRoutes[route.type] = [];
     }
-
-    if (route.type === "color" && route?.isAxis === false) {
-      groupedRoutes["color"].push(route);
-    } else if (route.type !== "color") {
-      groupedRoutes[route.type].push(route);
+    switch (route.type) {
+      case "color":
+        if (route?.isAxis === false) {
+          groupedRoutes["color"].push(route);
+        }
+        break;
+      case "fake-update":
+        if (route.path !== '/fake-windows-11-update-screen' && route.path !== '/fake-android-update') {
+          groupedRoutes["fake-update"].push(route);
+        }
+        break;
+      default:
+        groupedRoutes[route.type].push(route);
     }
   });
 
@@ -37,7 +43,7 @@ export default function NavigationScreen() {
                   t(`navigation.${type}`)
                 }
               </p>
-              <div className="flex flex-wrap justify-center mb-4 cursor-pointer">
+              {/* <div className="flex flex-wrap justify-center mb-4 cursor-pointer">
                 {routes.map((route) => (
                   <Link key={route.path} href={route.path} className={"flex flex-col items-center p-6"}>
                     <button className="w-24 md:w-32 h-12 md:h-16 rounded-md shadow-md hover:opacity-90 transition-opacity">
@@ -49,7 +55,8 @@ export default function NavigationScreen() {
                     </span>
                   </Link>
                 ))}
-              </div>
+              </div> */}
+              <NavigationBottom routes={routes} />
             </div>
           )
         })
