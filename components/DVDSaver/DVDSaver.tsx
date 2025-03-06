@@ -250,7 +250,7 @@ const DVDScreensaver = (
       x: normalizedX * actualSpeed,
       y: normalizedY * actualSpeed
     });
-  }, [actualSpeed, position]);
+  }, [actualSpeed, position, direction.x, direction.y]);
 
   useEffect(() => {
     updateDimensions();
