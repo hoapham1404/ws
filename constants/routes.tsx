@@ -36,6 +36,7 @@ import FakeUpdateWin11 from "@/components/FakeUpdateWin11/FakeUpdateWin11";
 import FakeAndroidUpdateIcon from "@/public/android-logo.png";
 import FakeWin11UpdateIcon from "@/public/fake-update-win11.png";
 import FakeAndroidUpdate from "@/components/FakeAndroidUpdate/FakeAndroidUpdate";
+import DVDSetting from "@/components/DVDSaver/DVDSetting";
 
 export class RouteStore {
   path: string;
@@ -252,6 +253,7 @@ export const routes: RouteStore[] = [
     type: "screensaver",
     components: {
       mid: <DVDSaver />,
+      right: <DVDSetting />
     },
     thumbnail: DVDIcon,
   },
