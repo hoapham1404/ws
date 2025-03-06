@@ -1,5 +1,5 @@
 import { getRouteByPath, RouteStore } from "@/constants/routes";
-import RootLayout from "@/components/Layout/PageLayout";
+import PageLayout from "@/components/Layout/PageLayout";
 import PreviewContent from "@/components/BasicColorPage/PreviewContent";
 import ColorOptions from "@/components/BasicColorPage/ColorOptions";
 import SettingsPanel from "@/components/BasicColorPage/SettingsPanel";
@@ -71,7 +71,7 @@ export default function DynamicPage() {
       </Head>
       <div>
         {route.type === "color" && (
-          <RootLayout
+          <PageLayout
             left={<ColorOptions />}
             mid={<PreviewContent />}
             right={<SettingsPanel />}
@@ -79,7 +79,7 @@ export default function DynamicPage() {
           />
         )}
         {route.type === "prank" && (
-          <RootLayout
+          <PageLayout
             mid={route.components?.mid}
             right={route.components?.right}
             bottom={<NavigateBar />}
@@ -87,7 +87,7 @@ export default function DynamicPage() {
         )}
         {route.type === "fake-update" && (
           <UpdateProgressProvider>
-            <RootLayout
+            <PageLayout
               left={route.components?.left ?? <FakeUpdateScreenLeft />}
               mid={route.components?.mid}
               right={
@@ -104,7 +104,7 @@ export default function DynamicPage() {
           </UpdateProgressProvider>
         )}
         {route.type === "screensaver" && (
-          <RootLayout
+          <PageLayout
             mid={route.components?.mid}
             right={route.components?.right}
             bottom={route.components?.bottom || <DVDBottom />}

@@ -2,7 +2,7 @@ import ColorOptions from "@/components/BasicColorPage/ColorOptions";
 import PreviewContent from "@/components/BasicColorPage/PreviewContent";
 import ScreenOptions from "@/components/BasicColorPage/ScreenOptions";
 import SettingsPanel from "@/components/BasicColorPage/SettingsPanel";
-import RootLayout from "@/components/Layout/PageLayout";
+import PageLayout from "@/components/Layout/PageLayout";
 import { getRouteByPath, RouteStore } from "@/constants/routes";
 import { GetStaticProps } from "next";
 import { useTranslations } from "next-intl";
@@ -36,7 +36,7 @@ export default function HomePage() {
           <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(route.color)}'/>
       </svg>` : route.icon} />
       </Head>
-      <RootLayout
+      <PageLayout
         left={<ColorOptions />}
         mid={<PreviewContent />}
         right={<SettingsPanel />}

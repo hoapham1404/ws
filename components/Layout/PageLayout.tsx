@@ -1,5 +1,6 @@
 import Header from "@/components/Header";
 import React from "react";
+import FullScreenWrapper from "../(prank-screen)/components/FullScreenWrapper";
 
 interface PageLayoutProps {
   left?: React.ReactNode;
@@ -8,7 +9,7 @@ interface PageLayoutProps {
   bottom?: React.ReactNode;
 }
 
-export default function RootLayout({
+export default function PageLayout({
   left,
   mid,
   right,
@@ -19,7 +20,11 @@ export default function RootLayout({
       <Header />
       <main className="grid grid-cols-[2fr_3fr_2fr] grid-rows-2">
         <div className="overflow-auto">{left}</div>
-        <div className="overflow-auto">{mid}</div>
+        <div className="overflow-auto">
+          <FullScreenWrapper>
+            {mid}
+          </FullScreenWrapper>
+        </div>
         <div className="overflow-auto">{right}</div>
         <div className="col-span-3">{bottom}</div>
       </main>

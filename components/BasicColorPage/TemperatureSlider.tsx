@@ -1,4 +1,4 @@
-import { colorStore } from "@/store/colorStore";
+import colorStore from "@/store/colorStore";
 
 export default function TemperatureSlider() {
   const { currentTemperature, setTemperature } = colorStore();
