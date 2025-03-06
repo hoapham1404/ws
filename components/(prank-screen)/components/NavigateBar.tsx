@@ -29,23 +29,19 @@ export default function NavigateBar() {
   const t = useTranslations();
 
   return (
-    <div className="flex justify-center mb-4 cursor-pointer overflow-x-auto whitespace-nowrap">
+    <div className="flex justify-between mt-4 cursor-pointer">
       {defaultRoutes.map((route) => (
         <Link
           key={route.name}
           href={route.path}
-          className={`flex flex-col items-center p-6 ${route.path === currentPath ? "bg-gray-300" : ""}`}
+          className={`w-full flex flex-col items-center p-6 ${route.path === currentPath ? 'bg-gray-300' : ''}`}
         >
-          <button
-            className="w-24 md:w-32 h-12 md:h-16 rounded-md shadow-md hover:opacity-90 transition-opacity"
-          >
-            <Image
-              src={route.image}
-              alt={route.name}
-              className="mx-auto object-cover"
-            />
-          </button>
-          <span className="mt-6 text-sm md:text-base underline">
+          <Image
+            src={route.image}
+            alt={route.name}
+            className="w-28 aspect-video object-cover rounded-lg"
+          />
+          <span className="mt-2 underline text-wrap text-balance  text-center">
             {t(`${route.path}.name`)}
           </span>
         </Link>
