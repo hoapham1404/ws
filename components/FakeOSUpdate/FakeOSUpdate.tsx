@@ -1,9 +1,11 @@
 import AppleLogo from "@/public/apple.jpg";
 import Image from "next/image";
 import { useEffect, useState } from 'react';
+import { useFullScreen } from "../(prank-screen)/hooks/useFullScreen";
 
 export default function FakeOSUpdate() {
   const [progress, setProgress] = useState(0);
+  const { isFullscreen } = useFullScreen();
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -21,15 +23,14 @@ export default function FakeOSUpdate() {
 
   return (
     <div className="bg-black w-full h-full flex flex-col justify-center items-center">
-      <Image src={AppleLogo} alt="Apple Logo" width={80} height={80} />
-      <div className="flex flex-col items-center mt-8">
-        <div className="w-2/3 h-1 bg-gray-700 rounded-full overflow-hidden">
+      <Image src={AppleLogo} alt="Apple Logo" width={isFullscreen ? 250 : 80} height={isFullscreen ? 250 : 80} />
+      <div className="w-full flex flex-col items-center mt-8">
+        <div className={`${isFullscreen ? 'w-[10%]' : 'w-1/3'} h-2 bg-gray-700 rounded-full overflow-hidden`}>
           <div
             className="h-full bg-white transition-all duration-1000"
             style={{ width: `${progress}%` }}
           />
         </div>
-        <p className="text-white mt-4 text-lg">Installing macOS update...</p>
       </div>
     </div>
   );
