@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState, useMemo, useCallback } from "react"
 import dvdLogo from "@/public/dvd_logo.png"
 import Image from "next/image"
+import useDVDStore from "./dvdStore"
 
 interface DVDScreensaverProps {
   speed?: number
@@ -25,15 +26,17 @@ const LOGO_COLORS = [
   "#ff0080",
 ]
 
-const DVDScreensaver = ({
-  speed = 50,
-  size = 50,
-  className = "",
-  changeColors = true,
-  pausable = false,
-  padding = 10,
-  startPosition = "random",
-}: DVDScreensaverProps) => {
+const DVDScreensaver = (
+  {
+    className = "",
+    changeColors = true,
+    pausable = false,
+    padding = 10,
+    startPosition = "random",
+  }: DVDScreensaverProps
+
+) => {
+  const { speed, size } = useDVDStore()
   const containerRef = useRef<HTMLDivElement>(null)
   const logoRef = useRef<HTMLDivElement>(null)
   const animationRef = useRef<number | null>(null)
@@ -235,21 +238,23 @@ const DVDScreensaver = ({
   }, [position, direction, speed, isPaused, getRandomColor, lastCollisionTime, bounds])
 
   useEffect(() => {
-    if (speed === 0 || isPaused) {
-      setDirection({ x: 0, y: 0 })
-      setDirection(getInitialDirection())
-    } else {
-      const dirX = direction.x !== 0 ? Math.sign(direction.x) * actualSpeed : 0
-      const dirY = direction.y !== 0 ? Math.sign(direction.y) * actualSpeed : 0
+    if (!position) return;
 
-      if (Math.abs(dirX) !== Math.abs(direction.x) || Math.abs(dirY) !== Math.abs(direction.y)) {
-        setDirection({
-          x: dirX,
-          y: dirY,
-        })
-      }
-    }
-  }, [actualSpeed, speed, isPaused, getInitialDirection, direction.x, direction.y])
+    const magnitude = Math.sqrt(direction.x * direction.x + direction.y * direction.y);
+    if (magnitude === 0) return;
+
+    const normalizedX = direction.x / magnitude;
+    const normalizedY = direction.y / magnitude;
+
+    setDirection({
+      x: normalizedX * actualSpeed,
+      y: normalizedY * actualSpeed
+    });
+  }, [actualSpeed, position]);
+
+  useEffect(() => {
+    updateDimensions();
+  }, [actualSize, updateDimensions]);
 
   const togglePause = useCallback(() => {
     if (pausable) {
@@ -276,6 +281,7 @@ const DVDScreensaver = ({
           transform: `translate3d(${position?.x ?? 0}px, ${position?.y ?? 0}px, 0)`,
           willChange: "transform",
           filter: `drop-shadow(0 0 2px ${logoColor}) hue-rotate(${LOGO_COLORS.indexOf(logoColor) * 36}deg)`,
+          transition: 'width 0.3s ease-out, height 0.3s ease-out'
         }}
       >
         <Image
@@ -285,7 +291,11 @@ const DVDScreensaver = ({
           height={actualSize / 2}
           priority
           draggable={false}
-          style={{ userSelect: "none" }}
+          style={{
+            userSelect: "none",
+            width: actualSize,
+            height: actualSize / 2
+          }}
         />
       </div>
     </div>
