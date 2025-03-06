@@ -29,8 +29,12 @@ export default function PageLayout({
             {mid}
           </FullScreenWrapper>
         </div>
-        <div className="overflow-auto">{right}</div>
-        <div className="col-span-3">{bottom}</div>
+        <div className="overflow-auto">
+          <div className="ml-8 h-full">{right}</div>
+        </div>
+        <div className="col-span-3">
+          {bottom}
+        </div>
       </main>
     </div>
   );

@@ -20,22 +20,22 @@ export default function FakeBlueScreen10() {
         }`}
     >
       <div
-        className={`w-4/5 flex flex-col items-start gap-4  ${isFullscreen ? "justify-center " : " mx-auto pt-6  text-[.52rem]"}`}
+        className={`w-5/6 flex flex-col items-start gap-4  ${isFullscreen ? "justify-center " : " mx-auto pt-6  text-[.52rem]"}`}
       >
-        <p className={isFullscreen ? "text-9xl" : "text-6xl"}>:(</p>
+        <p className={isFullscreen ? "text-9xl" : "text-5xl"}>:(</p>
         <div className={isFullscreen ? "w-1/2 text-wrap" : "w-full text-wrap"}>
           <p
             className={
               isFullscreen
                 ? "text-4xl font-light leading-tight"
-                : "text-[.9rem] font-light"
+                : "text-[.7rem] font-light"
             }
           >
             Your PC ran into a problem and needs to restart. We&apos;re just
             collecting some error info, and then we&apos;ll restart for you.
           </p>
 
-          <div className={isFullscreen ? "my-8" : "my-4"}>
+          <div className={isFullscreen ? "my-8" : "my-2"}>
             <p
               className={`inline-block mr-2 ${isFullscreen ? "text-4xl" : "text-lg "}`}
             >
@@ -62,7 +62,7 @@ export default function FakeBlueScreen10() {
                 For more information about this issue and possible fixes, visit
                 https://www.windows.com/stopcode
               </p>
-              <p className={isFullscreen ? "mt-12 mb-4" : "mt-6 mb-2"}>
+              <p className={isFullscreen ? "mt-12 mb-4" : "mt-4 mb-2"}>
                 If you call a support person, give them this info:
               </p>
               <p>Stop code: CRITICAL_PROCESS_DIED</p>

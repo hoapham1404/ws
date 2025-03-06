@@ -300,9 +300,7 @@ export const getRouteByPathAsync = async (
     const route = routes.find((route) => route.path === path);
     if (!route) return null;
 
-    // If there's any async data loading or processing needed for the route,
-    // it should be done here
-    await Promise.resolve(); // Placeholder for any future async operations
+    await Promise.resolve();
     console.log("get route successful");
 
     return route;

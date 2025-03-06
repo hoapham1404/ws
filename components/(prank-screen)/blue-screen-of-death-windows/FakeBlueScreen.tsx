@@ -10,13 +10,13 @@ export default function FakeBlueScreen() {
   const { isFullscreen } = useFullScreen();
   return (
     <div
-      className={`${monoFont.className} bg-[#004091] text-white p-8 cursor-pointer ${isFullscreen
+      className={`${monoFont.className} h-full bg-[#004091] text-white  cursor-pointer ${isFullscreen
         ? "fixed inset-0 z-50 flex items-center justify-center"
-        : ""
+        : "flex flex-col items-center justify-center"
         }`}
     >
       <div
-        className={`${isFullscreen ? "max-w-[80%] pt-[5%] text-2xl space-y-8" : "text-[.52rem] space-y-3"}`}
+        className={`${isFullscreen ? "max-w-[80%] pt-[5%] text-2xl space-y-8" : "text-[.45rem] space-y-2"} text-wrap py-8 px-4`}
       >
         <p>
           A problem has been detected and windows has been shut down to prevent

@@ -1,6 +1,5 @@
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
 import { useFakeBlueScreen10Store } from "./fakeBlueScreen10";
 import { useTranslations } from "next-intl";
 
@@ -10,37 +9,35 @@ export default function FakeBlueScreen10_Sidebar() {
   const t = useTranslations("settings.time")
 
   return (
-    <div className="w-48 space-y-6">
-      <div className="space-y-2">
-        <Label>{t("0")}</Label>
-        <div className="flex items-center gap-2">
-          <Input
-            type="number"
-            value={updateTime}
-            onChange={(e) => setUpdateTime(Number(e.target.value))}
-            min={1}
-            className="w-20"
-          />
-          <span className="text-sm text-muted-foreground">{t("2")}</span>
-        </div>
+    <div className="h-full flex flex-col justify-center items-center gap-4">
+      <p className="text-xl">{t("0")}</p>
+      <div className="flex items-center gap-2">
+        <Input
+          type="text"
+          value={updateTime}
+          onChange={(e) => setUpdateTime(Number(e.target.value))}
+          min={1}
+          className="border-gray-300 w-20"
+        />
+        <span className="">{t("2")}</span>
       </div>
 
       <div className="space-y-2">
-        <Label>{t("1")}</Label>
+        <p className="text-xl">{t("1")}</p>
         <div className="flex items-center gap-2">
           <Input
-            type="number"
+            type="text"
             value={startTime}
             onChange={(e) => setStartTime(Number(e.target.value))}
             min={0}
             max={99}
-            className="w-20"
+            className="border-gray-300 w-20"
           />
-          <span className="text-sm text-muted-foreground">%</span>
+          <span className="">%</span>
         </div>
       </div>
 
-      <Button className="w-full" onClick={handleRestart}>
+      <Button variant="outline" className="px-4 py-2 " onClick={handleRestart}>
         {t("3")}
       </Button>
     </div>
