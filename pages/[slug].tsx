@@ -91,7 +91,7 @@ export default function DynamicPage() {
               left={route.components?.left ?? <FakeUpdateScreenLeft />}
               mid={route.components?.mid}
               right={
-                ["/fake-update-ubuntu-22-04", "/fake-update-chrome-os"].includes(
+                ["/fake-ubuntu-22-04-update-screen", "/fake-chrome-os-update-screen"].includes(
                   route.path,
                 ) ? (
                   route.components?.right

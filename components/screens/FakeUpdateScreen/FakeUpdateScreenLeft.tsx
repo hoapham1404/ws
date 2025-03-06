@@ -3,6 +3,7 @@ import Image from 'next/image';
 
 import FakeAndroidUpdate from '@/public/android-logo.png'
 import FakeWin11Update from '@/public/fake-update-win11.png'
+import Link from 'next/link';
 
 
 
@@ -20,17 +21,17 @@ export const FakeUpdateScreenLeft = () => {
   };
 
   return (
-    <div className="flex flex-col justify-start h-full cursor-pointer space-y-4">
+    <div className="h-full flex flex-col justify-between cursor-pointer ">
       {defaultRoutes.map((route) => (
-        <div key={route.name} className={`flex flex-row items-center p-4 gap-4 ${route.path === currentPath ? 'bg-transparent' : ''}`}>
-          <Image src={route.icon} alt={route.name} className="w-16 h-8 rounded-md shadow-md object-cover" />
+        <Link key={route.name} href={route.path} className={`flex flex-row items-center p-2 rounded-md gap-4 ${route.path === currentPath ? 'bg-gray-300' : ''}`}>
+          <Image src={route.icon} alt={route.name} className="w-16 h-8 rounded-md shadow-md object-cover shadow-2xl shadow-[#00000040]" />
           <span
             onClick={() => navigateTo(route.path)}
             className="text-sm md:text-base underline hover:opacity-90 transition-opacity cursor-pointer"
           >
             {route.name}
           </span>
-        </div>
+        </Link>
       ))}
     </div>
   );

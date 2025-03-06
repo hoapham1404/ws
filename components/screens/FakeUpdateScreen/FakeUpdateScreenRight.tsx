@@ -6,36 +6,35 @@ export const FakeUpdateScreenRight = () => {
   const t = useTranslations("settings.time")
 
   return (
-    <div className="w-[300px] h-full bg-white flex flex-col gap-1 items-center">
+    <div className="h-full bg-white flex flex-col justify-center items-center gap-2">
       <p className="text-xl">{t("0")}</p>
-      <div className="flex gap-2 my-2 justify-center items-center">
+      <div className="flex gap-1 justify-center items-center">
         <input
-          type="number"
-          min="1"
+          type="text"
           max="100"
           value={minutes}
           onChange={(e) => setMinutes(Number(e.target.value))}
-          className="w-28 h-10 text-sm border-b border-black px-1 text-center"
+          className="w-16 h-10 text-sm border-b border-black px-1 text-center"
         />
-        <p>{t("2")}</p>
+        <span>{t("2")}</span>
       </div>
 
       <p className="text-xl">{t("1")}</p>
-      <div className="flex gap-2 my-2 justify-center items-center">
+      <div className="flex gap-1 justify-center items-center">
         <input
-          type="number"
+          type="text"
           min="0"
           max="100"
           value={startPercentage}
           onChange={(e) => setStartPercentage(Number(e.target.value))}
-          className="w-28 h-10 text-sm border-b border-black px-1 text-center"
+          className="w-16 h-10 text-sm border-b border-black px-1 text-center"
         />
-        <p>%</p>
+        <span>%</span>
       </div>
 
       <button
         onClick={handleRestart}
-        className="mt-8 bg-white text-black border border-black rounded py-2 px-4 textxl hover:bg-gray-100 transition-colors"
+        className="mt-2 bg-white text-black border border-black rounded py-2 px-4  hover:bg-gray-100 transition-colors"
       >
         {t("3")}
       </button>
