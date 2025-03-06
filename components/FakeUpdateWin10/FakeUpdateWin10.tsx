@@ -15,7 +15,7 @@ export default function FakeUpdateWin10() {
         <div className={`space-y-2 ${isFullscreen ? 'text-3xl' : 'text-base'}`}>
           <p>Working on updates {progress}% complete</p>
           <p>{timeRemaining}</p>
-          <p>Don't turn off your PC. This will take a while</p>
+          <p>Don&apos;t turn off your PC. This will take a while</p>
         </div>
         <p className={`absolute left-0 right-0 w-full ${isFullscreen ? 'bottom-20 text-xl' : 'bottom-10 text-sm'
           }`}>
