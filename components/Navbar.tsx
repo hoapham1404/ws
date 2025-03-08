@@ -23,7 +23,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4 h-14 flex items-center justify-between">
         <div className="flex items-center gap-6">
           <Link href="/" className="font-semibold text-xl">
-            WS
+            SCREEN
           </Link>
           <Link href="/" className="text-sm text-muted-foreground hover:text-foreground">
             Feedback
