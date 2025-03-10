@@ -43,19 +43,6 @@ export default function NavigationScreen() {
                   t(`navigation.${type}`)
                 }
               </p>
-              {/* <div className="flex flex-wrap justify-center mb-4 cursor-pointer">
-                {routes.map((route) => (
-                  <Link key={route.path} href={route.path} className={"flex flex-col items-center p-6"}>
-                    <button className="w-24 md:w-32 h-12 md:h-16 rounded-md shadow-md hover:opacity-90 transition-opacity">
-                      {route.thumbnail && <Image src={route.thumbnail} alt={route.path} className="mx-auto object-cover" />}
-                      {route.color && <div className="w-24 md:w-32 h-12 md:h-16 rounded-md shadow-md hover:opacity-90 transition-opacity" style={{ backgroundColor: route.color }} />}
-                    </button>
-                    <span className="mt-6 text-sm md:text-base underline">
-                      {t(`${route.path}.name`)}
-                    </span>
-                  </Link>
-                ))}
-              </div> */}
               <NavigationBottom routes={routes} />
             </div>
           )

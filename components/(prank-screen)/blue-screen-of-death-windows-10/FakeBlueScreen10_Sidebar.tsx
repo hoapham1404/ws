@@ -1,4 +1,3 @@
-import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { useFakeBlueScreen10Store } from "./fakeBlueScreen10";
 import { useTranslations } from "next-intl";
@@ -37,9 +36,9 @@ export default function FakeBlueScreen10_Sidebar() {
         </div>
       </div>
 
-      <Button variant="outline" className="px-4 py-2 " onClick={handleRestart}>
+      <button className="px-4 py-2 " onClick={handleRestart}>
         {t("3")}
-      </Button>
+      </button>
     </div>
   );
 }

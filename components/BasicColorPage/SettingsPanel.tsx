@@ -12,7 +12,7 @@ export default function SettingsPanel() {
   return (
     <div className="flex flex-col justify-center items-center">
       <section className="flex flex-col gap-2">
-        <h3 className="my-4 mx-6 text-center text-xl text-balance">{t("name")} background</h3>
+        <h3 className="my-4 mx-6 text-center text-xl text-balance">{t("name").split(" ")[0]} background</h3>
         <ResolutionOptions />
         <DownloadImageButton />
       </section>

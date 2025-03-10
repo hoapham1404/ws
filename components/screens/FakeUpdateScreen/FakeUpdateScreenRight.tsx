@@ -34,7 +34,7 @@ export const FakeUpdateScreenRight = () => {
 
       <button
         onClick={handleRestart}
-        className="mt-2  text-black border border-black rounded py-2 px-4  hover:bg-gray-100 transition-colors"
+        className="mt-2"
       >
         {t("3")}
       </button>
