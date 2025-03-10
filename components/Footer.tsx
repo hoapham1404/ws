@@ -10,7 +10,7 @@ export default function Footer() {
           <a href="#" className="mx-2">Terms & conditions</a> |
           <a href="#" className="mx-2">Contact us</a>
         </p>
-        <p>© 2025 WS, Made in Ukraine 🇺🇦</p>
+        <p>© 2025 WS, Made in US 🇺🇸</p>
       </div>
     </footer>
   );
