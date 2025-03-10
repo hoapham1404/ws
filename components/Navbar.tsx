@@ -11,11 +11,14 @@ export default function Navbar() {
   };
 
   const getLanguageLabel = (locale: string) => {
-    const labels: Record<string, string> = {
-      en: 'English',
-      vi: 'Tiếng Việt'
-    };
-    return labels[locale] || locale;
+    const labels: Map<string, string> = new Map([
+      ['en', 'English'],
+      ['nl', 'Nederlands'],
+      ['fr', 'Français'],
+      ['de', 'Deutsch'],
+    ])
+
+    return labels.get(locale) || locale;
   };
 
   return (

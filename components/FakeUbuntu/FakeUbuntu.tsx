@@ -22,7 +22,7 @@ export default function FakeUbuntu() {
           {[...Array(5)].map((_, index) => (
             <div
               key={index}
-              className={`${isFullscreen ? 'w-2' : 'w-1'} aspect-square rounded-full ${index === activeDot ? 'bg-red-500' : 'bg-white'
+              className={`${isFullscreen ? 'w-2' : 'w-1'} aspect-square rounded-full ${index === activeDot ? 'bg-red-500' : ''
                 }`}
             />
           ))}

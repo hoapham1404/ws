@@ -6,7 +6,7 @@ export const FakeUpdateScreenRight = () => {
   const t = useTranslations("settings.time")
 
   return (
-    <div className="h-full bg-white flex flex-col justify-center items-center gap-2">
+    <div className="h-full flex flex-col justify-center items-center gap-2">
       <p className="text-xl">{t("0")}</p>
       <div className="flex gap-1 justify-center items-center">
         <input
@@ -34,7 +34,7 @@ export const FakeUpdateScreenRight = () => {
 
       <button
         onClick={handleRestart}
-        className="mt-2 bg-white text-black border border-black rounded py-2 px-4  hover:bg-gray-100 transition-colors"
+        className="mt-2  text-black border border-black rounded py-2 px-4  hover:bg-gray-100 transition-colors"
       >
         {t("3")}
       </button>

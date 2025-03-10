@@ -12,7 +12,7 @@ export function WhiteNoisePlayButton() {
         size="icon"
         onClick={togglePlay}
         aria-label={isPlaying ? "Pause" : "Play"}
-        className="w-12 h-12 bg-white border border-gray-200 rounded-lg hover:bg-gray-50"
+        className="w-12 h-12  border border-gray-200 rounded-lg hover:bg-gray-50"
       >
         {isPlaying ? (
           <Pause className="h-4 w-4 text-gray-700" />

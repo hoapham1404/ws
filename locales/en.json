@@ -799,7 +799,7 @@
       ]
     }
   },
-  "/blue-screen-of-death-windows-10": {
+  "blue-screen-of-death-windows-10": {
     "name": "Fake Blue Screen of Death 10",
     "icon": "https://emojicdn.elk.sh/💻",
     "title": "Windows 10 Fake Blue Screen of Death",

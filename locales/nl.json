@@ -1,0 +1,1733 @@
+{
+  "/": {
+    "name": "Wit scherm",
+    "color": "#FFFFFF",
+    "isAxis": false,
+    "title": "Wit scherm",
+    "type": "color",
+    "tip": {
+      "title": "wit scherm",
+      "content": [
+        {
+          "title": "wit scherm om tekeningen te kopiëren",
+          "description": "Tekeningen eenvoudig overtrekken door papier op een helderwit scherm te leggen."
+        },
+        {
+          "title": "wit scherm als lichtbron",
+          "description": "Gebruik het als achtergrondverlichting voor fotografie of als lichtbak."
+        },
+        {
+          "title": "wit scherm om de monitor te controleren",
+          "description": "Ontdek dode pixels of weergaveproblemen met een wit scherm."
+        },
+        {
+          "title": "wit scherm naar leeg scherm",
+          "description": "Minimaliseer afleidingen met een tijdelijk wit scherm."
+        },
+        {
+          "title": "wit scherm als leeslamp",
+          "description": "Verlicht leesmateriaal in het donker met een wit scherm."
+        },
+        {
+          "title": "wit scherm voor make-up",
+          "description": "Krijg helder, gelijkmatig licht voor het aanbrengen van make-up of het maken van foto's."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Wit scherm voor schoonmaken",
+          "content": [
+            "wit scherm voor het schoonmaken van de monitor",
+            "wit scherm om dode pixels te vinden",
+            "wit scherm om vuile plekken te vinden"
+          ]
+        },
+        {
+          "title": "Wit licht online",
+          "content": [
+            "wit licht om te lezen",
+            "wit licht voor videogesprekken",
+            "wit gekleurd licht",
+            "wit scherm/licht voor selfie",
+            "witte led-lampjes online"
+          ]
+        },
+        {
+          "title": "Overige",
+          "content": [
+            "wit scherm voor projector",
+            "wit scherm voor kinderen",
+            "witte achtergrond op volledig scherm"
+          ]
+        }
+      ]
+    }
+  },
+  "/black-screen": {
+    "name": "Zwart scherm",
+    "color": "#000000",
+    "isAxis": false,
+    "title": "Volledig zwart scherm",
+    "type": "color",
+    "tip": {
+      "title": "zwart scherm",
+      "content": [
+        {
+          "title": "zwart scherm voor tweede monitor",
+          "description": "Maak een tweede monitor donkerder zonder deze uit te schakelen."
+        },
+        {
+          "title": "zwart scherm om elektriciteit te besparen",
+          "description": "Verminder het energieverbruik van OLED/AMOLED-schermen."
+        },
+        {
+          "title": "zwart scherm om activiteit te verbergen",
+          "description": "Houd de status van uw computer discreet met een zwart scherm."
+        },
+        {
+          "title": "zwart scherm om monitor schoon te maken",
+          "description": "Spot en verwijder eenvoudig stof of vlekken."
+        },
+        {
+          "title": "zwart scherm als donkere achtergrond",
+          "description": "Creëer een donkere achtergrond voor gaming of video's."
+        },
+        {
+          "title": "zwart scherm om inbranden te voorkomen",
+          "description": "Bescherm plasma-tv's tegen inbranden tijdens inactiviteit."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Zwart scherm voor reiniging",
+          "content": [
+            "zwart scherm voor reiniging van monitor",
+            "zwart scherm om dode pixels te vinden",
+            "zwart scherm om vuile plekken te vinden"
+          ]
+        },
+        {
+          "title": "Zwarte kleur online",
+          "content": [
+            "leeg computerscherm",
+            "volledig zwart scherm",
+            "volledig zwart scherm"
+          ]
+        },
+        {
+          "title": "Overige",
+          "content": [
+            "zwart scherm voor projector",
+            "zwart scherm voor kinderen",
+            "zwarte achtergrond op volledig scherm"
+          ]
+        }
+      ]
+    }
+  },
+  "/red-screen": {
+    "name": "Rood scherm",
+    "color": "#FF0000",
+    "isAxis": false,
+    "title": "Rood scherm",
+    "type": "color",
+    "tip": {
+      "title": "rood scherm",
+      "content": [
+        {
+          "title": "rood scherm voor fotografie",
+          "description": "Voeg dramatische kleureffecten toe aan foto's of films."
+        },
+        {
+          "title": "rood scherm voor ooggezondheid",
+          "description": "Verminder de belasting door blauw licht bij weinig licht."
+        },
+        {
+          "title": "rood scherm voor virtuele evenementen",
+          "description": "Geef online bijeenkomsten een gedurfde toon."
+        },
+        {
+          "title": "rood scherm voor grafisch ontwerp",
+          "description": "Maak opvallende ontwerpen met levendig rood."
+        },
+        {
+          "title": "rood scherm voor presentaties",
+          "description": "Benadruk belangrijke punten met een thematische rode achtergrond."
+        },
+        {
+          "title": "rood scherm voor TikToks",
+          "description": "Maak opvallende videoachtergronden met felrood."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Rode kleur online",
+          "content": [
+            "rood scherm voor TikToks",
+            "rood scherm voor online gesprekken",
+            "rood scherm voor foto's"
+          ]
+        },
+        {
+          "title": "Rood licht online",
+          "content": [
+            "rood licht",
+            "rood licht voor selfie",
+            "rode led-lampjes online"
+          ]
+        },
+        {
+          "title": "Overige",
+          "content": [
+            "rood scherm voor projector",
+            "rood leeg scherm voor kinderen",
+            "volledige rode schermachtergrond"
+          ]
+        }
+      ]
+    }
+  },
+  "/green-screen": {
+    "name": "Green Screen",
+    "color": "#00FF00",
+    "isAxis": false,
+    "title": "Green Screen",
+    "type": "color",
+    "tip": {
+      "title": "green screen",
+      "content": [
+        {
+          "title": "green screen voor videoproductie",
+          "description": "Vervang eenvoudig achtergronden in videoproductie."
+        },
+        {
+          "title": "green screen voor ontspanning",
+          "description": "Kalmeer uw ogen met een kalmerende groene weergave."
+        },
+        {
+          "title": "green screen voor gamen",
+          "description": "Verbeter streams met een meeslepende achtergrond."
+        },
+        {
+          "title": "green screen voor vergaderingen",
+          "description": "Voeg professionele achtergronden toe aan videogesprekken."
+        },
+        {
+          "title": "green screen voor lesgeven",
+          "description": "Maak lessen interactief met visuele hulpmiddelen."
+        },
+        {
+          "title": "groen scherm voor Photoshop",
+          "description": "Bewerk afbeeldingen naadloos met een groene achtergrond."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Groen scherm voor schoonmaken",
+          "content": [
+            "groen scherm voor schoonmaken van monitor",
+            "groen scherm om dode pixels te vinden",
+            "groen scherm om vuile plekken te vinden"
+          ]
+        },
+        {
+          "title": "Groen licht online",
+          "content": [
+            "groen licht voor videogesprekken",
+            "groene schermverlichting",
+            "groen gekleurd licht",
+            "groen licht voor selfie",
+            "groene led-lampjes online"
+          ]
+        },
+        {
+          "title": "Overig",
+          "content": [
+            "groen scherm voor projector",
+            "groen scherm voor kinderen",
+            "groene achtergrond op volledig scherm"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen": {
+    "name": "Blauw scherm",
+    "color": "#0000FF",
+    "isAxis": false,
+    "title": "Blauw scherm",
+    "type": "color",
+    "tip": {
+      "title": "blauw scherm",
+      "content": [
+        {
+          "title": "blauw scherm voor ontspanning",
+          "description": "Kalmeer uw geest met rustgevende blauwe tinten."
+        },
+        {
+          "title": "blauw scherm voor slaap",
+          "description": "Bevorder slaperigheid met zacht blauw licht."
+        },
+        {
+          "title": "blauw scherm voor gezonde ogen",
+          "description": "Verminder de belasting bij langdurig gebruik van het scherm."
+        },
+        {
+          "title": "blauw scherm voor presentaties",
+          "description": "Markeer beelden met een blauwe achtergrond."
+        },
+        {
+          "title": "blauw scherm voor video's",
+          "description": "Gebruik als een unieke video-achtergrond."
+        },
+        {
+          "title": "blauw scherm voor traceren",
+          "description": "Afbeeldingen kopiëren met een helderblauwe basis."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Blauw scherm voor schoonmaken",
+          "content": [
+            "Blauw scherm voor het schoonmaken van de monitor",
+            "Blauw scherm om dode pixels te vinden",
+            "Blauw scherm om vuile plekken te vinden"
+          ]
+        },
+        {
+          "title": "Blauw licht online",
+          "content": [
+            "Blauw licht voor videogesprekken",
+            "Blauw gekleurd licht",
+            "Blauw licht voor selfie",
+            "Blauwe led-lampjes online"
+          ]
+        },
+        {
+          "title": "Overige",
+          "content": [
+            "Blauw scherm voor projector",
+            "Blauw scherm voor kinderen",
+            "Blauwe achtergrond op volledig scherm"
+          ]
+        }
+      ]
+    }
+  },
+  "/yellow-screen": {
+    "name": "Geel scherm",
+    "color": "#FFFF00",
+    "isAxis": true,
+    "title": "Geel scherm",
+    "type": "color",
+    "tip": {
+      "title": "geel scherm",
+      "content": [
+        {
+          "title": "geel scherm voor content",
+          "description": "Geef streams of presentaties meer energie."
+        },
+        {
+          "title": "geel scherm voor oogcomfort",
+          "description": "Verlicht vermoeidheid door blauw licht te verminderen."
+        },
+        {
+          "title": "geel scherm voor creativiteit",
+          "description": "Ontdek ideeën met een vrolijke achtergrond."
+        },
+        {
+          "title": "geel scherm voor testen",
+          "description": "Controleer de weergavenauwkeurigheid met geel."
+        },
+        {
+          "title": "geel scherm voor lesgeven",
+          "description": "Betrek leerlingen met een levendige achtergrond."
+        },
+        {
+          "title": "geel scherm voor sfeer",
+          "description": "Zorg voor een warme, uitnodigende stemming."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Geel scherm voor schoonmaken",
+          "content": [
+            "geel scherm voor schoonmaken van monitor",
+            "geel scherm om dode pixels te vinden",
+            "geel scherm om vuile plekken te vinden"
+          ]
+        },
+        {
+          "title": "Gele kleur online",
+          "content": [
+            "leeg computerscherm",
+            "totaal geel scherm",
+            "volledig geel scherm"
+          ]
+        },
+        {
+          "title": "Overige",
+          "content": [
+            "geel scherm voor projector",
+            "geel scherm voor kinderen",
+            "gele achtergrond op volledig scherm"
+          ]
+        }
+      ]
+    }
+  },
+  "/orange-screen": {
+    "name": "Oranje scherm",
+    "color": "#FFA500",
+    "isAxis": true,
+    "title": "Oranje scherm",
+    "type": "color",
+    "tip": {
+      "title": "oranje scherm",
+      "content": [
+        {
+          "title": "oranje scherm voor achtergronden",
+          "description": "Val op met een levendige virtuele achtergrond."
+        },
+        {
+          "title": "oranje scherm voor slaap",
+          "description": "Filter blauw licht voor een betere nachtrust."
+        },
+        {
+          "title": "oranje scherm voor creativiteit",
+          "description": "Versterk de verbeelding met warme energie."
+        },
+        {
+          "title": "oranje scherm voor kalibratie",
+          "description": "Test de nauwkeurigheid van de monitor met oranje tinten."
+        },
+        {
+          "title": "oranje scherm voor lesgeven",
+          "description": "Trek de aandacht tijdens online lessen."
+        },
+        {
+          "title": "oranje scherm voor sfeer",
+          "description": "Creëer een gezellige, creatieve sfeer."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Oranje scherm voor schoonmaken",
+          "content": [
+            "oranje scherm voor schoonmaken van monitor",
+            "oranje scherm om dode pixels te vinden",
+            "oranje scherm om vuile plekken te vinden"
+          ]
+        },
+        {
+          "title": "Oranje kleur online",
+          "content": [
+            "leeg computerscherm",
+            "totaal oranje scherm",
+            "volledig oranje scherm"
+          ]
+        },
+        {
+          "title": "Overige",
+          "content": [
+            "oranje scherm voor projector",
+            "oranje scherm voor kinderen",
+            "oranje achtergrond volledig scherm"
+          ]
+        }
+      ]
+    }
+  },
+  "/pink-screen": {
+    "name": "Roze scherm",
+    "color": "#FFC0CB",
+    "isAxis": true,
+    "title": "Roze scherm",
+    "type": "color",
+    "tip": {
+      "title": "roze scherm",
+      "content": [
+        {
+          "title": "roze scherm voor content",
+          "description": "Stel een vriendelijke toon in voor video's of streams."
+        },
+        {
+          "title": "roze scherm voor ontspanning",
+          "description": "Kalmeer je humeur met zacht roze licht."
+        },
+        {
+          "title": "roze scherm voor design",
+          "description": "Inspireer creativiteit met een roze achtergrond."
+        },
+        {
+          "title": "roze scherm voor testen",
+          "description": "Controleer de weergavenauwkeurigheid met roze tinten."
+        },
+        {
+          "title": "roze scherm voor presentaties",
+          "description": "Trek de aandacht met een opvallende roze verschuiving."
+        },
+        {
+          "title": "roze scherm voor sfeer",
+          "description": "Creëer een speelse, warme sfeer."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Roze scherm voor schoonmaken",
+          "content": [
+            "roze scherm voor schoonmaken van monitor",
+            "roze scherm om dode pixels te vinden",
+            "roze scherm om vieze plekken te vinden"
+          ]
+        },
+        {
+          "title": "Roze kleur online",
+          "content": [
+            "leeg computerscherm",
+            "totaal roze scherm",
+            "volledig roze scherm"
+          ]
+        },
+        {
+          "title": "Overige",
+          "content": [
+            "roze scherm voor projector",
+            "roze scherm voor kinderen",
+            "roze achtergrond op volledig scherm"
+          ]
+        }
+      ]
+    }
+  },
+  "/purple-screen": {
+    "name": "Paars scherm",
+    "color": "#800080",
+    "isAxis": true,
+    "title": "Paars scherm",
+    "type": "color",
+    "tip": {
+      "title": "paars scherm",
+      "content": [
+        {
+          "title": "paars scherm voor welzijn",
+          "description": "Verbeter meditatie met een kalmerende paarse tint."
+        },
+        {
+          "title": "paars scherm voor verlichting",
+          "description": "Voeg mystieke gloed toe aan gesprekken of evenementen."
+        },
+        {
+          "title": "paars scherm voor studie",
+          "description": "Ontdek de kleurentheorie met paars."
+        },
+        {
+          "title": "paars scherm voor testen",
+          "description": "Test de nauwkeurigheid van het beeldscherm met paarse tinten."
+        },
+        {
+          "title": "paars scherm voor kinderen",
+          "description": "Spreek de verbeelding aan tijdens leersessies."
+        },
+        {
+          "title": "paars scherm voor sfeer",
+          "description": "Stel een creatieve, luxueuze sfeer in."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Paars scherm voor schoonmaken",
+          "content": [
+            "paars scherm voor schoonmaken van monitor",
+            "paars scherm om dode pixels te vinden",
+            "paars scherm om vuile plekken te vinden"
+          ]
+        },
+        {
+          "title": "Paarse kleur online",
+          "content": [
+            "leeg computerscherm",
+            "totaal paars scherm",
+            "volledig paars scherm"
+          ]
+        },
+        {
+          "title": "Overige",
+          "content": [
+            "paars scherm voor projector",
+            "paars scherm voor kinderen",
+            "paarse achtergrond op volledig scherm"
+          ]
+        }
+      ]
+    }
+  },
+  "/zoom-lighting": {
+    "name": "Zoom-verlichting",
+    "color": "#FFC5C2",
+    "isAxis": true,
+    "title": "Verlichting voor Zoom-gesprekken",
+    "type": "color",
+    "tip": {
+      "title": "Verlichting voor Zoom-gesprekken",
+      "content": [
+        {
+          "title": "zoom-verlichting voor gesprekken",
+          "description": "Pas de verlichting aan voor professionele videogesprekken."
+        },
+        {
+          "title": "zoom-verlichting voor fotografie",
+          "description": "Creëer de perfecte ambiance voor foto's."
+        },
+        {
+          "title": "zoom-verlichting voor eLearning",
+          "description": "Verminder spanning en verbeter de focus in lessen."
+        },
+        {
+          "title": "zoom-verlichting voor ontwikkelaars",
+          "description": "Test ontwerpen onder verschillende soorten verlichting."
+        },
+        {
+          "title": "zoom-verlichting voor therapie",
+          "description": "Gebruik kleuren voor wellness-sessies op afstand."
+        },
+        {
+          "title": "zoomverlichting met wit scherm",
+          "description": "Verlicht gesprekken met een tweede monitor."
+        }
+      ]
+    }
+  },
+  "/white-noise": {
+    "name": "Witte ruis",
+    "icon": "https://emojicdn.elk.sh/🔊",
+    "title": "Witte ruis om te slapen",
+    "type": "prank",
+    "tip": {
+      "title": "Witte ruis om te slapen",
+      "content": [
+        {
+          "title": "witte ruis om te focussen",
+          "description": "Maskeer afleidingen voor een betere concentratie."
+        },
+        {
+          "title": "witte ruis om te slapen",
+          "description": "Val sneller in slaap met een constant geluid."
+        },
+        {
+          "title": "witte ruis voor baby's",
+          "description": "Stel baby's gerust met kalmerend geluid."
+        },
+        {
+          "title": "witte ruis voor meditatie",
+          "description": "Verbeter mindfulness met neutraal geluid."
+        },
+        {
+          "title": "witte ruis voor Halloween",
+          "description": "Creëer griezelige vibes met griezelige audio."
+        },
+        {
+          "title": "witte ruis voor grappen",
+          "description": "Speel subtiele kantoortrucs met geluid."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Productiviteit en focus verbeteren",
+          "content": [
+            "Concentratie verbeteren in lawaaiige omgevingen",
+            "Productiviteit op het werk stimuleren",
+            "Concentratie verbeteren tijdens studiesessies",
+            "Afleidingen minimaliseren tijdens thuiswerken",
+            "Diepe werkperiodes faciliteren"
+          ]
+        },
+        {
+          "title": "Slaap en ontspanning",
+          "content": [
+            "Snellere inslaaptijd bevorderen",
+            "Storende nachtelijke geluiden maskeren",
+            "Slaapkwaliteit verbeteren voor slapelozen",
+            "Baby's en jonge kinderen kalmeren",
+            "Een kalmerende bedtijdroutine creëren"
+          ]
+        },
+        {
+          "title": "Gezondheid en welzijn",
+          "content": [
+            "Stress- en angstniveaus verminderen",
+            "Hulp bij meditatie- en mindfulness-oefeningen",
+            "Help bij het beheersen van tinnitussymptomen",
+            "Ontspanning stimuleren tijdens yoga",
+            "Mentale gezondheid ondersteunen door sensorische overbelasting te verminderen"
+          ]
+        }
+      ]
+    }
+  },
+  "/broken-screen": {
+    "name": "Nep kapot scherm",
+    "icon": "https://emojicdn.elk.sh/💔",
+    "title": "Nep kapot scherm - grap",
+    "type": "grap",
+    "tip": {
+      "title": "Nep kapot scherm - grap",
+      "content": [
+        {
+          "title": "kapot scherm grap",
+          "description": "Maak vrienden bang met een gebarsten scherm."
+        },
+        {
+          "title": "kapot scherm voor content",
+          "description": "Voeg drama toe aan video's of berichten."
+        },
+        {
+          "title": "kapot scherm reactietest",
+          "description": "Oefen om kalm te blijven onder technische stress."
+        },
+        {
+          "title": "kapot scherm voor projecten",
+          "description": "Gebruik scheuren in kunst- of ontwerpwerk."
+        },
+        {
+          "title": "kapot scherm voor onderwijs",
+          "description": "Toon de voordelen van schermbeschermers."
+        },
+        {
+          "title": "kapot scherm voor beoordelingen",
+          "description": "Benadruk duurzaamheid in technische beoordelingen."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Grappen en moppen",
+          "content": [
+            "Epische technische grap",
+            "Vrienden en familie laten schrikken",
+            "Idee voor kantoorgrap",
+            "1 aprilgrap",
+            "Iemand laten schrikken voor de lol"
+          ]
+        },
+        {
+          "title": "Inhoud en creativiteit",
+          "content": [
+            "Unieke digitale kunstachtergrond",
+            "Boeiende content voor sociale media",
+            "Creatieve projectvisuals",
+            "Dramatisch effect in video's",
+            "Illustreer technische horrorverhalen"
+          ]
+        },
+        {
+          "title": "Educatie en bewustzijn",
+          "content": [
+            "Demonstreer de kwetsbaarheid van het scherm",
+            "Promoot beschermende accessoires",
+            "Presentaties over technische veiligheid",
+            "Visuele hulp voor gesprekken over apparaatonderhoud",
+            "Benadruk het belang van garanties"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows": {
+    "name": "Nep Blue Screen of Death",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Windows Fake Blue Screen of Death",
+    "type": "prank",
+    "tip": {
+      "title": "Windows Fake Blue Screen of Death",
+      "content": [
+        {
+          "title": "BSOD-grap",
+          "description": "Fop vrienden met een nepcrash."
+        },
+        {
+          "title": "BSOD voor feestjes",
+          "description": "Voeg technische humor toe aan bijeenkomsten."
+        },
+        {
+          "title": "BSOD voor trainingen",
+          "description": "Leer IT-probleemoplossing op een veilige manier."
+        },
+        {
+          "title": "BSOD voor technische vaardigheden",
+          "description": "Oefen ondersteuning in een veilige omgeving."
+        },
+        {
+          "title": "BSOD voor YouTube",
+          "description": "Maak video's leuker met crasheffecten."
+        },
+        {
+          "title": "BSOD-geduldstest",
+          "description": "Test stress met een langzame nepcrash."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Grappen en entertainment",
+          "content": [
+            "Onschuldige computergrap",
+            "Technologische grap van 1 april",
+            "Technologisch themafeestgrap",
+            "Vrienden bang maken voor de lol",
+            "Maak virale grapcontent"
+          ]
+        },
+        {
+          "title": "Educatieve doeleinden",
+          "content": [
+            "Leer BSOD-probleemoplossing",
+            "Systeemstoringen simuleren",
+            "IT-ondersteuningspersoneel trainen",
+            "Systeemherstel demonstreren",
+            "Leer over foutmeldingen"
+          ]
+        },
+        {
+          "title": "Contentcreatie",
+          "content": [
+            "Technische video's verbeteren",
+            "Boeiende tutorials maken",
+            "Realistische technische scènes filmen",
+            "Drama toevoegen aan technische recensies",
+            "Discussies over systeemstabiliteit illustreren"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows-10": {
+    "name": "Fake Blue Screen of Death 10",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Windows 10 Fake Blue Screen of Death",
+    "type": "prank",
+    "tip": {
+      "title": "Windows 10 Fake Blue Screen of Death",
+      "content": [
+        {
+          "title": "BSOD-kantoorgrap",
+          "description": "Mis collega's met een nepcrash."
+        },
+        {
+          "title": "BSOD-oproep ontsnappen",
+          "description": "Saaie vergaderingen verlaten met een crash."
+        },
+        {
+          "title": "BSOD IT-training",
+          "description": "Oefen oplossingen met een nepfout."
+        },
+        {
+          "title": "BSOD-gaminggrap",
+          "description": "Gamers halverwege de sessie shockeren."
+        },
+        {
+          "title": "BSOD-reactievideo's",
+          "description": "Neem grappige crashreacties op."
+        },
+        {
+          "title": "BSOD-teamtest",
+          "description": "Test IT-reactie met nep-noodgevallen."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Leuke grappen",
+          "content": [
+            "snelle kantoorgrappen met nep-BSOD",
+            "trolling met blauw scherm in gamestream",
+            "grappen over crashes van computer in gezin",
+            "video's over reactie op Windows-doodscherm",
+            "grappen over BSOD-feest op volledig scherm"
+          ]
+        },
+        {
+          "title": "Educatief gebruik",
+          "content": [
+            "trainingstool voor BSOD-ondersteuning",
+            "demo's van Windows-crashschermen",
+            "hulpmiddel voor lesgeven in computervaardigheden",
+            "voorbeelden van technische workshops",
+            "oefening met reactie op blauw scherm"
+          ]
+        },
+        {
+          "title": "Contentcreatie",
+          "content": [
+            "YouTube BSOD-grapvideo's",
+            "inhoud van Windows-crashmeme",
+            "clips met reacties op sociale media",
+            "neppe blauwe schermen streamen",
+            "demonstraties van technische tutorials"
+          ]
+        }
+      ]
+    }
+  },
+  "/hacker-screen": {
+    "name": "Hacker Typer Screen",
+    "icon": "https://emojicdn.elk.sh/💻‍💻",
+    "title": "Hacker Typer Screen - Prank",
+    "type": "prank",
+    "tip": {
+      "title": "Hacker Typer Screen - Prank",
+      "content": [
+        {
+          "title": "hacker screen prank",
+          "description": "Maak indruk op collega's met nep-codering."
+        },
+        {
+          "title": "hacker screen voor lessen",
+          "description": "Maak studenten enthousiast over programmeren."
+        },
+        {
+          "title": "hacker screen voor streaming",
+          "description": "Voeg een technisch tintje toe aan livestreams."
+        },
+        {
+          "title": "hacker screen voor vlogs",
+          "description": "Geef technische video's een boost met code-effecten."
+        },
+        {
+          "title": "hackerscherm voor presentaties",
+          "description": "Verbeter gesprekken met live codebeelden."
+        },
+        {
+          "title": "hackerscherm voor films",
+          "description": "Creëer eenvoudig echte hackscènes."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Entertainment & grappen",
+          "content": [
+            "Maak indruk op vrienden met nep-hackvaardigheden",
+            "Haal grappen uit met familieleden",
+            "Maak kantoorfeestjes leuker",
+            "Maak grappige content voor sociale media",
+            "Laat vrienden denken dat je een programmeur bent"
+          ]
+        },
+        {
+          "title": "Educatieve doeleinden",
+          "content": [
+            "Demonstreer coderen in klaslokalen",
+            "Visualiseer programmeerconcepten",
+            "Betrek studenten bij technologie",
+            "Maak technische presentaties interessanter",
+            "Maak beginners wegwijs in coderen"
+          ]
+        },
+        {
+          "title": "Creatief en professioneel gebruik",
+          "content": [
+            "Verbeter live streaming-beelden",
+            "Creëer authentieke technische scènes in films",
+            "Voeg hackersesthetiek toe aan video's",
+            "Wek interesse op technische conferenties",
+            "Inspireer discussies over cyberbeveiliging"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-10-update-screen": {
+    "name": "Nep-update Windows 10",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Nep-update Windows 10",
+    "type": "fake-update",
+    "tip": {
+      "title": "Nep-update Windows 10",
+      "content": [
+        {
+          "title": "Windows 10-grap",
+          "description": "Fop vrienden met een nep-updatelus."
+        },
+        {
+          "title": "Windows 10-kantoorgrap",
+          "description": "Fop collega's met een langzame update."
+        },
+        {
+          "title": "Windows 10-groepschat",
+          "description": "Deel nep-updatefoto's voor de lol."
+        },
+        {
+          "title": "Windows 10-feesthit",
+          "description": "Verstoor een gesprek met een nep-update."
+        },
+        {
+          "title": "Windows 10-aangepast plezier",
+          "description": "Voeg grappige berichten toe aan de update."
+        },
+        {
+          "title": "Windows 10-reactie",
+          "description": "Neem hilarische updatereacties op."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Gesimuleerde Windows 10-update",
+          "content": [
+            "Windows 10 nep-update",
+            "Windows 10-updatesimulatie",
+            "Windows 10-update simuleren",
+            "Nep-Windows 10-updatescherm",
+            "Windows 10-update emuleren",
+            "Windows 10-updategrap",
+            "Windows 10-updateproces"
+          ]
+        },
+        {
+          "title": "Realistische ervaring",
+          "content": [
+            "Authentiek ogende Windows 10-update",
+            "Realistisch Windows 10-updatescherm",
+            "Fool friends with Windows 10 update",
+            "Realistische Windows 10-updatevoortgang",
+            "Echte Windows 10-updatesimulatie",
+            "Authentieke Windows 10-updateberichten",
+            "Windows 10-updatefase"
+          ]
+        },
+        {
+          "title": "Entertainment en plezier",
+          "content": [
+            "Entertainende Windows 10-updategrap",
+            "Leuke nep-Windows 10-update",
+            "Geniet van gesimuleerde Windows 10 update",
+            "Prank met nep-update voor Windows 10",
+            "Spannende Windows 10 update-ervaring",
+            "Windows 10 update voor amusement",
+            "Windows 10 update pranktool"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-xp-update-screen": {
+    "name": "Nep-update Windows XP",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Nep-update Windows XP",
+    "type": "fake-update",
+    "tip": {
+      "title": "Nep-update Windows XP",
+      "content": [
+        {
+          "title": "XP-kantoorgrap",
+          "description": "Word nostalgisch met een nep-update."
+        },
+        {
+          "title": "XP-geduldstest",
+          "description": "Test frustratie met langzame voortgang."
+        },
+        {
+          "title": "XP retroplezier",
+          "description": "Herbeleef het XP-tijdperk met een nep-update."
+        },
+        {
+          "title": "Virale XP-inhoud",
+          "description": "Maak retro-techvideo's of -berichten."
+        },
+        {
+          "title": "XP-techles",
+          "description": "Leer de geschiedenis van het besturingssysteem met een simulatie."
+        },
+        {
+          "title": "XP-vriendengrap",
+          "description": "Maak vrienden gek met een klassieke update."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Gesimuleerde Windows XP-update",
+          "content": [
+            "Windows XP-nepupdate",
+            "Windows XP-updatesimulatie",
+            "Windows XP-update simuleren",
+            "Nep-Windows XP-updatescherm",
+            "Windows XP-update emuleren",
+            "Windows XP-updategrap",
+            "Windows XP-updateproces"
+          ]
+        },
+        {
+          "title": "Realistische ervaring",
+          "content": [
+            "Authentiek ogende Windows XP-update",
+            "Realistisch Windows XP-updatescherm",
+            "Foute vrienden met Windows XP-update",
+            "Realistische Windows XP-updatevoortgang",
+            "Echte Windows XP-updatesimulatie",
+            "Authentieke Windows XP-updateberichten",
+            "Windows XP-updatefase"
+          ]
+        },
+        {
+          "title": "Entertainment en plezier",
+          "content": [
+            "Amusante Windows XP-updategrap",
+            "Leuke nep-Windows XP-update",
+            "Geniet van gesimuleerde Windows XP-update",
+            "Grap met nep-Windows XP-update",
+            "Spannende Windows XP-update-ervaring",
+            "Windows XP-update voor de lol",
+            "Windows XP-updategrap hulpmiddel"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-mac-os-x-update-screen": {
+    "name": "Nep-update Mac OS X",
+    "icon": "https://emojicdn.elk.sh/🍎",
+    "title": "Nep-update Mac OS X",
+    "type": "fake-update",
+    "tip": {
+      "title": "Nep-update Mac OS X",
+      "content": [
+        {
+          "title": "Mac-grap",
+          "description": "Mac-fans voor de gek houden met een nep-update."
+        },
+        {
+          "title": "Mac-geduldtest",
+          "description": "Bekijk reacties op een trage update."
+        },
+        {
+          "title": "Mac-leshulpmiddel",
+          "description": "Train IT met een veilige updatesimulatie."
+        },
+        {
+          "title": "Mac UX-testen",
+          "description": "Bestudeer de reactie van gebruikers op updatevertragingen."
+        },
+        {
+          "title": "Mac-inhoud maken",
+          "description": "Echte updatebeelden toevoegen aan video's."
+        },
+        {
+          "title": "Mac-groepsgrap",
+          "description": "Houd vrienden voor de gek met een Apple-update."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Gesimuleerde Mac OS X-update",
+          "content": [
+            "Mac OS X-nepupdate",
+            "Mac OS X-updatesimulatie",
+            "Mac OS X-update simuleren",
+            "Nep-Mac OS X-updatescherm",
+            "Mac OS X-update emuleren",
+            "Mac OS X-updategrap",
+            "Mac OS X-updateproces"
+          ]
+        },
+        {
+          "title": "Realistische ervaring",
+          "content": [
+            "Authentiek ogende Mac OS X-update",
+            "Realistisch Mac OS X-updatescherm",
+            "Fop vrienden met Mac OS X-update",
+            "Realistische Mac OS X-updatevoortgang",
+            "Echte Mac OS X-updatesimulatie",
+            "Authentieke Mac OS X-updateberichten",
+            "Mac OS X-updatefase"
+          ]
+        },
+        {
+          "title": "Entertainment en plezier",
+          "content": [
+            "Entertainende Mac OS X-updategrap",
+            "Leuke nep-Mac OS X-update",
+            "Geniet van gesimuleerde Mac OS X-update",
+            "Prank met Mac OS X-nepupdate",
+            "Spannende Mac OS X update-ervaring",
+            "Mac OS X update voor de lol",
+            "Mac OS X update grappentool"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-ubuntu-22-04-update-screen": {
+    "name": "Nep-update Ubuntu 22.04",
+    "icon": "https://emojicdn.elk.sh/🐧",
+    "title": "Nep-update Ubuntu 22.04",
+    "type": "fake-update",
+    "tip": {
+      "title": "Nep-update Ubuntu 22.04",
+      "content": [
+        {
+          "title": "Ubuntu-grap",
+          "description": "Linux-gebruikers voor de gek houden met een nep-update."
+        },
+        {
+          "title": "Ubuntu-softwaretest",
+          "description": "Updates simuleren voor app-testen."
+        },
+        {
+          "title": "Ubuntu-training",
+          "description": "Linux-updates veilig onderwijzen."
+        },
+        {
+          "title": "Ubuntu-inhoud",
+          "description": "Echte terminalbeelden toevoegen aan video's."
+        },
+        {
+          "title": "Ubuntu staging",
+          "description": "Toon updates in live demo's."
+        },
+        {
+          "title": "Ubuntu-reactie",
+          "description": "Neem grappige updatereacties op."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Gesimuleerde Ubuntu 22.04-update",
+          "content": [
+            "Nep-update Ubuntu 22.04",
+            "Simulatie van Ubuntu 22.04-update",
+            "Simulatie van Ubuntu 22.04-update",
+            "Nep-Updatescherm Ubuntu 22.04",
+            "Update-emulatie Ubuntu 22.04",
+            "Prank van Ubuntu 22.04-update",
+            "Updateproces Ubuntu 22.04"
+          ]
+        },
+        {
+          "title": "Realistische ervaring",
+          "content": [
+            "Authentiek ogende Ubuntu 22.04-update",
+            "Realistisch Ubuntu 22.04-updatescherm",
+            "Fool friends with Ubuntu 22.04 update",
+            "Realistische Ubuntu 22.04-updatevoortgang",
+            "Echte Ubuntu 22.04-updatesimulatie",
+            "Authentieke Ubuntu 22.04-updateberichten",
+            "Ubuntu 22.04 update fase"
+          ]
+        },
+        {
+          "title": "Entertainment en plezier",
+          "content": [
+            "Entertainende Ubuntu 22.04 update grap",
+            "Leuke nep Ubuntu 22.04 update",
+            "Geniet van gesimuleerde Ubuntu 22.04 update",
+            "Prank met Ubuntu 22.04 nep-update",
+            "Spannende Ubuntu 22.04 update-ervaring",
+            "Ubuntu 22.04 update voor amusement",
+            "Ubuntu 22.04 update grap tool"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-chrome-os-update-screen": {
+    "name": "Nep-update Chrome OS",
+    "icon": "https://emojicdn.elk.sh/🌐",
+    "title": "ChromeOS-nep-update",
+    "type": "fake-update",
+    "tip": {
+      "title": "ChromeOS-nep-update",
+      "content": [
+        {
+          "title": "ChromeOS-grap",
+          "description": "Fop vrienden met een nep-update."
+        },
+        {
+          "title": "ChromeOS-reactietest",
+          "description": "Bestudeer reacties op updatevertragingen."
+        },
+        {
+          "title": "ChromeOS-videoscènes",
+          "description": "Voeg echte updatebeelden toe aan tutorials."
+        },
+        {
+          "title": "ChromeOS-labgrap",
+          "description": "Fop een schoollab met nep-updates."
+        },
+        {
+          "title": "ChromeOS IT-oefening",
+          "description": "Train ondersteuning met een veilige sim."
+        },
+        {
+          "title": "ChromeOS-presentatie",
+          "description": "Verbeter gesprekken met updatedemo's."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Plezier en entertainment",
+          "content": [
+            "Prank vrienden tijdens de lunchpauze",
+            "Verras familieleden",
+            "Maak grappige reactievideo's",
+            "Grap in computerlokaal op school",
+            "Grap in ChromeOS op kantoor"
+          ]
+        },
+        {
+          "title": "Onderwijs en training",
+          "content": [
+            "Trainingsscenario's voor IT-ondersteuning",
+            "Workshops voor software-updates",
+            "Opnames van ChromeOS-zelfstudies",
+            "Presentaties van systeembeheerders",
+            "Onderzoeken naar gebruikersgedrag"
+          ]
+        },
+        {
+          "title": "Contentcreatie",
+          "content": [
+            "Screenshots van ChromeOS-updates",
+            "Visuele beelden van technische beoordelingen",
+            "Achtergronden van zelfstudievideo's",
+            "Afbeeldingen van softwaredocumentatie",
+            "ChromeOS-demomaterialen"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-11-update-screen": {
+    "name": "Nep-update Windows 11",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Windows 11 nep-update",
+    "type": "fake-update",
+    "tip": {
+      "title": "Windows 11 updatescherm",
+      "content": [
+        {
+          "title": "Windows 11-grap",
+          "description": "Foute vrienden met een vastgelopen update."
+        },
+        {
+          "title": "Windows 11 office spice",
+          "description": "Fop het team tijdens een vergadering."
+        },
+        {
+          "title": "Windows 11 gaming-grap",
+          "description": "Onderbreek games met een nep-update."
+        },
+        {
+          "title": "Technologische indruk op Windows 11",
+          "description": "Verbaas je vrienden met een sim die er echt uitziet."
+        },
+        {
+          "title": "Windows 11-videoplezier",
+          "description": "Neem reacties op een nep-update op."
+        },
+        {
+          "title": "Paniek onder Windows 11-collega's",
+          "description": "Schok collega's met updatechaos."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Gesimuleerde Windows 11-update",
+          "content": [
+            "Windows 11 nep-update",
+            "Windows 11-updatesimulatie",
+            "Windows 11-update simuleren",
+            "Nep-Windows 11-updatescherm",
+            "Windows 11-update-emuleer",
+            "Windows 11-updategrap",
+            "Windows 11-updateproces"
+          ]
+        },
+        {
+          "title": "Realistische ervaring",
+          "content": [
+            "Authentiek ogende Windows 11-update",
+            "Realistisch Windows 11-updatescherm",
+            "Foute vrienden met Windows 11-update",
+            "Realistische Windows 11-updatevoortgang",
+            "Echte Windows 11-updatesimulatie",
+            "Authentieke Windows 11-updateberichten",
+            "Windows 11-updatefase"
+          ]
+        },
+        {
+          "title": "Entertainment en plezier",
+          "content": [
+            "Amusante Windows 11-updategrap",
+            "Leuke nep-Windows 11-update",
+            "Geniet van gesimuleerde Windows 11 update",
+            "Prank met nep-update voor Windows 11",
+            "Spannende Windows 11 update-ervaring",
+            "Windows 11 update voor amusement",
+            "Windows 11 update pranktool"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-android-update": {
+    "name": "Nep-Android-update",
+    "icon": "https://emojicdn.elk.sh/📱",
+    "title": "Nep-Android-update",
+    "type": "fake-update",
+    "tip": {
+      "title": "Scherm voor nep-Android-update",
+      "content": [
+        {
+          "title": "Android-softwaretest",
+          "description": "Simuleer updates voor app-testen."
+        },
+        {
+          "title": "Android-presentatie",
+          "description": "Betrek het publiek bij een nep-update."
+        },
+        {
+          "title": "Android-technische training",
+          "description": "Leer updates zonder echte apparaten."
+        },
+        {
+          "title": "Android-inhoud maken",
+          "description": "Voeg echte updatebeelden toe aan video's."
+        },
+        {
+          "title": "Android-grap",
+          "description": "Fop vrienden met een nep-update."
+        },
+        {
+          "title": "Android UX-onderzoek",
+          "description": "Analyseer reacties om het ontwerp bij te werken."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Gesimuleerde Android-update",
+          "content": [
+            "Android-nep-update",
+            "Android-updatesimulatie",
+            "Android-updatesimuleren",
+            "Android-updatescherm voor nep-Android",
+            "Android-update-emulatie",
+            "Android-updateproces"
+          ]
+        },
+        {
+          "title": "Realistische ervaring",
+          "content": [
+            "Authentiek ogende Android-update",
+            "Realistisch Android-updatescherm",
+            "Foute vrienden met Android-update",
+            "Realistische Android-updatevoortgang",
+            "Echte Android-updatesimulatie",
+            "Authentieke Android-updateberichten",
+            "Android-updatefase"
+          ]
+        },
+        {
+          "title": "Entertainment en plezier",
+          "content": [
+            "Amusante Android-updategrap",
+            "Leuke nep-Android-update",
+            "Geniet van gesimuleerde Android-update",
+            "Grap met Android-nep-update",
+            "Spannende Android-update-ervaring",
+            "Android-update voor vermaak",
+            "Android-updategraptool"
+          ]
+        }
+      ]
+    }
+  },
+  "/dvd-screensaver": {
+    "name": "DVD-screensaver",
+    "icon": "https://emojicdn.elk.sh/📀",
+    "title": "DVD-screensaver",
+    "type": "screensaver",
+    "tip": {
+      "title": "DVD-screensaver",
+      "content": [
+        {
+          "title": "DVD-ontspanning",
+          "description": "Ontspan met een stuiterend logo."
+        },
+        {
+          "title": "DVD-presentatie",
+          "description": "Voeg beweging toe aan dia's of pauzes."
+        },
+        {
+          "title": "DVD-wachtkamer",
+          "description": "Vermaak bezoekers met retro-vibes."
+        },
+        {
+          "title": "DVD-feestplezier",
+          "description": "Creëer een nostalgische feestachtergrond."
+        },
+        {
+          "title": "DVD-studiehulpmiddel",
+          "description": "Versterk de focus met zachte bewegingen."
+        },
+        {
+          "title": "DVD-downtime",
+          "description": "Vul inactieve schermen met animatie."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Ontspanning en sfeer",
+          "content": [
+            "Ontspan met een nostalgische screensaver",
+            "Creëer een kalmerende omgeving",
+            "Geniet van een retrogevoel",
+            "Stel een rustige achtergrond in",
+            "Perfect voor meditatiesessies"
+          ]
+        },
+        {
+          "title": "Professioneel en zakelijk gebruik",
+          "content": [
+            "Verbeter presentaties met beweging",
+            "Dynamisch wachtkamerdisplay",
+            "Boeiende kantooromgeving",
+            "Professionele screensaver voor vergaderingen",
+            "Aandachtstrekkende winkeldisplays"
+          ]
+        },
+        {
+          "title": "Entertainment en plezier",
+          "content": [
+            "Creëer sfeer voor feestjes",
+            "Leuke tool voor pauzes",
+            "Interactieve screensaver voor kinderen",
+            "Visueel entertainment tijdens vrije tijd",
+            "Aanpasbaar feestscherm"
+          ]
+        }
+      ]
+    }
+  },
+  "/flip-clock-screensaver": {
+    "name": "Flip Clock",
+    "icon": "https://emojicdn.elk.sh/⏰",
+    "title": "Flip Clock Screensaver",
+    "type": "screensaver",
+    "tip": {
+      "title": "Flip Clock Screensaver",
+      "content": [
+        {
+          "title": "Flip Clock ontspanning",
+          "description": "Geniet van retro flips om te ontspannen."
+        },
+        {
+          "title": "Flip Clock kantoor",
+          "description": "Voeg stijl toe aan de timing op de werkplek."
+        },
+        {
+          "title": "Flip Clock presentatie",
+          "description": "Verbeter gesprekken met een stijlvolle timer."
+        },
+        {
+          "title": "Flip Clock thuis",
+          "description": "Creëer een moderne sfeer thuis."
+        },
+        {
+          "title": "Flip Clock studie",
+          "description": "Houd studietijd bij met flips."
+        },
+        {
+          "title": "Wachten op de klok",
+          "description": "Maak bezoekers enthousiast met een strakke klok."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Ontspanning en esthetiek",
+          "content": [
+            "Vintage esthetiek",
+            "Rustgevende klok op volledig scherm",
+            "Retro-sfeer",
+            "Modern minimalistisch design",
+            "Stijlvolle woninginrichting"
+          ]
+        },
+        {
+          "title": "Professioneel en productiviteit",
+          "content": [
+            "Weergave van kantoortijd",
+            "Presentatie-achtergrond",
+            "Gestructureerde studeeromgeving",
+            "Boeiende wachtkamerklok",
+            "Tijdmanagementtool"
+          ]
+        },
+        {
+          "title": "Entertainment en evenementen",
+          "content": [
+            "Feestsfeer",
+            "Evenementendecoratie",
+            "Tentoonstellingsfunctie",
+            "Interactieve weergave",
+            "Aangepaste tijd voor evenementen"
+          ]
+        }
+      ]
+    }
+  },
+  "/motivational-quote-screensaver": {
+    "quote": {
+      "paragraph": "De enige manier om geweldig werk te leveren is om van je werk te houden. Als je het nog niet hebt gevonden, blijf dan zoeken. Neem geen genoegen.",
+      "author": "Steve Jobs"
+    },
+    "name": "Motiverend citaat",
+    "icon": "https://emojicdn.elk.sh/💬",
+    "title": "Motiverend citaat screensaver",
+    "type": "screensaver",
+    "tip": {
+      "title": "Motiverend citaat screensaver",
+      "content": [
+        {
+          "title": "Citaat ochtendboost",
+          "description": "Begin de dag met inspiratie."
+        },
+        {
+          "title": "Citaat werkruimte",
+          "description": "Motiveer werk met citaten."
+        },
+        {
+          "title": "Citaat vergaderingen",
+          "description": "Laat ideeën ontstaan in teamsessies."
+        },
+        {
+          "title": "Citaat studiehulp",
+          "description": "Blijf geïnspireerd tijdens het studeren."
+        },
+        {
+          "title": "Citaat thuisgevoel",
+          "description": "Voeg positiviteit toe aan je ruimte."
+        },
+        {
+          "title": "Citaat fitness",
+          "description": "Volg trainingen met motivatie."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Dagelijkse motivatie",
+          "content": [
+            "Boost voor ochtendinspiratie",
+            "Positieve start van de dag",
+            "Dagelijkse dosis motivatie",
+            "Opbeurende citaten bij het opfrissen",
+            "Begin de dag met positiviteit"
+          ]
+        },
+        {
+          "title": "Productiviteit en focus",
+          "content": [
+            "Blijf gefocust op het werk",
+            "Motiveer tijdens het studeren",
+            "Versterk de creativiteit van het team",
+            "Inspirerende pauzes op het werk",
+            "Verbeter de sfeer op de werkplek"
+          ]
+        },
+        {
+          "title": "Persoonlijk en thuisgebruik",
+          "content": [
+            "Inspireer woonaccessoires",
+            "Aanpasbare weergave van citaten",
+            "Persoonlijke favoriete citaten",
+            "Moedig fitnessroutines aan",
+            "Motiverende sfeer thuis"
+          ]
+        }
+      ]
+    }
+  },
+  "/no-signal-smpte-color-bars-screensaver": {
+    "name": "Geen signaal",
+    "icon": "https://emojicdn.elk.sh/📡",
+    "title": "Kleurenbalken - Geen signaal tv-scherm",
+    "type": "screensaver",
+    "tip": {
+      "title": "Kleurenbalken - Geen signaal tv-scherm",
+      "content": [
+        {
+          "title": "Kleurenbalken kalibratie",
+          "description": "Stem beeldschermen af met retrobalken."
+        },
+        {
+          "title": "Kleurenbalken video",
+          "description": "Verbeter de productie met testpatronen."
+        },
+        {
+          "title": "Kleurenbalken streaming",
+          "description": "Voeg professionele breaks toe aan streams."
+        },
+        {
+          "title": "Kleurenbalken kunst",
+          "description": "Maak retro media-installaties."
+        },
+        {
+          "title": "Kleurenbalken ambiance",
+          "description": "Stel een vintage tv-sfeer in."
+        },
+        {
+          "title": "Kleurenbalkengrap",
+          "description": "Fop vrienden met een nep-glitch."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Entertainment & grappen",
+          "content": [
+            "grappen over volledig scherm zonder signaal",
+            "retro tv-feestversieringen",
+            "effecten voor streamingonderbrekingen",
+            "vintage uitzendesthetiek",
+            "ambiance in gamekamer"
+          ]
+        },
+        {
+          "title": "Professioneel gebruik",
+          "content": [
+            "SMPTE-testen van kleurenbalken",
+            "monitorkalibratiepatronen",
+            "videoproductietestkaarten",
+            "referentie voor beeldscherminstellingen",
+            "controles van uitzendapparatuur"
+          ]
+        },
+        {
+          "title": "Creatieve projecten",
+          "content": [
+            "achtergronden voor kunstinstallaties",
+            "retro video-esthetiek",
+            "vintage tv-ontwerp",
+            "rekwisieten voor filmproductie",
+            "nostalgische mediadisplays"
+          ]
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "color": "Kleurenschermen",
+    "prank": "Prankschermen",
+    "fake-update": "Nepupdateschermen",
+    "screensaver": "Screensaverschermen",
+    "tip": {
+      "header": "Mensen gebruiken {tipTitle} voor:"
+    }
+  },
+  "settings": {
+    "time": [
+      "Updatetijd",
+      "Starttijd",
+      "minuten",
+      "Opnieuw opstarten"
+    ],
+    "color": [
+      "Downloaden"
+    ]
+  },
+  "title": "{title} | Online hulpmiddel"
+}
