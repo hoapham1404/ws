@@ -41,6 +41,7 @@ import DVDSetting from "@/components/DVDSaver/DVDSetting";
 export class RouteStore {
   path: string;
   color?: string;
+  colorName?: string;
   icon?: string;
   isAxis?: boolean;
   type: "color" | "prank" | "fake-update" | "screensaver";
@@ -57,6 +58,7 @@ export class RouteStore {
     path: string,
     type: "color" | "prank" | "fake-update" | "screensaver",
     color?: string,
+    colorName?: string,
     icon?: string,
     isAxis?: boolean,
     thumbnail?: StaticImageData,
@@ -77,6 +79,7 @@ export const routes: RouteStore[] = [
   {
     path: "/",
     color: "#FFFFFF",
+    colorName: "white",
     isAxis: false,
     type: "color",
     iconColor: "black"
@@ -84,6 +87,7 @@ export const routes: RouteStore[] = [
   {
     path: "/black-screen",
     color: "#000000",
+    colorName: "black",
     isAxis: false,
     type: "color",
     iconColor: "white"
@@ -91,6 +95,7 @@ export const routes: RouteStore[] = [
   {
     path: "/red-screen",
     color: "#FF0000",
+    colorName: "red",
     isAxis: false,
     type: "color",
     iconColor: "white"
@@ -98,6 +103,7 @@ export const routes: RouteStore[] = [
   {
     path: "/green-screen",
     color: "#00FF00",
+    colorName: "green",
     isAxis: false,
     type: "color",
     iconColor: "black"
@@ -105,6 +111,7 @@ export const routes: RouteStore[] = [
   {
     path: "/blue-screen",
     color: "#0000FF",
+    colorName: "blue",
     isAxis: false,
     type: "color",
     iconColor: "white"
@@ -112,30 +119,35 @@ export const routes: RouteStore[] = [
   {
     path: "/yellow-screen",
     color: "#FFFF00",
+    colorName: "yellow",
     isAxis: true,
     type: "color",
   },
   {
     path: "/orange-screen",
     color: "#FFA500",
+    colorName: "orange",
     isAxis: true,
     type: "color",
   },
   {
     path: "/pink-screen",
     color: "#FFC0CB",
+    colorName: "pink",
     isAxis: true,
     type: "color",
   },
   {
     path: "/purple-screen",
     color: "#800080",
+    colorName: "purple",
     isAxis: true,
     type: "color",
   },
   {
     path: "/zoom-lighting",
     color: "#FFC5C2",
+    colorName: "zoom-lighting",
     isAxis: true,
     type: "color",
   },

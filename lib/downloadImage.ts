@@ -1,6 +1,7 @@
 export default function downloadImage(
   currentResolution: { resX: number; resY: number },
   currentColor: string,
+  fileName?: string,
 ) {
   if (typeof window === "undefined") {
     console.error("downloadImage can only run on the client.");
@@ -24,7 +25,7 @@ export default function downloadImage(
     if (blob) {
       const link = document.createElement("a");
       link.href = URL.createObjectURL(blob);
-      link.download = `image_${canvas.width}x${canvas.height}.png`;
+      link.download = fileName && `${fileName}_background_${canvas.width}x${canvas.height}.png` || `background_${canvas.width}x${canvas.height}.png`;
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
@@ -33,7 +34,7 @@ export default function downloadImage(
       console.warn("toBlob() failed, falling back to toDataURL()");
       const link = document.createElement("a");
       link.href = canvas.toDataURL("image/png");
-      link.download = `image_${canvas.width}x${canvas.height}.png`;
+      link.download = fileName && `${fileName}_background_${canvas.width}x${canvas.height}.png` || `background_${canvas.width}x${canvas.height}.png`;
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
