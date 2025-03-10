@@ -110,7 +110,7 @@
     @apply text-center;
   }
   input[type="text"] {
-    @apply border-0 border-b border-black rounded-none;
+    @apply border-0 border-b border-black rounded-none text-lg;
   }
   input[type="text"]:focus {
     @apply outline-none;
