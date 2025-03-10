@@ -107,6 +107,13 @@
   }
   input {
     @apply bg-transparent;
+    @apply text-center;
+  }
+  input[type="text"] {
+    @apply border-0 border-b border-black rounded-none;
+  }
+  input[type="text"]:focus {
+    @apply outline-none;
   }
 }
 
