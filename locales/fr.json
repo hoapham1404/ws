@@ -1655,6 +1655,22 @@
     "title": "Contactez-nous",
     "type": "page"
   },
+  "/power-drain": {
+    "name": "Drain de puissance",
+    "icon": "https://emojicdn.elk.sh/🔋",
+    "title": "Drain de puissance",
+    "type": "prank",
+    "isPage": true,
+    "tip": {
+      "title": "Drain de puissance",
+      "content": [
+        {
+          "title": "Drain de puissance",
+          "description": "Le drain de puissance est un écran de farce qui simule un appareil électronique qui se décharge."
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "Écrans couleur",
     "prank": "Écrans de farce",
