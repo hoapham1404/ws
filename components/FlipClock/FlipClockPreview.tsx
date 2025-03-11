@@ -25,8 +25,8 @@ export default function FlipClock() {
   const { hours, minutes, seconds } = formatTime(time);
 
   return (
-    <div className="h-full bg-white flex items-center justify-center">
-      <div className=" flex gap-2 text-4xl font-bold items-center">
+    <div className={"h-full bg-white flex items-center justify-center"}>
+      <div className={" flex gap-2 text-4xl font-bold items-center"}>
         <FlipUnit number={hours[0]} />
         <FlipUnit number={hours[1]} />
         <span className={`${isFullscreen ? 'text-[10rem]' : 'text-4xl'}`}>:</span>

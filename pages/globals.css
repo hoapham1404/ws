@@ -105,6 +105,30 @@
 
     --chart-5: 340 75% 55%
   }
+  input {
+    @apply bg-transparent;
+    @apply text-center;
+  }
+  input[type="text"] {
+    @apply border-0 border-b border-black rounded-none text-base;
+    @apply p-0 ;
+  }
+  input[type="text"]:focus {
+    @apply outline-none;
+  }
+  button {
+    @apply bg-gray-200 rounded hover:bg-gray-300 transition-colors;
+    @apply px-2 py-1;
+    @apply border border-gray-400;
+  }
+  select {
+    @apply bg-transparent;
+    @apply text-left;
+    @apply border-0 border-b border-black rounded-none text-base;
+  }
+  select:focus {
+    @apply outline-none;
+  }
 }
 
 @layer base {

@@ -1,0 +1,1701 @@
+{
+  "/": {
+    "name": "Écran blanc",
+    "color": "#FFFFFF",
+    "isAxis": false,
+    "title": "Écran blanc",
+    "type": "color",
+    "tip": {
+      "title": "écran blanc",
+      "content": [
+        {
+          "title": "écran blanc pour copier des dessins",
+          "description": "Tracer des images facilement en plaçant du papier sur un écran blanc brillant."
+        },
+        {
+          "title": "écran blanc comme source de lumière",
+          "description": "Utilisez-le comme rétroéclairage pour la photographie ou comme table lumineuse."
+        },
+        {
+          "title": "écran blanc pour vérifier le moniteur",
+          "description": "Repérez les pixels morts ou les problèmes d'affichage avec un écran blanc."
+        },
+        {
+          "title": "écran blanc pour écran vide",
+          "description": "Minimisez les distractions avec un écran blanc temporaire."
+        },
+        {
+          "title": "écran blanc comme lampe de lecture",
+          "description": "Illuminez votre lecture dans le noir avec un écran blanc."
+        },
+        {
+          "title": "écran blanc pour le maquillage",
+          "description": "Obtenez une lumière vive et uniforme pour vous maquiller ou prendre des photos."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Écran blanc pour le nettoyage",
+          "content": [
+            "écran blanc pour le nettoyage du moniteur",
+            "écran blanc pour trouver les pixels morts",
+            "écran blanc pour trouver les taches sales"
+          ]
+        },
+        {
+          "title": "Lumière blanche en ligne",
+          "content": [
+            "lumière blanche pour la lecture",
+            "lumière blanche pour les appels vidéo",
+            "lumière de couleur blanche",
+            "écran blanc/lumière pour selfie",
+            "lumières LED blanches en ligne"
+          ]
+        },
+        {
+          "title": "Autres",
+          "content": [
+            "écran blanc pour projecteur",
+            "écran blanc pour enfants",
+            "arrière-plan plein écran blanc"
+          ]
+        }
+      ]
+    }
+  },
+  "/black-screen": {
+    "name": "Écran noir",
+    "color": "#000000",
+    "isAxis": false,
+    "title": "Écran noir complet",
+    "type": "color",
+    "tip": {
+      "title": "écran noir",
+      "content": [
+        {
+          "title": "écran noir pour le deuxième moniteur",
+          "description": "Assombrir un deuxième moniteur sans l'éteindre."
+        },
+        {
+          "title": "écran noir pour économiser de l'électricité",
+          "description": "Réduire la consommation d'énergie sur les écrans OLED/AMOLED."
+        },
+        {
+          "title": "écran noir pour masquer l'activité",
+          "description": "Gardez l'état de votre ordinateur discret avec un écran noir."
+        },
+        {
+          "title": "écran noir pour nettoyer le moniteur",
+          "description": "Repérez et nettoyez facilement la poussière ou les taches."
+        },
+        {
+          "title": "écran noir comme arrière-plan sombre",
+          "description": "Créez un arrière-plan sombre pour les jeux ou les vidéos."
+        },
+        {
+          "title": "écran noir pour éviter les brûlures",
+          "description": "Protégez les téléviseurs plasma contre les brûlures pendant les temps d'inactivité."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Écran noir pour le nettoyage",
+          "content": [
+            "écran noir pour le nettoyage du moniteur",
+            "écran noir pour trouver les pixels morts",
+            "écran noir pour trouver les taches sales"
+          ]
+        },
+        {
+          "title": "Couleur noire en ligne",
+          "content": [
+            "écran d'ordinateur vide",
+            "écran noir total",
+            "écran noir complet"
+          ]
+        },
+        {
+          "title": "Autres",
+          "content": [
+            "écran noir pour projecteur",
+            "écran noir pour enfants",
+            "arrière-plan noir plein écran"
+          ]
+        }
+      ]
+    }
+  },
+  "/red-screen": {
+    "name": "Écran rouge",
+    "color": "#FF0000",
+    "isAxis": false,
+    "title": "Écran rouge",
+    "type": "color",
+    "tip": {
+      "title": "écran rouge",
+      "content": [
+        {
+          "title": "écran rouge pour la photographie",
+          "description": "Ajoutez des effets de couleur spectaculaires à vos photos ou films."
+        },
+        {
+          "title": "écran rouge pour la santé des yeux",
+          "description": "Réduisez la fatigue due à la lumière bleue dans les environnements sombres."
+        },
+        {
+          "title": "écran rouge pour les événements virtuels",
+          "description": "Donnez un ton audacieux pour les rassemblements en ligne."
+        },
+        {
+          "title": "écran rouge pour le design graphique",
+          "description": "Créez des designs saisissants avec du rouge vif."
+        },
+        {
+          "title": "écran rouge pour les présentations",
+          "description": "Mettez en valeur les points clés avec un arrière-plan rouge thématique."
+        },
+        {
+          "title": "écran rouge pour les TikToks",
+          "description": "Créez des arrière-plans vidéo accrocheurs avec du rouge vif."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Couleur rouge en ligne",
+          "content": [
+            "écran rouge pour les tiktoks",
+            "écran rouge pour les appels en ligne",
+            "écran rouge pour les photos"
+          ]
+        },
+        {
+          "title": "Lumière rouge en ligne",
+          "content": [
+            "lumière de couleur rouge",
+            "lumière rouge pour selfie",
+            "lumières LED rouges en ligne"
+          ]
+        },
+        {
+          "title": "Autres",
+          "content": [
+            "écran rouge pour projecteur",
+            "écran rouge vierge pour les enfants",
+            "arrière-plan d'écran rouge complet"
+          ]
+        }
+      ]
+    }
+  },
+  "/green-screen": {
+    "name": "Écran vert",
+    "color": "#00FF00",
+    "isAxis": false,
+    "title": "Écran vert",
+    "type": "color",
+    "tip": {
+      "title": "écran vert",
+      "content": [
+        {
+          "title": "écran vert pour la création de vidéos",
+          "description": "Remplacez facilement les arrière-plans dans la production vidéo."
+        },
+        {
+          "title": "écran vert pour la relaxation",
+          "description": "Apaisez vos yeux avec un écran vert apaisant."
+        },
+        {
+          "title": "écran vert pour les jeux",
+          "description": "Améliorez vos flux avec un arrière-plan immersif."
+        },
+        {
+          "title": "écran vert pour les réunions",
+          "description": "Ajoutez des arrière-plans professionnels aux appels vidéo."
+        },
+        {
+          "title": "écran vert pour l'enseignement",
+          "description": "Rendez les leçons interactives avec des aides visuelles."
+        },
+        {
+          "title": "écran vert pour Photoshop",
+          "description": "Modifiez des images de manière transparente avec un arrière-plan vert."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Écran vert pour le nettoyage",
+          "content": [
+            "écran vert pour le nettoyage du moniteur",
+            "écran vert pour trouver les pixels morts",
+            "écran vert pour trouver les taches sales"
+          ]
+        },
+        {
+          "title": "Feu vert en ligne",
+          "content": [
+            "feu vert pour les appels vidéo",
+            "éclairage de l'écran vert",
+            "lumière de couleur verte",
+            "feu vert pour selfie",
+            "lumières LED vertes en ligne"
+          ]
+        },
+        {
+          "title": "Autre",
+          "content": [
+            "écran vert pour projecteur",
+            "écran vert pour enfants",
+            "arrière-plan plein écran vert"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen": {
+    "name": "Écran bleu",
+    "color": "#0000FF",
+    "isAxis": false,
+    "title": "Écran bleu",
+    "type": "color",
+    "tip": {
+      "title": "écran bleu",
+      "content": [
+        {
+          "title": "écran bleu pour la relaxation",
+          "description": "Calmez votre esprit avec des tons bleus apaisants."
+        },
+        {
+          "title": "écran bleu pour le sommeil",
+          "description": "Favorisez la somnolence avec une douce lumière bleue."
+        },
+        {
+          "title": "écran bleu pour la santé des yeux",
+          "description": "Réduisez la fatigue pendant une longue période devant un écran."
+        },
+        {
+          "title": "écran bleu pour les présentations",
+          "description": "Mettez en valeur les éléments visuels avec un arrière-plan bleu."
+        },
+        {
+          "title": "écran bleu pour les vidéos",
+          "description": "Utilisez-le comme arrière-plan vidéo unique."
+        },
+        {
+          "title": "écran bleu pour le traçage",
+          "description": "Copiez les images avec une base bleue claire."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Écran bleu pour le nettoyage",
+          "content": [
+            "Écran bleu pour le nettoyage du moniteur",
+            "Écran bleu pour trouver les pixels morts",
+            "Écran bleu pour trouver les taches sales"
+          ]
+        },
+        {
+          "title": "Lumière bleue en ligne",
+          "content": [
+            "Lumière bleue pour les appels vidéo",
+            "Lumière de couleur bleue",
+            "Lumière bleue pour selfie",
+            "Lumières LED bleues en ligne"
+          ]
+        },
+        {
+          "title": "Autres",
+          "content": [
+            "Écran bleu pour projecteur",
+            "Écran bleu pour enfants",
+            "Arrière-plan bleu plein écran"
+          ]
+        }
+      ]
+    }
+  },
+  "/yellow-screen": {
+    "name": "Écran jaune",
+    "color": "#FFFF00",
+    "isAxis": true,
+    "title": "Écran jaune",
+    "type": "color",
+    "tip": {
+      "title": "écran jaune",
+      "content": [
+        {
+          "title": "écran jaune pour le contenu",
+          "description": "Ajoutez de l'énergie aux flux ou aux présentations."
+        },
+        {
+          "title": "écran jaune pour le confort des yeux",
+          "description": "Soulagez la fatigue en supprimant la lumière bleue."
+        },
+        {
+          "title": "écran jaune pour la créativité",
+          "description": "Stimulez des idées avec un arrière-plan joyeux."
+        },
+        {
+          "title": "écran jaune pour les tests",
+          "description": "Vérifiez la précision de l'affichage avec du jaune."
+        },
+        {
+          "title": "écran jaune pour l'enseignement",
+          "description": "Engagez les étudiants avec un arrière-plan dynamique."
+        },
+        {
+          "title": "écran jaune pour l'ambiance",
+          "description": "Créez une ambiance chaleureuse et invitante."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Écran jaune pour le nettoyage",
+          "content": [
+            "écran jaune pour le nettoyage du moniteur",
+            "écran jaune pour trouver les pixels morts",
+            "écran jaune pour trouver les taches sales"
+          ]
+        },
+        {
+          "title": "Couleur jaune en ligne",
+          "content": [
+            "écran d'ordinateur vide",
+            "écran jaune total",
+            "écran jaune complet"
+          ]
+        },
+        {
+          "title": "Autres",
+          "content": [
+            "écran jaune pour projecteur",
+            "écran jaune pour enfants",
+            "arrière-plan plein écran jaune"
+          ]
+        }
+      ]
+    }
+  },
+  "/orange-screen": {
+    "name": "Écran orange",
+    "color": "#FFA500",
+    "isAxis": true,
+    "title": "Écran orange",
+    "type": "color",
+    "tip": {
+      "title": "écran orange",
+      "content": [
+        {
+          "title": "écran orange pour les arrière-plans",
+          "description": "Démarquez-vous avec un arrière-plan virtuel dynamique."
+        },
+        {
+          "title": "écran orange pour dormir",
+          "description": "Filtrez la lumière bleue pour un meilleur repos."
+        },
+        {
+          "title": "écran orange pour la créativité",
+          "description": "Stimulez l'imagination avec une énergie chaleureuse."
+        },
+        {
+          "title": "écran orange pour le calibrage",
+          "description": "Testez la précision du moniteur avec des tons orange."
+        },
+        {
+          "title": "écran orange pour l'enseignement",
+          "description": "Captez l'attention dans les cours en ligne."
+        },
+        {
+          "title": "écran orange pour l'ambiance",
+          "description": "Créez une atmosphère chaleureuse et créative."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Écran orange pour le nettoyage",
+          "content": [
+            "écran orange pour le nettoyage du moniteur",
+            "écran orange pour trouver les pixels morts",
+            "écran orange pour trouver les taches sales"
+          ]
+        },
+        {
+          "title": "Couleur orange en ligne",
+          "content": [
+            "écran d'ordinateur vide",
+            "écran orange total",
+            "écran complet orange"
+          ]
+        },
+        {
+          "title": "Autres",
+          "content": [
+            "écran orange pour projecteur",
+            "écran orange pour enfants",
+            "plan arrière orange plein écran"
+          ]
+        }
+      ]
+    }
+  },
+  "/pink-screen": {
+    "name": "Écran rose",
+    "color": "#FFC0CB",
+    "isAxis": true,
+    "title": "Écran rose",
+    "type": "color",
+    "tip": {
+      "title": "écran rose",
+      "content": [
+        {
+          "title": "écran rose pour le contenu",
+          "description": "Donnez un ton convivial pour les vidéos ou les flux."
+        },
+        {
+          "title": "écran rose pour la relaxation",
+          "description": "Apaisez votre humeur avec une douce lumière rose."
+        },
+        {
+          "title": "écran rose pour le design",
+          "description": "Inspirez la créativité avec un fond rose."
+        },
+        {
+          "title": "écran rose pour les tests",
+          "description": "Vérifiez la précision de l'affichage avec des tons roses."
+        },
+        {
+          "title": "écran rose pour les présentations",
+          "description": "Attirez l'attention avec un changement de rose audacieux."
+        },
+        {
+          "title": "écran rose pour l'ambiance",
+          "description": "Créez une atmosphère ludique et chaleureuse."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Écran rose pour le nettoyage",
+          "content": [
+            "écran rose pour le nettoyage du moniteur",
+            "écran rose pour trouver les pixels morts",
+            "écran rose pour trouver les taches sales"
+          ]
+        },
+        {
+          "title": "Couleur rose en ligne",
+          "content": [
+            "écran d'ordinateur vide",
+            "écran rose total",
+            "écran rose complet"
+          ]
+        },
+        {
+          "title": "Autres",
+          "content": [
+            "écran rose pour projecteur",
+            "écran rose pour enfants",
+            "arrière-plan rose plein écran"
+          ]
+        }
+      ]
+    }
+  },
+  "/purple-screen": {
+    "name": "Écran violet",
+    "color": "#800080",
+    "isAxis": true,
+    "title": "Écran violet",
+    "type": "color",
+    "tip": {
+      "title": "écran violet",
+      "content": [
+        {
+          "title": "écran violet pour le bien-être",
+          "description": "Améliorez la méditation avec un violet apaisant."
+        },
+        {
+          "title": "écran violet pour l'éclairage",
+          "description": "Ajoutez une lueur mystique aux appels ou aux événements."
+        },
+        {
+          "title": "écran violet pour étudier",
+          "description": "Explorez la théorie des couleurs avec le violet."
+        },
+        {
+          "title": "écran violet pour les tests",
+          "description": "Testez la précision de l'affichage avec des tons violets."
+        },
+        {
+          "title": "écran violet pour les enfants",
+          "description": "Stimulez l'imagination lors des séances d'apprentissage."
+        },
+        {
+          "title": "écran violet pour l'ambiance",
+          "description": "Créez une ambiance créative et luxueuse."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Écran violet pour le nettoyage",
+          "content": [
+            "écran violet pour le nettoyage du moniteur",
+            "écran violet pour trouver les pixels morts",
+            "écran violet pour trouver les taches sales"
+          ]
+        },
+        {
+          "title": "Couleur violette en ligne",
+          "content": [
+            "écran d'ordinateur vide",
+            "écran violet total",
+            "écran violet complet"
+          ]
+        },
+        {
+          "title": "Autres",
+          "content": [
+            "écran violet pour projecteur",
+            "écran violet pour enfants",
+            "arrière-plan violet plein écran"
+          ]
+        }
+      ]
+    }
+  },
+  "/zoom-lighting": {
+    "name": "Éclairage zoom",
+    "color": "#FFC5C2",
+    "isAxis": true,
+    "title": "Éclairage pour les appels zoom",
+    "type": "color",
+    "tip": {
+      "title": "Éclairage pour les appels zoom",
+      "content": [
+        {
+          "title": "éclairage zoom pour les appels",
+          "description": "Ajustez l'éclairage pour les appels vidéo professionnels."
+        },
+        {
+          "title": "éclairage zoom pour la photographie",
+          "description": "Créez une ambiance parfaite pour les photos."
+        },
+        {
+          "title": "éclairage zoom pour l'apprentissage en ligne",
+          "description": "Réduisez la tension et améliorez la concentration en classe."
+        },
+        {
+          "title": "éclairage zoom pour les développeurs",
+          "description": "Testeur des conceptions sous un éclairage varié."
+        },
+        {
+          "title": "éclairage zoom pour la thérapie",
+          "description": "Utilisez des couleurs pour les séances de bien-être à distance."
+        },
+        {
+          "title": "éclairage zoom avec écran blanc",
+          "description": "Éclairez les appels à l'aide d'un deuxième moniteur."
+        }
+      ]
+    }
+  },
+  "/white-noise": {
+    "name": "Bruit blanc",
+    "icon": "https://emojicdn.elk.sh/🔊",
+    "title": "Bruit blanc pour dormir",
+    "type": "prank",
+    "tip": {
+      "title": "Bruit blanc pour dormir",
+      "content": [
+        {
+          "title": "bruit blanc pour la concentration",
+          "description": "Masquez les distractions pour une meilleure concentration."
+        },
+        {
+          "title": "bruit blanc pour dormir",
+          "description": "Endormez-vous plus rapidement avec un son régulier."
+        },
+        {
+          "title": "bruit blanc pour les bébés",
+          "description": "Apaisez les nourrissons avec un bruit apaisant."
+        },
+        {
+          "title": "bruit blanc pour la méditation",
+          "description": "Améliorez la pleine conscience avec un son neutre."
+        },
+        {
+          "title": "bruit blanc pour Halloween",
+          "description": "Créez des ambiances effrayantes avec un son étrange."
+        },
+        {
+          "title": "bruit blanc pour les farces",
+          "description": "Jouez des tours subtils au bureau avec le son."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Améliorer la productivité et la concentration",
+          "content": [
+            "Améliorer la concentration dans les environnements bruyants",
+            "Stimuler la productivité au travail",
+            "Améliorer la concentration pendant les séances d'étude",
+            "Minimiser les distractions en télétravail",
+            "Faciliter les périodes de travail intense"
+          ]
+        },
+        {
+          "title": "Sommeil et relaxation",
+          "content": [
+            "Favoriser un endormissement plus rapide",
+            "Masquer les bruits nocturnes perturbateurs",
+            "Améliorer la qualité du sommeil des insomniaques",
+            "Apaiser les bébés et les jeunes enfants",
+            "Créer une routine apaisante au coucher"
+          ]
+        },
+        {
+          "title": "Santé et bien-être",
+          "content": [
+            "Réduire les niveaux de stress et d'anxiété",
+            "Aider à la méditation et aux pratiques de pleine conscience",
+            "Aider à gérer les symptômes des acouphènes",
+            "Encourager la relaxation pendant le yoga",
+            "Soutenir la santé mentale en réduisant la surcharge sensorielle"
+          ]
+        }
+      ]
+    }
+  },
+  "/broken-screen": {
+    "name": "Faux écran cassé",
+    "icon": "https://emojicdn.elk.sh/💔",
+    "title": "Faux écran cassé - Blague",
+    "type": "prank",
+    "tip": {
+      "title": "Faux écran cassé - Blague",
+      "content": [
+        {
+          "title": "blague écran cassé",
+          "description": "Effrayez vos amis avec un écran fissuré."
+        },
+        {
+          "title": "écran cassé pour le contenu",
+          "description": "Ajoutez du drame aux vidéos ou aux publications."
+        },
+        {
+          "title": "test de réaction à un écran cassé",
+          "description": "Entraînez-vous à rester calme sous le stress technologique."
+        },
+        {
+          "title": "écran cassé pour les projets",
+          "description": "Utilisez les fissures dans les travaux artistiques ou de conception."
+        },
+        {
+          "title": "écran cassé pour l'éducation",
+          "description": "Afficher les avantages d'un protecteur d'écran."
+        },
+        {
+          "title": "écran cassé pour les avis",
+          "description": "Mettez en valeur la durabilité dans les avis techniques."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Blagues et farces",
+          "content": [
+            "Farce technologique épique",
+            "Effrayer les amis et la famille",
+            "Idée de farce au bureau",
+            "Farce du poisson d'avril",
+            "Surprendre quelqu'un pour le plaisir"
+          ]
+        },
+        {
+          "title": "Contenu et créativité",
+          "content": [
+            "Fond d'art numérique unique",
+            "Contenu engageant pour les réseaux sociaux",
+            "Visuels de projets créatifs",
+            "Effet dramatique dans les vidéos",
+            "Illustrer des histoires d'horreur technologiques"
+          ]
+        },
+        {
+          "title": "Éducation et sensibilisation",
+          "content": [
+            "Démontrer la fragilité de l'écran",
+            "Promouvoir les accessoires de protection",
+            "Présentations sur la sécurité technique",
+            "Aide visuelle pour les discussions sur l'entretien des appareils",
+            "Souligner l'importance des garanties"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows": {
+    "name": "Faux écran bleu de la mort",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Faux écran bleu de la mort de Windows",
+    "type": "prank",
+    "tip": {
+      "title": "Faux écran bleu de la mort de Windows",
+      "content": [
+        {
+          "title": "Farce BSOD",
+          "description": "Tromper vos amis avec un faux crash."
+        },
+        {
+          "title": "BSOD pour les fêtes",
+          "description": "Ajoutez de l'humour technologique aux rassemblements."
+        },
+        {
+          "title": "BSOD pour la formation",
+          "description": "Enseignez le dépannage informatique en toute sécurité."
+        },
+        {
+          "title": "BSOD pour les compétences techniques",
+          "description": "Pratiquez l'assistance dans un espace sûr."
+        },
+        {
+          "title": "BSOD pour YouTube",
+          "description": "Pimentez vos vidéos avec des effets de crash."
+        },
+        {
+          "title": "Test de patience BSOD",
+          "description": "Testez le stress avec un faux crash lent."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Blagues et divertissement",
+          "content": [
+            "Blague informatique inoffensive",
+            "Blague technique du poisson d'avril",
+            "Gag de fête sur le thème de la technologie",
+            "Faire peur à ses amis pour le plaisir",
+            "Créer du contenu de farce viral"
+          ]
+        },
+        {
+          "title": "Fins d'études",
+          "content": [
+            "Enseigner le dépannage BSOD",
+            "Simuler des pannes système",
+            "Former le personnel de support informatique",
+            "Démontrer la récupération du système",
+            "Éduquer sur les messages d'erreur"
+          ]
+        },
+        {
+          "title": "Création de contenu",
+          "content": [
+            "Améliorer les vidéos techniques",
+            "Créer des tutoriels attrayants",
+            "Filmer des scènes techniques réalistes",
+            "Ajouter du drame aux critiques techniques",
+            "Illustrer les discussions sur la stabilité du système"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows-10": {
+    "name": "Faux écran bleu de la mort 10",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Faux écran bleu de la mort Windows 10",
+    "type": "prank",
+    "tip": {
+      "title": "Faux écran bleu de la mort Windows 10",
+      "content": [
+        {
+          "title": "Blague de bureau BSOD",
+          "description": "Tromper les collègues avec un faux crash."
+        },
+        {
+          "title": "Échappez à l'appel BSOD",
+          "description": "Quittez les réunions ennuyeuses avec un crash."
+        },
+        {
+          "title": "Formation informatique BSOD",
+          "description": "Pratiquez les correctifs avec une fausse erreur."
+        },
+        {
+          "title": "Blague de jeu BSOD",
+          "description": "Choquez les joueurs en milieu de session."
+        },
+        {
+          "title": "Vidéos de réaction BSOD",
+          "description": "Enregistrez des réponses de crash amusantes."
+        },
+        {
+          "title": "Tests d'équipe BSOD",
+          "description": "Testez la réponse informatique avec de fausses urgences."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Farces amusantes",
+          "content": [
+            "farces rapides au bureau avec de faux BSOD",
+            "trolling sur écran bleu en streaming de jeu",
+            "farces de panne d'ordinateur en famille",
+            "vidéos de réaction à l'écran de mort de Windows",
+            "blagues de fête BSOD en plein écran"
+          ]
+        },
+        {
+          "title": "Utilisations pédagogiques",
+          "content": [
+            "Outil de formation BSOD de support informatique",
+            "démonstrations d'écran de crash Windows",
+            "outil d'enseignement de l'alphabétisation informatique",
+            "exemples d'ateliers techniques",
+            "pratique de réponse à l'écran bleu"
+          ]
+        },
+        {
+          "title": "Création de contenu",
+          "content": [
+            "Vidéos de farces BSOD YouTube",
+            "Contenu de mème de crash Windows",
+            "clips de réaction sur les réseaux sociaux",
+            "streaming de faux écrans bleus",
+            "démonstrations de tutoriels techniques"
+          ]
+        }
+      ]
+    }
+  },
+  "/hacker-screen": {
+    "name": "Écran de saisie de hacker",
+    "icon": "https://emojicdn.elk.sh/💻‍💻",
+    "title": "Écran Hacker Typer - Prank",
+    "type": "prank",
+    "tip": {
+      "title": "Écran Hacker Typer - Prank",
+      "contenu": [
+        {
+          "title": "farce d'écran de hacker",
+          "description": "Impressionnez vos collègues avec du faux codage."
+        },
+        {
+          "title": "écran de hacker pour les cours",
+          "description": "Incitez les étudiants à s'intéresser à la programmation."
+        },
+        {
+          "title": "écran de hacker pour le streaming",
+          "description": "Ajoutez une touche technique aux flux en direct."
+        },
+        {
+          "title": "écran de hacker pour les vlogs",
+          "description": "Boostez les vidéos techniques avec des effets de code."
+        },
+        {
+          "title": "écran de hacker pour les présentations",
+          "description": "Améliorez les discussions avec des visuels de code en direct."
+        },
+        {
+          "title": "écran de piratage pour films",
+          "description": "Créez facilement de véritables scènes de piratage."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Divertissement et farces",
+          "content": [
+            "Impressionnez vos amis avec de fausses compétences en piratage informatique",
+            "Faites des farces aux membres de votre famille",
+            "Ajoutez du fun aux fêtes de bureau",
+            "Créez du contenu amusant pour les réseaux sociaux",
+            "Faites croire à vos amis que vous êtes un codeur"
+          ]
+        },
+        {
+          "title": "Fins pédagogiques",
+          "content": [
+            "Démontrez le codage en classe",
+            "Visualisez les concepts de programmation",
+            "Incitez les étudiants à s'intéresser à la technologie",
+            "Pimentez les techniques de présentations",
+            "Initiez les débutants au codage"
+          ]
+        },
+        {
+          "title": "Utilisation créative et professionnelle",
+          "content": [
+            "Améliorez les visuels de diffusion en direct",
+            "Créez des scènes techniques authentiques dans les films",
+            "Ajoutez une esthétique de hacker aux vidéos",
+            "Succitez l'intérêt lors des conférences techniques",
+            "Inspirez les discussions sur la cybersécurité"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-10-update-screen": {
+    "name": "Faux mise à jour Windows 10",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Faux mise à jour Windows 10",
+    "type": "fake-update",
+    "tip": {
+      "title": "Windows 10 Fake Update",
+      "content": [
+        {
+          "title": "Windows 10 canular",
+          "description": "Tromper des amis avec une fausse boucle de mise à jour."
+        },
+        {
+          "title": "Windows 10 office canular",
+          "description": "Tromper des collègues avec une mise à jour lente."
+        },
+        {
+          "title": "Discussion de groupe Windows 10",
+          "description": "Partagez de fausses photos de mise à jour pour rire."
+        },
+        {
+          "title": "Windows 10 party hit",
+          "description": "Interrompre une conversation avec une fausse mise à jour."
+        },
+        {
+          "title": "Windows 10 personnalisé et amusant",
+          "description": "Ajoutez des messages idiots à la mise à jour."
+        },
+        {
+          "title": "Réaction Windows 10",
+          "description": "Enregistrez des réponses de mise à jour hilarantes."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Mise à jour simulée de Windows 10",
+          "content": [
+            "Fausse mise à jour de Windows 10",
+            "Simulation de mise à jour de Windows 10",
+            "Simuler une mise à jour de Windows 10",
+            "Faux écran de mise à jour de Windows 10",
+            "Émuler la mise à jour de Windows 10",
+            "Farce de mise à jour de Windows 10",
+            "Processus de mise à jour de Windows 10"
+          ]
+        },
+        {
+          "title": "Expérience réaliste",
+          "content": [
+            "Mise à jour de Windows 10 d'apparence authentique",
+            "Écran de mise à jour de Windows 10 réaliste",
+            "Tromper ses amis avec la mise à jour de Windows 10",
+            "Progression réaliste de la mise à jour de Windows 10",
+            "Simulation de mise à jour authentique de Windows 10",
+            "Messages de mise à jour authentiques de Windows 10",
+            "Étape de mise à jour de Windows 10"
+          ]
+        },
+        {
+          "title": "Divertissement et plaisir",
+          "content": [
+            "Windows divertissants Blague de mise à jour 10",
+            "Fausse mise à jour amusante de Windows 10",
+            "Profitez d'une mise à jour simulée de Windows 10",
+            "Farce avec une fausse mise à jour de Windows 10",
+            "Expérience de mise à jour Windows 10 passionnante",
+            "Mise à jour Windows 10 pour le plaisir",
+            "Outil de farce de mise à jour Windows 10"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-xp-update-screen": {
+    "name": "Faux mise à jour Windows XP",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Faux mise à jour Windows XP",
+    "type": "fake-update",
+    "tip": {
+      "title": "Faux mise à jour Windows XP",
+      "content": [
+        {
+          "title": "Farce de bureau XP",
+          "description": "Déclenchez la nostalgie avec une fausse mise à jour."
+        },
+        {
+          "title": "Test de patience XP",
+          "description": "Testez la frustration avec une progression lente."
+        },
+        {
+          "title": "Amusement rétro XP",
+          "description": "Revivez l'ère XP avec une fausse mise à jour."
+        },
+        {
+          "title": "Contenu viral XP",
+          "description": "Créez des vidéos ou des publications sur la technologie rétro."
+        },
+        {
+          "title": "Leçon de technologie XP",
+          "description": "Enseignez l'histoire du système d'exploitation avec une simulation."
+        },
+        {
+          "title": "Farce entre amis XP",
+          "description": "Tromper ses amis avec une mise à jour classique."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Mise à jour simulée de Windows XP",
+          "content": [
+            "Fausse mise à jour de Windows XP",
+            "Simulation de mise à jour de Windows XP",
+            "Simuler une mise à jour de Windows XP",
+            "Faux écran de mise à jour de Windows XP",
+            "Émuler une mise à jour de Windows XP",
+            "Farce de mise à jour de Windows XP",
+            "Processus de mise à jour de Windows XP"
+          ]
+        },
+        {
+          "title": "Expérience réaliste",
+          "content": [
+            "Mise à jour de Windows XP d'apparence authentique",
+            "Écran de mise à jour de Windows XP réaliste",
+            "Tromper ses amis avec la mise à jour de Windows XP",
+            "Progression de la mise à jour de Windows XP réaliste",
+            "Simulation de mise à jour authentique de Windows XP",
+            "Messages de mise à jour authentiques de Windows XP",
+            "Étape de mise à jour de Windows XP"
+          ]
+        },
+        {
+          "title": "Divertissement et amusement",
+          "content": [
+            "Farce de mise à jour amusante de Windows XP",
+            "Fausse mise à jour amusante de Windows XP",
+            "Profitez d'une mise à jour simulée de Windows XP",
+            "Farce avec une fausse mise à jour de Windows XP",
+            "Expérience de mise à jour passionnante de Windows XP",
+            "Mise à jour de Windows XP pour le divertissement",
+            "Outil de farce de mise à jour de Windows XP"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-mac-os-x-update-screen": {
+    "name": "Faux mise à jour Mac OS X",
+    "icon": "https://emojicdn.elk.sh/🍎",
+    "title": "Faux mise à jour Mac OS X",
+    "type": "fake-update",
+    "tip": {
+      "title": "Faux mise à jour Mac OS X",
+      "content": [
+        {
+          "title": "Mac Blague",
+          "description": "Tromper les fans de Mac avec une fausse mise à jour."
+        },
+        {
+          "title": "Test de patience Mac",
+          "description": "Observez les réactions à une mise à jour lente."
+        },
+        {
+          "title": "Aide pédagogique Mac",
+          "description": "Formez le service informatique avec une simulation de mise à jour sécurisée."
+        },
+        {
+          "title": "Test UX Mac",
+          "description": "Étudiez la réponse des utilisateurs aux retards de mise à jour."
+        },
+        {
+          "title": "Création de contenu Mac",
+          "description": "Ajoutez de vrais visuels de mise à jour aux vidéos."
+        },
+        {
+          "title": "Farce de groupe Mac",
+          "description": "Tromper des amis avec une mise à jour Apple."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Mise à jour simulée de Mac OS X",
+          "content": [
+            "Fausse mise à jour de Mac OS X",
+            "Simulation de mise à jour de Mac OS X",
+            "Simuler une mise à jour de Mac OS X",
+            "Écran de mise à jour factice de Mac OS X",
+            "Émuler une mise à jour de Mac OS X",
+            "Farce de mise à jour de Mac OS X",
+            "Processus de mise à jour de Mac OS X"
+          ]
+        },
+        {
+          "title": "Expérience réaliste",
+          "content": [
+            "Mise à jour Mac OS X d'apparence authentique",
+            "Écran de mise à jour Mac OS X réaliste",
+            "Tromper ses amis avec une mise à jour Mac OS X",
+            "Progression de la mise à jour Mac OS X réaliste",
+            "Simulation de mise à jour Mac OS X authentique",
+            "Messages de mise à jour Mac OS X authentiques",
+            "Étape de mise à jour Mac OS X"
+          ]
+        },
+        {
+          "title": "Divertissement et amusement",
+          "content": [
+            "Farce de mise à jour Mac OS X divertissante",
+            "Fausse mise à jour Mac OS X amusante",
+            "Profitez d'une mise à jour simulée de Mac OS X",
+            "Farce avec une fausse mise à jour Mac OS X",
+            "Mise à jour Mac OS X passionnante expérience",
+            "Mise à jour de Mac OS X pour le divertissement",
+            "Outil de farce de mise à jour de Mac OS X"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-ubuntu-22-04-update-screen": {
+    "name": "Fausse mise à jour Ubuntu 22.04",
+    "icon": "https://emojicdn.elk.sh/🐧",
+    "title": "Fausse mise à jour Ubuntu 22.04",
+    "type": "fake-update",
+    "tip": {
+      "title": "Fausse mise à jour Ubuntu 22.04",
+      "content": [
+        {
+          "title": "Farce Ubuntu",
+          "description": "Tromper les utilisateurs de Linux avec une fausse mise à jour."
+        },
+        {
+          "title": "Test du logiciel Ubuntu",
+          "description": "Simuler des mises à jour pour tester des applications."
+        },
+        {
+          "title": "Formation Ubuntu",
+          "description": "Enseigner les mises à jour Linux en toute sécurité."
+        },
+        {
+          "title": "Contenu Ubuntu",
+          "description": "Ajoutez de vrais visuels de terminal aux vidéos."
+        },
+        {
+          "title": "Préparation d'Ubuntu",
+          "description": "Afficher les mises à jour dans des démonstrations en direct."
+        },
+        {
+          "title": "Réaction d'Ubuntu",
+          "description": "Enregistrer des réponses de mise à jour amusantes."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Mise à jour simulée d'Ubuntu 22.04",
+          "content": [
+            "Fausse mise à jour d'Ubuntu 22.04",
+            "Simulation de mise à jour d'Ubuntu 22.04",
+            "Simuler une mise à jour d'Ubuntu 22.04",
+            "Faux écran de mise à jour d'Ubuntu 22.04",
+            "Émuler une mise à jour d'Ubuntu 22.04",
+            "Farce de mise à jour d'Ubuntu 22.04",
+            "Processus de mise à jour d'Ubuntu 22.04"
+          ]
+        },
+        {
+          "title": "Expérience réaliste",
+          "content": [
+            "Mise à jour d'Ubuntu 22.04 d'apparence authentique",
+            "Écran de mise à jour d'Ubuntu 22.04 réaliste",
+            "Tromper ses amis avec la mise à jour d'Ubuntu 22.04",
+            "Progression réaliste de la mise à jour d'Ubuntu 22.04",
+            "Simulation de mise à jour d'Ubuntu 22.04 authentique",
+            "Messages de mise à jour d'Ubuntu 22.04 authentique",
+            "Ubuntu 22.04 mise à jour"
+          ]
+        },
+        {
+          "title": "Divertissement et amusement",
+          "content": [
+            "Farce de mise à jour divertissante d'Ubuntu 22.04",
+            "Fausse mise à jour amusante d'Ubuntu 22.04",
+            "Profitez d'une mise à jour simulée d'Ubuntu 22.04",
+            "Farce avec une fausse mise à jour d'Ubuntu 22.04",
+            "Expérience de mise à jour passionnante d'Ubuntu 22.04",
+            "Mise à jour d'Ubuntu 22.04 pour le divertissement",
+            "Outil de farce de mise à jour d'Ubuntu 22.04"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-chrome-os-update-screen": {
+    "name": "Faux mise à jour Chrome OS",
+    "icon": "https://emojicdn.elk.sh/🌐",
+    "title": "Faux mise à jour Chrome OS",
+    "type": "fake-update",
+    "tip": {
+      "title": "Faux mise à jour Chrome OS",
+      "content": [
+        {
+          "title": "Farce ChromeOS",
+          "description": "Tromper vos amis avec une fausse mise à jour."
+        },
+        {
+          "title": "Test de réaction ChromeOS",
+          "description": "Étudiez les réponses aux retards de mise à jour."
+        },
+        {
+          "title": "Scènes vidéo ChromeOS",
+          "description": "Ajoutez de vrais visuels de mise à jour aux didacticiels."
+        },
+        {
+          "title": "Farce de laboratoire ChromeOS",
+          "description": "Tromper un laboratoire scolaire avec de fausses mises à jour."
+        },
+        {
+          "title": "Pratique informatique ChromeOS",
+          "description": "Formez le support avec une simulation sécurisée."
+        },
+        {
+          "title": "Présentation ChromeOS",
+          "description": "Améliorez les discussions avec des démonstrations de mise à jour."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Divertissement et divertissement",
+          "content": [
+            "Faites une blague à vos amis pendant la pause déjeuner",
+            "Surprenez les membres de votre famille",
+            "Créez des vidéos de réaction amusantes",
+            "Farce au laboratoire informatique de l'école",
+            "Farce Office ChromeOS"
+          ]
+        },
+        {
+          "title": "Éducation et formation",
+          "content": [
+            "Scénarios de formation au support informatique",
+            "Ateliers de mise à jour logicielle",
+            "Enregistrements de didacticiels ChromeOS",
+            "Présentations d'administrateur système",
+            "Études du comportement des utilisateurs"
+          ]
+        },
+        {
+          "title": "Création de contenu",
+          "content": [
+            "Captures d'écran de mise à jour ChromeOS",
+            "Visuels de revue technique",
+            "Arrière-plans de vidéos de didacticiel",
+            "Images de documentation logicielle",
+            "Matériel de démonstration ChromeOS"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-android-update": {
+    "name": "Fausse mise à jour Android",
+    "icon": "https://emojicdn.elk.sh/📱",
+    "title": "Fausse mise à jour Android",
+    "type": "fake-update",
+    "tip": {
+      "title": "Fausse mise à jour Android",
+      "content": [
+        {
+          "title": "Test logiciel Android",
+          "description": "Simuler des mises à jour pour tester des applications."
+        },
+        {
+          "title": "Présentation Android",
+          "description": "Engager le public avec une fausse mise à jour."
+        },
+        {
+          "title": "Formation technique Android",
+          "description": "Enseigner les mises à jour sans appareils réels."
+        },
+        {
+          "title": "Création de contenu Android",
+          "description": "Ajouter de vrais visuels de mise à jour aux vidéos."
+        },
+        {
+          "title": "Farce Android",
+          "description": "Tromper ses amis avec une fausse mise à jour."
+        },
+        {
+          "title": "Étude UX Android",
+          "description": "Analyser les réactions à la conception des mises à jour."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Mise à jour Android simulée",
+          "content": [
+            "Fausse mise à jour Android",
+            "Simulation de mise à jour Android",
+            "Simuler une mise à jour Android",
+            "Faux écran de mise à jour Android",
+            "Émuler une mise à jour Android",
+            "Farce de mise à jour Android",
+            "Processus de mise à jour Android"
+          ]
+        },
+        {
+          "title": "Expérience réaliste",
+          "content": [
+            "Mise à jour Android d'apparence authentique",
+            "Écran de mise à jour Android réaliste",
+            "Tromper ses amis avec une mise à jour Android",
+            "Progression de la mise à jour Android réaliste",
+            "Simulation de mise à jour Android authentique",
+            "Messages de mise à jour Android authentiques",
+            "Étape de mise à jour Android"
+          ]
+        },
+        {
+          "title": "Divertissement et plaisir",
+          "content": [
+            "Farce de mise à jour Android divertissante",
+            "Fausse mise à jour Android amusante",
+            "Profitez d'une mise à jour Android simulée",
+            "Farce avec une fausse mise à jour Android",
+            "Expérience de mise à jour Android passionnante",
+            "Mise à jour Android pour le divertissement",
+            "Outil de farce de mise à jour Android"
+          ]
+        }
+      ]
+    }
+  },
+  "/dvd-screensaver": {
+    "name": "Écran de veille DVD",
+    "icon": "https://emojicdn.elk.sh/📀",
+    "title": "Écran de veille DVD",
+    "type": "screensaver",
+    "tip": {
+      "title": "Écran de veille DVD",
+      "content": [
+        {
+          "title": "DVD détente",
+          "description": "Détendez-vous avec un logo rebondissant."
+        },
+        {
+          "title": "Présentation DVD",
+          "description": "Ajoutez du mouvement aux diapositives ou aux pauses."
+        },
+        {
+          "title": "Salle d'attente DVD",
+          "description": "Divertissez les visiteurs avec une ambiance rétro."
+        },
+        {
+          "title": "DVD party fun",
+          "description": "Créez une toile de fond de fête nostalgique."
+        },
+        {
+          "title": "Aide à l'étude DVD",
+          "description": "Augmentez la concentration avec un mouvement doux."
+        },
+        {
+          "title": "Temps d'arrêt DVD",
+          "description": "Remplissez les écrans inactifs d'animation."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Détente et ambiance",
+          "content": [
+            "Détendez-vous avec un économiseur d'écran nostalgique",
+            "Créez un environnement apaisant",
+            "Profitez d'une ambiance rétro",
+            "Créez un arrière-plan tranquille",
+            "Parfait pour les séances de méditation"
+          ]
+        },
+        {
+          "title": "Utilisation professionnelle et commerciale",
+          "content": [
+            "Améliorez vos présentations avec du mouvement",
+            "Affichage dynamique de la salle d'attente",
+            "Arrière-plan de bureau attrayant",
+            "Économiseur d'écran professionnel pour les réunions",
+            "Présentations de magasin accrocheuses"
+          ]
+        },
+        {
+          "title": "Divertissement et plaisir",
+          "content": [
+            "Créateur d'ambiance de fête",
+            "Outil de pause d'étude amusant",
+            "Économiseur d'écran interactif pour les enfants",
+            "Divertissement visuel pendant les temps morts",
+            "Écran de fête personnalisable"
+          ]
+        }
+      ]
+    }
+  },
+  "/flip-clock-screensaver": {
+    "name": "Flip Clock",
+    "icon": "https://emojicdn.elk.sh/⏰",
+    "title": "Écran de veille Flip Clock",
+    "type": "screensaver",
+    "tip": {
+      "title": "Écran de veille Flip Clock",
+      "content": [
+        {
+          "title": "Flip clock relaxation",
+          "description": "Profitez de flips rétro pour vous détendre."
+        },
+        {
+          "title": "Flip clock office",
+          "description": "Ajoutez du style au chronométrage de l'espace de travail."
+        },
+        {
+          "title": "Flip clock presentation",
+          "description": "Améliorez les conversations avec un minuteur élégant."
+        },
+        {
+          "title": "Flip clock home",
+          "description": "Créez une ambiance moderne à la maison."
+        },
+        {
+          "title": "Flip clock study",
+          "description": "Suivez le temps d'étude avec des flips."
+        },
+        {
+          "title": "Flip clock waiting",
+          "description": "Engagez les visiteurs avec une horloge élégante."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Détente et esthétique",
+          "content": [
+            "Esthétique vintage",
+            "Horloge apaisante en plein écran",
+            "Ambiance rétro",
+            "Design minimaliste moderne",
+            "Décoration d'intérieur élégante"
+          ]
+        },
+        {
+          "title": "Professionnel et productivité",
+          "content": [
+            "Affichage de l'heure de bureau",
+            "Arrière-plan de présentation",
+            "Environnement d'étude structuré",
+            "Horloge de salle d'attente engageante",
+            "Outil de gestion du temps"
+          ]
+        },
+        {
+          "title": "Divertissement et événements",
+          "content": [
+            "Ambiance de fête",
+            "Décoration d'événement",
+            "Fonction d'exposition",
+            "Affichage interactif",
+            "Heure personnalisée pour les événements"
+          ]
+        }
+      ]
+    }
+  },
+  "/motivational-quote-screensaver": {
+    "quote": {
+      "paragraph": "La seule façon de faire du bon travail est d'aimer ce que vous faites. Si vous ne l'avez pas encore trouvé, continuez à chercher. Ne vous contentez pas de cela.",
+      "author": "Steve Jobs"
+    },
+    "name": "Citation de motivation",
+    "icon": "https://emojicdn.elk.sh/💬",
+    "title": "Écran de veille de citation de motivation",
+    "type": "screensaver",
+    "tip": {
+      "title": "Écran de veille de citation de motivation",
+      "content": [
+        {
+          "title": "Citation coup de pouce matinal",
+          "description": "Commencez la journée avec inspiration."
+        },
+        {
+          "title": "Espace de travail de citation",
+          "description": "Motivez le travail avec des citations."
+        },
+        {
+          "title": "Réunions de citation",
+          "description": "Succitez des idées lors de sessions d'équipe."
+        },
+        {
+          "title": "Aide à l'étude avec citation",
+          "description": "Restez inspiré pendant vos études."
+        },
+        {
+          "title": "Citation ambiance maison",
+          "description": "Ajoutez de la positivité à votre espace."
+        },
+        {
+          "title": "Citation fitness",
+          "description": "Poussez vos entraînements avec motivation."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Motivation quotidienne",
+          "content": [
+            "Coup de pouce d'inspiration matinale",
+            "Début de journée positif",
+            "Dose quotidienne de motivation",
+            "Citations édifiantes sur le rafraîchissement",
+            "Commencez la journée avec positivité"
+          ]
+        },
+        {
+          "title": "Productivité et concentration",
+          "content": [
+            "Restez concentré au travail",
+            "Motivez pendant les études",
+            "Stimulez la créativité de l'équipe",
+            "Pauses de travail inspirantes",
+            "Améliorez l'ambiance de l'espace de travail"
+          ]
+        },
+        {
+          "title": "Utilisation personnelle et domestique",
+          "content": [
+            "Décoration d'intérieur inspirante",
+            "Affichage de citations personnalisable",
+            "Citations préférées personnelles",
+            "Encouragez les routines de remise en forme",
+            "Ambiance d'intérieur motivante"
+          ]
+        }
+      ]
+    }
+  },
+  "/no-signal-smpte-color-bars-screensaver": {
+    "name": "Pas de signal",
+    "icon": "https://emojicdn.elk.sh/📡",
+    "title": "Barres de couleur - Écran TV sans signal",
+    "type": "screensaver",
+    "tip": {
+      "title": "Barres de couleur - Écran TV sans signal",
+      "content": [
+        {
+          "title": "Calibrage des barres de couleur",
+          "description": "Réglez les écrans avec des barres rétro."
+        },
+        {
+          "title": "Vidéo avec barres de couleur",
+          "description": "Améliorez la production avec des modèles de test."
+        },
+        {
+          "title": "Streaming avec barres de couleur",
+          "description": "Ajoutez des pauses professionnelles aux flux."
+        },
+        {
+          "title": "Art avec barres de couleur",
+          "description": "Créez des installations multimédias rétro."
+        },
+        {
+          "title": "Ambiance avec barres de couleur",
+          "description": "Créez une ambiance TV vintage."
+        },
+        {
+          "title": "Farce avec barres de couleur",
+          "description": "Tromper vos amis avec un faux pépin."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Divertissement et farces",
+          "content": [
+            "blagues en plein écran sans signal",
+            "décorations de soirée télé rétro",
+            "effets d'écran de pause en streaming",
+            "esthétique de diffusion vintage",
+            "ambiance de salle de jeux"
+          ]
+        },
+        {
+          "title": "Utilisations professionnelles",
+          "content": [
+            "Test des barres de couleur SMPTE",
+            "modèles d'étalonnage du moniteur",
+            "cartes de test de production vidéo",
+            "référence de configuration d'affichage",
+            "vérifications de l'équipement de diffusion"
+          ]
+        },
+        {
+          "title": "Projets créatifs",
+          "content": [
+            "arrière-plans d'installation artistique",
+            "esthétique vidéo rétro",
+            "conception de plateau de télévision vintage",
+            "accessoires de production de films",
+            "affichages multimédias nostalgiques"
+          ]
+        }
+      ]
+    }
+  },
+  "/terms-and-conditions": {
+    "name": "Conditions d'utilisation",
+    "icon": "https://emojicdn.elk.sh/📜",
+    "title": "Conditions d'utilisation",
+    "type": "page"
+  },
+  "/privacy-policy": {
+    "name": "Politique de confidentialité",
+    "icon": "https://emojicdn.elk.sh/🔒",
+    "title": "Politique de confidentialité",
+    "type": "page"
+  },
+  "/contact-us": {
+    "name": "Contactez-nous",
+    "icon": "https://emojicdn.elk.sh/📞",
+    "title": "Contactez-nous",
+    "type": "page"
+  },
+  "navigation": {
+    "color": "Écrans couleur",
+    "prank": "Écrans de farce",
+    "fake-update": "Faux écrans de mise à jour",
+    "screensaver": "Écrans de veille",
+    "tip": {
+      "header": "Les gens utilisent {tipTitle} pour:"
+    }
+  },
+  "settings": {
+    "time": [
+      "Heure de mise à jour",
+      "Heure de début",
+      "minutes",
+      "Redémarrer"
+    ],
+    "color": [
+      "Télécharger",
+      "{title} fond"
+    ],
+    "hacker": [
+      "Vitesse"
+    ]
+  },
+  "title": "{title} | Outil en ligne",
+  "/null": {
+    "name": "Null",
+    "icon": "https://emojicdn.elk.sh/⚫️",
+    "title": "Null",
+    "type": "page",
+    "color": "#000000",
+    "colorName": "Zwart",
+    "isPage": true,
+    "tip": {
+      "title": "Null",
+      "content": [
+        {
+          "title": "Null",
+          "description": "Null est une page sans texte ou images."
+        }
+      ]
+    }
+  }
+}

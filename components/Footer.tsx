@@ -1,16 +1,19 @@
 export default function Footer() {
   return (
-    <footer className="bg-gray-200 text-black mt-8">
-
-
-      {/* Bottom Footer Bar */}
-      <div className="bg-gray-300 text-sm text-center py-4">
-        <p className="mb-1">
-          <a href="#" className="mx-2">Privacy policy</a> |
-          <a href="#" className="mx-2">Terms & conditions</a> |
-          <a href="#" className="mx-2">Contact us</a>
+    <footer className=" text-black mt-auto pt-4" style={{ backgroundColor: "#d6d6d6", minHeight: "150px" }}>
+      <div className=" text-center py-4 flex flex-col items-center justify-center gap-1">
+        <p className="mb-2">
+          {
+            Array.from(new Map([
+              ["/privacy-policy", "Privacy policy"],
+              ["/terms-and-conditions", "Terms & conditions"],
+              ["/contact-us", "Contact us"]
+            ]).entries()).map(([key, value]) => (
+              <a key={key} href={key} onClick={(e) => { e.preventDefault(); window.location.href = key }} className="mx-2">{value}</a>
+            ))
+          }
         </p>
-        <p>© 2025 WS, Made in Ukraine 🇺🇦</p>
+        <p>© 2025 WS, Made in US 🇺🇸</p>
       </div>
     </footer>
   );

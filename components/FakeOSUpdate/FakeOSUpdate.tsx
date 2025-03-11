@@ -27,7 +27,7 @@ export default function FakeOSUpdate() {
       <div className="w-full flex flex-col items-center mt-8">
         <div className={`${isFullscreen ? 'w-[10%]' : 'w-1/3'} h-2 bg-gray-700 rounded-full overflow-hidden`}>
           <div
-            className="h-full bg-white transition-all duration-1000"
+            className="h-full  transition-all duration-1000"
             style={{ width: `${progress}%` }}
           />
         </div>

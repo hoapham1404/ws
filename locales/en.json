@@ -10,67 +10,27 @@
       "content": [
         {
           "title": "white screen to copy drawings",
-          "description": "I needed to have something bright under a paper, so i could redraw a image easier."
+          "description": "Trace images easily by placing paper over a bright white screen."
         },
         {
           "title": "white screen as a light source",
-          "description": "Lighting up the back of a lightbox for product photography"
+          "description": "Use it as a backlight for photography or a lightbox."
         },
         {
           "title": "white screen to check monitor",
-          "description": "Check your monitor and find dead pixels."
+          "description": "Spot dead pixels or display issues with a white screen."
         },
         {
           "title": "white screen to blank screen",
-          "description": "Don't want to be distrupted? Want to take a brake? Use a white screen to blank your screen."
+          "description": "Minimize distractions with a temporary white display."
         },
         {
-          "title": "white screen as a light to read",
-          "description": "To get a source of light and be able to read books when it's dark in the room and the light switch is too far away."
+          "title": "white screen as a reading light",
+          "description": "Illuminate reading material in the dark with a white screen."
         },
         {
-          "title": "white screen as a light to makeup",
-          "description": "As a bright light source for doing makeup or taking pictures"
-        },
-        {
-          "title": "white screen to clean monitor",
-          "description": "Silly, but I use it for monitor cleaning. It makes things on the screen obvious. :) I also use it to validate plain colour reproduction for different monitors, but that only comes up rarely and I'm not looking for professional colour grading."
-        },
-        {
-          "title": "white screen to look for dust",
-          "description": "Consistent backdrop to clean my monitor on, and also to check for dead/stuck pixels. Also sometimes for lighting my face when I'm using a webcam."
-        },
-        {
-          "title": "white screen to catch flies",
-          "description": "I was catching little flies as they were attracted to white screen on my display"
-        },
-        {
-          "title": "white screen to make a flipbook",
-          "description": "I'm working on a animated sequence, and i'm doing it the traditional way (by hand), so i need a white surface with light that allows me to put one piece of paper over another and be able to see both, so since i don't have a professional screen for this, i'm using my computer and putting the white screen on it so i don't touch anything by mistake"
-        },
-        {
-          "title": "white screen to focus yourself",
-          "description": "While studying, I use 2 screens, one with a timer and one to search whatever I need on the internet. When I am not searching, I put the white screen so I don't get distracted with anything on the computer"
-        },
-        {
-          "title": "white screen to configure your monitor settings",
-          "description": "Useful when adjusting settings in my secondary monitor (since it's quite old it doesn't just set stuff how it should be by default). Settings like vertical/horizontal position and vertical/horizontal scale. Also useful when searching for dead pixels."
-        },
-        {
-          "title": "white screen to draw at night",
-          "description": "If I'm drawing on paper, I can put paper on top of my display drawing tablet and see what I'm drawing at night"
-        },
-        {
-          "title": "White Screen for Lighting",
-          "description": "Turn your display into a simple and efficient light source with our white screen tool. Perfect for video calls or photography where extra lighting is needed."
-        },
-        {
-          "title": "White Screen for Visual Purity",
-          "description": "Experience a pure, clean and soothing visual environment using our full-screen white display. Ideal for relaxing, meditating or focusing on tasks without visual distractions."
-        },
-        {
-          "title": "White Screen for Design Work",
-          "description": "Utilize our white screen tool as a blank canvas for design, drawing or any creative activities. A blank white screen allows your creativity to flow unimpeded."
+          "title": "white screen for makeup",
+          "description": "Get bright, even light for applying makeup or taking photos."
         }
       ],
       "subTips": [
@@ -113,48 +73,28 @@
       "title": "black screen",
       "content": [
         {
-          "title": "black screen to make second monitor dark without turning it off",
-          "description": "Quickly make second monitor dark without turning it off when playin some atmospheric game or watching some movie that turned out to be worth of doing so."
+          "title": "black screen for second monitor",
+          "description": "Darken a second monitor without turning it off."
         },
         {
           "title": "black screen to save electricity",
-          "description": "Trying to save electricity, reduce carbon emission."
+          "description": "Reduce power use on OLED/AMOLED displays."
         },
         {
-          "title": "black screen to hide fact computer is active",
-          "description": "To put on my 4 monitors when I go to sleep, instead of putting them to sleep."
+          "title": "black screen to hide activity",
+          "description": "Keep your computer's status discreet with a black screen."
         },
         {
           "title": "black screen to clean monitor",
-          "description": "Easier to see spots when I'm wiping off my screen"
+          "description": "Easily spot and clean dust or smudges."
         },
         {
-          "title": "black screen to make a dark background",
-          "description": "Background for a game. Screen is too big, 3440x1440. Don't like to play it that big, so i do 2560x1440. Need black bezels at both sides."
+          "title": "black screen as a dark background",
+          "description": "Create a dark backdrop for gaming or videos."
         },
         {
-          "title": "black screen to help prevent burn in plasma TV",
-          "description": "I have an old plasma TV. I don't have computer speakers so when I want to play music loud, I turn on my TV and hook it up via HDMI. Plasma's are highly susceptible to burn-in so rather than leaving Windows Media Player or whatever on the screen, I use black screen to help prevent burn in. I've used various websites. But they don't seem to stay online for very long."
-        },
-        {
-          "title": "black screen to concentrate while studying",
-          "description": "To not turn off my screen and concentrate while studying. Well my screen is very bright and it doesnt help with concentration, a black screen fixes that."
-        },
-        {
-          "title": "black screen to relax eyes",
-          "description": "Because I need to relax my eyes and have just a black screen even when I play music on my pc or want to switch quickly between all black and something else. The most valuable is the quality of it, of the color and the rest and, of course, for it to be easy to switch in and out offullscreen mode."
-        },
-        {
-          "title": "Black Screen for Focus and Minimalism",
-          "description": "Embrace minimalism and reduce distractions with our black screen tool. Ideal for focus-driven tasks or for individuals practicing digital minimalism."
-        },
-        {
-          "title": "Black Screen for Power-Saving",
-          "description": "Take advantage of our black screen tool as a power-saving solution for OLED and AMOLED displays. Displaying black pixels can contribute to battery conservation."
-        },
-        {
-          "title": "Black Screen for Digital Artwork",
-          "description": "Artists can use our full-screen black display as a canvas for creating striking contrast in digital artwork. Black backgrounds can enhance the depth and intensity of colors."
+          "title": "black screen to prevent burn-in",
+          "description": "Protect plasma TVs from burn-in during idle time."
         }
       ],
       "subTips": [
@@ -195,48 +135,28 @@
       "title": "red screen",
       "content": [
         {
-          "title": "Red Screen for Film and Photography",
-          "description": "Utilize our red screen to experiment with color filters and effects in film and photography. The vibrant red background can add a dramatic touch to your compositions."
+          "title": "red screen for photography",
+          "description": "Add dramatic color effects to photos or films."
         },
         {
-          "title": "Red Display for Eye Health",
-          "description": "Our red screen tool can be used to decrease the impact of blue light, aiding in eye comfort and health, particularly in low light conditions or before sleep."
+          "title": "red screen for eye health",
+          "description": "Reduce blue light strain in dim settings."
         },
         {
-          "title": "Red Screen for Virtual Events",
-          "description": "Create a captivating virtual event environment with our full-screen red display. It can set a distinctive tone and mood for your gatherings."
+          "title": "red screen for virtual events",
+          "description": "Set a bold tone for online gatherings."
         },
         {
-          "title": "Red Screen for Graphic Design",
-          "description": "Graphic designers can leverage our red screen tool to create bold and impactful designs. The color red can evoke strong emotions and grab viewer's attention."
+          "title": "red screen for graphic design",
+          "description": "Create striking designs with vibrant red."
         },
         {
-          "title": "Red Screen for Thematic Presentations",
-          "description": "Educators and presenters can use our red screen to create thematic presentations, highlighting important points and capturing the audience's interest."
+          "title": "red screen for presentations",
+          "description": "Highlight key points with a thematic red backdrop."
         },
         {
-          "title": "bright red screen to make tiktoks",
-          "description": "Because I have blue LED lights on and it matches perfectly making my face or a part of my face red and leaving the blue lights behind me. I liked the red screen tbh, it's cool to make tiktoks or like photos and edit them to make them look professional."
-        },
-        {
-          "title": "red light screen for online calls",
-          "description": "For colorcast correction when using Google Meets."
-        },
-        {
-          "title": "red screen to preserve night vision",
-          "description": "Not hard on the eyes, especially when coming out of a dark area"
-        },
-        {
-          "title": "red screen to read book",
-          "description": "To read a book with less blue light."
-        },
-        {
-          "title": "red screen to fix projector",
-          "description": "it helps fix a projectors keystone"
-        },
-        {
-          "title": "red light to prank",
-          "description": "To prank my friends and say I have L.E.D's."
+          "title": "red screen for TikToks",
+          "description": "Make eye-catching video backgrounds with bright red."
         }
       ],
       "subTips": [
@@ -277,36 +197,28 @@
       "title": "green screen",
       "content": [
         {
-          "title": "Green Screen for Video Content Creation",
-          "description": "Leverage our full-screen green display to create professional-quality videos. The green screen is perfect for video effects and post-production editing."
+          "title": "green screen for video creation",
+          "description": "Replace backgrounds easily in video production."
         },
         {
-          "title": "Soothing Visual Experience with Green Display",
-          "description": "Use our green screen tool to create a calming visual environment. The soothing hues of green can help reduce eye strain and promote relaxation."
+          "title": "green screen for relaxation",
+          "description": "Soothe eyes with a calming green display."
         },
         {
-          "title": "Green Screen for Immersive Gaming Experience",
-          "description": "Enhance your gaming experience with our full-screen green display. It can serve as a dynamic background for a more immersive gaming environment."
+          "title": "green screen for gaming",
+          "description": "Enhance streams with an immersive backdrop."
         },
         {
-          "title": "Green Screen for Virtual Meetings",
-          "description": "Utilize our green screen tool to add professional backgrounds during your virtual meetings. It can significantly improve the quality of your video calls."
+          "title": "green screen for meetings",
+          "description": "Add professional backgrounds to video calls."
         },
         {
-          "title ": "Green Screen as Teaching Aid",
-          "description": "Educators can use our green screen tool to make online teaching more interactive and engaging. It's a great way to illustrate complex concepts visually."
+          "title": "green screen for teaching",
+          "description": "Make lessons interactive with visual aids."
         },
         {
-          "title ": "green screen to photoshop",
-          "description": "Photoshop myself in my room so when i take it down and im still in my room people are like oh wow for a few seconds which makes me happy because am in a way the wow factor of those few seconds of their lives."
-        },
-        {
-          "title ": "green screen to relax",
-          "description": "In a class room situation while pausing computer work and listening to others. Green, because it is the most relaxing of the colours. It is just a silent, motionless green colour, the colour of trees and grass. Thanks to it, the screen emits some green, relaxing light during computer work pauses."
-        },
-        {
-          "title": "green screen for online calls",
-          "description": "For adding a green glow during meeting."
+          "title": "green screen for Photoshop",
+          "description": "Edit images seamlessly with a green backdrop."
         }
       ],
       "subTips": [
@@ -349,32 +261,28 @@
       "title": "blue screen",
       "content": [
         {
-          "title": "Relaxation with Blue Screen Display",
-          "description": "Discover the soothing power of our full-screen blue display. Its calming blue tones can help reduce stress and promote relaxation after a long day."
+          "title": "blue screen for relaxation",
+          "description": "Calm your mind with soothing blue tones."
         },
         {
-          "title": "Aid for Sleep with Blue Screen Tool",
-          "description": "Our blue screen tool can be used as a sleep aid. The soft calming blue light is known to encourage sleepiness and improve your sleep quality."
+          "title": "blue screen for sleep",
+          "description": "Encourage sleepiness with soft blue light."
         },
         {
-          "title": "Blue Light Filter for Digital Eye Strain",
-          "description": "Use our full-screen blue display as a blue light filter to alleviate digital eye strain. Ideal for long hours of screen time it can help maintain your eye health."
+          "title": "blue screen for eye health",
+          "description": "Reduce strain during long screen time."
         },
         {
-          "title": "Blue Screen as Visual Aid in Presentations",
-          "description": "Use our blue screen tool as a visual aid in presentations. The blue background can help emphasize text and images enhancing communication and comprehension."
+          "title": "blue screen for presentations",
+          "description": "Highlight visuals with a blue backdrop."
         },
         {
-          "title": "blue screen to make videos",
-          "description": "Because my YouTube videos are better with a blue screen & because green screens are overrated"
+          "title": "blue screen for videos",
+          "description": "Use as a unique video background."
         },
         {
-          "title": "blue screen to copy image",
-          "description": "To copy an image my classmate drew"
-        },
-        {
-          "title": "blue screen to make a vibe",
-          "description": "I like the vibe it gives"
+          "title": "blue screen for tracing",
+          "description": "Copy images with a clear blue base."
         }
       ],
       "subTips": [
@@ -416,40 +324,28 @@
       "title": "yellow screen",
       "content": [
         {
-          "title": "Versatile Yellow Background for Content",
-          "description": "Immerse your audience in a warm and inviting environment with a full-screen yellow display. Ideal for injecting energy and positivity into your online content, virtual classes, or live streams."
+          "title": "yellow screen for content",
+          "description": "Add energy to streams or presentations."
         },
         {
-          "title": "Yellow Screen for Eye Comfort",
-          "description": "Improve visual comfort with a yellow tinted screen. Use our tool to reduce eye strain from blue light, especially during night-time browsing or long working hours."
+          "title": "yellow screen for eye comfort",
+          "description": "Ease strain by cutting blue light."
         },
         {
-          "title": "Creative Mood Board Starter",
-          "description": "Kick-start your creative projects with a yellow mood board. Our full-screen yellow display can help inspire creative thinking and design concepts."
+          "title": "yellow screen for creativity",
+          "description": "Spark ideas with a cheerful backdrop."
         },
         {
-          "title": "Device Screen Testing",
-          "description": "Test the color accuracy of your display device with a full-screen yellow output. It's a handy tool for fine-tuning the color settings of monitors, tablets, or smartphones."
+          "title": "yellow screen for testing",
+          "description": "Check display accuracy with yellow."
         },
         {
-          "title": "Interactive Teaching Aid",
-          "description": "Use a full-screen yellow display as a teaching aid in virtual classrooms. It can serve as an engaging background to present learning materials, highlight information, and draw student attention."
+          "title": "yellow screen for teaching",
+          "description": "Engage students with a vibrant background."
         },
         {
-          "title": "yellow screen to make a vibe",
-          "description": "I like the vibe it gives"
-        },
-        {
-          "title": "yellow screen to copy image",
-          "description": "To copy an image my classmate drew"
-        },
-        {
-          "title": "yellow screen to make videos",
-          "description": "Because my YouTube videos are better with a yellow screen & because green screens are overrated"
-        },
-        {
-          "title": "yellow screen for online calls",
-          "description": "For adding a yellow glow during meeting."
+          "title": "yellow screen for vibe",
+          "description": "Set a warm, inviting mood."
         }
       ],
       "subTips": [
@@ -490,40 +386,28 @@
       "title": "orange screen",
       "content": [
         {
-          "title": "Full-Screen Orange for Virtual Backgrounds",
-          "description": "Use our tool to generate a lively orange screen, perfect for virtual backgrounds during online meetings, webinars, or virtual social gatherings. A splash of color to liven up your digital interactions."
+          "title": "orange screen for backgrounds",
+          "description": "Stand out with a vibrant virtual backdrop."
         },
         {
-          "title": "Orange Screen for Calming Sleep Aid",
-          "description": "Benefit from the calming and soothing effects of an orange display. Reduce the harsh blue light and create a sleep-friendly environment for browsing or reading before bedtime."
+          "title": "orange screen for sleep",
+          "description": "Filter blue light for better rest."
         },
         {
-          "title": "Creative Project Inspiration with Orange",
-          "description": "Spark creativity with a vibrant full-screen orange display. Ideal for inspiring design projects, arts and crafts, or kick-starting your creative process."
+          "title": "orange screen for creativity",
+          "description": "Boost imagination with warm energy."
         },
         {
-          "title": "Device Display Calibration with Orange Screen",
-          "description": "Verify the color rendering of your digital displays with an orange full-screen output. It's an essential tool for those seeking to fine-tune their device color settings for graphic design or photo editing."
+          "title": "orange screen for calibration",
+          "description": "Test monitor accuracy with orange tones."
         },
         {
-          "title": "Interactive Orange Learning Tool",
-          "description": "Utilize a full-screen orange display as a dynamic visual aid for teaching. The bold color can highlight key information, making e-learning more engaging and impactful."
+          "title": "orange screen for teaching",
+          "description": "Capture attention in online lessons."
         },
         {
-          "title": "Orange Screen to Make a Vibe",
-          "description": "I like the vibe orange gives"
-        },
-        {
-          "title": "Orange Screen to Copy Image",
-          "description": "To copy an image my classmate drew"
-        },
-        {
-          "title": "Orange Screen to Make Videos",
-          "description": "Because my YouTube videos are better with a orange screen"
-        },
-        {
-          "title": "Orange Screen for Online Calls",
-          "description": "For adding a orange glow during meeting."
+          "title": "orange screen for vibe",
+          "description": "Create a cozy, creative atmosphere."
         }
       ],
       "subTips": [
@@ -564,40 +448,28 @@
       "title": "pink screen",
       "content": [
         {
-          "title": "Pink Background for Content Creation",
-          "description": "Effortlessly achieve a pink backdrop for your online content creation. This tool offers a full-screen pink display that is perfect for adding a vibrant pop of color to your videos, livestreams, and virtual presentations."
+          "title": "pink screen for content",
+          "description": "Set a friendly tone for videos or streams."
         },
         {
-          "title": "Easy Pink Light Therapy",
-          "description": "Transform your screen into a therapeutic pink light source. Benefit from the soothing effects of pink light therapy right from your device's screen. Ideal for relaxation, mood enhancement, and stress reduction."
+          "title": "pink screen for relaxation",
+          "description": "Calm your mood with soft pink light."
         },
         {
-          "title": "Visual Design Inspiration",
-          "description": "Inspire your design creativity with a full-screen pink canvas. Our tool allows designers to immerse themselves in the color pink, stimulating creative ideas for design projects."
+          "title": "pink screen for design",
+          "description": "Inspire creativity with a pink backdrop."
         },
         {
-          "title": "Color Calibration Testing",
-          "description": "Evaluate your screen's color accuracy with our tool's pink display. Perfect for checking the fidelity of the pink hue on different devices and screen settings."
+          "title": "pink screen for testing",
+          "description": "Check display accuracy with pink tones."
         },
         {
-          "title": "Attention-Grabbing Display",
-          "description": "Grab attention with a full-screen pink display during online presentations, webinars, or virtual meetings. Use our tool to emphasize key moments and engage your audience in a unique way."
+          "title": "pink screen for presentations",
+          "description": "Grab attention with a bold pink shift."
         },
         {
-          "title": "Pink Screen to Make a Vibe",
-          "description": "I like the vibe pink gives"
-        },
-        {
-          "title": "Pink Screen to Copy Image",
-          "description": "To copy an image my classmate drew"
-        },
-        {
-          "title": "Pink Screen to Make Videos",
-          "description": "Because my YouTube videos are better with a pink screen"
-        },
-        {
-          "title": "Pink Screen for Online Calls",
-          "description": "For adding a pink glow during meeting."
+          "title": "pink screen for vibe",
+          "description": "Create a playful, warm atmosphere."
         }
       ],
       "subTips": [
@@ -638,40 +510,28 @@
       "title": "purple screen",
       "content": [
         {
-          "title": "Full-Screen Purple for Wellness Apps",
-          "description": "Integrate our tool into your wellness app to generate a soothing purple screen, perfect for meditation and mindfulness exercises. The serene color aids relaxation and mental wellbeing."
+          "title": "purple screen for wellness",
+          "description": "Enhance meditation with a calming purple."
         },
         {
-          "title": "Purple Screen for Lighting Effect",
-          "description": "Create a dynamic lighting effect with a full-screen purple display. Perfect for setting a unique ambience for your video calls, virtual events, or music sessions."
+          "title": "purple screen for lighting",
+          "description": "Add mystical glow to calls or events."
         },
         {
-          "title": "Color Theory Study with Purple Screen",
-          "description": "Utilize a vibrant full-screen purple display as a learning tool for color theory. It helps art students and designers understand the impact and significance of color in their work."
+          "title": "purple screen for study",
+          "description": "Explore color theory with purple."
         },
         {
-          "title": "Display Testing with Purple Full Screen",
-          "description": "Check the color accuracy of your monitors or screens with our tool that generates a full-screen purple display. Essential for designers, photographers, and videographers."
+          "title": "purple screen for testing",
+          "description": "Test display accuracy with purple tones."
         },
         {
-          "title": "Interactive Purple Display for Children's Learning",
-          "description": "Engage children in interactive e-learning with a full-screen purple display. The bold color stimulates imagination and focus, enhancing the learning experience."
+          "title": "purple screen for kids",
+          "description": "Spark imagination in learning sessions."
         },
         {
-          "title": "purple screen to make a vibe",
-          "description": "I like the vibe purple gives"
-        },
-        {
-          "title": "purple screen to copy image",
-          "description": "To copy an image my classmate drew"
-        },
-        {
-          "title": "purple screen to make videos",
-          "description": "Because my YouTube videos are better with a purple screen"
-        },
-        {
-          "title": "purple screen for online calls",
-          "description": "For adding a purple glow during meeting."
+          "title": "purple screen for vibe",
+          "description": "Set a creative, luxurious mood."
         }
       ],
       "subTips": [
@@ -712,40 +572,28 @@
       "title": "Lighting for zoom calls",
       "content": [
         {
-          "title": "Customized Lighting for Video Conferencing",
-          "description": "Use our zoom lighting screen tool to create the perfect lighting setup for your video calls. With adjustable color and temperature, you can achieve professional-level video conference lighting effortlessly."
+          "title": "zoom lighting for calls",
+          "description": "Adjust lighting for professional video calls."
         },
         {
-          "title": "Photography Backdrop with Zoom Lighting Screen",
-          "description": "Enhance your photography setup with our adjustable zoom lighting screen. Adjust the color and temperature to suit the mood of your photoshoot and create stunning images."
+          "title": "zoom lighting for photography",
+          "description": "Create perfect ambiance for photos."
         },
         {
-          "title": "Improve eLearning Experience with Optimal Lighting",
-          "description": "With our zoom lighting screen, create a conducive learning environment for eLearning. Customizable light settings ensure optimal reading comfort and improved concentration."
+          "title": "zoom lighting for eLearning",
+          "description": "Reduce strain and boost focus in classes."
         },
         {
-          "title": "Web Developers Lighting Test Tool",
-          "description": "Web developers can use our full-screen zoom lighting screen to test how different light temperatures and colors affect the appearance of their designs, helping to create visually engaging and accessible websites."
+          "title": "zoom lighting for developers",
+          "description": "Test designs under varied lighting."
         },
         {
-          "title": "Color Therapy with Zoom Lighting Screen",
-          "description": "Therapists and wellness coaches can utilize our zoom lighting screen with adjustable color and temperature for color therapy sessions, promoting relaxation and healing."
+          "title": "zoom lighting for therapy",
+          "description": "Use colors for remote wellness sessions."
         },
         {
-          "title": "white screen as a lighting for zoom calls",
-          "description": "For video calls! I don't have a easy ring light, but do have two screens. So I can use one of the screens to light my face!"
-        },
-        {
-          "title": "Zoom Lighting to Get Brightness",
-          "description": "I use it to get brightness while i'm in a video call"
-        },
-        {
-          "title": "Zoom Lighting to Light Up",
-          "description": "To light up when I use videoconference calls"
-        },
-        {
-          "title": "Zoom Lighting to Turns My Monitor Into a Light",
-          "description": "Turns my monitor into a light to offset being backlit on video calls"
+          "title": "zoom lighting with white screen",
+          "description": "Illuminate calls using a second monitor."
         }
       ]
     }
@@ -759,28 +607,28 @@
       "title": "White noise for sleep",
       "content": [
         {
-          "title": "How to Use White Noise to Enhance Your Concentration",
-          "description": "Discover how white noise generators become indispensable tools for individuals aiming to amplify their focus and productivity. By drowning out distracting noises, white noise establishes a consistent auditory backdrop, enabling users to dive deep into work, studies, or reading. This guide explores the significant concentration boost provided by white noise video and audio, making it a top choice for productivity enthusiasts."
+          "title": "white noise for focus",
+          "description": "Mask distractions for better concentration."
         },
         {
-          "title": "Using White Noise for Better Sleep: A Comprehensive Guide",
-          "description": "Explore the transformative power of white noise in facilitating restful sleep amidst a world full of disturbances. This comprehensive guide delves into how white noise videos and audio tracks mask disruptive environmental sounds, providing a tranquil soundscape conducive to falling asleep swiftly and enjoying uninterrupted rest. Ideal for anyone struggling with sleep, discover the secret to a peaceful night's rest."
+          "title": "white noise for sleep",
+          "description": "Fall asleep faster with steady sound."
         },
         {
-          "title": "White Noise for Soothing Babies: Tips and Tricks",
-          "description": "Uncover the magic of white noise in calming crying infants and promoting better sleep. Mimicking the comforting sounds of the womb, white noise offers a familiar and soothing auditory experience for babies. This article provides parents with practical tips and tricks on using white noise videos and audio to ease their infants into relaxation and sleep, making it an essential tool for new parents."
+          "title": "white noise for babies",
+          "description": "Soothe infants with calming noise."
         },
         {
-          "title": "Elevate Your Meditation with White Noise: Techniques for Mindfulness",
-          "description": "Enhance your meditation and mindfulness practices by integrating white noise into your routine. Learn techniques to use white noise videos and audio as a backdrop for meditation, aiding in achieving deeper focus and relaxation. This guide helps practitioners find inner peace and clarity, making meditation sessions more effective and transformative."
+          "title": "white noise for meditation",
+          "description": "Enhance mindfulness with neutral sound."
         },
         {
-          "title": "How to Create Spooky Pranks with White Noise This Halloween",
-          "description": "Get creative this Halloween by using white noise videos and audio to craft eerie atmospheres perfect for pranks. Whether setting up a haunted house or planning a spooky surprise for friends and family, discover how the ambiguous sounds of white noise can add suspense and excitement to your Halloween pranks. This tutorial guides you through creating memorable scares that are sure to delight and terrify."
+          "title": "white noise for Halloween",
+          "description": "Create spooky vibes with eerie audio."
         },
         {
-          "title": "Fun Office Pranks with White Noise: A How-To Guide",
-          "description": "Lighten up the workplace with some good-natured fun by employing white noise for office pranks. This how-to guide walks you through executing harmless pranks that puzzle and amuse your co-workers. Learn to use white noise discreetly to spark curiosity and laughter, enhancing camaraderie and breaking the daily routine with a touch of humor and mystery."
+          "title": "white noise for pranks",
+          "description": "Play subtle office tricks with sound."
         }
       ],
       "subTips": [
@@ -826,32 +674,28 @@
       "title": "Fake Broken screen - Prank",
       "content": [
         {
-          "title": "Scare Your Friends with a Realistic Broken Screen Prank",
-          "description": "Pull off the ultimate prank by making friends believe their device screen has shattered."
+          "title": "broken screen prank",
+          "description": "Scare friends with a cracked display."
         },
         {
-          "title": "Create Engaging Content with a Cracked Screen Effect",
-          "description": "Enhance your videos or presentations by adding a dramatic cracked screen overlay."
+          "title": "broken screen for content",
+          "description": "Add drama to videos or posts."
         },
         {
-          "title": "Test Your Own Reaction to a Broken Display",
-          "description": "See how you'd react to unexpected digital mishaps by simulating a broken screen."
+          "title": "broken screen reaction test",
+          "description": "Practice staying calm under tech stress."
         },
         {
-          "title": "Use a Broken Screen Image for Creative Projects",
-          "description": "Incorporate high-quality broken screen visuals into your digital art or creative designs."
+          "title": "broken screen for projects",
+          "description": "Use cracks in art or design work."
         },
         {
-          "title": "Educate on the Durability of Screen Protectors",
-          "description": "Demonstrate the importance of screen protection by showcasing potential damage."
+          "title": "broken screen for education",
+          "description": "Show screen protector benefits."
         },
         {
-          "title": "Spice Up Your Tech Reviews with a Broken Screen Fake",
-          "description": "Add a twist to device reviews by simulating screen damage and discussing durability."
-        },
-        {
-          "title": "Incorporate a Cracked Screen Online into Your Halloween Decor",
-          "description": "Turn devices into spooky decorations with a full-screen broken display animation."
+          "title": "broken screen for reviews",
+          "description": "Highlight durability in tech reviews."
         }
       ],
       "subTips": [
@@ -897,32 +741,28 @@
       "title": "Windows Fake Blue Screen of Death",
       "content": [
         {
-          "title": "Prank Your Friends with a Fake Blue Screen of Death",
-          "description": "Elevate your pranking game by tricking friends into thinking their PC crashed. Perfect for a harmless laugh."
+          "title": "BSOD prank",
+          "description": "Fool friends with a fake crash."
         },
         {
-          "title": "Create Memorable Tech-Themed Parties",
-          "description": "Add a quirky twist to tech-themed parties by showcasing the iconic Windows blue screen of death on screens."
+          "title": "BSOD for parties",
+          "description": "Add tech humor to gatherings."
         },
         {
-          "title": "Educate on Windows Blue Screen of Death",
-          "description": "Use the simulation as an educational tool to teach about troubleshooting and preventing the real BSOD."
+          "title": "BSOD for training",
+          "description": "Teach IT troubleshooting safely."
         },
         {
-          "title": "Enhance Your Tech Support Skills",
-          "description": "Practice your reaction and diagnostic skills by using the fake BSOD as a training tool."
+          "title": "BSOD for tech skills",
+          "description": "Practice support in a safe space."
         },
         {
-          "title": "Spice Up Your Tech YouTube Channel",
-          "description": "Create engaging content by incorporating the blue screen of death prank in your tech videos."
+          "title": "BSOD for YouTube",
+          "description": "Spice up videos with crash effects."
         },
         {
-          "title": "Test patience",
-          "description": "Challenge your patience or that of a friend by confronting the dreaded blue screen scenario in a controlled manner."
-        },
-        {
-          "title": "Film Productions and Tech Scenes",
-          "description": "Incorporate a realistic Windows BSOD animation into your film or video production for authentic tech drama."
+          "title": "BSOD patience test",
+          "description": "Test stress with a slow fake crash."
         }
       ],
       "subTips": [
@@ -968,32 +808,28 @@
       "title": "Windows 10 Fake Blue Screen of Death",
       "content": [
         {
-          "title": "Office Prank: Windows BSOD Fullscreen During Lunch Break",
-          "description": "Quick office prank - open this fake blue screen while coworkers are at lunch. Set it for 20 minutes and let them think their Windows PC crashed. Simple but effective prank screen!"
+          "title": "BSOD office prank",
+          "description": "Trick coworkers with a fake crash."
         },
         {
-          "title": "Online BSOD Simulator: Escape Boring Video Calls",
-          "description": "Need a break from endless meetings? Set this fake Windows death screen to appear after 10 minutes. Perfect excuse to 'fix your PC' and grab a coffee!"
+          "title": "BSOD call escape",
+          "description": "Exit boring meetings with a crash."
         },
         {
-          "title": "Windows Blue Screen Training: IT Support Practice Tool",
-          "description": "Train new IT staff with this online BSOD simulator. Create realistic Windows crash scenarios with custom progress percentages. Perfect for hands-on practice without breaking real PCs."
+          "title": "BSOD IT training",
+          "description": "Practice fixes with a fake error."
         },
         {
-          "title": "Gaming Prank: Fullscreen Windows Death Screen Mid-Game",
-          "description": "Ultimate gaming prank - set up this fake BSOD to appear when your friend is winning. Watch them panic when their screen goes blue mid-match!"
+          "title": "BSOD gaming prank",
+          "description": "Shock gamers mid-session."
         },
         {
-          "title": "Viral Prank Videos: Windows BSOD Reaction Recordings",
-          "description": "Create funny content by recording reactions to this fake blue screen of death. Set it to pop up during normal PC use and capture the moment they think their Windows crashed!"
+          "title": "BSOD reaction videos",
+          "description": "Record funny crash responses."
         },
         {
-          "title": "IT Team Testing: Online BSOD Emergency Response",
-          "description": "Test your IT team's response time with this Windows BSOD simulator. Perfect for creating realistic crash scenarios and measuring emergency response effectiveness."
-        },
-        {
-          "title": "Windows Death Screen Tutorial: Learn About BSOD",
-          "description": "Help new users understand blue screens. Use this online simulator to show what a Windows BSOD looks like without risking real crashes. Great for building confidence with computers!"
+          "title": "BSOD team testing",
+          "description": "Test IT response with fake emergencies."
         }
       ],
       "subTips": [
@@ -1039,32 +875,28 @@
       "title": "Hacker Typer Screen - Prank",
       "content": [
         {
-          "title": "Prank Your Co-Workers with the Hacker Typer Screen",
-          "description": "Elevate office pranks to the next level with our hacker typer tool. Imagine the look on your colleagues' faces when they think you've turned into a real hacker, typing away with codes flowing in fullscreen. This prank is perfect for adding some fun and intrigue to your workplace."
+          "title": "hacker screen prank",
+          "description": "Impress coworkers with fake coding."
         },
         {
-          "title": "Engage Students in Computer Classes",
-          "description": "Teachers can use our hacker screen tool to captivate and educate their students by simulating what coding work looks like in a real-world scenario. It's an engaging way to introduce students to the basics of programming in a fun, visually stimulating fullscreen environment."
+          "title": "hacker screen for classes",
+          "description": "Excite students about programming."
         },
         {
-          "title": "Enhance Your Live Streaming Aesthetics",
-          "description": "Streamers can utilize the hacker typer tool to enhance the visual appeal of their streams. Set the backdrop to a fullscreen flow of coding script, perfect for creating a thematic hacker vibe during gaming sessions or tech-related streams."
+          "title": "hacker screen for streaming",
+          "description": "Add tech flair to live streams."
         },
         {
-          "title": "Create Engaging Content for Tech Vlogs",
-          "description": "Vloggers focusing on technology can use the hacker typer screen to create compelling content. Whether discussing cybersecurity or the latest in software development, having a dynamic fullscreen coding backdrop will captivate your audience and enhance your message."
+          "title": "hacker screen for vlogs",
+          "description": "Boost tech videos with code effects."
         },
         {
-          "title": "Add Flair to Tech Presentations",
-          "description": "Incorporate the hacker typer in your tech presentations to keep your audience engaged. This tool can simulate a live hacking scenario, making your explanations more vivid and entertaining. It's an excellent way to break the ice and add a fullscreen visual element that keeps everyone hooked."
+          "title": "hacker screen for presentations",
+          "description": "Enhance talks with live code visuals."
         },
         {
-          "title": "Film Production for Cybersecurity Scenes",
-          "description": "Filmmakers can use the hacker screen tool to add authenticity to scenes involving cybersecurity and hacking. The fullscreen display of coding provides a realistic and intense backdrop, perfect for scenes depicting high-stakes coding or hacking challenges."
-        },
-        {
-          "title": "Boost Audience Engagement at Tech Events",
-          "description": "Event organizers can use the hacker typer to engage attendees at tech conferences or workshops. Set up screens showing live, fullscreen simulations of hacking or coding, adding a unique interactive element to your event that is both educational and visually fascinating."
+          "title": "hacker screen for films",
+          "description": "Create real hacking scenes easily."
         }
       ],
       "subTips": [
@@ -1110,24 +942,28 @@
       "title": "Windows 10 Fake Update",
       "content": [
         {
-          "title": "Pranked my friend with an authentic-looking Windows 10 update screen!",
-          "description": "Used the Windows 10 fake update page to trick my friend into thinking their computer was actually updating. The realistic progress bar and messages worked like a charm!"
+          "title": "Windows 10 prank",
+          "description": "Trick friends with a fake update loop."
         },
         {
-          "title": "Foolproof prank with the Windows 10 fake update screen!",
-          "description": "Pulled off a successful prank by displaying the fake Windows 10 update screen on my colleague's computer. The genuine-looking messages and progress made it seem like the real deal!"
+          "title": "Windows 10 office prank",
+          "description": "Fool coworkers with a slow update."
         },
         {
-          "title": "Impressed my friends with a realistic Windows 10 update simulation!",
-          "description": "Shared a screenshot of the Windows 10 fake update screen I created using the simulation page. The authentic visuals and status messages made it look like a genuine update in progress!"
+          "title": "Windows 10 group chat",
+          "description": "Share fake update pics for laughs."
         },
         {
-          "title": "The Windows 10 update prank was a hit at the party!",
-          "description": "Used the Windows 10 fake update page to prank my friends during a gathering. The realistic update screen, complete with messages and progress, had everyone in stitches!"
+          "title": "Windows 10 party hit",
+          "description": "Disrupt a talk with a fake update."
         },
         {
-          "title": "Had a good laugh with the Windows 10 fake update screen!",
-          "description": "Visited the Windows 10 update prank tool and customized the messages to create a funny scenario. The realistic appearance and progress bar made it a hilarious experience for all involved."
+          "title": "Windows 10 custom fun",
+          "description": "Add silly messages to the update."
+        },
+        {
+          "title": "Windows 10 reaction",
+          "description": "Record hilarious update responses."
         }
       ],
       "subTips": [
@@ -1179,44 +1015,28 @@
       "title": "Windows XP Fake Update",
       "content": [
         {
-          "title": "Office Pranks with Windows XP Update Screen",
-          "description": "Ideal for office humor, the dynamic Windows XP update screen serves as a fun tool for pranking colleagues, simulating a classic, endless software update process that adds a light-hearted twist to the work environment."
+          "title": "XP office prank",
+          "description": "Trigger nostalgia with a fake update."
         },
         {
-          "title": "Humorous Windows XP Update Tests",
-          "description": "The Windows XP update prank is perfect for testing the patience of friends and family. This amusing fake update screen replicates the Windows XP experience, creating a believable and entertaining scenario."
+          "title": "XP patience test",
+          "description": "Test frustration with slow progress."
         },
         {
-          "title": "Retro Computing with Windows XP",
-          "description": "Nostalgia enthusiasts and tech lovers use the fake Windows XP update screen to relive the golden era of Windows XP, reminiscing about the older, simpler days of personal computing and software updates."
+          "title": "XP retro fun",
+          "description": "Relive the XP era with a fake update."
         },
         {
-          "title": "Creating Viral Content with Windows XP Simulation",
-          "description": "Content creators and social media influencers find the Windows XP update screen a unique prop to produce engaging, viral content, often using it in creative skits, reaction videos, or tech-related humor."
+          "title": "XP viral content",
+          "description": "Create retro tech videos or posts."
         },
         {
-          "title": "Tech Education Using Windows XP Interface",
-          "description": "The fake Windows XP update screen serves an educational purpose, too. It's used in tech classes to demonstrate the historical aspects of operating systems, offering students a practical insight into the evolution of user interfaces and software upgrades."
+          "title": "XP tech lesson",
+          "description": "Teach OS history with a simulation."
         },
         {
-          "title": "Pranked my friend with an authentic-looking Windows XP update screen!",
-          "description": "Used the Windows XP fake update page to trick my friend into thinking their computer was actually updating. The realistic progress bar and messages worked like a charm!"
-        },
-        {
-          "title": "Foolproof prank with the Windows XP fake update screen!",
-          "description": "Pulled off a successful prank by displaying the fake Windows XP update screen on my colleague's computer. The genuine-looking messages and progress made it seem like the real deal!"
-        },
-        {
-          "title": "Impressed my friends with a realistic Windows XP update simulation!",
-          "description": "Shared a screenshot of the Windows XP fake update screen I created using the simulation page. The authentic visuals and status messages made it look like a genuine update in progress!"
-        },
-        {
-          "title": "The Windows XP update prank was a hit at the party!",
-          "description": "Used the Windows XP fake update page to prank my friends during a gathering. The realistic update screen, complete with messages and progress, had everyone in stitches!"
-        },
-        {
-          "title": "Had a good laugh with the Windows XP fake update screen!",
-          "description": "Visited the Windows XP update prank tool and customized the messages to create a funny scenario. The realistic appearance and progress bar made it a hilarious experience for all involved."
+          "title": "XP friend prank",
+          "description": "Fool pals with a classic update."
         }
       ],
       "subTips": [
@@ -1268,24 +1088,28 @@
       "title": "Mac OS X Fake Update",
       "content": [
         {
-          "title": "Prank your friends",
-          "description": "Use our Mac OS X fake update tool to play a harmless prank on your friends, making them believe their computer is going through a significant update. Watch their reactions and have a laugh!"
+          "title": "Mac prank",
+          "description": "Trick Mac fans with a fake update."
         },
         {
-          "title": "Test patience",
-          "description": "Find out how your colleagues or loved ones react to unexpected updates. It's a funny way to check their patience without causing any real inconvenience."
+          "title": "Mac patience test",
+          "description": "Watch reactions to a slow update."
         },
         {
-          "title": "Tech teaching aid",
-          "description": "Use the fake update tool as a teaching aid for tech courses or workshops. It can be used to explain system updates and how to manage them."
+          "title": "Mac teaching aid",
+          "description": "Train IT with a safe update sim."
         },
         {
-          "title": "UI/UX testing",
-          "description": "For UI/UX designers, our tool can provide an interesting case study on the user experience during system updates. Analyze user interaction and engagement during this process."
+          "title": "Mac UX testing",
+          "description": "Study user response to update delays."
         },
         {
-          "title": "Content creation",
-          "description": "Content creators can use this tool for creating interesting tech-related content or social experiments for their blogs, vlogs, or social media platforms."
+          "title": "Mac content creation",
+          "description": "Add real update visuals to videos."
+        },
+        {
+          "title": "Mac group prank",
+          "description": "Fool friends with an Apple update."
         }
       ],
       "subTips": [
@@ -1337,24 +1161,28 @@
       "title": "Ubuntu 22.04 Fake Update",
       "content": [
         {
-          "title": "Ubuntu Fake Screen for Pranks",
-          "description": "The dynamic fake Ubuntu update screen is a favorite for tech pranks, perfect for tricking colleagues into believing their system is perpetually updating, creating light-hearted moments in the office."
+          "title": "Ubuntu prank",
+          "description": "Fool Linux users with a fake update."
         },
         {
-          "title": "Simulating Updates with Ubuntu Fake Screen",
-          "description": "Developers and IT professionals use the fake Ubuntu 22.04 update screen to simulate system updates and test user patience or response to interface changes without affecting system operations."
+          "title": "Ubuntu software test",
+          "description": "Simulate updates for app testing."
         },
         {
-          "title": "Ubuntu Update Screen for Training",
-          "description": "Trainers utilize the fake Ubuntu 22.04 screen to educate IT students on the process of system updates, familiarizing them with the visual cues of an actual Ubuntu upgrade."
+          "title": "Ubuntu training",
+          "description": "Teach Linux updates safely."
         },
         {
-          "title": "Content Creation with Ubuntu Fake Update",
-          "description": "Content creators incorporate the dynamic Ubuntu fake update screen into their videos and streams to add a layer of authenticity when discussing tech topics or creating tutorials on system upgrades."
+          "title": "Ubuntu content",
+          "description": "Add real terminal visuals to videos."
         },
         {
-          "title": "Staging Systems with Fake Ubuntu 22.04 Screen",
-          "description": "Tech staging environments use the Ubuntu 22.04 fake update screen to represent the update process in scenarios like trade shows or software demonstrations, without committing to an actual update."
+          "title": "Ubuntu staging",
+          "description": "Show updates in live demos."
+        },
+        {
+          "title": "Ubuntu reaction",
+          "description": "Record funny update responses."
         }
       ],
       "subTips": [
@@ -1406,32 +1234,28 @@
       "title": "ChromeOS Fake Update",
       "content": [
         {
-          "title": "Prank your friends with a fake ChromeOS update screen",
-          "description": "Open this fullscreen fake update tool when your friend leaves their Chromebook unattended. They'll come back thinking their device is stuck in a system update. Perfect for quick pranks that won't actually harm their device."
+          "title": "ChromeOS prank",
+          "description": "Trick friends with a fake update."
         },
         {
-          "title": "Test how people react to system updates during presentations",
-          "description": "Use this Chrome OS update screen simulator during talks or demos to see how people handle unexpected interruptions. Great for IT training sessions or teaching users about staying calm when real updates pop up."
+          "title": "ChromeOS reaction test",
+          "description": "Study responses to update delays."
         },
         {
-          "title": "Create realistic ChromeOS scenes for videos or screenshots",
-          "description": "Making a tutorial or video about Chromebooks? Use this fullscreen fake update screen to capture authentic-looking footage of the Chrome OS update process without waiting for real updates."
+          "title": "ChromeOS video scenes",
+          "description": "Add real update visuals to tutorials."
         },
         {
-          "title": "Prank your school's computer lab",
-          "description": "Looking for a harmless school prank? Open this fake Chrome OS update screen on lab computers during breaks. Watch as students and teachers try to figure out why all the Chromebooks are updating at once."
+          "title": "ChromeOS lab prank",
+          "description": "Fool a school lab with fake updates."
         },
         {
-          "title": "Practice IT support scenarios with a fake update screen",
-          "description": "Train IT support staff by simulating stuck Chrome OS updates. This fullscreen tool helps teams practice handling common Chromebook issues without risking real devices."
+          "title": "ChromeOS IT practice",
+          "description": "Train support with a safe sim."
         },
         {
-          "title": "Make your ChromeOS presentation more engaging",
-          "description": "Giving a talk about software updates or system maintenance? Use this fake update screen to show exactly what Chrome OS users see, without boring your audience with static screenshots."
-        },
-        {
-          "title": "Pull off the ultimate office prank with fake updates",
-          "description": "Want to prank your coworkers? Launch this fullscreen Chrome OS update simulator on office Chromebooks. It's a fun way to surprise your team without causing any real disruption to their work."
+          "title": "ChromeOS presentation",
+          "description": "Enhance talks with update demos."
         }
       ],
       "subTips": [
@@ -1477,24 +1301,28 @@
       "title": "Windows 11 Update Screen",
       "content": [
         {
-          "title": "Had a blast simulating a Windows 11 update process!",
-          "description": "Visited the Windows 11 update simulation page and customized the progress to create a convincing fake update. It was so much fun watching my friends' reactions!"
+          "title": "Windows 11 prank blast",
+          "description": "Fool friends with a stuck update."
         },
         {
-          "title": "Spiced up the office with a Windows 11 update prank!",
-          "description": "Used the Windows 11 update prank tool to simulate an update on my coworker's PC. The authentic messages and progress bar had everyone fooled and resulted in some hilarious moments!"
+          "title": "Windows 11 office spice",
+          "description": "Trick the team during a meeting."
         },
         {
-          "title": "Hilarious Windows 11 update prank for a good laugh!",
-          "description": "Used the Windows 11 fake update screen to play a prank on my sibling. They were completely fooled by the authentic-looking update process and the progress bar ticking away!"
+          "title": "Windows 11 gaming prank",
+          "description": "Interrupt games with a fake update."
         },
         {
-          "title": "Impressed my tech-savvy friends with the authenticity of the Windows 11 update simulation!",
-          "description": "Shared a video recording of the Windows 11 update simulation I created using the website. The genuine-looking progress bar and status messages amazed my friends, who thought it was an actual update!"
+          "title": "Windows 11 tech impress",
+          "description": "Amaze pals with a real-looking sim."
         },
         {
-          "title": "Shared a video recording of the Windows 11 update simulation I created using the website. The genuine-looking progress bar and status messages amazed my friends, who thought it was an actual update!",
-          "description": "Used the Windows 11 fake update screen to trick my coworker into thinking their computer was undergoing a major update. The authentic visuals and progress animation had them panicking for a moment!"
+          "title": "Windows 11 video fun",
+          "description": "Record reactions to a fake update."
+        },
+        {
+          "title": "Windows 11 coworker panic",
+          "description": "Shock colleagues with update chaos."
         }
       ],
       "subTips": [
@@ -1546,32 +1374,28 @@
       "title": "Android Fake Update Screen",
       "content": [
         {
-          "title": "Simulate Android Update for Software Testing",
-          "description": "Utilize our Android fake update tool to create authentic-looking update screens for software testing and demonstration purposes."
+          "title": "Android software test",
+          "description": "Simulate updates for app testing."
         },
         {
-          "title": "Engage Your Audience with a Realistic Android Update Screen",
-          "description": "Capture the attention of tech enthusiasts by showcasing a genuine Android update simulation during presentations or tech blogs."
+          "title": "Android presentation",
+          "description": "Engage audiences with a fake update."
         },
         {
-          "title": "Elevate Tech Education with Android Update Prank Tool",
-          "description": "Incorporate our realistic Android update screen into tech education scenarios to teach about system updates and user interface design."
+          "title": "Android tech training",
+          "description": "Teach updates without real devices."
         },
         {
-          "title": "Create Entertaining Content with Android Fake Update",
-          "description": "Produce engaging video content or live streams using an entertaining Android update prank, adding humor to tech discussions."
+          "title": "Android content creation",
+          "description": "Add real update visuals to videos."
         },
         {
-          "title": "Prank Friends with a Genuine Android Update Simulation",
-          "description": "Surprise your friends by using our tool to prank with an Android fake update, turning ordinary moments into memorable tech pranks."
+          "title": "Android prank",
+          "description": "Trick friends with a fake update."
         },
         {
-          "title": "Enhance User Experience Design Learning with Simulated Updates",
-          "description": "Use the exciting Android update experience to educate UX/UI designers on the impact of system updates on user experience."
-        },
-        {
-          "title": "Demonstrate System Recovery Scenarios with Android Update Prank Tool",
-          "description": "Leverage the authentic-looking Android update tool to simulate system recovery processes for IT training and workshops."
+          "title": "Android UX study",
+          "description": "Analyze reactions to update design."
         }
       ],
       "subTips": [
@@ -1623,32 +1447,28 @@
       "title": "DVD Screensaver",
       "content": [
         {
-          "title": "Relax with the Classic DVD Screensaver",
-          "description": "Unwind after a long day by watching the nostalgic DVD logo screensaver move around your full-screen. This DVD screensaver simulator brings back the charm of classic screensavers, creating a calming ambiance on your screen."
+          "title": "DVD relaxation",
+          "description": "Unwind with a bouncing logo."
         },
         {
-          "title": "Enhance Your Presentation Background",
-          "description": "Add a dynamic touch to your presentations by using the DVD screensaver in full-screen mode. Adjust the logo size and movement speed to fit your style, making your presentation background engaging and professional."
+          "title": "DVD presentation",
+          "description": "Add motion to slides or breaks."
         },
         {
-          "title": "Perfect for Waiting Rooms",
-          "description": "Keep visitors entertained with the DVD logo screensaver in your waiting room. This online tool allows you to customize the logo size and movement speed, providing a visually appealing experience for your guests."
+          "title": "DVD waiting room",
+          "description": "Entertain visitors with retro vibes."
         },
         {
-          "title": "Create a Fun Party Atmosphere",
-          "description": "Use the DVD screensaver simulator during parties to create a fun and nostalgic atmosphere. Set it to full-screen mode and let the moving DVD logo add a unique touch to your event, adjustable to any size and speed."
+          "title": "DVD party fun",
+          "description": "Create a nostalgic party backdrop."
         },
         {
-          "title": "Focus Booster for Study Sessions",
-          "description": "Boost your concentration by using the DVD screensaver while studying. The gentle movement of the DVD logo on full-screen can help maintain focus, with adjustable size and speed to suit your preference."
+          "title": "DVD study aid",
+          "description": "Boost focus with gentle motion."
         },
         {
-          "title": "Entertainment During Downtime",
-          "description": "Fill your screen with the DVD logo screensaver during breaks or downtime. This online tool is perfect for creating a soothing background, with easy adjustments for logo size and movement speed."
-        },
-        {
-          "title": "Showcase Retro Style in Stores",
-          "description": "Attract customers to your store with the retro DVD screensaver in full-screen mode. The moving DVD logo, customizable in size and speed, can add a vintage flair to your display screens."
+          "title": "DVD downtime",
+          "description": "Fill idle screens with animation."
         }
       ],
       "subTips": [
@@ -1694,32 +1514,28 @@
       "title": "Flip Clock Screensaver",
       "content": [
         {
-          "title": "Relax with a Retro Flip Clock",
-          "description": "Enjoy a soothing, retro aesthetic with the Flip Clock Screensaver in fullscreen mode. Perfect for unwinding and adding a vintage touch to your workspace, this mac flip clock is customizable with your preferred time."
+          "title": "Flip clock relaxation",
+          "description": "Enjoy retro flips to unwind."
         },
         {
-          "title": "Create a Stylish Office Environment",
-          "description": "Use the Flip Clock Screensaver to bring a stylish and professional look to your office. The fullscreen mode and customizable time make it a great addition to any workplace, helping you keep track of time in a visually appealing way."
+          "title": "Flip clock office",
+          "description": "Add style to workspace timing."
         },
         {
-          "title": "Perfect for Presentation Backgrounds",
-          "description": "Impress your audience by using the Flip Clock Screensaver as a background during presentations. The fullscreen mode provides a sleek, modern clock display that can be set to any custom time, making your presentations stand out."
+          "title": "Flip clock presentation",
+          "description": "Enhance talks with a classy timer."
         },
         {
-          "title": "Set a Modern Ambiance at Home",
-          "description": "Transform your home environment with the Flip Clock Screensaver in fullscreen mode. Ideal for living rooms or home offices, this mac flip clock adds a modern, minimalist touch while displaying a customizable time."
+          "title": "Flip clock home",
+          "description": "Set a modern vibe at home."
         },
         {
-          "title": "Ideal for Study Sessions",
-          "description": "Keep track of your study time with the Flip Clock Screensaver. The fullscreen clock helps maintain focus, and you can customize the time to match your study schedule. Perfect for creating a structured study environment."
+          "title": "Flip clock study",
+          "description": "Track study time with flips."
         },
         {
-          "title": "Visually Engaging Waiting Room Display",
-          "description": "Make your waiting room more engaging with the Flip Clock Screensaver. The fullscreen, customizable clock provides a stylish time display that can help keep visitors informed and entertained while they wait."
-        },
-        {
-          "title": "Add a Retro Vibe to Events",
-          "description": "Use the Flip Clock Screensaver during events to create a retro vibe. The fullscreen mode and customizable time make it a unique and eye-catching feature, perfect for parties, exhibitions, and gatherings."
+          "title": "Flip clock waiting",
+          "description": "Engage visitors with a sleek clock."
         }
       ],
       "subTips": [
@@ -1769,32 +1585,28 @@
       "title": "Motivational Quote Screensaver",
       "content": [
         {
-          "title": "Boost Morning Motivation",
-          "description": "Start your day with powerful motivational quotes on full screen. Refresh the page for new inspirational quotes that set a positive tone for your day."
+          "title": "Quote morning boost",
+          "description": "Start days with inspiration."
         },
         {
-          "title": "Create a Motivational Workspace",
-          "description": "Transform your workspace with the Motivational Quote Screensaver. Display inspirational motivational quotes on full screen to keep you focused and driven."
+          "title": "Quote workspace",
+          "description": "Motivate work with quotes."
         },
         {
-          "title": "Host Inspiring Meetings",
-          "description": "Use the Motivational Quote Screensaver during meetings to inspire and energize your team. Show custom quotes with author names to motivate and spark creativity."
+          "title": "Quote meetings",
+          "description": "Spark ideas in team sessions."
         },
         {
-          "title": "Stay Inspired During Study Sessions",
-          "description": "Keep your spirits high while studying with inspo quotes displayed on your screen. Refresh for new quotes or add custom motivational quotes for success."
+          "title": "Quote study aid",
+          "description": "Stay inspired while studying."
         },
         {
-          "title": "Enhance Home Ambiance",
-          "description": "Add a touch of inspiration to your home with full-screen inspirational quotes. Perfect for living rooms or home offices, the screensaver changes quotes with each refresh."
+          "title": "Quote home vibe",
+          "description": "Add positivity to your space."
         },
         {
-          "title": "Perfect for Fitness Motivation",
-          "description": "Stay motivated during workouts with powerful motivational quotes on your screen. Use the Motivational Quote Screensaver to keep pushing your limits."
-        },
-        {
-          "title": "Customize for Personal Inspiration",
-          "description": "Personalize your inspiration by adding custom quotes and author names. The Motivational Quote Screensaver allows you to display your favorite quotes in full screen."
+          "title": "Quote fitness",
+          "description": "Push workouts with motivation."
         }
       ],
       "subTips": [
@@ -1840,32 +1652,28 @@
       "title": "Color Bars - No Signal TV Screen",
       "content": [
         {
-          "title": "Create Retro TV Vibes with Color Bars Screen",
-          "description": "Missing those classic TV test patterns? Run this color bars generator fullscreen to transform any monitor into a vintage television display. Perfect for setting up retro gaming streams or creating that nostalgic broadcast feel."
+          "title": "Color bars calibration",
+          "description": "Tune displays with retro bars."
         },
         {
-          "title": "TV No Signal Screen for Video Production",
-          "description": "Need professional SMPTE color bars for video projects? This online tool generates broadcast-quality test patterns right in your browser. Great for setting up displays or adding authentic technical elements to your productions."
+          "title": "Color bars video",
+          "description": "Enhance production with test patterns."
         },
         {
-          "title": "Customize Your Stream's Break Screen",
-          "description": "Looking for a professional 'be right back' screen? Use this online TV test card generator to create a classic broadcast look for your streaming breaks. Add that professional touch to your channel with authentic color bars."
+          "title": "Color bars streaming",
+          "description": "Add pro breaks to streams."
         },
         {
-          "title": "Classic No Signal Screen for Art Installations",
-          "description": "Want that authentic TV static look for your art project? This online color bars generator creates genuine-looking test patterns and no signal screens. Perfect for galleries, installations, or any retro-tech aesthetic."
+          "title": "Color bars art",
+          "description": "Create retro media installations."
         },
         {
-          "title": "Set the Mood with Retro Test Card Patterns",
-          "description": "Transform any screen into a nostalgic TV display with authentic color bars and test patterns. Great for parties, themed events, or just creating that perfect vintage atmosphere in your space."
+          "title": "Color bars ambiance",
+          "description": "Set a vintage TV mood."
         },
         {
-          "title": "Prank Your Friends with a No Signal Screen",
-          "description": "Want to pull off a classic TV prank? Open this fullscreen color bars generator when your friends aren't looking. Watch them try to 'fix' the TV when they see the classic no signal pattern!"
-        },
-        {
-          "title": "Professional SMPTE Pattern for Display Testing",
-          "description": "Need to calibrate displays or test video equipment? Use this online color bars tool to generate standard test patterns. Great for checking monitors, projectors, or any display that needs quick visual testing."
+          "title": "Color bars prank",
+          "description": "Fool friends with a fake glitch."
         }
       ],
       "subTips": [
@@ -1902,6 +1710,24 @@
       ]
     }
   },
+  "/terms-and-conditions": {
+    "name": "Terms and Conditions",
+    "icon": "https://emojicdn.elk.sh/📜",
+    "title": "Terms and Conditions",
+    "isPage": true
+  },
+  "/privacy-policy": {
+    "name": "Privacy Policy",
+    "icon": "https://emojicdn.elk.sh/🔒",
+    "title": "Privacy Policy",
+    "isPage": true
+  },
+  "/contact-us": {
+    "name": "Contact Us",
+    "icon": "https://emojicdn.elk.sh/📞",
+    "title": "Contact Us",
+    "isPage": true
+  },
   "navigation": {
     "color": "Color screens",
     "prank": "Prank screens",
@@ -1919,8 +1745,30 @@
       "Restart"
     ],
     "color": [
-      "Download"
+      "Download",
+      "{title} background"
+    ],
+    "hacker": [
+      "Speed"
     ]
   },
-  "title": "{title} | Online Tool"
+  "title": "{title} | Online Tool",
+  "/null": {
+    "name": "Null",
+    "icon": "https://emojicdn.elk.sh/⚫️",
+    "title": "Null",
+    "type": "page",
+    "color": "#000000",
+    "colorName": "Black",
+    "isPage": true,
+    "tip": {
+      "title": "Null",
+      "content": [
+        {
+          "title": "Null",
+          "description": "Null is a page without text or images."
+        }
+      ]
+    }
+  }
 }

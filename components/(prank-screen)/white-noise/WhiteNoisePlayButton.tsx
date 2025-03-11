@@ -1,5 +1,4 @@
 import { Play, Pause } from "lucide-react";
-import { Button } from "@/components/ui/button";
 import { whiteNoiseStore } from "./whiteNoise";
 
 export function WhiteNoisePlayButton() {
@@ -7,19 +6,31 @@ export function WhiteNoisePlayButton() {
 
   return (
     <div className="w-full h-full flex justify-center items-center">
-      <Button
+      {/* <Button
         variant="outline"
         size="icon"
         onClick={togglePlay}
         aria-label={isPlaying ? "Pause" : "Play"}
-        className="w-12 h-12 bg-white border border-gray-200 rounded-lg hover:bg-gray-50"
+        className="w-12 h-12  border border-gray-200 rounded-lg hover:bg-gray-50"
       >
         {isPlaying ? (
           <Pause className="h-4 w-4 text-gray-700" />
         ) : (
           <Play className="h-4 w-4 text-gray-700" />
         )}
-      </Button>
+      </Button> */}
+
+      <button
+        onClick={togglePlay}
+        aria-label={isPlaying ? "Pause" : "Play"}
+        className="w-20 aspect-square  flex items-center justify-center"
+      >
+        {isPlaying ? (
+          <Pause className="h-12 aspect-square text-gray-700" />
+        ) : (
+          <Play className="h-12 aspect-square text-gray-700" />
+        )}
+      </button>
     </div>
   );
 }

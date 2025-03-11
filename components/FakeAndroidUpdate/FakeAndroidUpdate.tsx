@@ -15,9 +15,9 @@ export default function FakeAndroidUpdate() {
         </svg>
         <div>Installing system update</div>
         <div>{progress}%</div>
-        <div className="w-full h-[6px] bg-white/20 overflow-hidden">
+        <div className="w-full h-[6px] /20 overflow-hidden">
           <div
-            className="h-full bg-white transition-[width] duration-300 ease-in-out"
+            className="h-full  transition-[width] duration-300 ease-in-out"
             style={{ width: `${progress}%` }}
           />
         </div>

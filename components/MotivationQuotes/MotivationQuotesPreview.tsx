@@ -19,7 +19,7 @@ export default function MotivationQuotesPreview() {
   }, [setAuthor, setParagraph, t])
 
   return (
-    <div className="relative w-full h-full flex items-center justify-center bg-white">
+    <div className="relative bg-white w-full h-full flex items-center justify-center ">
       <div className="max-w-2xl p-8 text-center overflow-hidden">
         <p
           style={{ fontSize: `${BASE_PARAGRAPH_SIZE + additionalSize}px` }}

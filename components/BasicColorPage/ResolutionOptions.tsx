@@ -4,10 +4,10 @@ export default function ResolutionOptions() {
   const { currentResolution, setResolution, setPresetResolution } = colorStore();
 
   return (
-    <div className="flex flex-col gap-2">
+    <div className="flex flex-col gap-4">
       {/* Preset Selection */}
       <select
-        className="w-full p-2 border rounded"
+        className="w-full "
         onChange={(e) =>
           setPresetResolution(
             e.target.value as
