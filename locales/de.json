@@ -1752,5 +1752,22 @@
     ]
   },
   "title": "{title} | Online Werkzeug",
-  "/null": {}
+  "/null": {
+    "name": "Null",
+    "icon": "https://emojicdn.elk.sh/⚫️",
+    "title": "Null",
+    "type": "page",
+    "color": "#000000",
+    "colorName": "Black",
+    "isPage": true,
+    "tip": {
+      "title": "Null",
+      "content": [
+        {
+          "title": "Null",
+          "description": "Null ist eine Seite ohne Text oder Bilder."
+        }
+      ]
+    }
+  }
 }

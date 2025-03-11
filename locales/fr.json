@@ -1680,5 +1680,22 @@
     ]
   },
   "title": "{title} | Outil en ligne",
-  "/null": {}
+  "/null": {
+    "name": "Null",
+    "icon": "https://emojicdn.elk.sh/⚫️",
+    "title": "Null",
+    "type": "page",
+    "color": "#000000",
+    "colorName": "Zwart",
+    "isPage": true,
+    "tip": {
+      "title": "Null",
+      "content": [
+        {
+          "title": "Null",
+          "description": "Null est une page sans texte ou images."
+        }
+      ]
+    }
+  }
 }
