@@ -161,7 +161,7 @@ export const routes: RouteStore[] = [
   // Prank Screens
   {
     path: "/white-noise",
-    icon: "https://emojicdn.elk.sh/��",
+    icon: "https://emojicdn.elk.sh/🔊",
     type: "prank",
     components: {
       mid: <WhiteNoiseScreen />,
