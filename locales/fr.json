@@ -377,36 +377,36 @@
     }
   },
   "/orange-screen": {
-    "name": "Orange Screen",
+    "name": "Écran orange",
     "color": "#FFA500",
     "isAxis": true,
-    "title": "Orange screen",
+    "title": "Écran orange",
     "type": "color",
     "tip": {
-      "title": "orange screen",
+      "title": "écran orange",
       "content": [
         {
-          "title": "orange screen for backgrounds",
+          "title": "écran orange pour les arrière-plans",
           "description": "Démarquez-vous avec un arrière-plan virtuel dynamique."
         },
         {
-          "title": "orange screen for sleep",
+          "title": "écran orange pour dormir",
           "description": "Filtrez la lumière bleue pour un meilleur repos."
         },
         {
-          "title": "orange screen for creativity",
+          "title": "écran orange pour la créativité",
           "description": "Stimulez l'imagination avec une énergie chaleureuse."
         },
         {
-          "title": "orange screen for calibration",
+          "title": "écran orange pour le calibrage",
           "description": "Testez la précision du moniteur avec des tons orange."
         },
         {
-          "title": "orange screen for teaching",
+          "title": "écran orange pour l'enseignement",
           "description": "Captez l'attention dans les cours en ligne."
         },
         {
-          "title": "orange screen for vibe",
+          "title": "écran orange pour l'ambiance",
           "description": "Créez une atmosphère chaleureuse et créative."
         }
       ],
@@ -424,7 +424,7 @@
           "content": [
             "écran d'ordinateur vide",
             "écran orange total",
-            "écran orange complet"
+            "écran complet orange"
           ]
         },
         {
@@ -432,7 +432,7 @@
           "content": [
             "écran orange pour projecteur",
             "écran orange pour enfants",
-            "arrière-plan orange plein écran"
+            "plan arrière orange plein écran"
           ]
         }
       ]
@@ -501,36 +501,36 @@
     }
   },
   "/purple-screen": {
-    "name": "Purple Screen",
+    "name": "Écran violet",
     "color": "#800080",
     "isAxis": true,
-    "title": "Purple screen",
+    "title": "Écran violet",
     "type": "color",
     "tip": {
-      "title": "purple screen",
+      "title": "écran violet",
       "content": [
         {
-          "title": "purple screen for wellness",
+          "title": "écran violet pour le bien-être",
           "description": "Améliorez la méditation avec un violet apaisant."
         },
         {
-          "title": "purple screen for lighting",
+          "title": "écran violet pour l'éclairage",
           "description": "Ajoutez une lueur mystique aux appels ou aux événements."
         },
         {
-          "title": "purple screen for study",
+          "title": "écran violet pour étudier",
           "description": "Explorez la théorie des couleurs avec le violet."
         },
         {
-          "title": "purple screen for testing",
+          "title": "écran violet pour les tests",
           "description": "Testez la précision de l'affichage avec des tons violets."
         },
         {
-          "title": "purple screen for kids",
-          "description": "Stimulez l'imagination lors des sessions d'apprentissage."
+          "title": "écran violet pour les enfants",
+          "description": "Stimulez l'imagination lors des séances d'apprentissage."
         },
         {
-          "title": "purple screen for vibe",
+          "title": "écran violet pour l'ambiance",
           "description": "Créez une ambiance créative et luxueuse."
         }
       ],
@@ -563,7 +563,7 @@
     }
   },
   "/zoom-lighting": {
-    "name": "Zoom Lighting",
+    "name": "Éclairage zoom",
     "color": "#FFC5C2",
     "isAxis": true,
     "title": "Éclairage pour les appels zoom",
@@ -585,7 +585,7 @@
         },
         {
           "title": "éclairage zoom pour les développeurs",
-          "description": "Tester des conceptions sous un éclairage varié."
+          "description": "Testeur des conceptions sous un éclairage varié."
         },
         {
           "title": "éclairage zoom pour la thérapie",
@@ -867,31 +867,31 @@
     }
   },
   "/hacker-screen": {
-    "name": "Hacker Typer Screen",
+    "name": "Écran de saisie de hacker",
     "icon": "https://emojicdn.elk.sh/💻‍💻",
-    "title": "Hacker Typer Screen - Prank",
+    "title": "Écran Hacker Typer - Prank",
     "type": "prank",
     "tip": {
-      "title": "Hacker Typer Screen - Prank",
-      "content": [
+      "title": "Écran Hacker Typer - Prank",
+      "contenu": [
         {
-          "title": "hacker screen prank",
+          "title": "farce d'écran de hacker",
           "description": "Impressionnez vos collègues avec du faux codage."
         },
         {
-          "title": "hacker screen for classes",
+          "title": "écran de hacker pour les cours",
           "description": "Incitez les étudiants à s'intéresser à la programmation."
         },
         {
-          "title": "hacker screen for streaming",
+          "title": "écran de hacker pour le streaming",
           "description": "Ajoutez une touche technique aux flux en direct."
         },
         {
-          "title": "hacker screen for vlogs",
+          "title": "écran de hacker pour les vlogs",
           "description": "Boostez les vidéos techniques avec des effets de code."
         },
         {
-          "title": "hacker screen for presentations",
+          "title": "écran de hacker pour les présentations",
           "description": "Améliorez les discussions avec des visuels de code en direct."
         },
         {
@@ -916,7 +916,7 @@
             "Démontrez le codage en classe",
             "Visualisez les concepts de programmation",
             "Incitez les étudiants à s'intéresser à la technologie",
-            "Pimentez les présentations techniques",
+            "Pimentez les techniques de présentations",
             "Initiez les débutants au codage"
           ]
         },
@@ -1672,7 +1672,11 @@
       "Redémarrer"
     ],
     "color": [
-      "Télécharger"
+      "Télécharger",
+      "{title} fond"
+    ],
+    "hacker": [
+      "Vitesse"
     ]
   },
   "title": "{title} | Outil en ligne"

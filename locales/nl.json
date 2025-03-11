@@ -563,37 +563,37 @@
     }
   },
   "/zoom-lighting": {
-    "name": "Zoom-verlichting",
+    "name": "Zoomverlichting",
     "color": "#FFC5C2",
     "isAxis": true,
-    "title": "Verlichting voor Zoom-gesprekken",
+    "title": "Zoomverlichting",
     "type": "color",
     "tip": {
-      "title": "Verlichting voor Zoom-gesprekken",
+      "title": "Zoomverlichting",
       "content": [
         {
-          "title": "zoom-verlichting voor gesprekken",
-          "description": "Pas de verlichting aan voor professionele videogesprekken."
+          "title": "Zoomverlichting voor les appels",
+          "description": "Pas de verlichting aan voor beroepsvideo-professionals."
         },
         {
-          "title": "zoom-verlichting voor fotografie",
-          "description": "Creëer de perfecte ambiance voor foto's."
+          "title": "Zoomverlichting voor fotografie",
+          "description": "Créez une sfeer parfaite pour les photos."
         },
         {
-          "title": "zoom-verlichting voor eLearning",
-          "description": "Verminder spanning en verbeter de focus in lessen."
+          "title": "Zoomverlichting voor een ligne-apprentissage",
+          "description": "Verminder de spanning en verbeter de concentratie tijdens de les."
         },
         {
-          "title": "zoom-verlichting voor ontwikkelaars",
-          "description": "Test ontwerpen onder verschillende soorten verlichting."
+          "title": "Zoomverlichting voor les ontwikkelaars",
+          "description": "Tester van concepties als een gevarieerde variant."
         },
         {
-          "title": "zoom-verlichting voor therapie",
-          "description": "Gebruik kleuren voor wellness-sessies op afstand."
+          "title": "Zoomverlichting voor therapie",
+          "description": "Gebruik de couleurs voor seances op afstand."
         },
         {
-          "title": "zoomverlichting met wit scherm",
-          "description": "Verlicht gesprekken met een tweede monitor."
+          "title": "Zoomverlichting met witte kleur",
+          "description": "Eclairez les appels à l'aide d'un deuxième monitor."
         }
       ]
     }
@@ -1744,7 +1744,11 @@
       "Opnieuw opstarten"
     ],
     "color": [
-      "Downloaden"
+      "Downloaden",
+      "{title} achtergrond"
+    ],
+    "hacker": [
+      "Snelheid"
     ]
   },
   "title": "{title} | Online hulpmiddel"

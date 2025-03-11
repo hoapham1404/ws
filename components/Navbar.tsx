@@ -12,10 +12,10 @@ export default function Navbar() {
 
   const getLanguageLabel = (locale: string) => {
     const labels: Map<string, string> = new Map([
-      ['en', 'English'],
-      ['nl', 'Nederlands'],
-      ['fr', 'Français'],
-      ['de', 'Deutsch'],
+      ['en', 'English'], // English
+      ['nl', 'Nederlands'], // Dutch
+      ['fr', 'Français'], // French
+      ['de', 'Deutsch'], // German
     ])
 
     return labels.get(locale) || locale;

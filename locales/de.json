@@ -188,36 +188,36 @@
     }
   },
   "/green-screen": {
-    "name": "Green Screen",
+    "name": "Grüner Bildschirm",
     "color": "#00FF00",
     "isAxis": false,
-    "title": "Green Screen",
+    "title": "Grüner Bildschirm",
     "type": "color",
     "tip": {
-      "title": "Green Screen",
+      "title": "Grüner Bildschirm",
       "content": [
         {
-          "title": "Green Screen zur Videoerstellung",
+          "title": "Grüner Bildschirm zur Videoerstellung",
           "description": "Ersetzen Sie Hintergründe bei der Videoproduktion ganz einfach."
         },
         {
-          "title": "Green Screen zur Entspannung",
+          "title": "Grüner Bildschirm zur Entspannung",
           "description": "Beruhigen Sie Ihre Augen mit einer beruhigenden grünen Anzeige."
         },
         {
-          "title": "Green Screen für Spiele",
+          "title": "Grüner Bildschirm für Spiele",
           "description": "Verbessern Sie Streams mit einem immersiven Hintergrund."
         },
         {
-          "title": "Green Screen für Meetings",
+          "title": "Grüner Bildschirm für Meetings",
           "description": "Fügen Sie Videoanrufen professionelle Hintergründe hinzu."
         },
         {
-          "title": "Green Screen für den Unterricht",
+          "title": "Grüner Bildschirm für den Unterricht",
           "description": "Gestalten Sie den Unterricht mit visuellen Hilfsmitteln interaktiv."
         },
         {
-          "title": "Green Screen für Photoshop",
+          "title": "Grüner Bildschirm für Photoshop",
           "description": "Bearbeiten Sie Bilder nahtlos mit einem grünen Hintergrund."
         }
       ],
@@ -325,27 +325,27 @@
       "content": [
         {
           "title": "gelber Bildschirm für Inhalt",
-          "description": "Verleihen Sie Streams oder Präsentationen mehr Energie."
+          "description": "Du ziehst mehr Energie aus Streams oder Präsentationen."
         },
         {
           "title": "gelber Bildschirm für Augenkomfort",
-          "description": "Entlasten Sie Ihre Augen, indem Sie blaues Licht reduzieren."
+          "description": "Sie entlasten Ihre Augen und reduzieren gleichzeitig Ihr blaues Licht."
         },
         {
           "title": "gelber Bildschirm für Kreativität",
-          "description": "Entfachen Sie Ideen mit einem fröhlichen Hintergrund."
+          "description": "Ihre Ideen werden mit einem fröhlichen Hintergrund zum Leben erweckt."
         },
         {
           "title": "gelber Bildschirm zum Testen",
-          "description": "Überprüfen Sie die Anzeigegenauigkeit mit Gelb."
+          "description": "Testen Sie Ihre Anzeigegenauigkeit mit Gel."
         },
         {
-          "title": "gelber Bildschirm für den Unterricht",
-          "description": "Begeistern Sie Ihre Schüler mit einem lebendigen Hintergrund."
+          "title": "gelber Bildschirm für Anleitung",
+          "description": "Sie begeistern Ihre Schüler durch lebendige Hintergründe."
         },
         {
           "title": "gelber Bildschirm für Stimmung",
-          "description": "Schaffen Sie eine warme, einladende Stimmung."
+          "description": "Schafft eine warme, belebende Stimmung."
         }
       ],
       "subTips": [
@@ -353,22 +353,22 @@
           "title": "Gelber Bildschirm zum Reinigen",
           "content": [
             "gelber Bildschirm zum Reinigen des Monitors",
-            "gelber Bildschirm zum Auffinden toter Pixel",
-            "gelber Bildschirm zum Auffinden schmutziger Stellen"
+            "gelber Bildschirm, um das gesamte Pixel zu öffnen",
+            "gelber Bildschirm zur Erkennung schmutziger Stellungen"
           ]
         },
         {
-          "title": "Gelbe Farbe online",
+          "title": "Gelbe Farbe Online",
           "content": [
-            "leerer Computerbildschirm",
+            "Computer-Bildschirm-Lerner",
             "komplett gelber Bildschirm",
-            "vollständig gelber Bildschirm"
+            "vollständig stehender gelber Bildschirm"
           ]
         },
         {
           "title": "Andere",
           "content": [
-            "gelber Bildschirm für Projektor",
+            "gelbe Leinwand für Projektor",
             "gelber Bildschirm für Kinder",
             "gelber Vollbildhintergrund"
           ]
@@ -377,36 +377,36 @@
     }
   },
   "/orange-screen": {
-    "name": "Orange Screen",
+    "name": "Orangefarbener Bildschirm",
     "color": "#FFA500",
     "isAxis": true,
-    "title": "Orange Screen",
+    "title": "Orangefarbener Bildschirm",
     "type": "color",
     "tip": {
-      "title": "orange Screen",
+      "title": "orangefarbener Bildschirm",
       "content": [
         {
-          "title": "orange Screen für Hintergründe",
-          "description": "Heben Sie sich mit einem lebendigen virtuellen Hintergrund ab."
+          "title": "orangefarbener Bildschirm für Hintergrund",
+          "description": "Sie haben einen lebendigen virtuellen Hintergrund hinterlassen."
         },
         {
-          "title": "orange Screen für Schlaf",
-          "description": "Filtern Sie blaues Licht für eine bessere Erholung."
+          "title": "Orangefarbener Bildschirm für den Schlaf",
+          "description": "Filtern Sie Ihr blaues Licht für besseren Genuss."
         },
         {
-          "title": "orange Screen für Kreativität",
-          "description": "Fördern Sie die Vorstellungskraft mit warmer Energie."
+          "title": "Orangefarbener Bildschirm für Kreativität",
+          "description": "Mit wärmerer Energie fördern Sie die Vorstellungskraft."
         },
         {
-          "title": "orange Screen für Kalibrierung",
+          "title": "orangefarbener Bildschirm zur Kalibrierung",
           "description": "Testen Sie die Monitorgenauigkeit mit Orangetönen."
         },
         {
-          "title": "orange Screen für Unterricht",
-          "description": "Erregen Sie die Aufmerksamkeit im Online-Unterricht."
+          "title": "orangefarbener Bildschirm für Anleitung",
+          "description": "Die Wertschätzung lernst Du im Online-Training."
         },
         {
-          "title": "orange Screen für Stimmung",
+          "title": "orangefarbener Bildschirm für Stimmung",
           "description": "Schaffen Sie eine gemütliche, kreative Atmosphäre."
         }
       ],
@@ -415,14 +415,14 @@
           "title": "Orangefarbener Bildschirm zum Reinigen",
           "content": [
             "orangefarbener Bildschirm zum Reinigen des Monitors",
-            "orangefarbener Bildschirm zum Auffinden toter Pixel",
-            "orangefarbener Bildschirm zum Auffinden schmutziger Stellen"
+            "orangefarbener Bildschirm zum Öffnen bis auf einen Pixel",
+            "orangefarbener Bildschirm zur Erkennung verschmutzter Stellen"
           ]
         },
         {
           "title": "Orangefarbene Farbe online",
           "content": [
-            "leerer Computerbildschirm",
+            "Computer-Bildschirm-Lerner",
             "total orangefarbener Bildschirm",
             "vollständig orangefarbener Bildschirm"
           ]
@@ -430,30 +430,30 @@
         {
           "title": "Andere",
           "content": [
-            "orangefarbener Bildschirm für Projektor",
+            "orangefarbene Leinwand für Projektor",
             "orangefarbener Bildschirm für Kinder",
-            "orangefarbener Vollbildhintergrund"
+            "orangefarbener Ganzkörperbildhintergrund"
           ]
         }
       ]
     }
   },
   "/pink-screen": {
-    "name": "Pink Screen",
+    "name": "Rosa Bildschirm",
     "color": "#FFC0CB",
     "isAxis": true,
-    "title": "Pink Screen",
+    "title": "Rosa Bildschirm",
     "type": "color",
     "tip": {
-      "title": "Pink Screen",
+      "title": "Rosa Bildschirm",
       "content": [
         {
-          "title": "Pink Screen für Inhalt",
-          "description": "Legen Sie einen freundlichen Ton für Videos oder Streams fest."
+          "title": "Pink Screen für Inhalte",
+          "description": "Hinterlassen Sie bei Videos oder Streams einen freundlichen Ton."
         },
         {
-          "title": "Pink Screen zur Entspannung",
-          "description": "Beruhigen Sie Ihre Stimmung mit sanftem rosa Licht."
+          "title": "Rosa Bildschirm zur Entspannung",
+          "description": "Entspannen Sie Ihre Stimmung mit einem süßen rosa Licht."
         },
         {
           "title": "Pink Screen für Design",
@@ -461,77 +461,77 @@
         },
         {
           "title": "Pink Screen zum Testen",
-          "description": "Überprüfen Sie die Anzeigegenauigkeit mit Rosatönen."
+          "description": "Testen Sie die Anzeigegenauigkeit mit Rosetten."
         },
         {
           "title": "Pink Screen für Präsentationen",
-          "description": "Erregen Sie Aufmerksamkeit mit einem kräftigen Rosaton."
+          "description": "Anerkennung erhältst Du durch eine mächtige Rosette."
         },
         {
           "title": "Pink Screen für Stimmung",
-          "description": "Schaffen Sie eine verspielte, warme Atmosphäre."
+          "description": "Sie schaffen eine verschwenderische, warme Atmosphäre."
         }
       ],
-      "subTips": [
+      "Untertipps": [
         {
-          "title": "Rosa Bildschirm zum Reinigen",
+          "title": "Rosa Sieb zum Reinigen",
           "content": [
             "rosa Bildschirm zum Reinigen des Monitors",
-            "rosa Bildschirm zum Auffinden toter Pixel",
-            "rosa Bildschirm zum Auffinden schmutziger Stellen"
+            "rosa Bildschirm, um das ganze Pixel zu öffnen",
+            "rosa Regenschirm zum Aufdecken schmutziger Posen"
           ]
         },
         {
           "title": "Rosa Farbe online",
           "content": [
-            "leerer Computerbildschirm",
+            "Computer-Bildschirm-Lerner",
             "komplett rosa Bildschirm",
-            "vollständig rosa Bildschirm"
+            "vollständiger rosa Bildschirm"
           ]
         },
         {
           "title": "Andere",
           "content": [
-            "rosa Bildschirm für Projektor",
-            "rosa Bildschirm für Kinder",
-            "rosa Vollbild-Hintergrund"
+            "rosa Leinwand für Projektor",
+            "rosa Baldachin für Kinder",
+            "rosa Vollbildhintergrund"
           ]
         }
       ]
     }
   },
   "/purple-screen": {
-    "name": "Purple Screen",
+    "name": "Lila Bildschirm",
     "color": "#800080",
     "isAxis": true,
-    "title": "Purple screen",
+    "title": "Lila Bildschirm",
     "type": "color",
     "tip": {
-      "title": "purple screen",
+      "title": "lila Bildschirm",
       "content": [
         {
-          "title": "purple screen for wellness",
-          "description": "Verbessern Sie die Meditation mit einem beruhigenden Lila."
+          "title": "lila Bildschirm für Wellness",
+          "description": "Verbessern Sie Ihre Meditation mit einem beruhigenden Flieder."
         },
         {
-          "title": "purple screen for lighting",
-          "description": "Verleihen Sie Anrufen oder Ereignissen einen mystischen Glanz."
+          "title": "lila Schirm zur Beleuchtung",
+          "description": "Wir verführen Sie zum Erwachen oder Erleben eines mystischen Strahlens."
         },
         {
-          "title": "purple screen for study",
-          "description": "Entdecken Sie die Farbtheorie mit Lila."
+          "title": "lila Bildschirm zum Lernen",
+          "description": "Entdecken Sie die Farbtheorie mit Flieder."
         },
         {
-          "title": "purple screen for testing",
-          "description": "Testen Sie die Anzeigegenauigkeit mit Lilatönen."
+          "title": "lila Bildschirm zum Testen",
+          "description": "Testen Sie Ihre Anzeigegenauigkeit mit Lilacs."
         },
         {
-          "title": "purple screen for kids",
-          "description": "Fanieren Sie die Fantasie in Lernsitzungen."
+          "title": "lila Bildschirm für Kinder",
+          "description": "Sie bringen Ihre Vorstellungskraft in Lernsituationen ein."
         },
         {
-          "title": "purple screen for vibe",
-          "description": "Schaffen Sie eine kreative, luxuriöse Stimmung."
+          "title": "lila Bildschirm für Vibe",
+          "description": "Schaffen Sie eine kreative, luxuriöse Atmosphäre."
         }
       ],
       "subTips": [
@@ -539,24 +539,24 @@
           "title": "Lila Bildschirm zum Reinigen",
           "content": [
             "lila Bildschirm zum Reinigen des Monitors",
-            "lila Bildschirm zum Auffinden toter Pixel",
-            "lila Bildschirm zum Auffinden schmutziger Stellen"
+            "lila Bildschirm zum Öffnen auf einem Pixel",
+            "lila Regenschirm zum Aufdecken schmutziger Posen"
           ]
         },
         {
-          "title": "Lila Farbe online",
+          "title": "Lila Farbe Online",
           "content": [
-            "leerer Computerbildschirm",
-            "komplett violetter Bildschirm",
-            "vollständig violetter Bildschirm"
+            "Computer-Bildschirm-Lerner",
+            "komplett lila Bildschirm",
+            "vollständiger lila Bildschirm"
           ]
         },
         {
           "title": "Andere",
           "content": [
-            "lila Bildschirm für Projektor",
+            "lila Leinwand für Projektor",
             "lila Bildschirm für Kinder",
-            "lila Vollbild-Hintergrund"
+            "lila Vollbildhintergrund"
           ]
         }
       ]
@@ -867,7 +867,7 @@
     }
   },
   "/hacker-screen": {
-    "name": "Hacker Typer Screen",
+    "name": "Hacker Typer-Bildschirm",
     "icon": "https://emojicdn.elk.sh/💻‍💻",
     "title": "Hacker Typer Screen - Streich",
     "type": "Streich",
@@ -875,59 +875,59 @@
       "title": "Hacker Typer Screen - Streich",
       "content": [
         {
-          "title": "Hacker-Screen-Streich",
-          "description": "Beeindrucken Sie Ihre Kollegen mit vorgetäuschtem Code."
+          "title": "Hacker-Bildschirmstreifen",
+          "description": "Beeindrucken Sie Ihre Kollegen mit dem vorgeschlagenen Code."
         },
         {
-          "title": "Hacker-Screen für den Unterricht",
-          "description": "Begeistern Sie Ihre Schüler für das Programmieren."
+          "title": "Hacker-Bildschirm für Training",
+          "description": "Ihre Schüler brennen für das Programmieren."
         },
         {
-          "title": "Hacker-Screen für Streaming",
-          "description": "Verleihen Sie Live-Streams technisches Flair."
+          "title": "Hacker-Bildschirm für Streaming",
+          "description": "Live-Streams mit technischem Flair genießen."
         },
         {
-          "title": "Hacker-Screen für Vlogs",
-          "description": "Verbessern Sie technische Videos mit Code-Effekten."
+          "title": "Hacker-Bildschirm für Vlogs",
+          "description": "Verbessern Sie Ihre technischen Videos mit Codeeffekten."
         },
         {
-          "title": "Hacker-Screen für Präsentationen",
-          "description": "Verbessern Sie Vorträge mit Live-Code-Visualisierungen."
+          "title": "Hacker-Bildschirm für Präsentationen",
+          "description": "Verbessern Sie Ihren Fortschritt mit Live Code-Visualisierungen."
         },
         {
-          "title": "Hacker-Bildschirm für Filme",
-          "description": "Erstellen Sie ganz einfach echte Hacking-Szenen."
+          "title": "Hacker-Screen für Filme",
+          "description": "Sie können ganz einfach echte Hacking-Szenen erstellen."
         }
       ],
-      "subTips": [
+      "Untertipps": [
         {
-          "title": "Unterhaltung & Streiche",
+          "title": "Weiter & Dehnen",
           "content": [
-            "Freunde mit vorgetäuschten Hackerfähigkeiten beeindrucken",
-            "Familienmitgliedern Streiche spielen",
-            "Büropartys auf unterhaltsame Weise gestalten",
-            "Amüsante Social-Media-Inhalte erstellen",
-            "Freunde glauben machen, Sie seien ein Programmierer"
+            "Beeindrucken Sie Freunde mit vorgeschlagenen Hacking-Fähigkeiten",
+            "Gemeinsames Familien-Stretch-Spiel",
+            "Betriebsfeiern mit durchweg klugen Zahlen",
+            "Erstellen Sie unterhaltsame Social-Media-Inhalte",
+            "Mach Freunde glücklich, du bist ein Programmierer"
           ]
         },
         {
-          "title": "Bildungszwecke",
+          "title": "Bildungszweck",
           "content": [
             "Programmieren im Unterricht demonstrieren",
-            "Programmierkonzepte visualisieren",
-            "Schüler für Technologie begeistern",
-            "Technische Präsentationen aufpeppen",
-            "Anfänger ans Programmieren heranführen"
+            "Visualisierung von Programmierkonzepten",
+            "Studierende mit Leidenschaft für Technik",
+            "Technische Präsentationen zusammenfassen",
+            "Anfänger wieder ans Programmieren heranführen"
           ]
         },
         {
           "title": "Kreative & professionelle Nutzung",
           "content": [
-            "Visuelle Darstellung von Live-Streams verbessern",
-            "Authentische Tech-Szenen in Filmen erstellen",
-            "Videos mit Hacker-Ästhetik versehen",
-            "Interesse bei Tech-Konferenzen wecken",
-            "Diskussionen zur Cybersicherheit anregen"
+            "Optische Darstellung von Live-Streams verbessern",
+            "Authentische Tech-Szenen im Film schaffen",
+            "Videos mit Hacker-Ästhetik",
+            "Interesse an Tech-Konferenzen wecken",
+            "Diskussionen zur Cybersicherheit"
           ]
         }
       ]
@@ -1671,8 +1671,12 @@
       "Neustart"
     ],
     "color": [
-      "Download"
+      "Herunterladen",
+      "{title} Hintergrund"
+    ],
+    "hacker": [
+      "Geschwindigkeit"
     ]
   },
-  "title": "{title} | Online-Tool"
+  "title": "{title} | Online Werkzeug"
 }

@@ -1745,7 +1745,11 @@
       "Restart"
     ],
     "color": [
-      "Download"
+      "Download",
+      "{title} background"
+    ],
+    "hacker": [
+      "Speed"
     ]
   },
   "title": "{title} | Online Tool"
