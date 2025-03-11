@@ -126,36 +126,36 @@
     }
   },
   "/red-screen": {
-    "name": "Red Screen",
+    "name": "Écran rouge",
     "color": "#FF0000",
     "isAxis": false,
-    "title": "Red screen",
+    "title": "Écran rouge",
     "type": "color",
     "tip": {
-      "title": "red screen",
+      "title": "écran rouge",
       "content": [
         {
-          "title": "red screen for photography",
+          "title": "écran rouge pour la photographie",
           "description": "Ajoutez des effets de couleur spectaculaires à vos photos ou films."
         },
         {
-          "title": "red screen for eye health",
+          "title": "écran rouge pour la santé des yeux",
           "description": "Réduisez la fatigue due à la lumière bleue dans les environnements sombres."
         },
         {
-          "title": "red screen for virtual events",
+          "title": "écran rouge pour les événements virtuels",
           "description": "Donnez un ton audacieux pour les rassemblements en ligne."
         },
         {
-          "title": "red screen for graphic design",
+          "title": "écran rouge pour le design graphique",
           "description": "Créez des designs saisissants avec du rouge vif."
         },
         {
-          "title": "red screen for presentations",
+          "title": "écran rouge pour les présentations",
           "description": "Mettez en valeur les points clés avec un arrière-plan rouge thématique."
         },
         {
-          "title": "red screen for TikToks",
+          "title": "écran rouge pour les TikToks",
           "description": "Créez des arrière-plans vidéo accrocheurs avec du rouge vif."
         }
       ],
@@ -934,9 +934,9 @@
     }
   },
   "/fake-windows-10-update-screen": {
-    "name": "Fake Update Windows 10",
+    "name": "Faux mise à jour Windows 10",
     "icon": "https://emojicdn.elk.sh/🪟",
-    "title": "Windows 10 Fake Update",
+    "title": "Faux mise à jour Windows 10",
     "type": "fake-update",
     "tip": {
       "title": "Windows 10 Fake Update",
@@ -1007,12 +1007,12 @@
     }
   },
   "/fake-windows-xp-update-screen": {
-    "name": "Fake Update Windows XP",
+    "name": "Faux mise à jour Windows XP",
     "icon": "https://emojicdn.elk.sh/🪟",
-    "title": "Fake Update Windows XP",
+    "title": "Faux mise à jour Windows XP",
     "type": "fake-update",
     "tip": {
-      "title": "Fake Update Windows XP",
+      "title": "Faux mise à jour Windows XP",
       "content": [
         {
           "title": "Farce de bureau XP",
@@ -1080,12 +1080,12 @@
     }
   },
   "/fake-mac-os-x-update-screen": {
-    "name": "Fake Update Mac OS X",
+    "name": "Faux mise à jour Mac OS X",
     "icon": "https://emojicdn.elk.sh/🍎",
-    "title": "Mac OS X Fake Update",
+    "title": "Faux mise à jour Mac OS X",
     "type": "fake-update",
     "tip": {
-      "title": "Mac OS X Fake Update",
+      "title": "Faux mise à jour Mac OS X",
       "content": [
         {
           "title": "Mac Blague",
@@ -1226,12 +1226,12 @@
     }
   },
   "/fake-chrome-os-update-screen": {
-    "name": "Fake Update Chrome OS",
+    "name": "Faux mise à jour Chrome OS",
     "icon": "https://emojicdn.elk.sh/🌐",
-    "title": "ChromeOS Fake Update",
+    "title": "Faux mise à jour Chrome OS",
     "type": "fake-update",
     "tip": {
-      "title": "ChromeOS Fake Update",
+      "title": "Faux mise à jour Chrome OS",
       "content": [
         {
           "title": "Farce ChromeOS",
@@ -1298,7 +1298,7 @@
     "title": "Fausse mise à jour Android",
     "type": "fake-update",
     "tip": {
-      "title": "Écran de fausse mise à jour Android",
+      "title": "Fausse mise à jour Android",
       "content": [
         {
           "title": "Test logiciel Android",

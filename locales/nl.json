@@ -188,32 +188,32 @@
     }
   },
   "/green-screen": {
-    "name": "Green Screen",
+    "name": "Groene Scherm",
     "color": "#00FF00",
     "isAxis": false,
-    "title": "Green Screen",
+    "title": "Groene Scherm",
     "type": "color",
     "tip": {
-      "title": "green screen",
+      "title": "groene scherm",
       "content": [
         {
-          "title": "green screen voor videoproductie",
+          "title": "groene scherm voor videoproductie",
           "description": "Vervang eenvoudig achtergronden in videoproductie."
         },
         {
-          "title": "green screen voor ontspanning",
+          "title": "groene scherm voor ontspanning",
           "description": "Kalmeer uw ogen met een kalmerende groene weergave."
         },
         {
-          "title": "green screen voor gamen",
+          "title": "groene scherm voor gamen",
           "description": "Verbeter streams met een meeslepende achtergrond."
         },
         {
-          "title": "green screen voor vergaderingen",
+          "title": "groene scherm voor vergaderingen",
           "description": "Voeg professionele achtergronden toe aan videogesprekken."
         },
         {
-          "title": "green screen voor lesgeven",
+          "title": "groene scherm voor lesgeven",
           "description": "Maak lessen interactief met visuele hulpmiddelen."
         },
         {

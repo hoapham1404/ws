@@ -1365,6 +1365,79 @@
       ]
     }
   },
+  "/fake-windows-11-update-screen": {
+    "name": "Gefälschtes Update Windows 11",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Gefälschtes Update Windows 11",
+    "type": "fake-update",
+    "tip": {
+      "title": "Windows 11 Update-Bildschirm",
+      "content": [
+        {
+          "title": "Windows 11 Streich-Explosion",
+          "description": "Täuschen Sie Freunde mit einem festgefahrenen Update."
+        },
+        {
+          "title": "Windows 11 Office Spice",
+          "description": "Legen Sie das Team während eines Meetings herein."
+        },
+        {
+          "title": "Windows 11 Gaming-Streich",
+          "description": "Unterbrechen Sie Spiele mit einem gefälschten Update."
+        },
+        {
+          "title": "Windows 11 Tech Impress",
+          "description": "Beeindrucken Sie Freunde mit einer echt aussehenden SIM."
+        },
+        {
+          "title": "Windows 11-Videospaß",
+          "description": "Reaktionen auf ein Fake-Update aufzeichnen."
+        },
+        {
+          "title": "Windows 11-Mitarbeiter geraten in Panik",
+          "description": "Kollegen mit Update-Chaos schockieren."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Simuliertes Windows 11-Update",
+          "content": [
+            "Windows 11 Fake-Update",
+            "Windows 11 Update-Simulation",
+            "Windows 11-Update simulieren",
+            "Gefälschter Windows 11-Update-Bildschirm",
+            "Windows 11-Update emulieren",
+            "Windows 11-Update-Streich",
+            "Windows 11-Update-Prozess"
+          ]
+        },
+        {
+          "title": "Realistische Erfahrung",
+          "content": [
+            "Authentisch aussehendes Windows 11-Update",
+            "Realistischer Windows 11-Update-Bildschirm",
+            "Freunde mit Windows 11-Update täuschen",
+            "Realistischer Windows 11-Update-Fortschritt",
+            "Echte Windows 11-Update-Simulation",
+            "Authentische Windows 11-Update-Meldungen",
+            "Windows 11-Update-Phase"
+          ]
+        },
+        {
+          "title": "Unterhaltung und Spaß",
+          "content": [
+            "Unterhaltsames Windows 11-Update-Streich",
+            "Lustiges gefälschtes Windows 11-Update",
+            "Genieße simuliertes Windows 11-Update",
+            "Streich mit gefälschtem Windows 11-Update",
+            "Aufregendes Windows 11-Update-Erlebnis",
+            "Windows 11-Update zur Unterhaltung",
+            "Windows 11-Update-Streich-Tool"
+          ]
+        }
+      ]
+    }
+  },
   "/dvd-screensaver": {
     "name": "DVD-Bildschirmschoner",
     "icon": "https://emojicdn.elk.sh/📀",
