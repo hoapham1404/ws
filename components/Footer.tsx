@@ -1,8 +1,8 @@
 export default function Footer() {
   return (
-    <footer className="bg-gray-200 text-black mt-8">
-      <div className="bg-gray-300 text-sm text-center py-4">
-        <p className="mb-1">
+    <footer className=" text-black mt-auto pt-4" style={{ backgroundColor: "#d6d6d6", minHeight: "150px" }}>
+      <div className=" text-center py-4 flex flex-col items-center justify-center gap-1">
+        <p className="mb-2">
           {
             Array.from(new Map([
               ["/privacy-policy", "Privacy policy"],
