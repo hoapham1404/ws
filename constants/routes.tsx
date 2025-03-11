@@ -354,6 +354,7 @@ export const routes: RouteStore[] = [
   {
     path: "/power-drain",
     type: "prank",
+    icon: "https://emojicdn.elk.sh/🔋",
     components: {
       mid: <PowerDrain />
     },
