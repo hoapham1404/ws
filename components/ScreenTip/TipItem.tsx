@@ -4,7 +4,7 @@ export default function TipItem({ title, description }: { title: string, descrip
       <div className="p-4 bg-[#f3f1f0]">
         <h1 className="text-lg font-medium text-gray-800">{title}</h1>
       </div>
-      <div className="py-10 px-6 text-lg text-center">
+      <div className="py-10 px-6 text-lg text-center bg-white">
         <p className=" text-wrap ">{description}</p>
       </div>
     </div>
