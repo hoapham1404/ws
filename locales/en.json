@@ -1728,6 +1728,22 @@
     "title": "Contact Us",
     "isPage": true
   },
+  "/power-drain": {
+    "name": "Power Drain",
+    "icon": "https://emojicdn.elk.sh/🔋",
+    "title": "Power Drain",
+    "type": "prank",
+    "isPage": true,
+    "tip": {
+      "title": "Power Drain",
+      "content": [
+        {
+          "title": "Power Drain",
+          "description": "Power Drain is a prank screen that drains the power of the device."
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "Color screens",
     "prank": "Prank screens",

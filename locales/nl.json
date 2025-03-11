@@ -1727,6 +1727,22 @@
     "title": "Contact",
     "type": "page"
   },
+  "/power-drain": {
+    "name": "Stroomdrain",
+    "icon": "https://emojicdn.elk.sh/🔋",
+    "title": "Stroomdrain",
+    "type": "prank",
+    "isPage": true,
+    "tip": {
+      "title": "Stroomdrain",
+      "content": [
+        {
+          "title": "Stroomdrain",
+          "description": "Stroomdrain is een prankscherm dat de stroom van het apparaat afneemt."
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "Kleurenschermen",
     "prank": "Prankschermen",

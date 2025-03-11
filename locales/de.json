@@ -1727,6 +1727,22 @@
     "title": "Kontakt",
     "type": "page"
   },
+  "/power-drain": {
+    "name": "Leistungsschluck",
+    "icon": "https://emojicdn.elk.sh/🔋",
+    "title": "Leistungsschluck",
+    "type": "prank",
+    "isPage": true,
+    "tip": {
+      "title": "Leistungsschluck",
+      "content": [
+        {
+          "title": "Leistungsschluck",
+          "description": "Leistungsschluck ist ein Streichbildschirm, der die Leistung des Geräts auffrisst."
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "Farbbildschirme",
     "prank": "Streichbildschirme",

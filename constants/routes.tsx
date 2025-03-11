@@ -40,6 +40,8 @@ import DVDSetting from "@/components/DVDSaver/DVDSetting";
 import TermAndCondition from "@/components/TermAndCondition/TermAndCondition";
 import PrivacyPolicy from "@/components/PrivacyPolicy/PrivacyPolicy";
 import ContactUs from "@/components/ContactUs/ContactUs";
+import PowerDrain from "@/components/PowerDrain/PowerDrain";
+import PowerDrainIcon from "@/public/OldKernelPanic1280.webp";
 
 export class RouteStore {
   path: string;
@@ -348,6 +350,15 @@ export const routes: RouteStore[] = [
     components: {
       mid: <ContactUs />
     }
+  },
+  {
+    path: "/power-drain",
+    type: "prank",
+    components: {
+      mid: <PowerDrain />
+    },
+    thumbnail: PowerDrainIcon,
+    iconColor: "white"
   }
 ];
 export const getRouteByPath = (
