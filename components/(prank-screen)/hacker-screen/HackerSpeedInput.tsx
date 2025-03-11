@@ -15,7 +15,7 @@ const HackerSpeedInput = () => {
         >
           +
         </button>
-        <input type="text" value={speed} onChange={(e) => handleSpeedChange(Number(e.target.value))} className="border border-black h-8 aspect-square text-center" />
+        <input type="text" value={speed} onChange={(e) => handleSpeedChange(Number(e.target.value))} className="max-w-24 border border-black h-8 aspect-square text-center" />
         <button
           onClick={() => handleSpeedChange(-1)}
           className="font-bold w-8 h-8 flex items-center justify-center"
