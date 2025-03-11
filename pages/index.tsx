@@ -9,8 +9,6 @@ import { useTranslations } from "next-intl";
 import Head from "next/head";
 import React from "react";
 
-import "./globals.css";
-
 export const getStaticProps: GetStaticProps = async ({ locale, locales }) => {
 
   return {
