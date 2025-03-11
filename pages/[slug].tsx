@@ -80,12 +80,6 @@ export default function DynamicPage() {
           {title}
         </title>
         <meta name="description" content={route.path} />
-        {/* <link rel="icon" href={
-          route.color ? `data:image/svg+xml,
-          <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
-              <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(route.color)}'/>
-          </svg>` : route.icon || "/favicon.ico"
-        } /> */}
         <link rel="icon" href={
           route.isPage ? "/null" : route.color ? `data:image/svg+xml,
           <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>

@@ -1,7 +1,7 @@
 export default function ContactUs() {
   return (
-    <div>
-      <h1>Contact Us</h1>
+    <div className="font-serif">
+      <p className="text-lg">Contact us by www.whitescreen.online@gmail.com</p>
     </div>
   );
 }
