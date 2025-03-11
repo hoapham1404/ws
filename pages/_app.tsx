@@ -6,6 +6,7 @@ import IntlProvider from "@/i18n/IntlProvider";
 import { usePathname } from "next/navigation";
 import { getRouteByPath } from "@/constants/routes";
 import AppLayout from "./AppLayout";
+import "./globals.css";
 
 export default function MyApp({ Component, pageProps }: AppProps) {
   const { locale } = useRouter();
