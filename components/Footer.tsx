@@ -4,8 +4,12 @@ export default function Footer() {
       <div className="bg-gray-300 text-sm text-center py-4">
         <p className="mb-1">
           {
-            ["/privacy-policy", "/terms-and-conditions", "/contact-us"].map((link, index) => (
-              <a key={index} href={link} onClick={(e) => { e.preventDefault(); window.location.href = link }} className="mx-2">{link.replace("/", " ")}</a>
+            Array.from(new Map([
+              ["/privacy-policy", "Privacy policy"],
+              ["/terms-and-conditions", "Terms & conditions"],
+              ["/contact-us", "Contact us"]
+            ]).entries()).map(([key, value]) => (
+              <a key={key} href={key} onClick={(e) => { e.preventDefault(); window.location.href = key }} className="mx-2">{value}</a>
             ))
           }
         </p>
