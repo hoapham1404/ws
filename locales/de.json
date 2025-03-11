@@ -1572,7 +1572,6 @@
   },
   "/no-signal-smpte-color-bars-screensaver": {
     "name": "Kein Signal",
-    "icon": "https://emojicdn.elk.sh/📡",
     "title": "Farbbalken - Kein Signal TV-Bildschirm",
     "type": "screensaver",
     "tip": {
@@ -1636,6 +1635,24 @@
         }
       ]
     }
+  },
+  "/terms-and-conditions": {
+    "name": "Nutzungsbedingungen",
+    "icon": "https://emojicdn.elk.sh/📜",
+    "title": "Nutzungsbedingungen",
+    "type": "page"
+  },
+  "/privacy-policy": {
+    "name": "Datenschutzrichtlinie",
+    "icon": "https://emojicdn.elk.sh/🔒",
+    "title": "Datenschutzrichtlinie",
+    "type": "page"
+  },
+  "/contact-us": {
+    "name": "Kontakt",
+    "icon": "https://emojicdn.elk.sh/📞",
+    "title": "Kontakt",
+    "type": "page"
   },
   "navigation": {
     "color": "Farbbildschirme",

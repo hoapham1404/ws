@@ -9,6 +9,8 @@ import Head from "next/head";
 import React from "react";
 import { useRouter } from 'next/router';
 import IntlProvider from "@/i18n/IntlProvider";
+import { usePathname } from "next/navigation";
+import { getRouteByPath } from "@/constants/routes";
 
 const montserrat = Montserrat({
   subsets: ["latin"],
@@ -18,6 +20,9 @@ const montserrat = Montserrat({
 
 export default function MyApp({ Component, pageProps }: AppProps) {
   const { locale } = useRouter();
+  const pathname = usePathname();
+  const currentRoute = getRouteByPath(pathname);
+
   return (
     <React.Fragment>
       <IntlProvider locale={locale!} messages={pageProps.messages}>
@@ -25,16 +30,17 @@ export default function MyApp({ Component, pageProps }: AppProps) {
           <meta charSet="utf-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
         </Head>
-        <div className={`${montserrat.className} mdl-js `}>
-          <Navbar />
-          <main className="max-w-screen-lg mx-auto">
-            <Component {...pageProps} />
-            <NavigationScreen />
-            <ScreenTip />
-          </main>
-
-          <Footer />
-        </div>
+        {
+          !currentRoute?.isPage ?
+            (<div className={`${montserrat.className} mdl-js `}>
+              <Navbar />
+              <main className="max-w-screen-lg mx-auto">
+                <Component {...pageProps} />
+                <NavigationScreen />
+                <ScreenTip />
+              </main>
+              <Footer />
+            </div>) : (<div><Component {...pageProps} /></div>)}
       </IntlProvider>
     </React.Fragment >
   );

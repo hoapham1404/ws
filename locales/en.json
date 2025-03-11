@@ -1710,6 +1710,24 @@
       ]
     }
   },
+  "/terms-and-conditions": {
+    "name": "Terms and Conditions",
+    "icon": "https://emojicdn.elk.sh/📜",
+    "title": "Terms and Conditions",
+    "isPage": true
+  },
+  "/privacy-policy": {
+    "name": "Privacy Policy",
+    "icon": "https://emojicdn.elk.sh/🔒",
+    "title": "Privacy Policy",
+    "isPage": true
+  },
+  "/contact-us": {
+    "name": "Contact Us",
+    "icon": "https://emojicdn.elk.sh/📞",
+    "title": "Contact Us",
+    "isPage": true
+  },
   "navigation": {
     "color": "Color screens",
     "prank": "Prank screens",

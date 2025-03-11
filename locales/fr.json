@@ -933,6 +933,79 @@
       ]
     }
   },
+  "/fake-windows-10-update-screen": {
+    "name": "Fake Update Windows 10",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Windows 10 Fake Update",
+    "type": "fake-update",
+    "tip": {
+      "title": "Windows 10 Fake Update",
+      "content": [
+        {
+          "title": "Windows 10 canular",
+          "description": "Tromper des amis avec une fausse boucle de mise à jour."
+        },
+        {
+          "title": "Windows 10 office canular",
+          "description": "Tromper des collègues avec une mise à jour lente."
+        },
+        {
+          "title": "Discussion de groupe Windows 10",
+          "description": "Partagez de fausses photos de mise à jour pour rire."
+        },
+        {
+          "title": "Windows 10 party hit",
+          "description": "Interrompre une conversation avec une fausse mise à jour."
+        },
+        {
+          "title": "Windows 10 personnalisé et amusant",
+          "description": "Ajoutez des messages idiots à la mise à jour."
+        },
+        {
+          "title": "Réaction Windows 10",
+          "description": "Enregistrez des réponses de mise à jour hilarantes."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Mise à jour simulée de Windows 10",
+          "content": [
+            "Fausse mise à jour de Windows 10",
+            "Simulation de mise à jour de Windows 10",
+            "Simuler une mise à jour de Windows 10",
+            "Faux écran de mise à jour de Windows 10",
+            "Émuler la mise à jour de Windows 10",
+            "Farce de mise à jour de Windows 10",
+            "Processus de mise à jour de Windows 10"
+          ]
+        },
+        {
+          "title": "Expérience réaliste",
+          "content": [
+            "Mise à jour de Windows 10 d'apparence authentique",
+            "Écran de mise à jour de Windows 10 réaliste",
+            "Tromper ses amis avec la mise à jour de Windows 10",
+            "Progression réaliste de la mise à jour de Windows 10",
+            "Simulation de mise à jour authentique de Windows 10",
+            "Messages de mise à jour authentiques de Windows 10",
+            "Étape de mise à jour de Windows 10"
+          ]
+        },
+        {
+          "title": "Divertissement et plaisir",
+          "content": [
+            "Windows divertissants Blague de mise à jour 10",
+            "Fausse mise à jour amusante de Windows 10",
+            "Profitez d'une mise à jour simulée de Windows 10",
+            "Farce avec une fausse mise à jour de Windows 10",
+            "Expérience de mise à jour Windows 10 passionnante",
+            "Mise à jour Windows 10 pour le plaisir",
+            "Outil de farce de mise à jour Windows 10"
+          ]
+        }
+      ]
+    }
+  },
   "/fake-windows-xp-update-screen": {
     "name": "Fake Update Windows XP",
     "icon": "https://emojicdn.elk.sh/🪟",
@@ -1564,13 +1637,31 @@
       ]
     }
   },
+  "/terms-and-conditions": {
+    "name": "Conditions d'utilisation",
+    "icon": "https://emojicdn.elk.sh/📜",
+    "title": "Conditions d'utilisation",
+    "type": "page"
+  },
+  "/privacy-policy": {
+    "name": "Politique de confidentialité",
+    "icon": "https://emojicdn.elk.sh/🔒",
+    "title": "Politique de confidentialité",
+    "type": "page"
+  },
+  "/contact-us": {
+    "name": "Contactez-nous",
+    "icon": "https://emojicdn.elk.sh/📞",
+    "title": "Contactez-nous",
+    "type": "page"
+  },
   "navigation": {
     "color": "Écrans couleur",
     "prank": "Écrans de farce",
     "fake-update": "Faux écrans de mise à jour",
     "screensaver": "Écrans de veille",
     "tip": {
-      "header": "Les gens utilisent {tipTitle} pour :"
+      "header": "Les gens utilisent {tipTitle} pour:"
     }
   },
   "settings": {

@@ -13,6 +13,7 @@ export default function NavigationScreen() {
   // Group routes by type
   const groupedRoutes: Record<string, RouteStore[]> = {};
   navigationRoutes?.forEach((route: RouteStore) => {
+    if (!route.type) return;
     if (!groupedRoutes[route.type]) {
       groupedRoutes[route.type] = [];
     }

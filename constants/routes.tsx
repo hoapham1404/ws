@@ -37,6 +37,9 @@ import FakeAndroidUpdateIcon from "@/public/android-logo.png";
 import FakeWin11UpdateIcon from "@/public/fake-update-win11.png";
 import FakeAndroidUpdate from "@/components/FakeAndroidUpdate/FakeAndroidUpdate";
 import DVDSetting from "@/components/DVDSaver/DVDSetting";
+import TermAndCondition from "@/components/TermAndCondition/TermAndCondition";
+import PrivacyPolicy from "@/components/PrivacyPolicy/PrivacyPolicy";
+import ContactUs from "@/components/ContactUs/ContactUs";
 
 export class RouteStore {
   path: string;
@@ -44,7 +47,8 @@ export class RouteStore {
   colorName?: string;
   icon?: string;
   isAxis?: boolean;
-  type: "color" | "prank" | "fake-update" | "screensaver";
+  type?: "color" | "prank" | "fake-update" | "screensaver";
+  isPage?: boolean;
   components?: {
     left?: ReactNode;
     mid?: ReactNode;
@@ -56,7 +60,8 @@ export class RouteStore {
 
   constructor(
     path: string,
-    type: "color" | "prank" | "fake-update" | "screensaver",
+    type?: "color" | "prank" | "fake-update" | "screensaver",
+    isPage?: boolean,
     color?: string,
     colorName?: string,
     icon?: string,
@@ -66,9 +71,11 @@ export class RouteStore {
   ) {
     this.path = path;
     this.color = color;
+    this.colorName = colorName;
     this.icon = icon;
     this.isAxis = isAxis;
     this.type = type;
+    this.isPage = isPage;
     this.thumbnail = thumbnail;
     this.iconColor = iconColor;
   }
@@ -321,6 +328,27 @@ export const routes: RouteStore[] = [
     thumbnail: NoSignalIcon,
     iconColor: "white"
   },
+  {
+    path: "/terms-and-conditions",
+    isPage: true,
+    components: {
+      mid: <TermAndCondition />
+    }
+  },
+  {
+    path: "/privacy-policy",
+    isPage: true,
+    components: {
+      mid: <PrivacyPolicy />
+    }
+  },
+  {
+    path: "/contact-us",
+    isPage: true,
+    components: {
+      mid: <ContactUs />
+    }
+  }
 ];
 export const getRouteByPath = (
   path?: string | null,

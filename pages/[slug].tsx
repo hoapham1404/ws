@@ -17,7 +17,6 @@ import Head from "next/head";
 import { usePathname } from "next/navigation";
 import { useTranslations } from "next-intl";
 
-
 export const getStaticPaths: GetStaticPaths = async ({ locales = [] }) => {
   const paths = []
   for (const locale of locales) {
@@ -59,15 +58,34 @@ export default function DynamicPage() {
   const route: RouteStore | undefined = getRouteByPath(pathname);
   if (!route) return <div>Not found</div>
 
+  const title = (() => {
+    if (!route.type) return pathname;
+    switch (route.type) {
+      case "color":
+      case "screensaver":
+      case "fake-update":
+      case "prank":
+        return raw("title", { title: t("name") });
+      default:
+        return raw("title", { title: t("name") });
+    }
+  })();
+
   return (
     <React.Fragment>
+      {route.isPage && route.components?.mid}
+
       <Head>
-        <title>{route.color ? raw("title", { title: t("name") }) : raw("title", { title: t("name") })}</title>
+        <title>
+          {title}
+        </title>
         <meta name="description" content={route.path} />
-        <link rel="icon" href={route.color ? `data:image/svg+xml,
-        <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
-            <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(route.color)}'/>
-        </svg>` : route.icon} />
+        <link rel="icon" href={
+          route.color ? `data:image/svg+xml,
+          <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
+              <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(route.color)}'/>
+          </svg>` : route.icon
+        } />
       </Head>
       <div>
         {route.type === "color" && (
@@ -110,7 +128,6 @@ export default function DynamicPage() {
             bottom={route.components?.bottom || <DVDBottom />}
           />
         )}
-
       </div>
 
     </React.Fragment>

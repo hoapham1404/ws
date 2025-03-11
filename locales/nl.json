@@ -1709,6 +1709,24 @@
       ]
     }
   },
+  "/terms-and-conditions": {
+    "name": "Gebruiksvoorwaarden",
+    "icon": "https://emojicdn.elk.sh/📜",
+    "title": "Gebruiksvoorwaarden",
+    "type": "page"
+  },
+  "/privacy-policy": {
+    "name": "Privacybeleid",
+    "icon": "https://emojicdn.elk.sh/🔒",
+    "title": "Privacybeleid",
+    "type": "page"
+  },
+  "/contact-us": {
+    "name": "Contact",
+    "icon": "https://emojicdn.elk.sh/📞",
+    "title": "Contact",
+    "type": "page"
+  },
   "navigation": {
     "color": "Kleurenschermen",
     "prank": "Prankschermen",
