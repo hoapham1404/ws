@@ -800,12 +800,12 @@
     }
   },
   "/blue-screen-of-death-windows-10": {
-    "name": "Fake Blue Screen of Death 10",
+    "name": "Nep Blue Screen of Death 10",
     "icon": "https://emojicdn.elk.sh/💻",
-    "title": "Windows 10 Fake Blue Screen of Death",
+    "title": "Windows 10 Nep Blue Screen of Death",
     "type": "prank",
     "tip": {
-      "title": "Windows 10 Fake Blue Screen of Death",
+      "title": "Windows 10 Nep Blue Screen of Death",
       "content": [
         {
           "title": "BSOD-kantoorgrap",
@@ -867,67 +867,67 @@
     }
   },
   "/hacker-screen": {
-    "name": "Hacker Typer Screen",
+    "name": "Hacker Typer Scherm",
     "icon": "https://emojicdn.elk.sh/💻‍💻",
-    "title": "Hacker Typer Screen - Prank",
-    "type": "prank",
+    "title": "Hacker Typer Scherm - Grap",
+    "type": "grap",
     "tip": {
-      "title": "Hacker Typer Screen - Prank",
+      "title": "Hacker Typer Scherm - Grap",
       "content": [
         {
-          "title": "hacker screen prank",
-          "description": "Maak indruk op collega's met nep-codering."
+          "title": "hacker scherm grap",
+          "description": "Maak contact met collega's met NEP-codering."
         },
         {
-          "title": "hacker screen voor lessen",
-          "description": "Maak studenten enthousiast over programmeren."
+          "title": "hackerscherm voor lessen",
+          "description": "Maak leerlingen enthousiast over programmeren."
         },
         {
-          "title": "hacker screen voor streaming",
-          "description": "Voeg een technisch tintje toe aan livestreams."
+          "title": "hackerscherm voor streaming",
+          "description": "Bekijk livestreams op een technische manier."
         },
         {
-          "title": "hacker screen voor vlogs",
-          "description": "Geef technische video's een boost met code-effecten."
+          "title": "hackerscherm voor vlogs",
+          "description": "Geweldige technische video's geven een boost met code-effecten."
         },
         {
           "title": "hackerscherm voor presentaties",
-          "description": "Verbeter gesprekken met live codebeelden."
+          "description": "Verbeterde conversatie met live code-afbeeldingen."
         },
         {
           "title": "hackerscherm voor films",
-          "description": "Creëer eenvoudig echte hackscènes."
+          "description": "Maak eenvoudige, echte hackscènes."
         }
       ],
       "subTips": [
         {
           "title": "Entertainment & grappen",
           "content": [
-            "Maak indruk op vrienden met nep-hackvaardigheden",
-            "Haal grappen uit met familieleden",
-            "Maak kantoorfeestjes leuker",
+            "Maak indruk op vrienden met niet-bedreigend gedrag",
+            "Neem even een pauze van het gezinsleven",
+            "Maak kantoorfeestjes leuk",
             "Maak grappige content voor sociale media",
-            "Laat vrienden denken dat je een programmeur bent"
+            "Laat je vrienden denken dat je een programmeur bent"
           ]
         },
         {
-          "title": "Educatieve doeleinden",
+          "title": "Onderwijskundige doelen",
           "content": [
-            "Demonstreer coderen in klaslokalen",
+            "Demonstranten coderen in klaslokalen",
             "Visualiseer programmeerconcepten",
-            "Betrek studenten bij technologie",
+            "Studenten ondersteunen in technologie",
             "Maak technische presentaties interessanter",
-            "Maak beginners wegwijs in coderen"
+            "Maak een beginnershandleiding voor coderen"
           ]
         },
         {
           "title": "Creatief en professioneel gebruik",
           "content": [
-            "Verbeter live streaming-beelden",
-            "Creëer authentieke technische scènes in films",
-            "Voeg hackersesthetiek toe aan video's",
-            "Wek interesse op technische conferenties",
-            "Inspireer discussies over cyberbeveiliging"
+            "Verbeter live streaming beelden",
+            "Authentieke technische scènes creëren in films",
+            "Breng hacker-esthetiek naar een video",
+            "Week interesse in technische conferenties",
+            "Inspireer bespreekt cyberveiligheid"
           ]
         }
       ]
