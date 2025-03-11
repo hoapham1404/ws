@@ -8,11 +8,15 @@ export default function LocalesDropdown() {
   const [isOpen, setIsOpen] = useState(false);
 
   const getLanguageLabel = (locale: string) => {
+    /**
+     * Deutschland, United Kingdom, France, Schweiz, Nederland
+     */
     const labels: Map<string, string> = new Map([
-      ['en', 'English'], // English
-      ['nl', 'Nederlands'], // Dutch
-      ['fr', 'Français'], // French
-      ['de', 'Deutsch'], // German
+      ['de', 'Deutschland'], // Germany
+      ['en', 'United Kingdom'], // United Kingdom
+      ['fr', 'France'], // France
+      ['ch', 'Schweiz'], // Switzerland
+      ['nl', 'Nederland'], // Netherlands
     ])
 
     return labels.get(locale) || locale;
