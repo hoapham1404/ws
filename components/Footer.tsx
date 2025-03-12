@@ -13,7 +13,7 @@ export default function Footer() {
             ))
           }
         </p>
-        <p>© 2025 WS, Made in US 🇺🇸</p>
+        <p>© 2025 WS, Made in US <span className="text-xs">🇺🇸</span></p>
       </div>
     </footer>
   );
