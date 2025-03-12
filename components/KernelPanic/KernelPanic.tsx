@@ -1,6 +1,6 @@
 import { Power } from "lucide-react"
 import { useFullScreen } from "../(prank-screen)/hooks/useFullScreen";
-export default function PowerDrain() {
+export default function KernelPanic() {
   const { isFullscreen } = useFullScreen();
   return (
     <div className={"h-full bg-[#222222] flex items-center justify-center relative"}>

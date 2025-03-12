@@ -11,7 +11,7 @@ export default function TemperatureSlider() {
         step={50}
         value={currentTemperature}
         onChange={(e) => setTemperature(Number(e.target.value))}
-        className="w-full h-2 bg-neutral-200 rounded-full appearance-none cursor-pointer [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:h-4 [&::-webkit-slider-thumb]:w-4 [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-neutral-700 [&::-moz-range-thumb]:border-0 [&::-moz-range-thumb]:h-4 [&::-moz-range-thumb]:w-4 [&::-moz-range-thumb]:rounded-full [&::-moz-range-thumb]:bg-neutral-700"
+        className="w-full h-[1px] rounded-full appearance-none cursor-pointer bg-black [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:h-4 [&::-webkit-slider-thumb]:w-4 [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-neutral-700 [&::-moz-range-thumb]:border-0 [&::-moz-range-thumb]:h-7 [&::-moz-range-thumb]:w-3 [&::-moz-range-thumb]:rounded-full [&::-moz-range-thumb]:bg-neutral-700"
       />
     </div>
   );

@@ -40,8 +40,8 @@ import DVDSetting from "@/components/DVDSaver/DVDSetting";
 import TermAndCondition from "@/components/TermAndCondition/TermAndCondition";
 import PrivacyPolicy from "@/components/PrivacyPolicy/PrivacyPolicy";
 import ContactUs from "@/components/ContactUs/ContactUs";
-import PowerDrain from "@/components/PowerDrain/PowerDrain";
-import PowerDrainIcon from "@/public/OldKernelPanic1280.webp";
+import KernelPanicIcon from "@/public/OldKernelPanic1280.webp";
+import KernelPanic from "@/components/KernelPanic/KernelPanic";
 
 export class RouteStore {
   path: string;
@@ -155,7 +155,7 @@ export const routes: RouteStore[] = [
   },
   {
     path: "/zoom-lighting",
-    color: "#FFC5C2",
+    color: "#ffe5ce",
     colorName: "zoom-lighting",
     isAxis: true,
     type: "color",
@@ -352,13 +352,13 @@ export const routes: RouteStore[] = [
     }
   },
   {
-    path: "/power-drain",
+    path: "/kernel-panic",
     type: "prank",
     icon: "https://emojicdn.elk.sh/🔋",
     components: {
-      mid: <PowerDrain />
+      mid: <KernelPanic />
     },
-    thumbnail: PowerDrainIcon,
+    thumbnail: KernelPanicIcon,
     iconColor: "white"
   }
 ];
