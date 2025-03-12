@@ -13,7 +13,7 @@ export default function Footer() {
             ))
           }
         </p>
-        <p>© 2025 WS, Made in US 🇺🇸</p>
+        <p>© 2025 WS, Made in US <img src="https://flagcdn.com/w320/us.png" alt="US Flag" className="inline-block h-3" /></p>
       </div>
     </footer>
   );
