@@ -1728,18 +1728,18 @@
     "title": "Contact Us",
     "isPage": true
   },
-  "/power-drain": {
-    "name": "Power Drain",
+  "/kernel-panic": {
+    "name": "Kernel Panic",
     "icon": "https://emojicdn.elk.sh/🔋",
-    "title": "Power Drain",
+    "title": "Kernel Panic",
     "type": "prank",
     "isPage": true,
     "tip": {
-      "title": "Power Drain",
+      "title": "Kernel Panic",
       "content": [
         {
-          "title": "Power Drain",
-          "description": "Power Drain is a prank screen that drains the power of the device."
+          "title": "Kernel panic",
+          "description": "Kernel panic is a prank screen that makes the kernel of the device panic."
         }
       ]
     }

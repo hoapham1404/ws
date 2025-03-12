@@ -1655,18 +1655,18 @@
     "title": "Contactez-nous",
     "type": "page"
   },
-  "/power-drain": {
-    "name": "Drain de puissance",
+  "/kernel-panic": {
+    "name": "Kernel Panic",
     "icon": "https://emojicdn.elk.sh/🔋",
-    "title": "Drain de puissance",
+    "title": "Kernel Panic",
     "type": "prank",
     "isPage": true,
     "tip": {
-      "title": "Drain de puissance",
+      "title": "Kernel Panic",
       "content": [
         {
-          "title": "Drain de puissance",
-          "description": "Le drain de puissance est un écran de farce qui simule un appareil électronique qui se décharge."
+          "title": "Kernel Panic",
+          "description": "Le kernel panic est un écran de farce qui simule un appareil électronique qui se décharge."
         }
       ]
     }

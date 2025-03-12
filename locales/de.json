@@ -1727,18 +1727,18 @@
     "title": "Kontakt",
     "type": "page"
   },
-  "/power-drain": {
-    "name": "Leistungsschluck",
+  "/kernel-panic": {
+    "name": "Kernel Panic",
     "icon": "https://emojicdn.elk.sh/🔋",
-    "title": "Leistungsschluck",
+    "title": "Kernel Panic",
     "type": "prank",
     "isPage": true,
     "tip": {
-      "title": "Leistungsschluck",
+      "title": "Kernel Panic",
       "content": [
         {
-          "title": "Leistungsschluck",
-          "description": "Leistungsschluck ist ein Streichbildschirm, der die Leistung des Geräts auffrisst."
+          "title": "Kernel Panic",
+          "description": "Kernel panic ist ein Streichbildschirm, der die Kernel des Geräts lautstärker macht."
         }
       ]
     }

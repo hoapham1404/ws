@@ -1727,18 +1727,18 @@
     "title": "Contact",
     "type": "page"
   },
-  "/power-drain": {
-    "name": "Stroomdrain",
+  "/kernel-panic": {
+    "name": "Kernel Panic",
     "icon": "https://emojicdn.elk.sh/🔋",
-    "title": "Stroomdrain",
+    "title": "Kernel Panic",
     "type": "prank",
     "isPage": true,
     "tip": {
-      "title": "Stroomdrain",
+      "title": "Kernel Panic",
       "content": [
         {
-          "title": "Stroomdrain",
-          "description": "Stroomdrain is een prankscherm dat de stroom van het apparaat afneemt."
+          "title": "Kernel Panic",
+          "description": "Kernel panic is een prankscherm dat de kernel van het apparaat laat crashen."
         }
       ]
     }
