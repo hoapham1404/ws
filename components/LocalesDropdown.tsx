@@ -9,14 +9,15 @@ export default function LocalesDropdown() {
 
   const getLanguageLabel = (locale: string) => {
     /**
-     * Deutschland, United Kingdom, France, Schweiz, Nederland
+     * Deutschland, English, France, Schweiz, Nederland, 한국어
      */
     const labels: Map<string, string> = new Map([
       ['de', 'Deutschland'], // Germany
-      ['en', 'United Kingdom'], // United Kingdom
+      ['en', 'English'], // English
       ['fr', 'France'], // France
-      ['ch', 'Schweiz'], // Switzerland
       ['nl', 'Nederland'], // Netherlands
+      ['cn', '中國'], // China
+      ['ko', '한국인'], // Korean
     ])
 
     return labels.get(locale) || locale;
