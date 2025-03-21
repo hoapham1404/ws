@@ -1,6 +1,4 @@
-import ColorOptions from "@/components/BasicColorPage/ColorOptions";
 import PreviewContent from "@/components/BasicColorPage/PreviewContent";
-import ScreenOptions from "@/components/BasicColorPage/ScreenOptions";
 import SettingsPanel from "@/components/BasicColorPage/SettingsPanel";
 import PageLayout from "@/components/Layout/PageLayout";
 import { getRouteByPath, RouteStore } from "@/constants/routes";
@@ -36,10 +34,8 @@ export default function HomePage() {
       </svg>` : route.icon} />
       </Head>
       <PageLayout
-        left={<ColorOptions />}
         mid={<PreviewContent />}
         right={<SettingsPanel />}
-        bottom={<ScreenOptions />}
       />
     </React.Fragment >
   )
