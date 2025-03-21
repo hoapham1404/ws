@@ -23,7 +23,7 @@ export default function Sidebar() {
           className={cn(
             "fixed top-1/2 left-4 transform -translate-y-1/2 transition-all duration-300 ease-in-out",
             "z-10",
-            "min-h-80 bg-white text-gray-900",
+            "min-h-80 max-h-[750px] overflow-hidden overflow-y-auto bg-white text-gray-900",
             "rounded-xl shadow-xl border",
             isPanelOpen ? "min-w-80" : "min-w-12",
           )}
