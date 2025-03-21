@@ -1,14 +1,12 @@
 import { create } from 'zustand';
-interface SidebarState {
-  currentTab?: string;
-  setCurrentTab: (tab: string) => void;
-}
 
-const sidebarStore = create<SidebarState>(() => ({
-  currentTab: undefined,
-  setCurrentTab: (tab: string): void => {
-    sidebarStore.setState({ currentTab: tab });
-  }
+interface SidebarState {
+  currentTab: number;
+  setCurrentTab: (tabId: number) => void;
+}
+const sidebarStore = create<SidebarState>((set) => ({
+  currentTab: 1,
+  setCurrentTab: (tabId: number) => set({ currentTab: tabId }),
 }));
 
 export default sidebarStore;

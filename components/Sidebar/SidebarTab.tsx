@@ -2,6 +2,7 @@ import { cn } from "@/lib/utils";
 import React, { JSX } from "react";
 import NavigationSection from "./NavigationSection";
 import TipsSection from "./TipsSection";
+import sidebarStore from "./useSidebar";
 
 const tabs: { id: number, name: string; content: JSX.Element }[] = [
   {
@@ -17,25 +18,25 @@ const tabs: { id: number, name: string; content: JSX.Element }[] = [
 ];
 
 export default function SidebarTab(): JSX.Element {
-  const [currentTab, setCurrentTab] = React.useState<number>(1);
-
+  const { currentTab, setCurrentTab } = sidebarStore();
 
   return (
     <div>
       <div className={cn("flex flex-row justify-between items-center", "border rounded-xl", "text-sm overflow-hidden")}>
         {tabs.map((tab) => (
-          <div
+          <button
             key={tab.id}
             onClick={() => setCurrentTab(tab.id)}
             className={cn(
               "flex-1 text-center",
               "p-2 cursor-pointer",
               "transition-all duration-300 ease-in-out",
-              currentTab === tab.id && "bg-gray-100"
+              "border-b",
+              currentTab === tab.id ? "border-blue-500" : "border-transparent hover:border-gray-300"
             )}
           >
             {tab.name}
-          </div>
+          </button>
         ))}
       </div>
       <div className="mt-4">
@@ -48,6 +49,6 @@ export default function SidebarTab(): JSX.Element {
           ))
         }
       </div>
-    </div>
+    </div >
   );
 }

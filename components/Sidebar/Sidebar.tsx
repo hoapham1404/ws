@@ -1,17 +1,20 @@
 import { cn } from "@/lib/utils"
-import { ChevronLeft, ChevronRight } from "lucide-react"
+import { ChevronLeft, ChevronRight, Navigation, Quote } from "lucide-react"
 import { useState } from "react"
 import { useFullScreen } from "../(prank-screen)/hooks/useFullScreen"
 import SidebarTab from "./SidebarTab"
 import Image from "next/image";
-
+import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
+import sidebarStore from "./useSidebar"
+import { Button } from "../ui/button"
 
 export default function Sidebar() {
   const [isPanelOpen, setIsPanelOpen] = useState(true)
   const { isFullscreen } = useFullScreen()
 
+  const { setCurrentTab } = sidebarStore()
   return (
-    <div>
+    <div className="">
       {!isFullscreen &&
         <div
           className={cn(
@@ -22,48 +25,97 @@ export default function Sidebar() {
             isPanelOpen ? "min-w-80" : "min-w-12",
           )}
         >
-          {isPanelOpen && (
-            <section className="p-4 flex flex-row justify-between items-center border-b">
-              <p className="font-bold">Sidebar</p>
-            </section>
-          )}
+          <div className="">
+            {isPanelOpen && (
+              <section className="p-4 flex flex-row justify-between items-center border-b">
+                <p className="font-bold">Sidebar</p>
+              </section>
+            )}
 
-          {isPanelOpen && (
-            <section className="p-4">
-              <SidebarTab />
-            </section>
-          )}
+            {isPanelOpen && (
+              <section className="p-4">
+                <SidebarTab />
+              </section>
+            )}
 
-          {isPanelOpen && (
-            <div className="p-2 text-sm text-center flex flex-col items-center justify-center gap-1">
-              <p className="">
-                {
-                  Array.from(new Map([
-                    ["/privacy-policy", "Privacy policy"],
-                    ["/terms-and-conditions", "Terms & conditions"],
-                    ["/contact-us", "Contact us"]
-                  ]).entries()).map(([key, value]) => (
-                    <a key={key} href={key} onClick={(e) => { e.preventDefault(); window.location.href = key }} className="mx-1
+            {isPanelOpen && (
+              <div className="p-2 text-sm text-center flex flex-col items-center justify-center gap-1">
+                <p className="">
+                  {
+                    Array.from(new Map([
+                      ["/privacy-policy", "Privacy policy"],
+                      ["/terms-and-conditions", "Terms & conditions"],
+                      ["/contact-us", "Contact us"]
+                    ]).entries()).map(([key, value]) => (
+                      <a key={key} href={key} onClick={(e) => { e.preventDefault(); window.location.href = key }} className="mx-1
                     hover:underline transition-colors duration-300 ease-in-out
                     ">{value}</a>
-                  ))
-                }
-              </p>
-              <div className="flex flex-row justify-center items-center gap-1">
-                <p className="">© 2025 WS, Made in US </p>
-                <Image src="https://flagcdn.com/w320/us.png" alt="US Flag" className="inline-block" width={20} height={20} />
+                    ))
+                  }
+                </p>
+                <div className="flex flex-row justify-center items-center gap-1">
+                  <p className="">© 2025 WS, Made in US </p>
+                  <Image src="https://flagcdn.com/w320/us.png" alt="US Flag" className="inline-block" width={20} height={20} />
+                </div>
               </div>
-            </div>
-          )}
+            )}
 
-          <button
-            onClick={() => setIsPanelOpen(!isPanelOpen)}
-            className="absolute top-1/2 right-0 transform -translate-y-1/2 translate-x-1/2 w-8 h-8 flex items-center justify-center rounded-full bg-white shadow-2xl"
-          >
-            {isPanelOpen ? <ChevronLeft className="w-4 h-4" /> : <ChevronRight className="w-4 h-4" />}
-          </button>
+            {!isPanelOpen && (
+              <div className="absolute top-1/2 right-2 transform -translate-y-1/2  flex flex-col gap-2">
+                <TooltipProvider>
+                  <Tooltip>
+                    <TooltipTrigger asChild>
+                      <Button
+                        variant="ghost"
+                        size="icon"
+                        className="h-8 w-8"
+                        onClick={() => {
+                          setIsPanelOpen(true)
+                          setCurrentTab(1)
+                        }}>
+                        <Navigation className="h-4 w-4" />
+                      </Button>
+                    </TooltipTrigger>
+                    <TooltipContent side="right">
+                      <p>Colors</p>
+                    </TooltipContent>
+                  </Tooltip>
+                </TooltipProvider>
+
+                <TooltipProvider>
+                  <Tooltip>
+                    <TooltipTrigger asChild>
+                      <Button
+                        variant="ghost"
+                        size="icon"
+                        className="h-8 w-8"
+                        onClick={() => {
+                          setIsPanelOpen(true)
+                          setCurrentTab(2)
+                        }}
+                      >
+                        <Quote className="h-4 w-4" />
+                      </Button>
+                    </TooltipTrigger>
+                    <TooltipContent side="right">
+                      <p>Settings</p>
+                    </TooltipContent>
+                  </Tooltip>
+                </TooltipProvider>
+              </div>
+            )}
+
+            <button
+              onClick={() => setIsPanelOpen(!isPanelOpen)}
+              className="absolute top-1/2 right-0 transform -translate-y-1/2 translate-x-1/2 w-8 h-8 flex items-center justify-center rounded-full bg-white shadow-2xl"
+            >
+              {isPanelOpen ? <ChevronLeft className="w-4 h-4" /> : <ChevronRight className="w-4 h-4" />}
+            </button>
+            <div>
+            </div>
+          </div >
         </div>
       }
-    </div >
+    </div>
   )
 }
