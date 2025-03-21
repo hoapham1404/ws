@@ -7,10 +7,14 @@ import Image from "next/image";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
 import sidebarStore from "./useSidebar"
 import { Button } from "../ui/button"
+import { usePathname } from "next/navigation"
+import { useTranslations } from "next-intl"
 
 export default function Sidebar() {
   const [isPanelOpen, setIsPanelOpen] = useState(true)
   const { isFullscreen } = useFullScreen()
+  const pathName = usePathname();
+  const t = useTranslations(pathName);
 
   const { setCurrentTab } = sidebarStore()
   return (
@@ -28,7 +32,7 @@ export default function Sidebar() {
           <div className="">
             {isPanelOpen && (
               <section className="p-4 flex flex-row justify-between items-center border-b">
-                <p className="font-bold">Sidebar</p>
+                <p className="font-bold">{t("name")}</p>
               </section>
             )}
 

@@ -1,6 +1,5 @@
 import { Montserrat } from "next/font/google";
 import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
 import Sidebar from "@/components/Sidebar/Sidebar";
 
 const montserrat = Montserrat({
@@ -10,12 +9,13 @@ const montserrat = Montserrat({
 });
 
 export default function AppLayout({ children }: { children: React.ReactNode }) {
-  return (<div className={`${montserrat.className} mdl-js `}>
-    <Navbar />
-    <main className="max-w-screen-lg mx-auto">
-      {children}
-      <Sidebar />
-    </main>
-  </div>
+  return (
+    <div className={`${montserrat.className} mdl-js min-h-screen grid grid-cols-1`}>
+      <Navbar />
+      <main className="flex-1 max-w-screen-lg mx-auto">
+        {children}
+        <Sidebar />
+      </main>
+    </div>
   );
 }
