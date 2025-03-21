@@ -1786,5 +1786,10 @@
         }
       ]
     }
+  },
+  "sidebar": {
+    "links": "Liens",
+    "uses": "Utilisations",
+    "other_tips": "Autres astuces"
   }
 }

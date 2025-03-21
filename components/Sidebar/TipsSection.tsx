@@ -33,7 +33,7 @@ export default function TipsSection(): JSX.Element {
 
 
       <h2 className="font-semibold text-left text-gray-800 mt-4 text-wrap max-w-80">
-        Other tips
+        {tRaw("sidebar.other_tips")}
       </h2>
       <Accordion type="single" collapsible className="flex flex-col">
         {tip.subTips && tip.subTips.map((item: { title: string, content: string[] }) => (

@@ -1785,5 +1785,10 @@
         }
       ]
     }
+  },
+  "sidebar": {
+    "links": "Links",
+    "uses": "Gebruikt voor",
+    "other_tips": "Andere tips"
   }
 }

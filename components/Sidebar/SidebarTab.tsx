@@ -3,22 +3,24 @@ import React, { JSX } from "react";
 import NavigationSection from "./NavigationSection";
 import TipsSection from "./TipsSection";
 import sidebarStore from "./useSidebar";
+import { useTranslations } from "next-intl";
 
-const tabs: { id: number, name: string; content: JSX.Element }[] = [
-  {
-    id: 1,
-    name: "Links",
-    content: <NavigationSection />
-  },
-  {
-    id: 2,
-    name: "Uses",
-    content: <TipsSection />
-  }
-];
 
 export default function SidebarTab(): JSX.Element {
   const { currentTab, setCurrentTab } = sidebarStore();
+  const t = useTranslations("sidebar");
+  const tabs: { id: number, name: string; content: JSX.Element }[] = [
+    {
+      id: 1,
+      name: t("links"),
+      content: <NavigationSection />
+    },
+    {
+      id: 2,
+      name: t("uses"),
+      content: <TipsSection />
+    }
+  ];
 
   return (
     <div>
