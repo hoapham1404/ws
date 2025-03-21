@@ -1,27 +1,12 @@
 import { cn } from "@/lib/utils";
 import React, { JSX } from "react";
-import {
-  Accordion,
-  AccordionContent,
-  AccordionItem,
-  AccordionTrigger,
-} from "@/components/ui/accordion";
+import NavigationSection from "./NavigationSection";
 
 const tabs: { id: number, name: string; content: JSX.Element }[] = [
   {
     id: 1,
     name: "Links",
-    content:
-      <Accordion type="single" collapsible>
-        <AccordionItem value="1">
-          <AccordionTrigger>Link 1</AccordionTrigger>
-          <AccordionContent>Link 1 content</AccordionContent>
-        </AccordionItem>
-        <AccordionItem value="2">
-          <AccordionTrigger>Link 2</AccordionTrigger>
-          <AccordionContent>Link 2 content</AccordionContent>
-        </AccordionItem>
-      </Accordion >
+    content: <NavigationSection />,
   },
   {
     id: 2,
