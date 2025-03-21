@@ -13,6 +13,7 @@ export default function Sidebar() {
   const { isFullscreen } = useFullScreen()
   const pathName = usePathname();
   const t = useTranslations(pathName);
+  const raw = useTranslations();
   const { isPanelOpen, setIsPanelOpen, setCurrentTab } = sidebarStore()
 
   return (
@@ -79,7 +80,7 @@ export default function Sidebar() {
                       </Button>
                     </TooltipTrigger>
                     <TooltipContent side="right">
-                      <p>Colors</p>
+                      <p>{raw("sidebar.links")}</p>
                     </TooltipContent>
                   </Tooltip>
                 </TooltipProvider>
@@ -100,7 +101,7 @@ export default function Sidebar() {
                       </Button>
                     </TooltipTrigger>
                     <TooltipContent side="right">
-                      <p>Settings</p>
+                      <p>{raw("sidebar.uses")}</p>
                     </TooltipContent>
                   </Tooltip>
                 </TooltipProvider>
