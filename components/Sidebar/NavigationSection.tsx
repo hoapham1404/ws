@@ -44,12 +44,12 @@ export default function NavigationSection(): JSX.Element {
         return (
           <AccordionItem key={type} value={type}>
             <AccordionTrigger>{t(`navigation.${type}`)}</AccordionTrigger>
-            <AccordionContent className="flex justify-between mt-4 cursor-pointer">
+            <AccordionContent className="grid grid-cols-2">
               {routes.map((route: RouteStore) => (
                 <Link
                   key={route.path}
                   href={route.path}
-                  className={`w-full flex flex-col items-center p-6 ${route.path === pathName ? 'bg-gray-300' : ''}`}
+                  className={`w-full flex flex-col items-center p-1 ${route.path === pathName ? 'bg-gray-300' : ''}`}
                 >
                   <div className="shadow-md">
                     {
@@ -61,7 +61,7 @@ export default function NavigationSection(): JSX.Element {
                     }
                   </div>
 
-                  <span className="mt-2 text-sm md:text-base underline text-center">{t(`${route.path}.name`)}</span>
+                  <span className="mt-2 text-sm underline text-center text-balance w-32">{t(`${route.path}.name`)}</span>
                 </Link>
               ))
               }

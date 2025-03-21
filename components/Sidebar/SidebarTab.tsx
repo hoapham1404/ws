@@ -1,17 +1,18 @@
 import { cn } from "@/lib/utils";
 import React, { JSX } from "react";
 import NavigationSection from "./NavigationSection";
+import TipsSection from "./TipsSection";
 
 const tabs: { id: number, name: string; content: JSX.Element }[] = [
   {
     id: 1,
     name: "Links",
-    content: <NavigationSection />,
+    content: <NavigationSection />
   },
   {
     id: 2,
     name: "Uses",
-    content: <div>Tab 2 content</div>,
+    content: <TipsSection />
   }
 ];
 
