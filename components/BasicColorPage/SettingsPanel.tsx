@@ -11,7 +11,7 @@ export default function SettingsPanel() {
   const setting = useTranslations("settings.color");
 
   return (
-    <div className="flex flex-col justify-center items-center">
+    <div className="max-h-full overflow-hidden flex flex-col justify-center items-center">
       <section className="flex flex-col gap-2">
         <h3 className="my-4 mx-6 text-center text-lg text-balance">
           {setting("1", { title: t("name").split(" ")[0] })}

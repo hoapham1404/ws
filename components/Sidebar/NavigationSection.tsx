@@ -24,14 +24,12 @@ export default function NavigationSection(): JSX.Element {
     }
     switch (route.type) {
       case "color":
-        if (route?.isAxis === false) {
-          groupedRoutes["color"].push(route);
-        }
+        if (route?.isAxis === false) { }
+        groupedRoutes["color"].push(route);
         break;
       case "fake-update":
-        if (route.path !== '/fake-windows-11-update-screen' && route.path !== '/fake-android-update') {
-          groupedRoutes["fake-update"].push(route);
-        }
+        if (route.path !== '/fake-windows-11-update-screen' && route.path !== '/fake-android-update') { }
+        groupedRoutes["fake-update"].push(route);
         break;
       default:
         groupedRoutes[route.type].push(route);
