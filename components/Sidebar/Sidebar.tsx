@@ -1,6 +1,5 @@
 import { cn } from "@/lib/utils"
 import { ChevronLeft, ChevronRight, Navigation, Quote } from "lucide-react"
-import { useState } from "react"
 import { useFullScreen } from "../(prank-screen)/hooks/useFullScreen"
 import SidebarTab from "./SidebarTab"
 import Image from "next/image";
@@ -11,12 +10,11 @@ import { usePathname } from "next/navigation"
 import { useTranslations } from "next-intl"
 
 export default function Sidebar() {
-  const [isPanelOpen, setIsPanelOpen] = useState(true)
   const { isFullscreen } = useFullScreen()
   const pathName = usePathname();
   const t = useTranslations(pathName);
+  const { isPanelOpen, setIsPanelOpen, setCurrentTab } = sidebarStore()
 
-  const { setCurrentTab } = sidebarStore()
   return (
     <div className="">
       {!isFullscreen &&

@@ -1,6 +1,7 @@
 import { Montserrat } from "next/font/google";
 import Navbar from "@/components/Navbar";
 import Sidebar from "@/components/Sidebar/Sidebar";
+import sidebarStore from "@/components/Sidebar/useSidebar";
 
 const montserrat = Montserrat({
   subsets: ["latin"],
@@ -9,13 +10,16 @@ const montserrat = Montserrat({
 });
 
 export default function AppLayout({ children }: { children: React.ReactNode }) {
+  const { setIsPanelOpen } = sidebarStore();
   return (
     <div className={`${montserrat.className} mdl-js min-h-screen grid grid-cols-1`}>
       <Navbar />
-      <main className="flex-1 max-w-screen-lg mx-auto">
-        {children}
-        <Sidebar />
-      </main>
+      <div className="w-full" onClick={() => setIsPanelOpen(false)} >
+        <main className="flex-1 max-w-screen-lg mx-auto" onClick={() => setIsPanelOpen(false)}>
+          {children}
+        </main>
+      </div>
+      <Sidebar />
     </div>
   );
 }
