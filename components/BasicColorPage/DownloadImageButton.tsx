@@ -12,6 +12,7 @@ export default function DownloadImageButton() {
   if (!currentRoute) return null
   return (
     <button
+      data-app-host="true"
       onClick={() => downloadImage(currentResolution, currentColor, currentRoute.colorName)}
       className="mx-auto w-fit border rounded my-6 "
     >

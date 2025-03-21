@@ -3,6 +3,7 @@ import Navbar from "@/components/Navbar";
 import NavigationScreen from "@/components/NavigationScreen";
 import ScreenTip from "@/components/ScreenTip/ScreenTip";
 import Footer from "@/components/Footer";
+import Sidebar from "@/components/Sidebar/Sidebar";
 
 const montserrat = Montserrat({
   subsets: ["latin"],
@@ -17,6 +18,7 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
       {children}
       <NavigationScreen />
       <ScreenTip />
+      <Sidebar />
     </main>
     <Footer />
   </div>
