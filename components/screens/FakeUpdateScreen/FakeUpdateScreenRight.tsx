@@ -33,6 +33,7 @@ export const FakeUpdateScreenRight = () => {
       </div>
 
       <button
+        data-app-host="true"
         onClick={handleRestart}
         className="mt-2"
       >

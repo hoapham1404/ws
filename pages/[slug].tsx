@@ -87,48 +87,46 @@ export default function DynamicPage() {
           </svg>` : route.icon || "/favicon.ico"
         } />
       </Head>
-      <div>
-        {route.type === "color" && (
+      {route.type === "color" && (
+        <PageLayout
+          left={<ColorOptions />}
+          mid={<PreviewContent />}
+          right={<SettingsPanel />}
+          bottom={<ScreenOptions />}
+        />
+      )}
+      {route.type === "prank" && (
+        <PageLayout
+          mid={route.components?.mid}
+          right={route.components?.right}
+          bottom={<NavigateBar />}
+        />
+      )}
+      {route.type === "fake-update" && (
+        <UpdateProgressProvider>
           <PageLayout
-            left={<ColorOptions />}
-            mid={<PreviewContent />}
-            right={<SettingsPanel />}
-            bottom={<ScreenOptions />}
-          />
-        )}
-        {route.type === "prank" && (
-          <PageLayout
+            left={route.components?.left ?? <FakeUpdateScreenLeft />}
             mid={route.components?.mid}
-            right={route.components?.right}
-            bottom={<NavigateBar />}
+            right={
+              ["/fake-ubuntu-22-04-update-screen", "/fake-chrome-os-update-screen"].includes(
+                route.path,
+              ) ? (
+                route.components?.right
+              ) : (
+                <FakeUpdateScreenRight />
+              )
+            }
+            bottom={route.components?.bottom ?? <FakeUpdateScreenBottom />}
           />
-        )}
-        {route.type === "fake-update" && (
-          <UpdateProgressProvider>
-            <PageLayout
-              left={route.components?.left ?? <FakeUpdateScreenLeft />}
-              mid={route.components?.mid}
-              right={
-                ["/fake-ubuntu-22-04-update-screen", "/fake-chrome-os-update-screen"].includes(
-                  route.path,
-                ) ? (
-                  route.components?.right
-                ) : (
-                  <FakeUpdateScreenRight />
-                )
-              }
-              bottom={route.components?.bottom ?? <FakeUpdateScreenBottom />}
-            />
-          </UpdateProgressProvider>
-        )}
-        {route.type === "screensaver" && (
-          <PageLayout
-            mid={route.components?.mid}
-            right={route.components?.right}
-            bottom={route.components?.bottom || <DVDBottom />}
-          />
-        )}
-      </div>
+        </UpdateProgressProvider>
+      )}
+      {route.type === "screensaver" && (
+        <PageLayout
+          mid={route.components?.mid}
+          right={route.components?.right}
+          bottom={route.components?.bottom || <DVDBottom />}
+        />
+      )}
 
     </React.Fragment>
 

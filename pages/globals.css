@@ -55,6 +55,7 @@
 
     --radius: 0.5rem
   }
+
   .dark {
 
     --background: 0 0% 3.9%;
@@ -105,27 +106,33 @@
 
     --chart-5: 340 75% 55%
   }
+
   input {
     @apply bg-transparent;
     @apply text-center;
   }
+
   input[type="text"] {
     @apply border-0 border-b border-black rounded-none text-base;
-    @apply p-0 ;
+    @apply p-0;
   }
+
   input[type="text"]:focus {
     @apply outline-none;
   }
-  button {
+
+  button[data-app-host] {
     @apply bg-gray-200 rounded hover:bg-gray-300 transition-colors;
     @apply px-2 py-1;
     @apply border border-gray-400;
   }
+
   select {
     @apply bg-transparent;
     @apply text-left;
     @apply border-0 border-b border-black rounded-none text-base;
   }
+
   select:focus {
     @apply outline-none;
   }
@@ -135,6 +142,7 @@
   * {
     @apply border-border;
   }
+
   body {
     @apply bg-background text-foreground;
   }
@@ -146,6 +154,7 @@
   * {
     @apply border-border outline-ring/50;
   }
+
   body {
     @apply bg-background text-foreground;
   }

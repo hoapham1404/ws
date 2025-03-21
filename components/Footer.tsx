@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Footer() {
   return (
     <footer className=" text-black mt-auto pt-4" style={{ backgroundColor: "#d6d6d6", minHeight: "150px" }}>
@@ -13,7 +15,10 @@ export default function Footer() {
             ))
           }
         </p>
-        <p>© 2025 WS, Made in US <img src="https://flagcdn.com/w320/us.png" alt="US Flag" className="inline-block h-3" /></p>
+        <div className="flex flex-row justify-center items-center gap-1">
+          <p>© 2025 WS, Made in US </p>
+          <Image src="https://flagcdn.com/w320/us.png" alt="US Flag" className="inline-block" width={25} height={25} />
+        </div>
       </div>
     </footer>
   );

@@ -1,4 +1,3 @@
-import Header from '@/components/Header'
 import BottomPanel from '@/components/Layout/BottomPanel'
 import LeftSidePanel from '@/components/Layout/LeftSidePanel'
 import PreviewBox from '@/components/Layout/PreviewBox'
@@ -22,7 +21,6 @@ export default function FakeUpdateScreen() {
   return (
     <UpdateProgressProvider>
       <div className="min-h-screen p-3 md:p-5  text-black">
-        <Header />
         <main className="max-w-7xl mx-auto relative flex flex-col md:block">
           {/* Left panel containing color selection options */}
           <LeftSidePanel>

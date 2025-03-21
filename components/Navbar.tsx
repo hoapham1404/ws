@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="container mx-auto px-28 h-20 flex items-center justify-between">
         <div className="flex items-center gap-6">
           <Link href="/" className="font-semibold text-xl">
-            SCREEN
+            WHITESCREEN
           </Link>
           <Link href="/" className="text-lg">
             Feedback
