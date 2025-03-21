@@ -15,8 +15,7 @@ export default function NavigationSection(): JSX.Element {
   const pathName = usePathname();
   const navigationRoutes = getNavigationRoutes(pathName);
   const t = useTranslations();
-  //
-  // Group routes by type
+
   const groupedRoutes: Record<string, RouteStore[]> = {};
   navigationRoutes?.forEach((route: RouteStore) => {
     if (!route.type) return;
@@ -45,38 +44,32 @@ export default function NavigationSection(): JSX.Element {
         return (
           <AccordionItem key={type} value={type}>
             <AccordionTrigger>{t(`navigation.${type}`)}</AccordionTrigger>
-            <AccordionContent>
-              {routes.map((route) => {
-                return (
-                  <div className="flex justify-between mt-4 cursor-pointer" key={route.path}>
-                    {routes.map((route: RouteStore) => (
-                      <Link
-                        key={route.path}
-                        href={route.path}
-                        className={`w-full flex flex-col items-center p-6 ${route.path === pathName ? 'bg-gray-300' : ''}`}
-                      >
-                        <div className="shadow-md">
-                          {
-                            route.color ?
-                              <div className="w-16 aspect-video rounded-md shadow-md hover:opacity-90 transition-opacity" style={{ backgroundColor: route.color }}
-                              />
-                              :
-                              <Image src={route.thumbnail as StaticImageData} alt={route.path} className="w-16 aspect-video object-cover rounded-lg" />
-                          }
-                        </div>
-
-                        <span className="mt-2 text-sm md:text-base underline text-center">{t(`${route.path}.name`)}</span>
-                      </Link>
-                    ))
+            <AccordionContent className="flex justify-between mt-4 cursor-pointer">
+              {routes.map((route: RouteStore) => (
+                <Link
+                  key={route.path}
+                  href={route.path}
+                  className={`w-full flex flex-col items-center p-6 ${route.path === pathName ? 'bg-gray-300' : ''}`}
+                >
+                  <div className="shadow-md">
+                    {
+                      route.color ?
+                        <div className="w-16 aspect-video rounded-md shadow-md hover:opacity-90 transition-opacity" style={{ backgroundColor: route.color }}
+                        />
+                        :
+                        <Image src={route.thumbnail as StaticImageData} alt={route.path} className="w-16 aspect-video object-cover rounded-lg" />
                     }
-                  </div >
-                );
-              })}
+                  </div>
+
+                  <span className="mt-2 text-sm md:text-base underline text-center">{t(`${route.path}.name`)}</span>
+                </Link>
+              ))
+              }
             </AccordionContent>
           </AccordionItem>
         );
       })}
-    </Accordion>
+    </Accordion >
   )
 };
 
