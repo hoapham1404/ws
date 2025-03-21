@@ -23,12 +23,12 @@ export default function Sidebar() {
           className={cn(
             "fixed top-1/2 left-4 transform -translate-y-1/2 transition-all duration-300 ease-in-out",
             "z-10",
-            "min-h-80 max-h-[750px] overflow-hidden overflow-y-auto bg-white text-gray-900",
+            "min-h-80  bg-white text-gray-900",
             "rounded-xl shadow-xl border",
             isPanelOpen ? "min-w-80" : "min-w-12",
           )}
         >
-          <div className="">
+          <div className="  h-full max-h-[750px] overflow-y-auto">
             {isPanelOpen && (
               <section className="p-4 flex flex-row justify-between items-center border-b">
                 <p className="font-bold">{t("name")}</p>
@@ -110,7 +110,7 @@ export default function Sidebar() {
 
             <button
               onClick={() => setIsPanelOpen(!isPanelOpen)}
-              className="absolute top-1/2 right-0 transform -translate-y-1/2 translate-x-1/2 w-8 h-8 flex items-center justify-center rounded-full bg-white shadow-2xl"
+              className="absolute top-1/2 right-0 transform -translate-y-1/2 translate-x-1/2 w-8 h-8 flex items-center justify-center rounded-full bg-white shadow-2xl z-20 transition-all duration-300 ease-in-out "
             >
               {isPanelOpen ? <ChevronLeft className="w-4 h-4" /> : <ChevronRight className="w-4 h-4" />}
             </button>
