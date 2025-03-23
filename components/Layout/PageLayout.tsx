@@ -12,6 +12,7 @@ export default function PageLayout({ mid, right }: PageLayoutProps) {
   return (
     <div className="flex flex-col">
       <main className="flex flex-row justify-center items-center gap-32">
+        <div></div>
         <div
           className="rounded-lg overflow-hidden h-72 aspect-video scale-125"
           style={{
