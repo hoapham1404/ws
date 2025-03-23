@@ -12,10 +12,15 @@ const montserrat = Montserrat({
 export default function AppLayout({ children }: { children: React.ReactNode }) {
   const { setIsPanelOpen } = sidebarStore();
   return (
-    <div className={`${montserrat.className} mdl-js min-h-screen grid grid-cols-1`}>
+    <div
+      className={`${montserrat.className} mdl-js min-h-screen grid grid-cols-1`}
+    >
       <Navbar />
-      <div className="w-full" onClick={() => setIsPanelOpen(false)} >
-        <main className="flex-1 max-w-screen-lg mx-auto" onClick={() => setIsPanelOpen(false)}>
+      <div className="w-full" onClick={() => setIsPanelOpen(false)}>
+        <main
+          className="flex-1 max-w-screen-2xl mx-auto"
+          onClick={() => setIsPanelOpen(false)}
+        >
           {children}
         </main>
       </div>

@@ -1,13 +1,14 @@
 import colorStore from "@/store/colorStore";
 
 export default function ResolutionOptions() {
-  const { currentResolution, setResolution, setPresetResolution } = colorStore();
+  const { currentResolution, setResolution, setPresetResolution } =
+    colorStore();
 
   return (
     <div className="flex flex-col gap-4">
       {/* Preset Selection */}
       <select
-        className="w-full "
+        className="w-full bg-transparent"
         onChange={(e) =>
           setPresetResolution(
             e.target.value as

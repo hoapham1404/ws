@@ -1,4 +1,8 @@
-import { getNavigationRoutes, RouteStore } from "@/constants/routes";
+import {
+  getNavigationRoutes,
+  getRoutesType,
+  RouteStore,
+} from "@/constants/routes";
 import { useTranslations } from "next-intl";
 import { usePathname } from "next/navigation";
 import { JSX } from "react";
@@ -24,11 +28,16 @@ export default function NavigationSection(): JSX.Element {
     }
     switch (route.type) {
       case "color":
-        if (route?.isAxis === false) { }
+        if (route?.isAxis === false) {
+        }
         groupedRoutes["color"].push(route);
         break;
       case "fake-update":
-        if (route.path !== '/fake-windows-11-update-screen' && route.path !== '/fake-android-update') { }
+        if (
+          route.path !== "/fake-windows-11-update-screen" &&
+          route.path !== "/fake-android-update"
+        ) {
+        }
         groupedRoutes["fake-update"].push(route);
         break;
       default:
@@ -37,7 +46,7 @@ export default function NavigationSection(): JSX.Element {
   });
 
   return (
-    <Accordion type="single" collapsible>
+    <Accordion type="multiple" defaultValue={getRoutesType()}>
       {Object.entries(groupedRoutes).map(([type, routes]) => {
         return (
           <AccordionItem key={type} value={type}>
@@ -47,27 +56,32 @@ export default function NavigationSection(): JSX.Element {
                 <Link
                   key={route.path}
                   href={route.path}
-                  className={`w-full flex flex-col items-center p-1 ${route.path === pathName ? 'bg-gray-300' : ''}`}
+                  className={`w-full flex flex-col items-center p-1 ${route.path === pathName ? "bg-gray-300" : ""}`}
                 >
                   <div className="shadow-md">
-                    {
-                      route.color ?
-                        <div className="w-16 aspect-video rounded-md shadow-md hover:opacity-90 transition-opacity" style={{ backgroundColor: route.color }}
-                        />
-                        :
-                        <Image src={route.thumbnail as StaticImageData} alt={route.path} className="w-16 aspect-video object-cover rounded-lg" />
-                    }
+                    {route.color ? (
+                      <div
+                        className="w-16 aspect-video rounded-md shadow-md hover:opacity-90 transition-opacity"
+                        style={{ backgroundColor: route.color }}
+                      />
+                    ) : (
+                      <Image
+                        src={route.thumbnail as StaticImageData}
+                        alt={route.path}
+                        className="w-16 aspect-video object-cover rounded-lg"
+                      />
+                    )}
                   </div>
 
-                  <span className="mt-2 text-sm underline text-center text-balance w-32">{t(`${route.path}.name`)}</span>
+                  <span className="mt-2 text-sm underline text-center text-balance w-32">
+                    {t(`${route.path}.name`)}
+                  </span>
                 </Link>
-              ))
-              }
+              ))}
             </AccordionContent>
           </AccordionItem>
         );
       })}
-    </Accordion >
-  )
-};
-
+    </Accordion>
+  );
+}

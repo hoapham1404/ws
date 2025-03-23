@@ -91,7 +91,7 @@ export const routes: RouteStore[] = [
     colorName: "white",
     isAxis: false,
     type: "color",
-    iconColor: "black"
+    iconColor: "black",
   },
   {
     path: "/black-screen",
@@ -99,7 +99,7 @@ export const routes: RouteStore[] = [
     colorName: "black",
     isAxis: false,
     type: "color",
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/red-screen",
@@ -107,7 +107,7 @@ export const routes: RouteStore[] = [
     colorName: "red",
     isAxis: false,
     type: "color",
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/green-screen",
@@ -115,7 +115,7 @@ export const routes: RouteStore[] = [
     colorName: "green",
     isAxis: false,
     type: "color",
-    iconColor: "black"
+    iconColor: "black",
   },
   {
     path: "/blue-screen",
@@ -123,7 +123,7 @@ export const routes: RouteStore[] = [
     colorName: "blue",
     isAxis: false,
     type: "color",
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/yellow-screen",
@@ -170,7 +170,7 @@ export const routes: RouteStore[] = [
       right: <WhiteNoisePlayButton />,
     },
     thumbnail: WhiteNoiseIcon,
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/broken-screen",
@@ -180,7 +180,7 @@ export const routes: RouteStore[] = [
       mid: <BrokenScreen />,
     },
     thumbnail: BrokenScreenIcon,
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/blue-screen-of-death-windows",
@@ -190,7 +190,7 @@ export const routes: RouteStore[] = [
       mid: <FakeBlueScreen />,
     },
     thumbnail: DeathXPIcon,
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/blue-screen-of-death-windows-10",
@@ -201,7 +201,7 @@ export const routes: RouteStore[] = [
       right: <FakeBlueScreen10_Sidebar />,
     },
     thumbnail: Death10Icon,
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/hacker-screen",
@@ -212,7 +212,7 @@ export const routes: RouteStore[] = [
       right: <HackerSpeedInput />,
     },
     thumbnail: HackerTyperIcon,
-    iconColor: "white"
+    iconColor: "white",
   },
 
   // Fake Update Screens
@@ -224,7 +224,7 @@ export const routes: RouteStore[] = [
       mid: <FakeUpdateWin10 />,
     },
     thumbnail: Windows10UpdateScreen,
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/fake-windows-xp-update-screen",
@@ -234,7 +234,7 @@ export const routes: RouteStore[] = [
       mid: <FakeUpdateWinXP />,
     },
     thumbnail: WindowsXPUpdateScreen,
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/fake-mac-os-x-update-screen",
@@ -244,7 +244,7 @@ export const routes: RouteStore[] = [
       mid: <FakeOSUpdate />,
     },
     thumbnail: MacOSXUpdateScreen,
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/fake-ubuntu-22-04-update-screen",
@@ -254,7 +254,7 @@ export const routes: RouteStore[] = [
       mid: <FakeUbuntu />,
     },
     thumbnail: Ubuntu2204UpdateScreen,
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/fake-chrome-os-update-screen",
@@ -264,7 +264,7 @@ export const routes: RouteStore[] = [
       mid: <FakeChromeOS />,
     },
     thumbnail: ChromeOSUpdateScreen,
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/fake-windows-11-update-screen",
@@ -274,7 +274,7 @@ export const routes: RouteStore[] = [
       mid: <FakeUpdateWin11 />,
     },
     thumbnail: FakeWin11UpdateIcon,
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/fake-android-update",
@@ -284,7 +284,7 @@ export const routes: RouteStore[] = [
       mid: <FakeAndroidUpdate />,
     },
     thumbnail: FakeAndroidUpdateIcon,
-    iconColor: "white"
+    iconColor: "white",
   },
 
   // Screensaver Screens
@@ -294,10 +294,10 @@ export const routes: RouteStore[] = [
     type: "screensaver",
     components: {
       mid: <DVDSaver />,
-      right: <DVDSetting />
+      right: <DVDSetting />,
     },
     thumbnail: DVDIcon,
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/flip-clock-screensaver",
@@ -307,7 +307,7 @@ export const routes: RouteStore[] = [
       mid: <FlipClockPreview />,
     },
     thumbnail: FlipClockIcon,
-    iconColor: "black"
+    iconColor: "black",
   },
   {
     path: "/motivational-quote-screensaver",
@@ -318,7 +318,7 @@ export const routes: RouteStore[] = [
       right: <MotivationQuotesRight />,
     },
     thumbnail: MotivationalQuoteIcon,
-    iconColor: "black"
+    iconColor: "black",
   },
   {
     path: "/no-signal-smpte-color-bars-screensaver",
@@ -328,39 +328,39 @@ export const routes: RouteStore[] = [
       mid: <NoSignalPreview />,
     },
     thumbnail: NoSignalIcon,
-    iconColor: "white"
+    iconColor: "white",
   },
   {
     path: "/terms-and-conditions",
     isPage: true,
     components: {
-      mid: <TermAndCondition />
-    }
+      mid: <TermAndCondition />,
+    },
   },
   {
     path: "/privacy-policy",
     isPage: true,
     components: {
-      mid: <PrivacyPolicy />
-    }
+      mid: <PrivacyPolicy />,
+    },
   },
   {
     path: "/contact-us",
     isPage: true,
     components: {
-      mid: <ContactUs />
-    }
+      mid: <ContactUs />,
+    },
   },
   {
     path: "/kernel-panic",
     type: "prank",
     icon: "https://emojicdn.elk.sh/🔋",
     components: {
-      mid: <KernelPanic />
+      mid: <KernelPanic />,
     },
     thumbnail: KernelPanicIcon,
-    iconColor: "white"
-  }
+    iconColor: "white",
+  },
 ];
 export const getRouteByPath = (
   path?: string | null,
@@ -390,14 +390,20 @@ export const getRouteByPathAsync = async (
 
 export const getColorRoutes = () => routes.filter((route) => route.color);
 export const getIconRoutes = () => routes.filter((route) => route.icon);
-export const getPrankRoutes = () => routes.filter((route) => route.type === "prank");
+export const getPrankRoutes = () =>
+  routes.filter((route) => route.type === "prank");
 export const getFakeUpdateRoutes = (): RouteStore[] => {
-  return routes.filter((route) => route.type === "fake-update")
-    .filter((route) => route.path !== '/fake-windows-11-update-screen' && route.path !== '/fake-android-update')
-}
+  return routes
+    .filter((route) => route.type === "fake-update")
+    .filter(
+      (route) =>
+        route.path !== "/fake-windows-11-update-screen" &&
+        route.path !== "/fake-android-update",
+    );
+};
 export const getScreenSaverRoutes = (): RouteStore[] => {
-  return routes.filter((route) => route.type === "screensaver")
-}
+  return routes.filter((route) => route.type === "screensaver");
+};
 export const getNavigationRoutes = (
   pathName: string,
 ): RouteStore[] | undefined => {
@@ -409,6 +415,11 @@ export const getNavigationRoutes = (
   return navigationRoutes;
 };
 export const getColorNavigationRoutes = (): RouteStore[] => {
-  return routes.filter((option: RouteStore) => !option.isAxis && option.color)
-}
+  return routes.filter((option: RouteStore) => !option.isAxis && option.color);
+};
+
+export const getRoutesType = (): string[] => {
+  const types = routes.map((route) => route.type || "");
+  return [...new Set(types)];
+};
 export default routes;
