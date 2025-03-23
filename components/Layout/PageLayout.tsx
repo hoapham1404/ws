@@ -11,9 +11,9 @@ interface PageLayoutProps {
 export default function PageLayout({ mid, right }: PageLayoutProps) {
   return (
     <div className="flex flex-col">
-      <main className="flex flex-row justify-center items-center">
+      <main className="flex flex-row justify-center items-center gap-32">
         <div
-          className="rounded-lg overflow-hidden h-64 aspect-video "
+          className="rounded-lg overflow-hidden h-72 aspect-video scale-125"
           style={{
             boxShadow: "0 8px 30px #ffbe5c",
           }}
