@@ -60,7 +60,7 @@ export default function SidebarTab(): JSX.Element {
           </div>
         </div>
       </div>
-      <div className="mt-4 h-[500px] overflow-y-auto">
+      <div className="mt-4 px-2 h-[500px] overflow-y-auto">
         {tabs.map((tab) => (
           <div
             key={tab.id}
