@@ -33,46 +33,8 @@ export default function Sidebar() {
             isPanelOpen ? "min-w-80" : "min-w-12",
           )}
         >
-          <div className="  h-full max-h-[750px] overflow-y-auto">
+          <div className="  h-full max-h-[750px] ">
             {isPanelOpen && <SidebarTab />}
-
-            {isPanelOpen && (
-              <div className="p-2 text-sm text-center flex flex-col items-center justify-center gap-1">
-                <p className="">
-                  {Array.from(
-                    new Map([
-                      ["/privacy-policy", "Privacy policy"],
-                      ["/terms-and-conditions", "Terms & conditions"],
-                      ["/contact-us", "Contact us"],
-                    ]).entries(),
-                  ).map(([key, value]) => (
-                    <a
-                      key={key}
-                      href={key}
-                      onClick={(e) => {
-                        e.preventDefault();
-                        window.location.href = key;
-                      }}
-                      className="mx-1
-                    hover:underline transition-colors duration-300 ease-in-out
-                    "
-                    >
-                      {value}
-                    </a>
-                  ))}
-                </p>
-                <div className="flex flex-row justify-center items-center gap-1">
-                  <p className="">© 2025 WS, Made in US </p>
-                  <Image
-                    src="https://flagcdn.com/w320/us.png"
-                    alt="US Flag"
-                    className="inline-block"
-                    width={20}
-                    height={20}
-                  />
-                </div>
-              </div>
-            )}
 
             {!isPanelOpen && (
               <div className="absolute top-1/2 right-2 transform -translate-y-1/2  flex flex-col gap-2">
