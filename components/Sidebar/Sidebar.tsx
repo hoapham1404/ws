@@ -2,7 +2,6 @@ import { cn } from "@/lib/utils";
 import { ChevronLeft, ChevronRight, Navigation, Quote } from "lucide-react";
 import { useFullScreen } from "../(prank-screen)/hooks/useFullScreen";
 import SidebarTab from "./SidebarTab";
-import Image from "next/image";
 import {
   Tooltip,
   TooltipContent,
@@ -11,13 +10,10 @@ import {
 } from "@/components/ui/tooltip";
 import sidebarStore from "./useSidebar";
 import { Button } from "../ui/button";
-import { usePathname } from "next/navigation";
 import { useTranslations } from "next-intl";
 
 export default function Sidebar() {
   const { isFullscreen } = useFullScreen();
-  const pathName = usePathname();
-  const t = useTranslations(pathName);
   const raw = useTranslations();
   const { isPanelOpen, setIsPanelOpen, setCurrentTab } = sidebarStore();
 
@@ -30,14 +26,14 @@ export default function Sidebar() {
             "z-10",
             "bg-white text-gray-900",
             "rounded-xl shadow-xl border",
-            isPanelOpen ? "min-w-80" : "min-w-12",
+            isPanelOpen ? "min-w-80" : "min-w-12 border-0",
           )}
         >
           <div className="  h-full max-h-[750px] ">
             {isPanelOpen && <SidebarTab />}
 
             {!isPanelOpen && (
-              <div className="absolute top-1/2 right-2 transform -translate-y-1/2  flex flex-col gap-2">
+              <div className="absolute top-1/2 right-2 transform -translate-y-1/2  flex flex-col gap-2 shadow-sm shadow-gray-400 rounded-md py-2">
                 <TooltipProvider>
                   <Tooltip>
                     <TooltipTrigger asChild>
@@ -84,7 +80,7 @@ export default function Sidebar() {
 
             <button
               onClick={() => setIsPanelOpen(!isPanelOpen)}
-              className="absolute top-1/2 right-0 transform -translate-y-1/2 translate-x-1/2 w-8 h-8 flex items-center justify-center rounded-full bg-white shadow-2xl z-20 transition-all duration-300 ease-in-out "
+              className="absolute top-1/2 right-0 transform -translate-y-1/2 translate-x-1/2 w-8 h-8 flex items-center justify-center rounded-full bg-white shadow-2xl z-20 transition-all duration-300 ease-in-out border"
             >
               {isPanelOpen ? (
                 <ChevronLeft className="w-4 h-4" />

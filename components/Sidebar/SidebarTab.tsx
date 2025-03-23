@@ -27,7 +27,7 @@ export default function SidebarTab(): JSX.Element {
 
   return (
     <div>
-      <div className="sticky top-0 bg-white z-10">
+      <div className="sticky top-0 bg-white z-10 rounded-xl">
         <section className="p-4 flex flex-row justify-between items-center ">
           <p className="font-bold">{thead("name")}</p>
         </section>
