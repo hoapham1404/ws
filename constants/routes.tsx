@@ -409,10 +409,7 @@ export const getNavigationRoutes = (
 ): RouteStore[] | undefined => {
   const existRoute = getRouteByPath(pathName);
   if (!existRoute) return undefined;
-
-  const routeType = existRoute.type;
-  const navigationRoutes = routes.filter((route) => route.type !== routeType);
-  return navigationRoutes;
+  return routes;
 };
 export const getColorNavigationRoutes = (): RouteStore[] => {
   return routes.filter((option: RouteStore) => !option.isAxis && option.color);
