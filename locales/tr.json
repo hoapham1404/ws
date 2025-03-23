@@ -1,0 +1,1794 @@
+{
+  "/": {
+    "name": "Beyaz ekran",
+    "color": "#FFFFFF",
+    "isAxis": false,
+    "title": "Beyaz ekran",
+    "type": "color",
+    "tip": {
+      "title": "beyaz ekran",
+      "content": [
+        {
+          "title": "çizimleri kopyalamak için beyaz ekran",
+          "description": "Resimleri veya çizimleri kolayca izlemek için parlak beyaz bir ekrana bir kağıt parçası yerleştirin. Bu yöntem, özel araçlar olmadan sanat eserlerini yeniden üretmek için basit ve etkilidir."
+        },
+        {
+          "title": "Işık kaynağı olarak beyaz ekran",
+          "description": "Fotoğraf çekerken nesneleri eşit şekilde aydınlatmak için arka ışık olarak beyaz bir ekran kullanın veya küçük projeler için geçici bir ışık masası olarak kullanın. Yumuşak, dağınık ışık yaratmak için uygun maliyetli bir çözümdür."
+        },
+        {
+          "title": "ekranı kontrol etmek için beyaz ekran",
+          "description": "Ekranınızda ölü pikseller, renk bozulması veya diğer ekran sorunlarını incelemek için tam beyaz bir ekran görüntüleyin. Bu teknik, aksi takdirde fark edilmeyebilecek kusurları hızlı bir şekilde belirlemenizi sağlar."
+        },
+        {
+          "title": "Boş ekran için beyaz ekran",
+          "description": "Beyin fırtınası veya ses dinleme gibi aktif bir ekran gerektirmeyen görevler sırasında dikkat dağıtıcı unsurları en aza indirmek için beyaz ekran. Cihazı kapatmadan odaklanmanın kolay bir yoludur."
+        },
+        {
+          "title": "Okuma lambası olarak beyaz ekran",
+          "description": "Beyaz bir ekranı yumuşak bir okuma lambası olarak kullanarak düşük ışık koşullarında kitaplarınızı veya notlarınızı aydınlatın. Rahat, parlamasız bir okuma için parlaklığı gerektiği gibi ayarlayın."
+        },
+        {
+          "title": "Makyaj için beyaz ekran",
+          "description": "Doğal gün ışığını taklit eden parlak ve eşit aydınlatma sağlayan beyaz bir ekranla makyaj yapın veya iyi aydınlatılmış özçekimler yapın. Bu kurulum true renk üretimi ve kusursuz sonuçlar sağlar."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Temizlik için beyaz ekran",
+          "content": [
+            "monitör temizliği için beyaz ekran",
+            "ölü pikselleri bulmak için beyaz ekran",
+            "kirli noktaları bulmak için beyaz ekran"
+          ]
+        },
+        {
+          "title": "Beyaz ışık çevrimiçi",
+          "content": [
+            "Okumak için beyaz ışık",
+            "görüntülü görüşmeler için beyaz ışık",
+            "beyaz ışık",
+            "selfie için beyaz ekran/ışık",
+            "beyaz LED ışıklar çevrimiçi"
+          ]
+        },
+        {
+          "title": "Diğerleri",
+          "content": [
+            "beyaz projektör ekranı",
+            "çocuklar için beyaz ekran",
+            "beyaz tam ekran arka plan"
+          ]
+        }
+      ]
+    }
+  },
+  "/black-screen": {
+    "name": "Siyah ekran",
+    "color": "#000000",
+    "isAxis": false,
+    "title": "Tamamen siyah ekran",
+    "type": "color",
+    "tip": {
+      "title": "siyah ekran",
+      "content": [
+        {
+          "title": "ikinci monitör için siyah ekran",
+          "description": "Çalışırken dikkat dağıtan içerikler görüntülemeden aktif kalması için ikinci bir monitörü siyah ekrana ayarlayın. Bu numara görsel karmaşayı azaltırken işlevselliği korur."
+        },
+        {
+          "title": "elektrik tasarrufu için siyah ekran",
+          "description": "Güç tüketimini azaltmak için OLED veya AMOLED ekranlarda siyah ekrana geçin, çünkü bu ekranlar koyu renkleri görüntülerken daha az güç kullanır. Uzun süreli kullanım için çevre dostu bir seçimdir."
+        },
+        {
+          "title": "etkinliği gizlemek için siyah ekran",
+          "description": "Uzaktayken bilgisayarınızın içeriğini gizlice gizlemek için siyah bir ekran kullanın, işinizi veya etkinliklerinizi gizli tutun. Cihazınızı kilitlemek veya kapatmak için hızlı bir alternatiftir."
+        },
+        {
+          "title": "Ekranı temizlemek için siyah ekran",
+          "description": "Ekranınızdaki toz, leke veya parmak izlerini vurgulamak ve temizlemeyi kolaylaştırmak için siyah bir ekran görüntüleyin. Keskin kontrast, dikkat edilmesi gereken kusurları tespit etmenize yardımcı olur."
+        },
+        {
+          "title": "Karanlık arka plan olarak siyah ekran",
+          "description": "Ekranınızı siyaha ayarlayarak oyunlarınız, videolarınız veya yaratıcı projeleriniz için karanlık, sürükleyici bir arka plan oluşturun. Bu, konsantrasyonu artırır ve düşük ışıkta göz yorgunluğunu azaltır."
+        },
+        {
+          "title": "Ekran yanmasını önlemek için siyah ekran",
+          "description": "Etkinlik olmadığında veya molalarda siyah ekran görüntüleyerek plazma veya OLED ekranları ekran yanmasından koruyun. Bu önlem, statik görüntü tutulmasını önleyerek ekranınızın ömrünü uzatır."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Temizlik için siyah ekran",
+          "content": [
+            "monitör temizliği için siyah ekran",
+            "ölü pikselleri bulmak için siyah ekran",
+            "kirli noktaları bulmak için siyah ekran"
+          ]
+        },
+        {
+          "title": "Siyah renk çevrimiçi",
+          "content": [
+            "boş bilgisayar ekranı",
+            "tamamen siyah ekran",
+            "tamamen siyah ekran"
+          ]
+        },
+        {
+          "title": "Diğerleri",
+          "content": [
+            "projektör için siyah ekran",
+            "çocuklar için siyah ekran",
+            "tam ekran siyah arka plan"
+          ]
+        }
+      ]
+    }
+  },
+  "/red-screen": {
+    "name": "Kırmızı ekran",
+    "color": "#FF0000",
+    "isAxis": false,
+    "title": "Kırmızı ekran",
+    "type": "color",
+    "tip": {
+      "title": "kırmızı ekran",
+      "content": [
+        {
+          "title": "fotoğrafçılık için kırmızı ekran",
+          "description": "Fotoğraf veya video projelerinize cesur ve dramatik renk efektleri eklemek için kırmızı bir ekran entegre edin, ruh halini ve görselleri geliştirin. Ek ekipman olmadan aydınlatmayla denemeler yapmanın yaratıcı bir yoludur."
+        },
+        {
+          "title": "göz sağlığı için kırmızı ekran",
+          "description": "Gece kullanımı sırasında mavi ışık maruziyetini azaltmak ve göz yorgunluğunu gidermek için karanlık ortamlarda kırmızı ekran kullanın. Bu yaklaşım, daha rahat bir görüntüleme deneyimi için Gece Modu ayarlarını taklit eder."
+        },
+        {
+          "title": "sanal etkinlikler için kırmızı ekran",
+          "description": "Sanal toplantılarınız veya canlı yayınlarınız için dinamik bir fon olarak kırmızı bir ekran kullanarak canlı ve unutulmaz bir atmosfer yaratın. Dikkat çeker ve çevrimiçi varlığınıza profesyonel ve dinamik bir dokunuş katar."
+        },
+        {
+          "title": "Grafikler için kırmızı arka plan",
+          "description": "Cesur grafik tasarım projelerine ilham vermek için kırmızı bir arka plan kullanın. Canlı tonu, etkili görseller veya düzenler için temel görevi görür. Renk kontrastlarıyla denemeler yapmak ve göz alıcı çizimler oluşturmak için idealdir."
+        },
+        {
+          "title": "Sunumlar için kırmızı arka plan",
+          "description": "Önemli noktaları vurgulamak ve izleyicilerinizi etkilemek için sunumlarınızdaki önemli slaytları veya temaları kırmızı bir arka planla vurgulayın. Canlı rengi doğal olarak içeriğinize dikkat çeker."
+        },
+        {
+          "title": "TikTok için kırmızı arka plan",
+          "description": "Akışlarda öne çıkan ve trend bir dokunuş katan canlı kırmızı bir arka planla ilgi çekici TikTok videoları oluşturun. Maksimum etki için yaratıcı aydınlatma veya filtrelerle eşleştirin."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Kırmızı renk çevrimiçi",
+          "content": [
+            "tiktoklar için kırmızı ekran",
+            "çevrimiçi aramalar için kırmızı ekran",
+            "fotoğraflar için kırmızı ekran"
+          ]
+        },
+        {
+          "title": "Kırmızı ışık çevrimiçi",
+          "content": [
+            "kırmızı renkli ışık",
+            "selfie için kırmızı ışık",
+            "kırmızı LED ışıklar çevrimiçi"
+          ]
+        },
+        {
+          "title": "Diğerleri",
+          "content": [
+            "kırmızı projektör ekranı",
+            "çocuklar için boş kırmızı ekran",
+            "tam kırmızı ekran arka planı"
+          ]
+        }
+      ]
+    }
+  },
+  "/green-screen": {
+    "name": "Yeşil ekran",
+    "color": "#00FF00",
+    "isAxis": false,
+    "title": "Yeşil ekran",
+    "type": "color",
+    "tip": {
+      "title": "yeşil ekran",
+      "content": [
+        {
+          "title": "video oluşturma için yeşil ekran",
+          "description": "Video prodüksiyonu sırasında arka planları kolayca değiştirmek için yeşil bir ekran kullanın, sanal dünyalar veya profesyonel stüdyolar gibi yaratıcı ortamlar yaratın. Chroma keying adı verilen bu teknik, çok yönlülüğü nedeniyle film ve yayınlarda yaygın olarak kullanılır."
+        },
+        {
+          "title": "dinlenme için yeşil ekran",
+          "description": "Uzun çalışma veya ekran süresinden sonra gözlerinizi rahatlatmak için rahatlatıcı bir yeşil ekran kullanın, rengin doğal rahatlatıcı özelliklerinden yararlanın. Masanızdan ayrılmadan görsel bir mola vermenin kolay bir yoludur."
+        },
+        {
+          "title": "oyun için yeşil ekran",
+          "description": "Dinamik görseller veya oyun temalı katmanlar içeren özelleştirilebilir sürükleyici bir yeşil ekran ekleyerek oyun yayınlarınızı geliştirin. Bu, izleyicilerinizin izleme deneyimini geliştirir ve profesyonel bir dokunuş katar."
+        },
+        {
+          "title": "Toplantılar için yeşil ekran",
+          "description": "Video görüşmeleriniz için yeşil bir ekran takın ve bunu gerçek hayattaki çevrenizi maskeleyen profesyonel, cilalı bir arka planla değiştirin. Bu, sanal toplantılar sırasında odaklanmanıza ve keskin görünmenize yardımcı olur."
+        },
+        {
+          "title": "Eğitim için yeşil ekran",
+          "description": "Haritalar veya diyagramlar gibi etkileşimli görselleri video akışınıza entegre etmek için yeşil bir ekran kullanarak çevrimiçi derslerinizi daha ilgi çekici hale getirin. Bu, öğrencilerin odaklanmasını sağlar ve dinamik içerikle öğrenme deneyimini geliştirir."
+        },
+        {
+          "title": "Photoshop için yeşil ekran",
+          "description": "Konularınızı yeşil bir ekrana karşı fotoğraflayarak Photoshop'ta zahmetsizce düzenleyin, bu da hızlı ve true arka plan kaldırma olanağı sağlar. Canlı yeşil, daha temiz kesitler ve yaratıcı kompozisyonlar için keskin kontrast sağlar."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Temizlik için yeşil ekran",
+          "content": [
+            "monitör temizliği için yeşil ekran",
+            "ölü pikselleri bulmak için yeşil ekran",
+            "kirli noktaları bulmak için yeşil ekran"
+          ]
+        },
+        {
+          "title": "Çevrimiçi yeşil ışık",
+          "content": [
+            "görüntülü görüşmelere yeşil ışık",
+            "yeşil ekran aydınlatması",
+            "yeşil ışık",
+            "selfie için yeşil ışık",
+            "yeşil LED ışıkları çevrimiçi"
+          ]
+        },
+        {
+          "title": "Diğer",
+          "content": [
+            "projektör için yeşil ekran",
+            "çocuklar için yeşil ekran",
+            "tam yeşil ekran arka planı"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen": {
+    "name": "Mavi ekran",
+    "color": "#0000FF",
+    "isAxis": false,
+    "title": "Mavi ekran",
+    "type": "color",
+    "tip": {
+      "title": "mavi ekran",
+      "content": [
+        {
+          "title": "rahatlama için mavi ekran",
+          "description": "Yoğun bir günün ardından zihninizi rahatlatmak için mavi ekrana geçin, çünkü serin tonlarının beyin üzerinde sakinleştirici bir etkisi olduğu bilinmektedir. Cihazınızdan ayrılmadan rahatlamanın kolay bir yoludur."
+        },
+        {
+          "title": "uyku moduna geçmek için mavi ekran",
+          "description": "Parlak ışığı en aza indirerek ve dinlendirici bir atmosfer yaratarak uykuyu desteklemek için geceleri yumuşak bir mavi ekran kullanın. Mavi ışık filtrelerinden daha az sert olmasına rağmen, yine de vücudunuzun rahatlamasını sağlayabilir."
+        },
+        {
+          "title": "göz sağlığı için mavi ekran",
+          "description": "Uzun çalışma seansları sırasında göz yorgunluğunu azaltmak için mavi ekran kullanın, çünkü yumuşak tonu daha parlak renklerden daha az yoğun görünebilir. Daha rahat bir ekran deneyimi için bunu düzenli aralarla birleştirin."
+        },
+        {
+          "title": "Sunumlar için mavi arka plan",
+          "description": "Sunumlarınızın arka planı olarak mavi bir arka plan kullanın ve görsellerinizi veya slaytlarınızı profesyonel ve ulaşılabilir bir tonla zenginleştirin. Bu rengin çok yönlülüğü onu hem resmi hem de yaratıcı ortamlar için ideal hale getirir."
+        },
+        {
+          "title": "Videolar için mavi arka plan",
+          "description": "İçeriğinize modern, trend bir dokunuş katan mavi bir fonla benzersiz bir video arka planı oluşturun. Vlog'lar veya eğitimler için idealdir. Temel renk anahtarı efektleri için yeşil ekranlara ince bir alternatiftir."
+        },
+        {
+          "title": "İzleme için mavi arka plan",
+          "description": "Resimleri veya desenleri net bir şekilde izlemek için kağıdı mavi bir arka plana yerleştirin ve çizgilerinizi yönlendirmek için eşit aydınlatmayı kullanın. Belirgin renk, süreci basitleştirirken ve hızlandırırken ayrıntıları ayırt etmeye yardımcı olur."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Temizlik için mavi ekran",
+          "content": [
+            "Monitör temizliğinde mavi ekran",
+            "Ölü pikselleri bulmak için mavi ekran",
+            "Kirli noktaları bulmak için mavi ekran"
+          ]
+        },
+        {
+          "title": "Mavi ışık çevrimiçi",
+          "content": [
+            "Görüntülü görüşmeler için mavi ışık",
+            "Mavi renkli ışık",
+            "Selfie için mavi ışık",
+            "Mavi LED ışıklar çevrimiçi"
+          ]
+        },
+        {
+          "title": "Diğerleri",
+          "content": [
+            "Projektör için mavi ekran",
+            "Çocuklar İçin Mavi Ekran",
+            "Tam ekran mavi arka plan"
+          ]
+        }
+      ]
+    }
+  },
+  "/yellow-screen": {
+    "name": "Sarı ekran",
+    "color": "#FFFF00",
+    "isAxis": true,
+    "title": "Sarı ekran",
+    "type": "color",
+    "tip": {
+      "title": "sarı ekran",
+      "content": [
+        {
+          "title": "içerik için sarı ekran",
+          "description": "Dikkat çeken ve heyecanı yansıtan sarı bir ekranla yayınlarınıza, videolarınıza veya sunumlarınıza enerji katın. Parlak, neşeli rengi içeriğinizi öne çıkarır ve izleyicilerin dikkatini çeker."
+        },
+        {
+          "title": "göz konforu için sarı ekran",
+          "description": "Uzun süreli bilgisayar kullanımı sırasında, özellikle geceleri, mavi ışık maruziyetini azaltmak ve göz yorgunluğunu gidermek için sarı bir ekran tercih edin. Sıcak tonu daha yumuşak bir ışık kaynağını taklit ederek daha nazik bir görüntüleme deneyimi sağlar."
+        },
+        {
+          "title": "yaratıcılık için sarı ekran",
+          "description": "Kendinizi sarı bir ekranla çevreleyerek ilhamı teşvik edin. Sarı ekran, genellikle iyimserlik ve hayal gücüyle ilişkilendirilen bir renktir. Beyin fırtınası oturumları veya sanat projeleri için ideal bir ortamdır."
+        },
+        {
+          "title": "Test için sarı ekran",
+          "description": "Ekranınızın renk doğruluğunu ve tutarlılığını, tutarsızlıkları veya kusurları tespit etmek için tam sarı bir ekran görüntüleyerek test edin. Canlı renk tonu, ince ekran sorunlarını belirlemeyi kolaylaştırır."
+        },
+        {
+          "title": "Öğretim için sarı ekran",
+          "description": "Çevrimiçi dersler sırasında öğrencilerin dikkatini, çekici ve canlı bir arka plan sağlayan parlak sarı bir ekranla çekin. Katılımı ve odaklanmayı teşvik eden davetkar bir atmosfer yaratır."
+        },
+        {
+          "title": "Ortam için sarı ekran",
+          "description": "Pozitiflik ve samimiyet yayan sarı bir ekranla çalışma alanınızda veya videolarınızda sıcak ve davetkar bir atmosfer yaratın. Kendiniz veya izleyicileriniz için uyarıcı bir ortam yaratmak için mükemmeldir."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Temizlik için sarı ekran",
+          "content": [
+            "monitör temizliği için sarı ekran",
+            "Ölü pikselleri bulmak için sarı ekran",
+            "kirli noktaları bulmak için sarı ekran"
+          ]
+        },
+        {
+          "title": "Sarı renk çevrimiçi",
+          "content": [
+            "boş bilgisayar ekranı",
+            "toplam sarı ekran",
+            "tam sarı ekran"
+          ]
+        },
+        {
+          "title": "Diğerleri",
+          "content": [
+            "sarı projektör ekranı",
+            "çocuklar için sarı ekran",
+            "sarı tam ekran arka plan"
+          ]
+        }
+      ]
+    }
+  },
+  "/orange-screen": {
+    "name": "Turuncu ekran",
+    "color": "#FFA500",
+    "isAxis": true,
+    "title": "Turuncu ekran",
+    "type": "color",
+    "tip": {
+      "title": "turuncu ekran",
+      "content": [
+        {
+          "title": "arka planlar için turuncu ekran",
+          "description": "Video görüşmelerinize veya yayınlarınıza sıcak ve cesur bir dokunuş katan turuncu bir ekranla sanal varlığınızı vurgulayın. Canlı rengi, içeriğinizi boğmadan akılda kalıcı olmanızı sağlar."
+        },
+        {
+          "title": "uyku için turuncu ekran",
+          "description": "Akşamları turuncu bir ekranla mavi ışığı filtreleyerek gün batımının tonlarını taklit ederek daha iyi bir dinlenme sağlayın. Cihazınızı kullanırken vücudunuzu uykuya hazırlamanın doğal bir yoludur."
+        },
+        {
+          "title": "yaratıcılık için turuncu ekran",
+          "description": "Enerji ve yeniliği teşvik ettiği bilinen bir renk olan turuncu bir ekranla hayal gücünüzü harekete geçirin. Bunu yazma, tasarım veya başka herhangi bir yaratıcı çaba için bir arka plan olarak kullanın."
+        },
+        {
+          "title": "Kalibrasyon için turuncu ekran",
+          "description": "Ton veya parlaklıktaki herhangi bir düzensizliği ortaya çıkarmak için turuncu bir ekran görüntüleyerek ekranınızın renk doğruluğunu kontrol edin. Zengin tonu, ekran ayarlarını etkili bir şekilde ince ayarlamak için idealdir."
+        },
+        {
+          "title": "Öğretim için turuncu ekran",
+          "description": "Öğrencileri, dikkat çeken ve teşvik edici bir öğrenme ortamı sağlayan turuncu bir ekranla çevrimiçi derslere katılmaya teşvik edin. Parlak rengi enerji seviyelerini korur ve etkileşimi teşvik eder."
+        },
+        {
+          "title": "Ortam için turuncu ekran",
+          "description": "Sıcaklık ve canlılığı bir araya getiren turuncu bir ekranla sıcak ve yaratıcı bir atmosfer yaratın. Gayriresmi videolar veya kişisel çalışma alanı için idealdir. Sıcak bir ortam yaratmak için çok yönlü bir seçimdir."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Temizlik için turuncu ekran",
+          "content": [
+            "monitör temizliği için turuncu ekran",
+            "ölü pikselleri bulmak için turuncu ekran",
+            "kirli noktaları bulmak için turuncu ekran"
+          ]
+        },
+        {
+          "title": "Turuncu renk çevrimiçi",
+          "content": [
+            "boş bilgisayar ekranı",
+            "toplam turuncu ekran",
+            "tam turuncu ekran"
+          ]
+        },
+        {
+          "title": "Diğerleri",
+          "content": [
+            "turuncu projektör ekranı",
+            "çocuklar için turuncu ekran",
+            "tam ekran turuncu arka plan"
+          ]
+        }
+      ]
+    }
+  },
+  "/pink-screen": {
+    "name": "Pembe ekran",
+    "color": "#FFC0CB",
+    "isAxis": true,
+    "title": "Pembe ekran",
+    "type": "color",
+    "tip": {
+      "title": "pembe ekran",
+      "content": [
+        {
+          "title": "içerik için pembe ekran",
+          "description": "Canlı bir fon olarak pembe bir ekran kullanarak videolarınıza veya canlı yayınlarınıza samimi, ulaşılabilir bir hava katın. Yumuşak, neşeli tonu, içeriğinizin izleyicilere anında sıcak ve davetkar hissettirmesini sağlar."
+        },
+        {
+          "title": "dinlenmek için pembe ekran",
+          "description": "Uzun bir günün ardından rahatlamak için pembe bir paravan seçin, çünkü yumuşak pastel tonu huzur ve rahatlık hissi yaratır. Ek araçlara gerek kalmadan kolayca sakinleştirici bir ortam yaratın."
+        },
+        {
+          "title": "tasarım için pembe ekran",
+          "description": "Grafik veya sanatsal projelerinize eğlenceli ve zarif bir dokunuş katan pembe bir ekranla yaratıcılığınıza ilham verin. Bu rengin çok yönlülüğü, cesur ve uyumlu düzenlerle denemeler yapmanızı teşvik eder."
+        },
+        {
+          "title": "test için pembe ekran",
+          "description": "Renk üretimindeki veya piksel performansındaki tutarsızlıkları tespit etmek için tam pembe bir ekrana bakarak ekranınızın doğruluğunu kontrol edin. Belirgin tonu, görsel kaliteyi etkileyebilecek ince sorunları ortaya çıkarmaya yardımcı olur."
+        },
+        {
+          "title": "sunumlar için pembe ekran",
+          "description": "Sunumlarınız sırasında izleyicilerinizin dikkatini slaytlarınıza dinamizm ve kişilik katan cesur pembe bir ekranla yakalayın. Önemli noktaları vurgularken dikkati çeken güçlü bir seçimdir."
+        },
+        {
+          "title": "ambiyans için pembe ekran",
+          "description": "Pozitiflik ve çekicilik yayan pembe bir ekranla çalışma alanınızda veya videolarınızda eğlenceli ve sıcak bir atmosfer yaratın. Gayriresmi yayınlarınız veya kişisel projeleriniz sırasında neşeli bir atmosfer yaratmak için mükemmeldir."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Temizlik için pembe ekran",
+          "content": [
+            "monitör temizliği için pembe ekran",
+            "ölü pikselleri bulmak için pembe ekran",
+            "kirli noktaları bulmak için pembe ekran"
+          ]
+        },
+        {
+          "title": "Pembe renk çevrimiçi",
+          "content": [
+            "boş bilgisayar ekranı",
+            "toplam pembe ekran",
+            "tam pembe ekran"
+          ]
+        },
+        {
+          "title": "Diğerleri",
+          "content": [
+            "pembe projektör ekranı",
+            "çocuklar için pembe ekran",
+            "tam ekran pembe arka plan"
+          ]
+        }
+      ]
+    }
+  },
+  "/purple-screen": {
+    "name": "Mor ekran",
+    "color": "#800080",
+    "isAxis": true,
+    "title": "Mor ekran",
+    "type": "color",
+    "tip": {
+      "title": "mor ekran",
+      "content": [
+        {
+          "title": "refah için mor ekran",
+          "description": "Meditasyon veya rahatlama rutininizi, genellikle huzur ve iç gözlemle ilişkilendirilen bir renk olan rahatlatıcı mor bir ekranla geliştirin. Zengin tonu, farkındalığa veya rahatlamaya elverişli dingin bir alan yaratmaya yardımcı olur."
+        },
+        {
+          "title": "aydınlatma için mor ekran",
+          "description": "Mor bir ekranı yaratıcı bir ışık kaynağı olarak kullanarak görüntülü görüşmelerinize veya sanal etkinliklerinize mistik ve büyüleyici bir ışıltı katın. Kurulumunuzu benzersiz ve görsel olarak büyüleyici bir alana dönüştürür."
+        },
+        {
+          "title": "çalışma için mor ekran",
+          "description": "Öğrenciler veya öğrenenler için pratik bir örnek teşkil eden mor bir ekranla renk teorisini veya tasarım kavramlarını keşfedin. Derin tonu, eğitim içeriği için uyarıcı ve odaklanmış bir fon sağlar."
+        },
+        {
+          "title": "Test için mor ekran",
+          "description": "Monitörünüzün renk doğruluğunu ve performansını, herhangi bir görüntü düzensizliği veya piksel sorunu olup olmadığını belirlemek için mor bir ekranla test edin. Canlı tonu, ekrandaki kusurları tespit etmeyi kolaylaştırır."
+        },
+        {
+          "title": "Çocuklar için mor ekran",
+          "description": "Çocukların öğrenme veya oyun seansları sırasında hayal güçlerini büyülü ve ilham verici bir mor ekranla harekete geçirin. Genç zihinler için eğitim videolarını veya aktivitelerini daha ilgi çekici hale getirmenin eğlenceli bir yoludur."
+        },
+        {
+          "title": "Ortam için mor ekran",
+          "description": "Sofistikelik ve sanatsal yeteneği bir araya getiren mor bir ekranla yaratıcı ve lüks bir ambiyans yaratın. Yayın veya kişisel alanlar için idealdir. Görkemli tonu atmosferi zahmetsizce geliştirir."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Temizlik için mor ekran",
+          "content": [
+            "monitör temizliği için mor ekran",
+            "ölü pikselleri bulmak için mor ekran",
+            "kirli noktaları bulmak için mor ekran"
+          ]
+        },
+        {
+          "title": "Mor renk çevrimiçi",
+          "content": [
+            "boş bilgisayar ekranı",
+            "toplam mor ekran",
+            "tam mor ekran"
+          ]
+        },
+        {
+          "title": "Diğerleri",
+          "content": [
+            "mor projektör ekranı",
+            "çocuklar için mor ekran",
+            "tam ekran mor arka plan"
+          ]
+        }
+      ]
+    }
+  },
+  "/zoom-lighting": {
+    "name": "Yakınlaştırma Aydınlatması",
+    "color": "#FFC5C2",
+    "isAxis": true,
+    "title": "Zoom görüşmeleri için aydınlatma",
+    "type": "color",
+    "tip": {
+      "title": "Zoom görüşmeleri için aydınlatma",
+      "content": [
+        {
+          "title": "Aramalar için yakınlaştırma aydınlatması",
+          "description": "İş görüşmeleri sırasında görünümünüzü hoş bir aydınlatmayla geliştirmek için ekranınızı Zoom Aydınlatma (#FFC5C2) gibi yumuşak ve sıcak bir renge ayarlayın. Doğal gün ışığını taklit eder, gölgeleri azaltır ve cilalı bir görünüm yaratır."
+        },
+        {
+          "title": "Fotoğrafçılık İçin Yakınlaştırma Aydınlatması",
+          "description": "Zoom Aydınlatmasını yumuşak, dağınık bir kaynak olarak kullanarak, nesneleri güzelce vurgulayarak fotoğrafçılık için mükemmel bir ruh hali yaratın. İnce şeftali tonu, portrelere veya fotoğraflara sıcaklık ve derinlik katar."
+        },
+        {
+          "title": "E-öğrenme için Zoom Aydınlatma",
+          "description": "Ekranınızı uzun oturumlar için konforlu parlaklık sağlayan Zoom Aydınlatması'na ayarlayarak çevrimiçi dersler sırasında göz yorgunluğunu azaltın ve odaklanmayı iyileştirin. Daha parlak ekranların sertliği olmadan konsantrasyonu korumaya yardımcı olur."
+        },
+        {
+          "title": "Geliştiriciler için Zoom Aydınlatma",
+          "description": "Kullanıcı arayüzlerinizi veya renk paletlerinizi yakınlaştırma aydınlatması altında test ederek sıcak, gerçekçi ışıkta nasıl göründüklerini görün. Bu, çalışmanızın farklı görüntüleme koşullarında harika görünmesini sağlamanın kullanışlı bir yoludur."
+        },
+        {
+          "title": "Terapi için Zoom aydınlatması",
+          "description": "Uzaktan sağlık veya terapi seanslarınız sırasında yumuşak, davetkar tonuyla sakinleştirici ve destekleyici bir atmosfer yaratmak için Zoom aydınlatmasını kullanın. Bu renk, müşteriler için duygusal bağlantıyı ve rahatlığı artırabilir."
+        },
+        {
+          "title": "Beyaz ekranlı yakınlaştırma aydınlatması",
+          "description": "Zoom Lighting'i beyaz ekrana ayarlanmış ikinci bir monitörle eşleştirerek görüntülü görüşmelerinizi aydınlatın, ek ekipmana gerek kalmadan parlak ve eşit ışık sağlayın. Bu kurulum, optimum aydınlatmayı ve profesyonel bir görüntüyü kolaylıkla sağlar."
+        }
+      ]
+    }
+  },
+  "/white-noise": {
+    "name": "Beyaz gürültü",
+    "icon": "https://emojicdn.elk.sh/🔊",
+    "title": "Uyumak için beyaz gürültü",
+    "type": "şaka",
+    "tip": {
+      "title": "Uyumak için beyaz gürültü",
+      "content": [
+        {
+          "title": "Konsantrasyon için beyaz gürültü",
+          "description": "Çalışma veya ders çalışma seanslarınız sırasında konsantrasyonunuzu artırmak için beyaz gürültüyle dikkat dağıtan arka plan gürültüsünü maskeleyin. Sabit uğultusu odaklanmanıza yardımcı olan tutarlı bir ses ortamı yaratır."
+        },
+        {
+          "title": "Uyumak için beyaz gürültü",
+          "description": "Trafik veya havlayan köpekler gibi rahatsız edici gece seslerini bastırmak için beyaz gürültü çalarak daha hızlı uykuya dalın. Sürekli ses, zihninizi uyuşturan rahatlatıcı bir ritmi taklit eder."
+        },
+        {
+          "title": "Bebekler için beyaz gürültü",
+          "description": "Bebekleri, alışkın oldukları rahatlatıcı rahim seslerini taklit eden beyaz gürültüyle sakinleştirin. Bu, huysuz bebekleri sakinleştirmenin ve rahatlatıcı bir uyku vakti rutini oluşturmanın nazik bir yoludur."
+        },
+        {
+          "title": "Meditasyon için beyaz gürültü",
+          "description": "Derin nefes alma ve konsantrasyon için nötr, göze batmayan bir ortam sağlayan beyaz gürültüyle farkındalık seanslarınızı geliştirin. Zihinsel karmaşayı gidermeye yardımcı olur ve dışarıdaki gürültünün sakinliğinizi bozmasını önler."
+        },
+        {
+          "title": "Cadılar Bayramı için beyaz gürültü",
+          "description": "Cadılar Bayramı partileri veya perili mekanlar için beyaz gürültüyü ürkütücü efektlerle birleştirerek ürkütücü bir atmosfer yaratın. İnce yoğunluğu diğer sesleri bastırmadan ürkütücü bir atmosfer yaratır."
+        },
+        {
+          "title": "Şakalar için beyaz gürültü",
+          "description": "Arkaplanda hafif beyaz gürültü üreterek meslektaşlarınızı veya arkadaşlarınızı rahatsız edin ve hafif, gizemli sesler hakkında meraklanmalarını sağlayın. Bu, ofis veya sıradan bir ortam için mükemmel, gizli bir şakadır."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Verimliliği ve konsantrasyonu artırın",
+          "content": [
+            "Gürültülü ortamlarda konsantrasyonun artırılması",
+            "İşyerinde verimliliği artırmak",
+            "Çalışma seansları sırasında konsantrasyonu artırın",
+            "Uzaktan çalışırken dikkat dağıtıcı unsurları en aza indirin",
+            "Yoğun çalışma dönemlerini kolaylaştırın"
+          ]
+        },
+        {
+          "title": "Uyku ve rahatlama",
+          "content": [
+            "Daha hızlı uykuya dalmayı teşvik eder",
+            "Rahatsız edici gece seslerini maskeleyin",
+            "Uykusuzluk çekenlerin uyku kalitesinin artırılması",
+            "Bebekleri ve küçük çocukları sakinleştirmek",
+            "Sakinleştirici bir uyku vakti rutini oluşturun"
+          ]
+        },
+        {
+          "title": "Sağlık ve esenlik",
+          "content": [
+            "Stres ve kaygı seviyelerini azaltın",
+            "Meditasyon ve farkındalık uygulamalarına yardımcı olun",
+            "Tinnitus semptomlarını yönetmeye yardımcı olur",
+            "Yoga sırasında gevşemeyi teşvik edin",
+            "Duyusal aşırı yüklenmeyi azaltarak zihinsel sağlığı desteklemek"
+          ]
+        }
+      ]
+    }
+  },
+  "/broken-screen": {
+    "name": "Sahte kırık ekran",
+    "icon": "https://emojicdn.elk.sh/💔",
+    "title": "Sahte Kırık Ekran - Şaka",
+    "type": "şaka",
+    "tip": {
+      "title": "Sahte Kırık Ekran - Şaka",
+      "content": [
+        {
+          "title": "kırık ekran şakası",
+          "description": "Anında gülmek için mükemmel, inanılmaz derecede gerçekçi sahte kırık ekran görüntüleyerek arkadaşlarınızı korkutun. En büyük sürprizi aramadıkları bir zamanda bunu cihazlarına yükleyin."
+        },
+        {
+          "title": "içerik için bozuk ekran",
+          "description": "Videolarınıza veya sosyal medya gönderilerinize anında dikkat çeken sahte kırık ekran efektiyle bir miktar dram katın. Teknik olayları sahnelemek veya gerilim yaratmak için yaratıcı bir yoldur."
+        },
+        {
+          "title": "kırık ekran tepki testi",
+          "description": "Kırık bir ekranı simüle ederek ve kendi tepkinizi gözlemleyerek baskı altında sakin kalmayı deneyin. Bu, gerçek bir hasar riski olmadan dayanıklılığınızı test etmenin benzersiz bir yoludur."
+        },
+        {
+          "title": "Projeler için bozuk ekran",
+          "description": "Benzersiz bir doku veya görsel öğe yaratmak için sanat veya tasarım projelerinize sahte kırık bir ekran ekleyin. Çatlaklar, dijital veya karışık medya çalışmalarınıza özgünlük ve aşınma dokunuşu katabilir."
+        },
+        {
+          "title": "Eğitim için kırık ekran",
+          "description": "Ekran koruyucuların veya cihaz bakımının faydalarını, uyarı örneği olarak sahte kırık bir ekran sunarak vurgulayın. Bu, bilgisayar güvenliği dersleri için etkili bir görsel yardımcıdır."
+        },
+        {
+          "title": "İnceleme için kırık ekran",
+          "description": "Sahte kırık bir ekranı cihazın gerçek gücüyle karşılaştırarak teknik incelemelerde dayanıklılığı vurgulayın. Bu, yapı kalitesini veya koruma özelliklerini göstermenin ikna edici bir yoludur."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Şakalar ve şakalar",
+          "content": [
+            "Destansı teknolojik saçmalık",
+            "Arkadaşlarınızı ve ailenizi korkutun",
+            "Ofis şakası fikri",
+            "1 Nisan Şakası",
+            "Birini eğlenmek için şaşırtmak"
+          ]
+        },
+        {
+          "title": "İçerik ve yaratıcılık",
+          "content": [
+            "Benzersiz dijital sanat arka planı",
+            "Sosyal medya için ilgi çekici içerik",
+            "Yaratıcı projelerin görselleri",
+            "Videolarda dramatik etki",
+            "Teknolojik korku hikayelerini resmetmek"
+          ]
+        },
+        {
+          "title": "Eğitim ve farkındalık",
+          "content": [
+            "Ekranın kırılganlığını gösterin",
+            "Koruyucu aksesuarların tanıtımını yapın",
+            "Teknik Güvenlik Sunumları",
+            "Cihaz bakımıyla ilgili tartışmalar için görsel yardım",
+            "Garantilerin önemini vurgulayın"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows": {
+    "name": "Sahte Ölüm Mavi Ekranı",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Sahte Windows Ölüm Mavi Ekranı",
+    "type": "şaka",
+    "tip": {
+      "title": "Sahte Windows Ölüm Mavi Ekranı",
+      "content": [
+        {
+          "title": "BSOD Şakası",
+          "description": "Gerçek bir Windows çökmesini taklit eden sahte bir Ölüm Mavi Ekranıyla arkadaşlarınızı kandırın, panik ve eğlence yaratın. Klasik bir teknoloji şakası yapmanın zararsız bir yoludur."
+        },
+        {
+          "title": "Tatil BSOD",
+          "description": "Toplantılarınıza, bölünmüş bir ekranda sahte bir mavi ölüm ekranı göstererek ve misafirlerinizi eğlenceli bir şekilde şaşırtarak bir teknoloji mizahı dokunuşu ekleyin. İster bir geek olun, ister sadece bir izleyici, buzları kırmanın harika bir yoludur."
+        },
+        {
+          "title": "Eğitim için BSOD",
+          "description": "Mavi Ekran Ölümü simülasyonu yaparak bilgisayar sorun giderme tekniklerini güvenli bir şekilde öğretin, böylece öğrencilerin gerçek dünya riskleri olmadan hataları teşhis etme pratiği yapmalarına olanak tanıyın. Teknik desteğe güven oluşturmak için pratik bir araçtır."
+        },
+        {
+          "title": "Teknik beceriler için BSOD",
+          "description": "Sahte bir BSOD ile çözümler düşünmenizi zorlayan kontrollü bir ortamda kendi teknik destek becerilerinizi uygulayın. Sorun çözme becerilerinizi geliştirmenin eğlenceli ve risksiz bir yoludur."
+        },
+        {
+          "title": "YouTube için BSOD",
+          "description": "Büyüleyici teknoloji içeriği veya dramatik skeçler oluşturmak için YouTube videolarınızı sahte bir BSOD efektiyle renklendirin. Teknoloji meraklısı izleyicilerde yankı uyandıran nostaljik ve tanınabilir bir dokunuş katar."
+        },
+        {
+          "title": "BSOD Sabır Testi",
+          "description": "Stres toleransınızı test edin veya gerilimi devam ettiren sahte bir yavaş yüklenen BSOD ile başkalarına şaka yapın. İnsanların teknolojik hayal kırıklıklarıyla nasıl başa çıktıklarını görmenin benzersiz bir yoludur."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Şakalar ve Eğlence",
+          "content": [
+            "Zararsız bilgisayar şakası",
+            "1 Nisan Şakası Teknik Fıkrası",
+            "Teknoloji temalı parti şakası",
+            "Eğlence olsun diye arkadaşlarınızı korkutun",
+            "Viral Şaka İçeriği Oluştur"
+          ]
+        },
+        {
+          "title": "Eğitimin sonu",
+          "content": [
+            "BSOD Sorun Giderme Eğitimi",
+            "Sistem arızalarını simüle edin",
+            "BT destek personelinin eğitimi",
+            "Sistem kurtarmayı göster",
+            "Hata mesajları hakkında eğitim verin"
+          ]
+        },
+        {
+          "title": "İçerik Oluşturma",
+          "content": [
+            "Teknik videoların iyileştirilmesi",
+            "İlgi çekici öğreticiler yaratın",
+            "Gerçekçi teknik sahnelerin çekimi",
+            "Teknik incelemelere dram katmak",
+            "Sistemin istikrarı üzerine tartışmaları örneklendirin"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows-10": {
+    "name": "Ölümün Sahte Mavi Ekranı 10",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Sahte Windows 10 Ölüm Mavi Ekranı",
+    "type": "şaka",
+    "tip": {
+      "title": "Windows 10'da Sahte Mavi Ölüm Ekranı",
+      "content": [
+        {
+          "title": "Ofiste BSOD şakası",
+          "description": "İş arkadaşlarınızı, gün ortasında beliren ve ofiste karışıklığa ve kahkahaya neden olan sahte bir Windows 10 Ölüm Mavi Ekranı ile kandırın. Rutin işlerden kısa bir mola için hızlı bir kurulum."
+        },
+        {
+          "title": "BSOD çağrısından kurtul",
+          "description": "Geçici olarak bağlantıyı kesmek için güvenilir bir bahane olarak sahte bir Mavi Ölüm Ekranı tetikleyerek sıkıcı bir görüntülü konferanstan kaçın. İstenmeyen ekran süresinden kaçınmanın sinsi ve komik bir yoludur."
+        },
+        {
+          "title": "Bilgisayar Eğitimi BSOD",
+          "description": "Gerçek çökmeleri taklit eden sahte bir Mavi Ekran Ölümü ile Windows 10 hatalarını düzeltme alıştırması yapın ve bilgisayar becerilerinizi geliştirmek için güvenli bir alan sağlayın. Gerçek sistemleri riske atmadan uygulamalı öğrenme için mükemmeldir."
+        },
+        {
+          "title": "BSOD Şakası",
+          "description": "Oyuncuları, oyunlarını yarıda kesen ve eğlence veya içerik amaçlı olsun, komik tepkileri yakalayan sahte bir BSOD ile oturumun ortasında şaşırtın. Çok oyunculu anlarda tahribat yaratan cesur bir hareket."
+        },
+        {
+          "title": "BSOD tepki videoları",
+          "description": "İzleyicilerinizi hayrete düşürecek tepki videoları için Windows 10'da sahte bir BSOD'ye verilen komik tepkileri kaydedin. Viral görüntüler için basit bir kurulum."
+        },
+        {
+          "title": "Takım Testleri BSOD",
+          "description": "BT ekibinizin yanıt süresini ve sorun çözme becerilerini gerçek yaşam senaryolarını taklit eden sahte bir BSOD acil durumuyla test edin. Koordinasyon ve hazırlığı geliştirmek için pratik bir alıştırmadır."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Komik şakalar",
+          "content": [
+            "sahte BSOD'lerle hızlı ofis şakaları",
+            "Oyun yayınında mavi ekran trollemesi",
+            "aile bilgisayarı çöküş şakaları",
+            "Windows Ekran Ölüm Tepkisi Videoları",
+            "tam ekran BSOD parti şakaları"
+          ]
+        },
+        {
+          "title": "Eğitim amaçlı kullanımlar",
+          "content": [
+            "Bilgisayar Desteği BSOD Eğitim Aracı",
+            "Windows çökme ekranı gösterileri",
+            "bilgisayar okuryazarlığı öğretim aracı",
+            "teknik atölye örnekleri",
+            "mavi ekran yanıt uygulaması"
+          ]
+        },
+        {
+          "title": "İçerik Oluşturma",
+          "content": [
+            "YouTube BSOD Şaka Videoları",
+            "Windows Çökme Meme İçeriği",
+            "sosyal medya tepki klipleri",
+            "sahte mavi ekranların yayınlanması",
+            "teknik eğitim gösterileri"
+          ]
+        }
+      ]
+    }
+  },
+  "/hacker-screen": {
+    "name": "Hacker giriş ekranı",
+    "icon": "https://emojicdn.elk.sh/💻‍💻",
+    "title": "Hacker Yazıcı Ekranı - Şaka",
+    "type": "şaka",
+    "tip": {
+      "title": "Hacker Ekranı - Şaka",
+      "content": [
+        {
+          "title": "Hacker Ekran Şakası",
+          "description": "Bir filme yakışır sahte bir hack kodu üretmek için rastgele tuşlara basarak meslektaşlarınızı etkileyin. Birkaç saniyede bir teknoloji dehası gibi görünmenin eğlenceli bir yolu."
+        },
+        {
+          "title": "Dersler için hacker ekranı",
+          "description": "Öğrencileri programlama konusunda heyecanlandırın ve kodlamayı heyecan verici ve erişilebilir hale getiren bir hacker ekranı sergileyin. Teknoloji eğitimine ilgiyi ateşlemek için eğlenceli bir yol."
+        },
+        {
+          "title": "Akış için hacker ekranı",
+          "description": "Canlı yayınlarınıza, sürükleyici bir cyberpunk havası yaratan bir hacker ekran kaplamasıyla teknolojik bir dokunuş katın. Oyun veya teknoloji odaklı yayınlar için idealdir."
+        },
+        {
+          "title": "vlog'lar için hacker ekranı",
+          "description": "Hikayenize dinamik kod görselleri ekleyen bir hacker ekran efektiyle teknoloji vlog'larınızı güçlendirin. İçeriğinize yüksek teknolojili, ilgi çekici bir his vermenin kolay bir yoludur."
+        },
+        {
+          "title": "sunumlar için hacker ekranı",
+          "description": "Teknik tartışmalarınızı, gerçek zamanlı olarak kod görüntüleyen ve izleyicilerinizi görsel olarak büyüleyen canlı bir hacker ekranıyla geliştirin. Programlama veya siber güvenlik hakkındaki tartışmalara dikkate değer bir katkıdır."
+        },
+        {
+          "title": "filmler için hacker ekranı",
+          "description": "Kısa filmleriniz veya çizimleriniz için ikna edici derecede karmaşık bir hacker ekranıyla otantik hacker sahneleri yaratın. Sinematik teknoloji efektlerine giden uygun maliyetli bir kısayoldur."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Eğlence ve komedi",
+          "content": [
+            "Sahte bilgisayar korsanlığı becerilerinizle arkadaşlarınızı etkileyin",
+            "Aile üyelerinize şaka yapın",
+            "Ofis partilerine biraz eğlence katın",
+            "Sosyal medya için eğlenceli içerikler yaratın",
+            "Arkadaşlarınızı kodlayıcı olduğunuzu düşünmeleri için kandırın"
+          ]
+        },
+        {
+          "title": "Eğitim amaçlı",
+          "content": [
+            "Sınıfta kodlamayı gösterin",
+            "Programlama kavramlarını görselleştirin",
+            "Öğrencilerin teknolojiye ilgi duymasını sağlayın",
+            "Sunum tekniklerinizi renklendirin",
+            "Yeni başlayanlara kodlamayı tanıtın"
+          ]
+        },
+        {
+          "title": "Yaratıcı ve profesyonel kullanım",
+          "content": [
+            "Canlı yayın görsellerini iyileştirin",
+            "Filmlerde otantik teknik sahneler yaratın",
+            "Videolara bir hacker estetiği ekleyin",
+            "Teknoloji konferanslarında ilgiyi artırın",
+            "Siber güvenlik konusundaki tartışmalara ilham verin"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-10-update-screen": {
+    "name": "Sahte Windows 10 Güncellemesi",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Sahte Windows 10 Güncellemesi",
+    "type": "sahte-güncelleme",
+    "tip": {
+      "title": "Sahte Windows 10 Güncellemesi",
+      "content": [
+        {
+          "title": "Windows 10 Şakası",
+          "description": "Arkadaşlarınızı ne zaman biteceğinden emin olamayacakları sinir bozucu derecede gerçekçi, döngülü sahte bir Windows 10 güncellemesiyle kandırın. Korkutmak veya güldürmek için mükemmel bir fırsat."
+        },
+        {
+          "title": "Windows 10 Ofis Şakası",
+          "description": "Bir mola sırasında bilgisayarlarında sahte bir yavaş güncelleme ekranı görüntüleyerek iş arkadaşlarınızı kandırın, kötü şöhretli Windows gecikmesini taklit edin. İşlerinin tıkandığını düşündüklerinde tepkilerini gözlemleyin."
+        },
+        {
+          "title": "Windows 10 Grup Sohbeti",
+          "description": "Grup sohbetlerinde sahte bir Windows 10 güncellemesinin ekran görüntülerini veya kliplerini paylaşarak arkadaşlarınız arasında kahkaha ve kafa karışıklığı yaratın. Sohbete biraz teknoloji mizahı katmanın kolay bir yoludur."
+        },
+        {
+          "title": "Windows 10, başarılı bir parti",
+          "description": "Sahte bir güncelleme ekranı yansıtarak sıkıcı bir akşamı mahvedin, sıkıcı bir tartışmayı herkesin keyif alacağı bir teknoloji şakasına dönüştürün. Ortamı canlandırmanın benzersiz bir yolu."
+        },
+        {
+          "title": "Windows 10, kişiselleştirilmiş bir deneyim",
+          "description": "Ekstra bir saçmalık ve eğlence dokunuşu için, 'Candy Crush 2.0 Yükleniyor' gibi eğlenceli özel mesajları güncelleme ekranına ekleyin. Şakanızın hedefine uyacak şekilde özelleştirin ve etkisini en üst düzeye çıkarın."
+        },
+        {
+          "title": "Windows 10 Tepkisi",
+          "description": "İnsanlar paniklediğinde veya inlediğinde sahte bir Windows 10 güncellemesine verilen komik tepkileri kaydedin, bir tepki videosu veya sadece güzel bir anı için içerik oluşturun. Gerçek bir sürprizi yakalamanın harika bir yoludur."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Simüle Edilmiş Windows 10 Güncelleştirmesi",
+          "content": [
+            "Sahte Windows 10 Güncellemesi",
+            "Windows 10 Güncelleme Simülasyonu",
+            "Windows 10 güncellemesini simüle edin",
+            "Sahte Windows 10 Güncelleme Ekranı",
+            "Windows 10 Update'i Taklit Et",
+            "Windows 10 Güncelleme Şakası",
+            "Windows 10 Güncelleme İşlemi"
+          ]
+        },
+        {
+          "title": "Gerçekçi deneyim",
+          "content": [
+            "Gerçek görünümlü Windows 10 güncellemesi",
+            "Gerçekçi Windows 10 Güncelleme Ekranı",
+            "Windows 10 güncellemesiyle arkadaşlarınızı kandırmak",
+            "Gerçekçi Windows 10 Güncelleştirme İlerlemesi",
+            "Orijinal Windows 10 Güncelleme Simülasyonu",
+            "Orijinal Windows 10 Güncelleştirme Mesajları",
+            "Windows 10 Güncelleme Adımı"
+          ]
+        },
+        {
+          "title": "Eğlence ve zevk",
+          "content": [
+            "Eğlenceli Windows 10 Güncelleme Şakası",
+            "Komik sahte Windows 10 güncellemesi",
+            "Simüle edilmiş bir Windows 10 güncellemesinin keyfini çıkarın",
+            "Sahte Windows 10 güncellemesiyle şaka",
+            "Heyecan verici Windows 10 güncelleme deneyimi",
+            "Eğlence amaçlı Windows 10'u güncelleyin",
+            "Windows 10 Güncelleme Şaka Aracı"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-xp-update-screen": {
+    "name": "Sahte Windows XP Güncellemesi",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Sahte Windows XP Güncellemesi",
+    "type": "sahte-güncelleme",
+    "tip": {
+      "title": "Sahte Windows XP Güncellemesi",
+      "content": [
+        {
+          "title": "XP Ofis Şakası",
+          "description": "Geçmişten gelmiş gibi görünen sahte bir Windows XP güncelleme ekranıyla ofiste nostalji ve karışıklık yaratın. Bu, meslektaşlarınızı şaşırtacak retro teknolojiye ince bir göndermedir."
+        },
+        {
+          "title": "XP Sabır Testi",
+          "description": "Geçmişin ilerleme çubuğunu taklit eden, uzayıp giden sahte bir XP güncellemesiyle birinin hayal kırıklığını test edin. Tepki vermeden önce ne kadar bekleyeceklerini görmek için eğlenceli bir yol."
+        },
+        {
+          "title": "Eğlenceli Retro XP",
+          "description": "Windows XP dönemini, çevirmeli bağlantılara benzeyen sahte bir güncelleme ekranı ve retro eğlence için küçük resim görüntüleyerek yeniden yaşayın. Teknoloji meraklıları veya şaka hedefleri için eğlenceli bir geri dönüş."
+        },
+        {
+          "title": "XP Viral İçeriği",
+          "description": "Paylaşılabilir, viral içerik için nostaljiyi artıran sahte bir XP yükseltme ekranıyla retro teknoloji videoları veya gönderileri oluşturun. Çevrimiçi çekiciliğini en üst düzeye çıkarmak için bunu eğlenceli bir başlıkla eşleştirin."
+        },
+        {
+          "title": "XP Teknolojisi Dersi",
+          "description": "On yıllar önce yükseltmelerin nasıl göründüğünü görsel olarak gösteren bir XP yükseltme simülasyonuyla işletim sistemi geçmişini öğretin. Geçmiş teknolojileri modern derslere bağlamanın ilgi çekici bir yoludur."
+        },
+        {
+          "title": "Arkadaşlar arasında şaka XP",
+          "description": "Arkadaşlarınızı, cihazlarını donduran ve bir miktar can sıkıntısı ve güzel anıları tetikleyen klasik bir XP güncelleme ekranıyla kandırın. Nostalji dokunuşlu zararsız bir şaka."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Benzetimli Windows XP Güncelleştirmesi",
+          "content": [
+            "Sahte Windows XP Güncellemesi",
+            "Windows XP Güncelleme Simülasyonu",
+            "Windows XP güncelleştirmesini simüle et",
+            "Sahte Windows XP Güncelleme Ekranı",
+            "Windows XP güncelleştirmesini taklit et",
+            "Windows XP Güncelleme Şakası",
+            "Windows XP Güncelleme İşlemi"
+          ]
+        },
+        {
+          "title": "Gerçekçi deneyim",
+          "content": [
+            "Gerçek görünümlü Windows XP güncellemesi",
+            "Gerçekçi Windows XP Güncelleme Ekranı",
+            "Windows XP güncellemesiyle arkadaşlarınızı kandırmak",
+            "Windows XP Güncelleme İlerlemesi Gerçekçi",
+            "Orijinal Windows XP Güncelleme Simülasyonu",
+            "Orijinal Windows XP Güncelleştirme Mesajları",
+            "Windows XP Güncelleme Adımı"
+          ]
+        },
+        {
+          "title": "Eğlence ve eğlence",
+          "content": [
+            "Komik Windows XP Güncelleme Şakası",
+            "Komik sahte Windows XP güncellemesi",
+            "Simüle edilmiş bir Windows XP güncelleştirmesinin keyfini çıkarın",
+            "Sahte Windows XP güncellemesiyle şaka",
+            "Heyecan verici Windows XP yükseltme deneyimi",
+            "Windows XP Güncelleme Şaka Aracı"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-mac-os-x-update-screen": {
+    "name": "Sahte Mac OS X Güncellemesi",
+    "icon": "https://emojicdn.elk.sh/🍎",
+    "title": "Sahte Mac OS X Güncellemesi",
+    "type": "sahte-güncelleme",
+    "tip": {
+      "title": "Sahte Mac OS X Güncellemesi",
+      "content": [
+        {
+          "title": "Mac Doldurma",
+          "description": "Mac hayranlarını, sistemlerini kontrol etmeleri için yeterince gerçekçi görünen sahte bir OS X güncelleme ekranıyla kandırmak, en bilgili Apple kullanıcılarını bile kandırmanın akıllıca bir yoludur."
+        },
+        {
+          "title": "Mac Sabır Testi",
+          "description": "Sahte bir Mac OS X güncellemesi ilerledikçe tepkileri izleyin, birinin sahte bir ilerleme çubuğuna ne kadar süre bakacağını test edin. Bu, güncelleme kaygısını kullanan ince bir şakadır."
+        },
+        {
+          "title": "Mac Öğretim Yardımı",
+          "description": "Gerçek sistemleri riske atmadan gerçek yaşam senaryolarını kopyalayan güvenli bir sahte Mac güncelleme simülasyonuyla BT personelini veya öğrencilerini eğitin. Güncelleme yönetimini uygulamak için kullanışlı bir araçtır."
+        },
+        {
+          "title": "Mac UX Testleri",
+          "description": "Kullanıcıların sahte bir Mac OS X güncelleme gecikmesine tepkilerini, etkileşimlerini veya yavaşlamaya tepkilerini gözlemleyerek inceleyin. Bu, kullanıcı arayüzü sabrının sınırlarını keşfetmenin basit bir yoludur."
+        },
+        {
+          "title": "Mac İçerik Oluşturma",
+          "description": "Teknolojik içeriği vurgulayan sahte bir Mac OS X ekranıyla videolarınıza veya eğitimlerinize gerçekçi güncelleme görselleri ekleyin. İncelemeleriniz veya skeçleriniz için hoş bir dokunuş."
+        },
+        {
+          "title": "Mac Grup Şakası",
+          "description": "Paylaşılan bir cihazda sahte bir Apple güncelleme ekranıyla bir grup arkadaşınızı kandırın, toplu kahkahalara veya inlemelere neden olun. Paylaşılan teknoloji sorunları etrafında bağlar kuran bir topluluk şakasıdır."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Benzetimli Mac OS X Güncellemesi",
+          "content": [
+            "Sahte Mac OS X Güncellemesi",
+            "Mac OS X Güncelleme Simülasyonu",
+            "Mac OS X güncellemesini simüle et",
+            "Sahte Mac OS X Güncelleme Ekranı",
+            "Mac OS X güncellemesini taklit et",
+            "Mac OS X Güncelleme Şakası",
+            "Mac OS X Güncelleme İşlemi"
+          ]
+        },
+        {
+          "title": "Gerçekçi deneyim",
+          "content": [
+            "Gerçek görünümlü Mac OS X güncellemesi",
+            "Gerçekçi Mac OS X Güncelleme Ekranı",
+            "Mac OS X güncellemesiyle arkadaşlarınızı kandırmak",
+            "Gerçekçi Mac OS X Güncelleme İlerlemesi",
+            "Orijinal Mac OS X Güncelleme Simülasyonu",
+            "Orijinal Mac OS X Güncelleme Mesajları",
+            "Mac OS X Güncelleme Adımı"
+          ]
+        },
+        {
+          "title": "Eğlence ve eğlence",
+          "content": [
+            "Eğlenceli Mac OS X güncelleme şakası",
+            "Komik sahte Mac OS X güncellemesi",
+            "Simüle edilmiş bir Mac OS X güncellemesinin tadını çıkarın",
+            "Sahte Mac OS X güncellemesiyle şaka",
+            "Heyecan verici Mac OS X güncelleme deneyimi",
+            "Eğlence için Mac OS X'i Güncelleme",
+            "Mac OS X Güncelleme Şakası Aracı"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-ubuntu-22-04-update-screen": {
+    "name": "Sahte Ubuntu 22.04 güncellemesi",
+    "icon": "https://emojicdn.elk.sh/🐧",
+    "title": "Sahte Ubuntu 22.04 güncellemesi",
+    "type": "sahte-güncelleme",
+    "tip": {
+      "title": "Sahte Ubuntu 22.04 güncellemesi",
+      "content": [
+        {
+          "title": "Ubuntu Şakası",
+          "description": "Linux kullanıcılarını gerçek bir sistem güncellemesi gibi görünen sahte bir Ubuntu 22.04 güncelleme ekranıyla kandırın, en teknoloji meraklılarını bile şaşırtın. Bu, açık kaynak meraklıları için bir şakadır."
+        },
+        {
+          "title": "Ubuntu Yazılım Testi",
+          "description": "Yapılandırmanızı değiştirmeden, sahte bir sistem güncellemesi sırasında uygulamaların nasıl davrandığını test etmek için Ubuntu güncellemelerini simüle edin. Bu, geliştiriciler veya test uzmanları için kullanışlı bir numaradır."
+        },
+        {
+          "title": "Ubuntu Eğitimi",
+          "description": "Gerçek terminal çıktısını ve ilerlemesini taklit eden sahte bir Ubuntu 22.04 yükseltme ekranıyla Linux yükseltme süreçlerini güvenli bir şekilde öğretin. Bu, yeni kullanıcıları veya BT personelini eğitmenin etkili bir yoludur."
+        },
+        {
+          "title": "Ubuntu İçeriği",
+          "description": "Videolarınıza veya eğitimlerinize Linux deneyimini gösteren sahte bir Ubuntu yükseltme ekranıyla otantik terminal görselleri ekleyin. Teknoloji içerik oluşturucuları için harika bir görsel."
+        },
+        {
+          "title": "Ubuntu Aşamalandırma",
+          "description": "Gerçekçi görsellerle izleyicilerinizi büyüleyen sahte bir Ubuntu 22.04 ekranıyla demolar veya canlı sunumlar sırasında güncellemeleri gösterin. Teknik konferanslar veya atölyeler için mükemmeldir."
+        },
+        {
+          "title": "Ubuntu Tepkisi",
+          "description": "Linux kullanıcılarının tuhaflıklarını vurgulayan tepki içeriği için sahte bir Ubuntu güncellemesine verilen komik veya sinirli tepkileri kaydedin. Gerçek anları yakalamanın eğlenceli bir yoludur."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Ubuntu 22.04'ün simüle edilmiş güncellemesi",
+          "content": [
+            "Sahte Ubuntu 22.04 güncellemesi",
+            "Ubuntu 22.04 Güncelleme Simülasyonu",
+            "Ubuntu 22.04 güncellemesini simüle edin",
+            "Sahte Ubuntu 22.04 güncelleme ekranı",
+            "Ubuntu 22.04 güncellemesini taklit et",
+            "Ubuntu 22.04 Güncelleme Şakası",
+            "Ubuntu 22.04 Güncelleme İşlemi"
+          ]
+        },
+        {
+          "title": "Gerçekçi deneyim",
+          "content": [
+            "Gerçek görünümlü Ubuntu 22.04 güncellemesi",
+            "Gerçekçi Ubuntu 22.04 güncelleme ekranı",
+            "Ubuntu 22.04 güncellemesiyle arkadaşlarınızı kandırmak",
+            "Ubuntu 22.04 güncellemesinin gerçekçi ilerlemesi",
+            "Orijinal Ubuntu 22.04 Güncelleme Simülasyonu",
+            "Orijinal Ubuntu 22.04 Güncelleme Mesajları",
+            "Ubuntu 22.04 güncellemesi"
+          ]
+        },
+        {
+          "title": "Eğlence ve eğlence",
+          "content": [
+            "Eğlenceli Ubuntu 22.04 Güncelleme Şakası",
+            "Ubuntu 22.04'ün komik sahte güncellemesi",
+            "Ubuntu 22.04'e simüle edilmiş bir güncellemenin tadını çıkarın",
+            "Sahte Ubuntu 22.04 güncellemesiyle şaka",
+            "Heyecan verici Ubuntu 22.04 yükseltme deneyimi",
+            "Eğlence İçin Ubuntu 22.04 Güncellemesi",
+            "Ubuntu 22.04 Güncelleme Şaka Aracı"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-chrome-os-update-screen": {
+    "name": "Sahte Chrome OS Güncellemesi",
+    "icon": "https://emojicdn.elk.sh/🌐",
+    "title": "Sahte Chrome OS Güncellemesi",
+    "type": "sahte-güncelleme",
+    "tip": {
+      "title": "Sahte ChromeOS Güncellemesi",
+      "content": [
+        {
+          "title": "ChromeOS Şakası",
+          "description": "Gerçek bir sistem güncellemesinin temiz ve minimalist görünümünü taklit eden sahte bir ChromeOS güncelleme ekranıyla arkadaşlarınızı kandırın. Chromebook kullanıcıları için hızlı ve ikna edici bir şaka."
+        },
+        {
+          "title": "ChromeOS Tepki Testi",
+          "description": "Kullanıcıların sahte bir ChromeOS güncelleme gecikmesine verdiği tepkileri inceleyin, sabırlarını veya kafa karışıklıklarını gözlemleyin. Bu, teknolojik kesintiler karşısında kullanıcı davranışını keşfetmenin incelikli bir yoludur."
+        },
+        {
+          "title": "ChromeOS Video Sahneleri",
+          "description": "Teknoloji video içeriğinizi geliştiren sahte bir ChromeOS ekranıyla öğreticilerinize veya çizimlerinize gerçekçi güncelleme görselleri ekleyin. İçerik oluşturucular için profesyonel ve temiz bir dokunuş."
+        },
+        {
+          "title": "ChromeOS Laboratuvar Şakası",
+          "description": "Birden fazla Chromebook'ta sahte bir güncelleme ekranı görüntüleyerek tüm okul laboratuvarını kandırın, öğrencilerden kahkaha ve homurtu dalgası gelsin. Bu, bir teknoloji ortamı için cesur bir şaka."
+        },
+        {
+          "title": "ChromeOS Bilgisayar Uygulaması",
+          "description": "Gerçek dünya senaryolarını kopyalayarak sorun giderme pratiği yapmak için güvenli bir ChromeOS güncelleme simülasyonuyla BT desteğini eğitin. Sistem yönetimine güven oluşturmak için pratik bir araçtır."
+        },
+        {
+          "title": "ChromeOS Genel Bakış",
+          "description": "Teknik sunumlarınızı veya demolarınızı, tartışmanıza dinamik görseller ekleyen sahte bir ChromeOS güncelleme ekranıyla geliştirin. Güncelleme süreçlerini veya sistem özelliklerini göstermenin ilgi çekici bir yoludur."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Eğlence ve Eğlence",
+          "content": [
+            "Öğle tatilinde arkadaşlarına şaka yap",
+            "Ailenizi şaşırtın",
+            "Komik tepki videoları yaratın",
+            "Okul bilgisayar laboratuvarında şaka",
+            "Ofis ChromeOS Şakası"
+          ]
+        },
+        {
+          "title": "Eğitim ve öğretim",
+          "content": [
+            "BT Destek Eğitim Senaryoları",
+            "Yazılım Güncelleme Atölyeleri",
+            "ChromeOS Eğitim Kayıtları",
+            "Sistem Yöneticisi Sunumları",
+            "Kullanıcı davranış çalışmaları"
+          ]
+        },
+        {
+          "title": "İçerik Oluşturma",
+          "content": [
+            "ChromeOS Güncelleme Ekran Görüntüleri",
+            "Teknik inceleme görselleri",
+            "Eğitim Videosu Arka Planları",
+            "Yazılım Dokümantasyon Görüntüleri",
+            "ChromeOS Demo Donanımı"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-11-update-screen": {
+    "name": "Sahte Windows 11 Güncellemesi",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Sahte Windows 11 Güncellemesi",
+    "type": "sahte-güncelleme",
+    "tip": {
+      "title": "Windows 11 Güncelleştirme Ekranı",
+      "content": [
+        {
+          "title": "Sahte-Windows 11 güncellemesi",
+          "description": "Sonsuz bir döngüde takılıp kalmış gibi görünen, kafa karışıklığına ve kahkahaya neden olan sahte bir Windows 11 güncellemesiyle arkadaşlarınızı kandırın. Bu, şık görsellerle klasik güncelleme şakasının modern bir yorumudur."
+        },
+        {
+          "title": "Windows 11 Office Spice",
+          "description": "Paylaşılan bir bilgisayarda sahte bir güncelleme ekranı görüntüleyerek toplantı sırasında ekibinizi kandırın ve iş gününe eğlenceli bir hava katın. Neler olup bittiğini anlamak için çabalamalarını izleyin."
+        },
+        {
+          "title": "Windows 11 Şakası",
+          "description": "Oyunun ortasında beliren ve oyuncuları hazırlıksız yakalayıp komik tepkilere yol açan sahte bir Windows 11 güncellemesiyle oyun oturumunu kesintiye uğratın. Yayıncılar veya grup oyun geceleri için mükemmel."
+        },
+        {
+          "title": "Windows 11, etkileyici bir teknoloji",
+          "description": "Windows 11'in şık tasarımını taklit eden gerçekçi bir sahte güncelleme simülasyonuyla arkadaşlarınızı şaşırtın ve onlara sistemi hacklediğinizi düşündürün. Şaka yeteneklerinizi göstermenin geek bir yolu."
+        },
+        {
+          "title": "Komik Windows 11 Videosu",
+          "description": "Arkadaşlarınızın sahte bir Windows 11 güncellemesine tepkilerini kaydederek, şaşkınlıklarını veya hayal kırıklıklarını yakalayan eğlenceli video içeriği oluşturun. Viral görüntüler için basit bir kurulum."
+        },
+        {
+          "title": "Meslektaşlarım Windows 11'e ara veriyor",
+          "description": "İş akışlarını bozan sahte bir güncelleme ekranıyla meslektaşlarınızı şaşırtın, ancak ilk panikten sonra şaka olduğu ortaya çıkar. Ofiste kahkaha atmak için cesur bir hareket."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Simüle Edilmiş Windows 11 Güncelleştirmesi",
+          "content": [
+            "Sahte Windows 11 güncellemesi",
+            "Windows 11 Güncelleme Simülasyonu",
+            "Windows 11 güncellemesini simüle edin",
+            "Sahte Windows 11 güncelleme ekranı",
+            "Windows 11 güncelleştirmesini taklit et",
+            "Windows 11 Güncelleme Şakası",
+            "Windows 11 Güncelleme İşlemi"
+          ]
+        },
+        {
+          "title": "Gerçekçi deneyim",
+          "content": [
+            "Orijinal Windows 11 Güncelleştirmesi",
+            "Gerçekçi Windows 11 Güncelleme Ekranı",
+            "Windows 11 güncellemesiyle arkadaşlarınızı kandırmak",
+            "Gerçekçi Windows 11 Güncelleştirme İlerlemesi",
+            "Orijinal Windows 11 Güncelleme Simülasyonu",
+            "Orijinal Windows 11 Güncelleştirme Mesajları",
+            "Windows 11 Güncelleme Adımı"
+          ]
+        },
+        {
+          "title": "Eğlence ve Eğlence",
+          "content": [
+            "Eğlenceli Windows Windows 11 Güncelleme Şakası",
+            "Komik sahte Windows 11 güncellemesi",
+            "Windows 11 güncelleme simülasyonunun tadını çıkarın",
+            "Sahte Windows 11 güncellemesiyle şaka yapın",
+            "Heyecan verici Windows 11 güncelleme deneyimi",
+            "Eğlence amaçlı Windows 11 güncelleştirmesi",
+            "Windows 11 Güncelleme Şaka Aracı"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-android-update": {
+    "name": "Sahte Android Güncellemesi",
+    "icon": "https://emojicdn.elk.sh/📱",
+    "title": "Sahte Android Güncellemesi",
+    "type": "sahte-güncelleme",
+    "tip": {
+      "title": "Sahte Android güncelleme ekranı",
+      "content": [
+        {
+          "title": "Android Yazılım Testi",
+          "description": "Gerçek cihazınızı etkilemeden, sahte bir sistem yenilemesi sırasında uygulamaların nasıl davrandığını test etmek için bir Android güncellemesini simüle edin. Geliştiriciler ve meraklı kurcalayıcılar için güvenli bir ortamdır."
+        },
+        {
+          "title": "Android Sunumu",
+          "description": "Teknik sunumlarınız sırasında izleyicilerinizi, slaytlarınıza dinamik ve gerçekçi bir görsel ekleyen sahte bir Android güncelleme ekranıyla heyecanlandırın. Mobil işletim sistemi kavramlarını göstermenin harika bir yoludur."
+        },
+        {
+          "title": "Android Teknik Eğitimi",
+          "description": "Gerçek cihazlar olmadan, gerçek yaşam deneyimini taklit eden bir sahte güncelleme ekranı kullanarak Android güncelleme işlemlerini öğretin. BT personeli veya öğrencileri eğitmek için etkili bir araçtır."
+        },
+        {
+          "title": "Android İçerik Oluşturma",
+          "description": "Teknoloji içeriğinizi zenginleştiren sahte bir Android ekranıyla videolarınıza veya eğitimlerinize otantik güncelleme görselleri ekleyin. İncelemeleriniz veya nasıl yapılır kılavuzlarınız için rafine bir dokunuş."
+        },
+        {
+          "title": "Android Şakası",
+          "description": "Arkadaşlarınızı, telefon ekranlarını kilitleyen ve güncellemenin tamamlanmasını beklemek zorunda kaldıklarını düşündüren sahte bir Android güncellemesiyle kandırın. Bu, mobil kullanıcılar için sinsi bir şakadır."
+        },
+        {
+          "title": "Android UX Çalışması",
+          "description": "Sahte bir Android güncellemesinin tasarımına veya gecikmelerine yönelik kullanıcı tepkisini analiz edin ve gerçek bir risk olmadan kullanıcı deneyimine ilişkin içgörüler edinin. Bu, mobil kullanıcı arayüzü tepkilerini keşfetmenin düşük riskli bir yoludur."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Benzetilmiş Android Güncellemesi",
+          "content": [
+            "Sahte Android Güncellemesi",
+            "Android Güncelleme Simülasyonu",
+            "Android güncellemesini simüle et",
+            "Sahte Android güncelleme ekranı",
+            "Bir Android güncellemesini taklit et",
+            "Android Güncelleme Şakası",
+            "Android Güncelleme İşlemi"
+          ]
+        },
+        {
+          "title": "Gerçekçi deneyim",
+          "content": [
+            "Gerçek görünümlü Android güncellemesi",
+            "Gerçekçi Android Güncelleme Ekranı",
+            "Android güncellemesiyle arkadaşlarınızı kandırmak",
+            "Gerçekçi Android güncelleme ilerlemesi",
+            "Orijinal Android Güncelleme Simülasyonu",
+            "Orijinal Android Güncelleme Mesajları",
+            "Android Güncelleme Adımı"
+          ]
+        },
+        {
+          "title": "Eğlence ve zevk",
+          "content": [
+            "Eğlenceli Android Güncelleme Şakası",
+            "Komik sahte Android güncellemesi",
+            "Simüle edilmiş bir Android güncellemesinin tadını çıkarın",
+            "Sahte Android Güncelleme Şakası",
+            "Heyecan verici Android güncelleme deneyimi",
+            "Eğlence için Android güncellemesi",
+            "Android Güncelleme Şaka Aracı"
+          ]
+        }
+      ]
+    }
+  },
+  "/dvd-screensaver": {
+    "name": "DVD Ekran Koruyucu",
+    "icon": "https://emojicdn.elk.sh/📀",
+    "title": "DVD Ekran Koruyucu",
+    "type": "ekran koruyucu",
+    "tip": {
+      "title": "DVD Ekran Koruyucu",
+      "content": [
+        {
+          "title": "dinlenme DVD'si",
+          "description": "Ekranınızda ikonik DVD logosunun zıplamasını izlerken rahatlayın, zihni sakinleştiren rahatlatıcı, hipnotik bir hareket sağlar. Uzun bir günün ardından rahatlamanın nostaljik bir yolu."
+        },
+        {
+          "title": "DVD Sunumu",
+          "description": "DVD ekran koruyucusu ile slaytlarınıza veya sunum aralarınıza ince hareketler ekleyin, izleyicilerinizi dikkat dağıtmadan büyüleyin. Ruh halini hafifleten retro bir dokunuş."
+        },
+        {
+          "title": "Bekleme Odası DVD'si",
+          "description": "Ziyaretçilerinizi DVD ekran koruyucusunun retro havasıyla bekleme odasında eğlendirin, onlara basit ve ilgi çekici bir gösteri sunun. Atmosferi iyileştirmenin basit ve etkili bir yolu."
+        },
+        {
+          "title": "Eğlenceli bir gece için DVD",
+          "description": "Büyük bir ekrandan yansıyan ve eski moda teknoloji hakkında sohbetler başlatan DVD ekran koruyucuyla nostaljik bir atmosfer yaratın. Herhangi bir toplantıya eğlenceli ve orijinal bir katkıdır."
+        },
+        {
+          "title": "Çalışma yardımı için DVD",
+          "description": "DVD ekran koruyucusunun dikkat dağıtmayan, rahatlatıcı bir arka plan sağlayan akıcı, tahmin edilebilir hareketleriyle çalışma seanslarınız sırasında odaklanmanızı geliştirin. Konsantrasyon için ince bir arkadaştır."
+        },
+        {
+          "title": "Mola için DVD",
+          "description": "Molalarda hareketsiz ekranları DVD ekran koruyucu animasyonuyla doldurun, boş bir ekranı eğlenceli, retro bir dikkat dağıtıcıya dönüştürün. Görevler arasındaki anları canlandırmak için idealdir."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Rahatlama ve atmosfer",
+          "content": [
+            "Nostaljik bir ekran koruyucuyla rahatlayın",
+            "Sakinleştirici bir ortam yaratın",
+            "Retro bir atmosferin tadını çıkarın",
+            "Sakin bir arka plan yaratın",
+            "Meditasyon seansları için mükemmel"
+          ]
+        },
+        {
+          "title": "Profesyonel ve ticari kullanım",
+          "content": [
+            "Sunumlarınızı hareketle geliştirin",
+            "Bekleme odasının dinamik gösterimi",
+            "Çekici masaüstü arka planı",
+            "Toplantılar için profesyonel ekran koruyucu",
+            "Göz alıcı mağaza vitrinleri"
+          ]
+        },
+        {
+          "title": "Eğlence ve zevk",
+          "content": [
+            "Parti atmosferinin yaratıcısı",
+            "Eğlenceli ders çalışma molası aracı",
+            "Çocuklar için etkileşimli ekran koruyucu",
+            "Boş zamanlarda görsel eğlence",
+            "Özelleştirilebilir Parti Ekranı"
+          ]
+        }
+      ]
+    }
+  },
+  "/flip-clock-screensaver": {
+    "name": "Saat Çevir",
+    "icon": "https://emojicdn.elk.sh/⏰",
+    "title": "Çevirmeli Saat Ekran Koruyucu",
+    "type": "ekran koruyucu",
+    "tip": {
+      "title": "Çevirmeli Saat Ekran Koruyucu",
+      "content": [
+        {
+          "title": "Rahatlatıcı çevirme saati",
+          "description": "Rahatlamak için dijital bir saatin retro hareketinin keyfini çıkarın, ritmik değişiklikler sakinleştirici ve meditatif bir etki yaratır. Zamanı takip ederken rahatlamanın şık bir yolu."
+        },
+        {
+          "title": "Masa Üstü Çevirmeli Saat",
+          "description": "Zamanı zarif bir şekilde gösteren bir çevirmeli saat ekran koruyucu ile çalışma alanınıza bir miktar sofistikelik katın. Herhangi bir masaya hem işlevsel hem de estetik bir katkı sağlar."
+        },
+        {
+          "title": "Çevirmeli saat sunumu",
+          "description": "Zamanlayıcı veya ince bir arka plan görevi gören, izleyicilerinizin saati takip etmesini sağlayan şık bir çevirmeli saat ekran koruyucusuyla sohbetlerinizi zenginleştirin. Profesyonel ortamlara rafine bir katkı."
+        },
+        {
+          "title": "Ev için saat çevir",
+          "description": "Retro cazibesini çağdaş tasarımla birleştiren bir çevirmeli saat ekran koruyucuyla evinizde modern, minimalist bir atmosfer yaratın. Televizyonunuzda veya monitörünüzde saati söylemenin şık bir yolu."
+        },
+        {
+          "title": "Çalışmak için saat çevir",
+          "description": "Çalışma sürenizi, programınıza bağlı kalmanıza yardımcı olmak ve seanslarınıza rahatlatıcı bir ritim eklemek için çevirmeli saatin hoş dönüşleriyle takip edin. Odaklanmış çalışma için kullanışlı bir araçtır."
+        },
+        {
+          "title": "Beklemek için saati çevir",
+          "description": "Ziyaretçileri bekleme alanlarında, kullanışlılık ve estetiği bir araya getiren, zamanı daha keyifli hale getiren şık bir çevirmeli saat ekran koruyucusuyla heyecanlandırın. Kamusal alanlar için bir zarafet dokunuşu."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Rahatlama ve estetik",
+          "content": [
+            "Vintage estetik",
+            "Tam ekranda rahatlatıcı saat",
+            "Retro atmosfer",
+            "Modern minimalist tasarım",
+            "Zarif iç mekan tasarımı"
+          ]
+        },
+        {
+          "title": "Profesyonel ve üretkenlik",
+          "content": [
+            "Ofis saati gösterimi",
+            "Sunum arka planı",
+            "Yapılandırılmış çalışma ortamı",
+            "İlgi çekici bekleme odası saati",
+            "Zaman yönetimi aracı"
+          ]
+        },
+        {
+          "title": "Eğlence ve Etkinlikler",
+          "content": [
+            "Parti atmosferi",
+            "Etkinlik dekorasyonu",
+            "Sergileme fonksiyonu",
+            "Etkileşimli ekran",
+            "Etkinlikler için özel zaman"
+          ]
+        }
+      ]
+    }
+  },
+  "/motivational-quote-screensaver": {
+    "quote": {
+      "paragraph": "Harika işler yapmanın tek yolu yaptığınız işi sevmektir. Eğer henüz bulamadıysanız, aramaya devam edin. Yetinmeyin.",
+      "author": "Steve Jobs"
+    },
+    "name": "Motivasyonel Söz",
+    "icon": "https://emojicdn.elk.sh/💬",
+    "title": "Motivasyonel Söz Ekran Koruyucu",
+    "type": "ekran koruyucu",
+    "tip": {
+      "title": "Motivasyonel alıntılar içeren ekran koruyucu",
+      "content": [
+        {
+          "title": "Sabahınızı canlandıracak alıntı",
+          "description": "Gününüze ilhamla başlayın, ruhunuzu yükseltecek ve size pozitif bir his verecek motivasyonel bir alıntı ekran koruyucusu görüntüleyin. Güne amaçla başlamanın basit bir yoludur."
+        },
+        {
+          "title": "Çalışma alanı için alıntı",
+          "description": "Ofiste odaklanmanızı ve enerjik kalmanızı sağlayacak cesaretlendirici alıntılar içeren bir ekran koruyucuyla iş gününüzü motive edin. Uzun saatler boyunca motive kalmanız için ince bir hatırlatmadır."
+        },
+        {
+          "title": "Toplantılar için alıntı",
+          "description": "Molalarda veya sunumlarda motivasyonel bir alıntı ekran koruyucusu görüntüleyerek ekip toplantıları sırasında yaratıcılığı ve sohbeti ateşleyin. Bu, işbirliğine ve fikirlere ilham vermenin düşünceli bir yoludur."
+        },
+        {
+          "title": "Çalışma yardımı için teklif",
+          "description": "Zorlu seanslarda sizi motive edecek motivasyonel alıntılar içeren bir ekran koruyucuyla çalışırken ilham almaya devam edin. Gece geç saatlerde yapılan tekrarlar veya uzun projeler için gerçek bir zihinsel destek."
+        },
+        {
+          "title": "Evin atmosferi için alıntı",
+          "description": "Odayı aydınlatan ve herkesi cesaretlendiren motivasyonel bir ekran koruyucu ile yaşam alanınıza pozitif bir dokunuş katın. Güçlü bir duygusal etkiye sahip dekoratif bir dokunuş."
+        },
+        {
+          "title": "Fitness Sözü",
+          "description": "Antrenmanlarınız sırasında sizi motive edecek motivasyonel alıntılar içeren bir ekran koruyucuyla antrenmanlarınıza devam edin. Fitness hedeflerinize ulaşmanız için gerçek bir görsel destek."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Günlük Motivasyon",
+          "content": [
+            "Sabah ilhamı takviyesi",
+            "Güne pozitif bir başlangıç",
+            "Günlük motivasyon dozu",
+            "Yenilenme Hakkında Moral Verici Alıntılar",
+            "Güne pozitiflikle başlayın"
+          ]
+        },
+        {
+          "title": "Üretkenlik ve konsantrasyon",
+          "content": [
+            "İşyerinde odaklanmaya devam edin",
+            "Çalışma esnasında motivasyonunuzu koruyun",
+            "Ekibin yaratıcılığını teşvik edin",
+            "İlham verici iş molaları",
+            "Çalışma alanının atmosferini iyileştirin"
+          ]
+        },
+        {
+          "title": "Kişisel ve ev içi kullanım",
+          "content": [
+            "İlham verici iç mekan tasarımı",
+            "Özelleştirilebilir teklif görüntüleme",
+            "Kişisel Favori Sözler",
+            "Fitness rutinlerini teşvik edin",
+            "Motive edici iç mekan atmosferi"
+          ]
+        }
+      ]
+    }
+  },
+  "/no-signal-smpte-color-bars-screensaver": {
+    "name": "Sinyal yok",
+    "icon": "https://emojicdn.elk.sh/📡",
+    "title": "Renk çubukları - Sinyal olmayan TV ekranı",
+    "type": "ekran koruyucu",
+    "tip": {
+      "title": "Renk çubukları - Sinyal olmayan TV ekranı",
+      "content": [
+        {
+          "title": "Renk çubuğu kalibrasyonu",
+          "description": "Doğru renk ve parlaklık ayarlarını ve optimum görüntülemeyi garantilemek için ekranlarınızı retro SMPTE renk çubuklarıyla ayarlayın. Teknoloji meraklıları ve profesyoneller için klasik bir araçtır."
+        },
+        {
+          "title": "Renkli çubuklu video",
+          "description": "Renk çubuklarını referans veya duraklatma ekranı olarak kullanarak test desenleriyle video prodüksiyonunuzu geliştirin ve çalışmanıza profesyonel bir dokunuş katın. Kaliteyi artıran yayın geçmişine bir selam niteliğindedir."
+        },
+        {
+          "title": "Renkli çubuklarla yayın",
+          "description": "TV test sinyallerini taklit eden renk çubuklarıyla yayınlarınıza profesyonel aralar ekleyin ve izleyicilerinize rafine bir ara verin. Canlı içerik oluşturucuları için retro bir dokunuş."
+        },
+        {
+          "title": "Renk Çubuğu Sanatı",
+          "description": "Galerileriniz veya yaratıcı projeleriniz için canlı ve nostaljik bir fon oluşturmak üzere renk çubuklarıyla retro multimedya kurulumları yaratın. Teknoloji ve estetiği birleştiren cesur bir görsel."
+        },
+        {
+          "title": "Renk çubuğu atmosferi",
+          "description": "Geçmişin şovlarını çağrıştıran renk çubuklarıyla mekanınızda vintage bir TV havası yaratın, ilginç bir atmosfer için mükemmel. Herhangi bir odaya karakter katmanın kolay bir yolu."
+        },
+        {
+          "title": "Renk çubuğu doldurma",
+          "description": "Sahte bir TV arızasıyla arkadaşlarınızı kandırın, renkli çubuklar gösterin, sinyalin kaybolduğuna inandırın, sadece bir kahkaha için yeterli bir süre. Retro bir dokunuşa sahip zararsız bir şaka."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Eğlence ve komedi",
+          "content": [
+            "sinyalsiz tam ekran şakalar",
+            "retro TV parti süslemeleri",
+            "akış duraklatma ekran efektleri",
+            "vintage yayın estetiği",
+            "oyun odası atmosferi"
+          ]
+        },
+        {
+          "title": "Profesyonel kullanımlar",
+          "content": [
+            "SMPTE Renk Çubuğu Testi",
+            "monitör kalibrasyon modelleri",
+            "video prodüksiyon test kartları",
+            "görüntü yapılandırma referansı",
+            "yayın ekipmanı kontrolleri"
+          ]
+        },
+        {
+          "title": "Yaratıcı Projeler",
+          "content": [
+            "sanat enstalasyon arka planları",
+            "retro video estetiği",
+            "vintage TV seti tasarımı",
+            "film yapım aksesuarları",
+            "nostaljik multimedya ekranları"
+          ]
+        }
+      ]
+    }
+  },
+  "/terms-and-conditions": {
+    "name": "Kullanım Şartları",
+    "icon": "https://emojicdn.elk.sh/📜",
+    "title": "Kullanım Şartları",
+    "type": "sayfa"
+  },
+  "/privacy-policy": {
+    "name": "Gizlilik Politikası",
+    "icon": "https://emojicdn.elk.sh/🔒",
+    "title": "Gizlilik Politikası",
+    "type": "sayfa"
+  },
+  "/contact-us": {
+    "name": "Bizimle iletişime geçin",
+    "icon": "https://emojicdn.elk.sh/📞",
+    "title": "Bizimle iletişime geçin",
+    "type": "sayfa"
+  },
+  "/kernel-panic": {
+    "name": "Çekirdek Panik",
+    "icon": "https://emojicdn.elk.sh/🔋",
+    "title": "Çekirdek Panik",
+    "type": "şaka",
+    "isPage": true,
+    "tip": {
+      "title": "Çekirdek Panik",
+      "content": [
+        {
+          "title": "Çekirdek Panik",
+          "description": "Kernel panic, elektronik bir cihazın deşarj olmasını simüle eden bir şaka ekranıdır."
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "color": "Renkli ekranlar",
+    "prank": "Şaka ekranları",
+    "fake-update": "Sahte güncelleme ekranları",
+    "screensaver": "Ekran Koruyucular",
+    "tip": {
+      "header": "İnsanlar {tipTitle}'ı şunun için kullanıyor:"
+    }
+  },
+  "settings": {
+    "time": [
+      "Güncelleme zamanı",
+      "Başlangıç zamanı",
+      "dakikalar",
+      "Tekrar başlat"
+    ],
+    "color": [
+      "İndirmek",
+      "{title} arka plan"
+    ],
+    "hacker": [
+      "Hız"
+    ]
+  },
+  "title": "{title} | Çevrimiçi Araç",
+  "/null": {
+    "name": "Boş",
+    "icon": "https://emojicdn.elk.sh/⚫️",
+    "title": "Boş",
+    "type": "sayfa",
+    "color": "#000000",
+    "colorName": "Siyah",
+    "isPage": true,
+    "tip": {
+      "title": "Boş",
+      "content": [
+        {
+          "title": "Boş",
+          "description": "Null, metin veya resim içermeyen bir sayfadır."
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "links": "Bağlantılar",
+    "uses": "Kullanımlar",
+    "other_tips": "Diğer ipuçları"
+  }
+}

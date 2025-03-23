@@ -33,7 +33,7 @@ export default function Sidebar() {
             {isPanelOpen && <SidebarTab />}
 
             {!isPanelOpen && (
-              <div className="absolute top-1/2 right-2 transform -translate-y-1/2  flex flex-col gap-2 shadow-sm shadow-gray-400 rounded-md py-2">
+              <div className="absolute top-1/2 right-2 transform -translate-y-1/2  flex flex-col gap-2 shadow-sm shadow-gray-400 rounded-md py-2 bg-white">
                 <TooltipProvider>
                   <Tooltip>
                     <TooltipTrigger asChild>

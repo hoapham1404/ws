@@ -51,7 +51,7 @@ export default function NavigationSection(): JSX.Element {
         return (
           <AccordionItem key={type} value={type}>
             <AccordionTrigger>{t(`navigation.${type}`)}</AccordionTrigger>
-            <AccordionContent className="grid grid-cols-2">
+            <AccordionContent className="grid grid-cols-3">
               {routes.map((route: RouteStore) => (
                 <Link
                   key={route.path}

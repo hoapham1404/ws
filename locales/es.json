@@ -1,0 +1,1793 @@
+{
+  "/": {
+    "name": "Pantalla blanca",
+    "color": "#FFFFFF",
+    "isAxis": false,
+    "title": "Pantalla blanca",
+    "type": "color",
+    "tip": {
+      "title": "pantalla blanca",
+      "content": [
+        {
+          "title": "pantalla blanca para copiar dibujos",
+          "description": "Coloque una hoja de papel sobre una pantalla blanca brillante para trazar fácilmente imágenes o bocetos. Este método es simple y eficaz para reproducir obras de arte sin herramientas especializadas."
+        },
+        {
+          "title": "pantalla blanca como fuente de luz",
+          "description": "Utiliza una pantalla blanca como retroiluminación para fotografías e ilumina uniformemente a los sujetos o como una mesa de luz improvisada para proyectos pequeños. Es una solución rentable para crear una iluminación suave y difusa."
+        },
+        {
+          "title": "pantalla blanca para comprobar la pantalla",
+          "description": "Muestre una pantalla completamente blanca para inspeccionar su pantalla en busca de píxeles muertos, decoloración u otros problemas. Esta técnica le permite identificar rápidamente imperfecciones que, de otro modo, podrían pasar desapercibidas."
+        },
+        {
+          "title": "Pantalla blanca para pantalla vacía",
+          "description": "Pantalla blanca para minimizar las distracciones durante tareas que no requieren una pantalla activa, como generar ideas o escuchar audio. Es una manera fácil de mantener la concentración sin apagar el dispositivo."
+        },
+        {
+          "title": "Pantalla blanca como lámpara de lectura",
+          "description": "Ilumina tus libros o notas en condiciones de poca luz usando una pantalla blanca como lámpara de lectura suave. Ajusta el brillo según sea necesario para una lectura cómoda y sin deslumbramientos."
+        },
+        {
+          "title": "Pantalla blanca para maquillaje",
+          "description": "Aplique maquillaje o tome selfis bien iluminados con una pantalla blanca que proporciona una iluminación brillante y uniforme que imita la luz natural. Esta configuración garantiza una reproducción precisa del color y resultados impecables."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Pantalla blanca para limpieza",
+          "content": [
+            "pantalla blanca para limpieza del monitor",
+            "pantalla blanca para encontrar píxeles muertos",
+            "pantalla blanca para detectar manchas sucias"
+          ]
+        },
+        {
+          "title": "Luz blanca en línea",
+          "content": [
+            "luz blanca para leer",
+            "luz blanca para videollamadas",
+            "luz blanca",
+            "pantalla/luz blanca para selfies",
+            "Luces LED blancas en línea"
+          ]
+        },
+        {
+          "title": "Otros",
+          "content": [
+            "pantalla de proyector blanca",
+            "pantalla blanca para niños",
+            "fondo de pantalla completa blanco"
+          ]
+        }
+      ]
+    }
+  },
+  "/black-screen": {
+    "name": "Pantalla negra",
+    "color": "#000000",
+    "isAxis": false,
+    "title": "Pantalla completamente negra",
+    "type": "color",
+    "tip": {
+      "title": "pantalla negra",
+      "content": [
+        {
+          "title": "pantalla negra para el segundo monitor",
+          "description": "Configura un segundo monitor en pantalla negra para mantenerlo activo sin mostrar contenido que te distraiga mientras trabajas. Este truco preserva la funcionalidad y reduce el desorden visual."
+        },
+        {
+          "title": "pantalla negra para ahorrar electricidad",
+          "description": "Cambie a pantalla negra en pantallas OLED o AMOLED para reducir el consumo de energía, ya que estas pantallas consumen menos energía al mostrar colores oscuros. Es una opción ecológica para un uso prolongado."
+        },
+        {
+          "title": "pantalla negra para ocultar la actividad",
+          "description": "Usa una pantalla negra para ocultar discretamente el contenido de tu computadora mientras estás fuera, manteniendo tu trabajo o actividades privadas. Es una alternativa rápida a bloquear o apagar tu dispositivo."
+        },
+        {
+          "title": "Pantalla negra para limpiar la pantalla",
+          "description": "Muestra una pantalla negra para resaltar el polvo, las manchas o las huellas dactilares y facilitar su limpieza. El contraste nítido te ayuda a detectar imperfecciones que requieren atención."
+        },
+        {
+          "title": "Pantalla negra como fondo oscuro",
+          "description": "Crea un fondo oscuro e inmersivo para tus juegos, videos o proyectos creativos configurando la pantalla en negro. Esto mejora la concentración y reduce la fatiga visual con poca luz."
+        },
+        {
+          "title": "Pantalla negra para evitar que se queme la pantalla",
+          "description": "Proteja las pantallas de plasma u OLED del desgaste de la imagen mostrando una pantalla negra durante periodos de inactividad o descansos. Esta precaución prolonga la vida útil de su pantalla al evitar la retención de imagen estática."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Pantalla negra para limpieza",
+          "content": [
+            "pantalla negra para limpieza del monitor",
+            "pantalla negra para encontrar píxeles muertos",
+            "pantalla negra para encontrar manchas sucias"
+          ]
+        },
+        {
+          "title": "Color negro en línea",
+          "content": [
+            "pantalla de computadora en blanco",
+            "pantalla completamente negra",
+            "pantalla completamente negra"
+          ]
+        },
+        {
+          "title": "Otros",
+          "content": [
+            "pantalla negra para proyector",
+            "pantalla negra para niños",
+            "pantalla completa con fondo negro"
+          ]
+        }
+      ]
+    }
+  },
+  "/red-screen": {
+    "name": "Pantalla roja",
+    "color": "#FF0000",
+    "isAxis": false,
+    "title": "Pantalla roja",
+    "type": "color",
+    "tip": {
+      "title": "pantalla roja",
+      "content": [
+        {
+          "title": "pantalla roja para fotografía",
+          "description": "Integre una pantalla roja para añadir efectos de color intensos y dramáticos a sus proyectos de fotografía o vídeo, mejorando la atmósfera y las imágenes. Es una forma creativa de experimentar con la iluminación sin necesidad de equipo adicional."
+        },
+        {
+          "title": "pantalla roja para la salud ocular",
+          "description": "Utilice una pantalla roja en entornos oscuros para reducir la exposición a la luz azul y aliviar la fatiga visual durante el uso nocturno. Este enfoque imita la configuración del Modo Nocturno para una experiencia de visualización más cómoda."
+        },
+        {
+          "title": "pantalla roja para eventos virtuales",
+          "description": "Utiliza una pantalla roja como fondo dinámico para tus reuniones virtuales o transmisiones en vivo y crea una atmósfera vibrante y memorable. Llama la atención y le da un toque profesional y dinámico a tu presencia en línea"
+        },
+        {
+          "title": "Fondo rojo para gráficos",
+          "description": "Usa un fondo rojo para inspirar proyectos de diseño gráfico audaces. Su vibrante tono sirve como base para imágenes o diseños impactantes. Es ideal para experimentar con contrastes de color y crear ilustraciones llamativas."
+        },
+        {
+          "title": "Fondo rojo para presentaciones",
+          "description": "Resalte las diapositivas o temas clave de sus presentaciones con un fondo rojo para enfatizar los puntos importantes y cautivar a su audiencia. Su color vibrante atrae la atención de forma natural hacia su contenido."
+        },
+        {
+          "title": "Fondo rojo para TikTok",
+          "description": "Crea videos cautivadores de TikTok con un fondo rojo vibrante que destaque en tus feeds y les dé un toque moderno. Combínalo con iluminación creativa o filtros para un impacto máximo."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Color rojo en línea",
+          "content": [
+            "pantalla roja para tiktoks",
+            "pantalla roja para llamadas en línea",
+            "pantalla roja para fotos"
+          ]
+        },
+        {
+          "title": "Luz roja en línea",
+          "content": [
+            "luz de color rojo",
+            "luz roja para selfies",
+            "Luces LED rojas en línea"
+          ]
+        },
+        {
+          "title": "Otros",
+          "content": [
+            "pantalla de proyector roja",
+            "pantalla roja en blanco para niños",
+            "Fondo de pantalla completamente rojo"
+          ]
+        }
+      ]
+    }
+  },
+  "/green-screen": {
+    "name": "Pantalla verde",
+    "color": "#00FF00",
+    "isAxis": false,
+    "title": "Pantalla verde",
+    "type": "color",
+    "tip": {
+      "title": "pantalla verde",
+      "content": [
+        {
+          "title": "pantalla verde para la creación de vídeos",
+          "description": "Utilice una pantalla verde para reemplazar fácilmente los fondos durante la producción de video, lo que permite entornos creativos como mundos virtuales o estudios profesionales. Esta técnica, llamada incrustación de croma, se utiliza ampliamente en cine y streaming por su versatilidad."
+        },
+        {
+          "title": "pantalla verde para relajarse",
+          "description": "Muestra una pantalla verde relajante para relajar la vista después de largos periodos de trabajo o frente a la pantalla, aprovechando las propiedades relajantes naturales del color. Es una manera fácil de tomar un descanso visual sin moverte del escritorio."
+        },
+        {
+          "title": "pantalla verde para juegos",
+          "description": "Mejora tus transmisiones de juegos añadiendo una pantalla verde inmersiva personalizable con imágenes dinámicas o superposiciones con temática de juegos. Esto mejora la experiencia visual de tu audiencia y le da un toque profesional."
+        },
+        {
+          "title": "Pantalla verde para reuniones",
+          "description": "Instala una pantalla verde para tus videollamadas y reemplázala con un fondo profesional y elegante que disimule tu entorno real. Esto te ayuda a mantener la concentración y a verte bien durante las reuniones virtuales."
+        },
+        {
+          "title": "Pantalla verde para la educación",
+          "description": "Haz que tus clases en línea sean más atractivas usando una pantalla verde para integrar elementos visuales interactivos, como mapas o diagramas, en la transmisión de video. Esto ayuda a los estudiantes a mantenerse concentrados y mejora la experiencia de aprendizaje con contenido dinámico."
+        },
+        {
+          "title": "Pantalla verde para Photoshop",
+          "description": "Edita fácilmente tus imágenes en Photoshop fotografiando a tus sujetos contra una pantalla verde, lo que permite una eliminación del fondo rápida y precisa. El verde intenso proporciona un contraste nítido para recortes más limpios y composiciones creativas."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Pantalla verde para limpieza",
+          "content": [
+            "pantalla verde para limpieza del monitor",
+            "pantalla verde para encontrar píxeles muertos",
+            "pantalla verde para encontrar manchas sucias"
+          ]
+        },
+        {
+          "title": "Luz verde en línea",
+          "content": [
+            "luz verde para las videollamadas",
+            "iluminación de pantalla verde",
+            "luz verde",
+            "luz verde para selfies",
+            "Luces LED verdes en línea"
+          ]
+        },
+        {
+          "title": "Otro",
+          "content": [
+            "pantalla verde para proyector",
+            "pantalla verde para niños",
+            "fondo de pantalla verde completo"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen": {
+    "name": "Pantalla azul",
+    "color": "#0000FF",
+    "isAxis": false,
+    "title": "Pantalla azul",
+    "type": "color",
+    "tip": {
+      "title": "pantalla azul",
+      "content": [
+        {
+          "title": "pantalla azul para relajarse",
+          "description": "Cambia a una pantalla azul para tranquilizarte después de un día ajetreado, ya que sus tonos fríos son conocidos por tener un efecto calmante en el cerebro. Es una manera fácil de relajarte sin tener que alejarte del dispositivo."
+        },
+        {
+          "title": "pantalla azul para dormir",
+          "description": "Usa una pantalla azul suave por la noche para favorecer el sueño, minimizando la luz brillante y creando un ambiente tranquilo. Aunque es menos agresiva que los filtros de luz azul, puede estimular la relajación del cuerpo."
+        },
+        {
+          "title": "pantalla azul para la salud ocular",
+          "description": "Muestre una pantalla azul durante largas sesiones de trabajo para reducir la fatiga visual, ya que su tono suave puede parecer menos intenso que los colores más brillantes. Combínelo con descansos regulares para una experiencia de pantalla más cómoda."
+        },
+        {
+          "title": "Fondo azul para presentaciones",
+          "description": "Integre un fondo azul como fondo para sus presentaciones y realce sus imágenes o diapositivas con un tono profesional y accesible. La versatilidad de este color lo hace ideal tanto para entornos formales como creativos."
+        },
+        {
+          "title": "Fondo azul para vídeos",
+          "description": "Crea un fondo de video único con un fondo azul que le da un toque moderno y actual a tu contenido, ideal para vlogs o tutoriales. Es una alternativa sutil a las pantallas verdes para efectos básicos de croma."
+        },
+        {
+          "title": "Fondo azul para calcar",
+          "description": "Coloque papel sobre un fondo azul para trazar imágenes o patrones con nitidez, utilizando la iluminación uniforme para guiar las líneas. El color distintivo ayuda a distinguir los detalles, a la vez que simplifica y agiliza el proceso."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Pantalla azul para limpieza",
+          "content": [
+            "Pantalla azul para limpieza del monitor",
+            "Pantalla azul para encontrar píxeles muertos",
+            "Pantalla azul para detectar manchas sucias"
+          ]
+        },
+        {
+          "title": "Luz azul en línea",
+          "content": [
+            "Luz azul para videollamadas",
+            "Luz de color azul",
+            "Luz azul para selfies",
+            "Luces LED azules en línea"
+          ]
+        },
+        {
+          "title": "Otros",
+          "content": [
+            "Pantalla azul para proyector",
+            "Pantalla azul para niños",
+            "Fondo azul de pantalla completa"
+          ]
+        }
+      ]
+    }
+  },
+  "/yellow-screen": {
+    "name": "Pantalla amarilla",
+    "color": "#FFFF00",
+    "isAxis": true,
+    "title": "Pantalla amarilla",
+    "type": "color",
+    "tip": {
+      "title": "pantalla amarilla",
+      "content": [
+        {
+          "title": "pantalla amarilla para contenido",
+          "description": "Dale un toque de energía a tus transmisiones, videos o presentaciones con una pantalla amarilla que capta la atención y transmite entusiasmo. Su color brillante y alegre resalta tu contenido y capta la atención de los espectadores."
+        },
+        {
+          "title": "pantalla amarilla para comodidad visual",
+          "description": "Opte por una pantalla amarilla para reducir la exposición a la luz azul y aliviar la fatiga visual durante el uso prolongado de la computadora, especialmente de noche. Su tono cálido imita una fuente de luz más suave, lo que proporciona una experiencia visual más agradable."
+        },
+        {
+          "title": "pantalla amarilla para la creatividad",
+          "description": "Estimula la inspiración rodeándote de una pantalla amarilla, un color que suele asociarse con el optimismo y la imaginación. Es un entorno ideal para sesiones de lluvia de ideas o proyectos artísticos."
+        },
+        {
+          "title": "Pantalla amarilla para prueba",
+          "description": "Pruebe la precisión y la consistencia del color de su pantalla mostrando una pantalla completamente amarilla para detectar inconsistencias o defectos. El tono intenso facilita la identificación de problemas sutiles en la pantalla."
+        },
+        {
+          "title": "Pantalla amarilla para la enseñanza",
+          "description": "Capte la atención de los estudiantes durante las clases en línea con una pantalla amarilla brillante que ofrece un fondo atractivo y vibrante. Crea un ambiente acogedor que fomenta la participación y la concentración."
+        },
+        {
+          "title": "Pantalla amarilla para ambiente",
+          "description": "Crea un ambiente cálido y acogedor en tu espacio de trabajo o en tus vídeos con una pantalla amarilla que transmita positividad y amabilidad. Es perfecta para crear un ambiente estimulante para ti o tu público."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Pantalla amarilla para limpieza",
+          "content": [
+            "pantalla amarilla para limpieza del monitor",
+            "pantalla amarilla para encontrar píxeles muertos",
+            "pantalla amarilla para detectar manchas sucias"
+          ]
+        },
+        {
+          "title": "Color amarillo en línea",
+          "content": [
+            "pantalla de computadora en blanco",
+            "pantalla amarilla total",
+            "pantalla amarilla completa"
+          ]
+        },
+        {
+          "title": "Otros",
+          "content": [
+            "pantalla de proyector amarilla",
+            "pantalla amarilla para niños",
+            "fondo de pantalla completo amarillo"
+          ]
+        }
+      ]
+    }
+  },
+  "/orange-screen": {
+    "name": "Pantalla naranja",
+    "color": "#FFA500",
+    "isAxis": true,
+    "title": "Pantalla naranja",
+    "type": "color",
+    "tip": {
+      "title": "pantalla naranja",
+      "content": [
+        {
+          "title": "pantalla naranja para fondos",
+          "description": "Resalta tu presencia virtual con una pantalla naranja que añade un toque cálido y audaz a tus videollamadas o transmisiones. Su color vibrante te permite ser memorable sin sobrecargar tu contenido."
+        },
+        {
+          "title": "pantalla naranja para dormir",
+          "description": "Filtra la luz azul con una pantalla naranja por la noche para favorecer un mejor descanso imitando los tonos del atardecer. Es una forma natural de preparar el cuerpo para dormir mientras usas tu dispositivo."
+        },
+        {
+          "title": "pantalla naranja para la creatividad",
+          "description": "Despierta tu imaginación con una pantalla naranja, un color conocido por estimular la energía y la innovación. Úsala como fondo para escribir, diseñar o cualquier otra actividad creativa."
+        },
+        {
+          "title": "Pantalla naranja para calibración",
+          "description": "Comprueba la precisión del color de tu pantalla mostrando una pantalla naranja para revelar cualquier irregularidad en el tono o el brillo. Su intenso tono es ideal para ajustar con precisión la configuración de la pantalla."
+        },
+        {
+          "title": "Pantalla naranja para la enseñanza",
+          "description": "Anima a los estudiantes a tomar clases en línea con una pantalla naranja que capta la atención y fomenta un ambiente de aprendizaje estimulante. Su color brillante mantiene la energía y fomenta la interacción."
+        },
+        {
+          "title": "Pantalla naranja para ambientación",
+          "description": "Crea un ambiente cálido y creativo con una pantalla naranja que combina calidez y dinamismo, ideal para vídeos informales o un espacio de trabajo personal. Es una opción versátil para crear un ambiente acogedor."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Pantalla naranja para limpieza",
+          "content": [
+            "pantalla naranja para limpieza del monitor",
+            "pantalla naranja para encontrar píxeles muertos",
+            "pantalla naranja para detectar manchas sucias"
+          ]
+        },
+        {
+          "title": "Color naranja en línea",
+          "content": [
+            "pantalla de computadora en blanco",
+            "pantalla naranja total",
+            "pantalla naranja completa"
+          ]
+        },
+        {
+          "title": "Otros",
+          "content": [
+            "pantalla de proyector naranja",
+            "pantalla naranja para niños",
+            "fondo naranja de pantalla completa"
+          ]
+        }
+      ]
+    }
+  },
+  "/pink-screen": {
+    "name": "Pantalla rosa",
+    "color": "#FFC0CB",
+    "isAxis": true,
+    "title": "Pantalla rosa",
+    "type": "color",
+    "tip": {
+      "title": "pantalla rosa",
+      "content": [
+        {
+          "title": "pantalla rosa para el contenido",
+          "description": "Dale a tus videos o transmisiones en vivo un toque amigable y cercano usando una pantalla rosa como fondo vibrante. Su tono suave y alegre hace que tu contenido se sienta cálido y acogedor al instante"
+        },
+        {
+          "title": "pantalla rosa para relajarse",
+          "description": "Opta por una pantalla rosa para relajarte después de un largo día, ya que su suave tono pastel crea una sensación de paz y confort. Crea fácilmente un ambiente tranquilo sin herramientas adicionales."
+        },
+        {
+          "title": "pantalla rosa para diseño",
+          "description": "Inspira tu creatividad con una pantalla rosa que aporta un toque lúdico y elegante a tus proyectos gráficos o artísticos. La versatilidad de este color invita a la experimentación con diseños atrevidos y armoniosos."
+        },
+        {
+          "title": "pantalla rosa para prueba",
+          "description": "Verifique la precisión de su pantalla observando una pantalla rosa completa para detectar inconsistencias en la reproducción del color o el rendimiento de los píxeles. Su tono distintivo ayuda a revelar problemas sutiles que pueden afectar la calidad visual."
+        },
+        {
+          "title": "pantalla rosa para presentaciones",
+          "description": "Capte la atención de su audiencia durante sus presentaciones con una llamativa pantalla rosa que aporta dinamismo y personalidad a sus diapositivas. Es una opción potente que capta la atención a la vez que resalta los puntos clave."
+        },
+        {
+          "title": "pantalla rosa para crear ambiente",
+          "description": "Crea un ambiente lúdico y cálido en tu espacio de trabajo o en tus vídeos con una pantalla rosa que irradia positividad y encanto. Es perfecta para crear un ambiente relajado durante tus transmisiones informales o proyectos personales."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Pantalla rosa para limpieza",
+          "content": [
+            "pantalla rosa para limpieza del monitor",
+            "pantalla rosa para encontrar píxeles muertos",
+            "Pantalla rosa para detectar manchas sucias"
+          ]
+        },
+        {
+          "title": "Color rosa en línea",
+          "content": [
+            "pantalla de computadora en blanco",
+            "pantalla rosa total",
+            "pantalla rosa completa"
+          ]
+        },
+        {
+          "title": "Otros",
+          "content": [
+            "pantalla de proyector rosa",
+            "pantalla rosa para niños",
+            "fondo rosa en pantalla completa"
+          ]
+        }
+      ]
+    }
+  },
+  "/purple-screen": {
+    "name": "Pantalla morada",
+    "color": "#800080",
+    "isAxis": true,
+    "title": "Pantalla morada",
+    "type": "color",
+    "tip": {
+      "title": "pantalla púrpura",
+      "content": [
+        {
+          "title": "pantalla morada para el bienestar",
+          "description": "Mejora tu rutina de meditación o relajación con una relajante pantalla púrpura, un color que suele asociarse con la tranquilidad y la introspección. Su rica tonalidad ayuda a crear un espacio sereno que favorece la atención plena y la relajación."
+        },
+        {
+          "title": "pantalla morada para iluminación",
+          "description": "Añade un brillo místico y encantador a tus videollamadas o eventos virtuales usando una pantalla morada como fuente de iluminación creativa. Transforma tu espacio en un espacio único y visualmente cautivador."
+        },
+        {
+          "title": "pantalla morada para estudio",
+          "description": "Explore la teoría del color o conceptos de diseño con una pantalla violeta que sirve como ejemplo práctico para estudiantes o aprendices. Su tono intenso proporciona un fondo estimulante y enfocado para el contenido educativo."
+        },
+        {
+          "title": "Pantalla morada para pruebas",
+          "description": "Pruebe la precisión y el rendimiento del color de su monitor con una pantalla violeta para identificar cualquier irregularidad o problema de píxeles. Su intenso tono facilita la detección de imperfecciones en la pantalla."
+        },
+        {
+          "title": "Pantalla violeta para niños",
+          "description": "Despierte la imaginación de los niños durante sus sesiones de aprendizaje o juego con una mágica e inspiradora pantalla violeta. Es una forma divertida de hacer que los videos o actividades educativas sean más atractivos para las mentes jóvenes"
+        },
+        {
+          "title": "Pantalla morada para crear ambiente",
+          "description": "Crea un ambiente creativo y lujoso con una pantalla violeta que combina sofisticación y estilo artístico, ideal para streaming o espacios personales. Su tono majestuoso realza la atmósfera con naturalidad."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Pantalla morada para limpieza",
+          "content": [
+            "pantalla morada para limpieza del monitor",
+            "pantalla morada para encontrar píxeles muertos",
+            "Pantalla morada para detectar manchas sucias"
+          ]
+        },
+        {
+          "title": "Color morado en línea",
+          "content": [
+            "pantalla de computadora en blanco",
+            "pantalla morada total",
+            "pantalla morada completa"
+          ]
+        },
+        {
+          "title": "Otros",
+          "content": [
+            "pantalla de proyector morada",
+            "pantalla morada para niños",
+            "pantalla completa con fondo morado"
+          ]
+        }
+      ]
+    }
+  },
+  "/zoom-lighting": {
+    "name": "Iluminación con zoom",
+    "color": "#FFC5C2",
+    "isAxis": true,
+    "title": "Iluminación para llamadas de Zoom",
+    "type": "color",
+    "tip": {
+      "title": "Iluminación para llamadas de Zoom",
+      "content": [
+        {
+          "title": "Iluminación con zoom para llamadas",
+          "description": "Configura tu pantalla con un color suave y cálido, como Zoom Lighting (#FFC5C2), para mejorar tu apariencia durante las videollamadas de negocios con una iluminación favorecedora. Imita la luz natural, reduce las sombras y crea una apariencia elegante."
+        },
+        {
+          "title": "Iluminación con zoom para fotografía",
+          "description": "Crea el ambiente perfecto para tus fotografías usando la iluminación Zoom como una fuente suave y difusa que resalta a la perfección los sujetos. Su sutil tono melocotón aporta calidez y profundidad a tus retratos o fotos."
+        },
+        {
+          "title": "Iluminación con zoom para aprendizaje electrónico",
+          "description": "Reduce la fatiga visual y mejora la concentración durante las clases en línea configurando la iluminación de Zoom en tu pantalla, que proporciona un brillo cómodo para sesiones largas. Ayuda a mantener la concentración sin la intensidad de las pantallas más brillantes."
+        },
+        {
+          "title": "Iluminación con zoom para desarrolladores",
+          "description": "Prueba tus interfaces de usuario o paletas de colores con iluminación de zoom para ver cómo se ven con una luz cálida y realista. Es una forma práctica de garantizar que tu trabajo se vea bien en diferentes condiciones de visualización."
+        },
+        {
+          "title": "Iluminación con zoom para terapia",
+          "description": "Utilice la iluminación Zoom durante sus sesiones de bienestar o terapia a distancia para crear un ambiente tranquilo y acogedor con su tono suave y acogedor. Este color puede mejorar la conexión emocional y la comodidad de los clientes"
+        },
+        {
+          "title": "Iluminación con zoom y pantalla blanca",
+          "description": "Ilumina tus videollamadas combinando Zoom Lighting con un segundo monitor con pantalla blanca, lo que proporciona una iluminación brillante y uniforme sin necesidad de equipo adicional. Esta configuración garantiza una iluminación óptima y una imagen profesional con facilidad."
+        }
+      ]
+    }
+  },
+  "/white-noise": {
+    "name": "Ruido blanco",
+    "icon": "https://emojicdn.elk.sh/🔊",
+    "title": "Ruido blanco para dormir",
+    "type": "broma",
+    "tip": {
+      "title": "Ruido blanco para dormir",
+      "content": [
+        {
+          "title": "Ruido blanco para la concentración",
+          "description": "Enmascara el ruido de fondo que te distrae con ruido blanco para mejorar tu concentración durante tus sesiones de trabajo o estudio. Su zumbido constante crea un ambiente sonoro consistente que te ayuda a mantener la concentración."
+        },
+        {
+          "title": "Ruido blanco para dormir",
+          "description": "Duérmete más rápido reproduciendo ruido blanco para acallar los ruidos nocturnos molestos, como el tráfico o los ladridos de los perros. El sonido continuo imita un ritmo relajante que arrulla tu mente."
+        },
+        {
+          "title": "Ruido blanco para bebés",
+          "description": "Tranquilice a los bebés con ruido blanco que reproduce los sonidos reconfortantes del útero a los que están acostumbrados. Es una forma suave de calmar a los bebés inquietos y establecer una rutina relajante para la hora de dormir."
+        },
+        {
+          "title": "Ruido blanco para la meditación",
+          "description": "Mejora tus sesiones de mindfulness con ruido blanco que proporciona un ambiente neutro y discreto para la respiración profunda y la concentración. Ayuda a despejar la mente y evita que el ruido exterior perturbe tu calma."
+        },
+        {
+          "title": "Ruido blanco para Halloween",
+          "description": "Crea una atmósfera espeluznante combinando ruido blanco con efectos inquietantes para fiestas de Halloween o entornos embrujados. Su sutil intensidad crea una atmósfera inquietante sin ahogar otros sonidos."
+        },
+        {
+          "title": "Ruido blanco para bromas",
+          "description": "Produce un sutil ruido blanco de fondo para molestar a tus compañeros o amigos y hacerles reflexionar sobre los sonidos tenues y misteriosos. Es una broma discreta, perfecta para la oficina o un ambiente informal."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Mejorar la productividad y la concentración",
+          "content": [
+            "Mejorar la concentración en entornos ruidosos",
+            "Impulsar la productividad en el trabajo",
+            "Mejorar la concentración durante las sesiones de estudio",
+            "Minimiza las distracciones cuando trabajes de forma remota",
+            "Facilitar los periodos de trabajo intenso"
+          ]
+        },
+        {
+          "title": "Sueño y relajación",
+          "content": [
+            "Promueve un sueño más rápido",
+            "Enmascarar los ruidos nocturnos molestos",
+            "Mejorar la calidad del sueño para los insomnes",
+            "Tranquilizar a bebés y niños pequeños",
+            "Crea una rutina relajante para la hora de dormir"
+          ]
+        },
+        {
+          "title": "Salud y bienestar",
+          "content": [
+            "Reducir los niveles de estrés y ansiedad",
+            "Ayuda con las prácticas de meditación y atención plena",
+            "Ayuda a controlar los síntomas del tinnitus",
+            "Fomentar la relajación durante el yoga",
+            "Apoyando la salud mental reduciendo la sobrecarga sensorial"
+          ]
+        }
+      ]
+    }
+  },
+  "/broken-screen": {
+    "name": "Pantalla rota falsa",
+    "icon": "https://emojicdn.elk.sh/💔",
+    "title": "Pantalla rota falsa - Broma",
+    "type": "broma",
+    "tip": {
+      "title": "Pantalla rota falsa - Broma",
+      "content": [
+        {
+          "title": "broma de pantalla rota",
+          "description": "Asusta a tus amigos mostrándoles una pantalla rota falsa increíblemente realista, perfecta para reírse al instante. Instálala en su dispositivo cuando no estén buscando la sorpresa definitiva."
+        },
+        {
+          "title": "pantalla rota por contenido",
+          "description": "Añade un toque de dramatismo a tus videos o publicaciones en redes sociales con un efecto de pantalla rota falsa que capta la atención al instante. Es una forma creativa de escenificar incidentes técnicos o generar suspenso."
+        },
+        {
+          "title": "prueba de reacción ante pantalla rota",
+          "description": "Practica la calma bajo presión simulando una pantalla rota y observando tu propia reacción. Es una forma única de poner a prueba tu resiliencia sin arriesgarte a sufrir daños reales."
+        },
+        {
+          "title": "Pantalla rota para proyectos",
+          "description": "Incorpora una pantalla rota falsa en tus proyectos de arte o diseño para crear una textura o un elemento visual único. Las grietas pueden añadir un toque de originalidad y desgaste a tus obras digitales o de técnica mixta."
+        },
+        {
+          "title": "Pantalla rota para la educación",
+          "description": "Resalte los beneficios de los protectores de pantalla o del mantenimiento del dispositivo presentando una pantalla rota simulada como ejemplo de advertencia. Esta es una ayuda visual eficaz para las clases de seguridad informática."
+        },
+        {
+          "title": "Pantalla rota para revisión",
+          "description": "Resalte la durabilidad en las reseñas técnicas comparando una pantalla rota falsa con la resistencia real del dispositivo. Es una forma convincente de demostrar la calidad de construcción o las características de protección"
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Bromas y chistes",
+          "content": [
+            "Farsa tecnológica épica",
+            "Asustar a amigos y familiares",
+            "Idea de broma de oficina",
+            "Broma del Día de los Inocentes",
+            "Sorprender a alguien por diversión"
+          ]
+        },
+        {
+          "title": "Contenido y creatividad",
+          "content": [
+            "Fondo de arte digital único",
+            "Contenido atractivo para redes sociales",
+            "Visuales de proyectos creativos",
+            "Efecto dramático en los vídeos",
+            "Ilustrando historias de terror tecnológico"
+          ]
+        },
+        {
+          "title": "Educación y concienciación",
+          "content": [
+            "Demostrar la fragilidad de la pantalla",
+            "Promocionar accesorios de protección",
+            "Presentaciones de seguridad técnica",
+            "Ayuda visual para debates sobre mantenimiento de electrodomésticos",
+            "Destacar la importancia de las garantías"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows": {
+    "name": "Falsa pantalla azul de la muerte",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Falsa pantalla azul de la muerte de Windows",
+    "type": "broma",
+    "tip": {
+      "title": "Falsa pantalla azul de la muerte de Windows",
+      "content": [
+        {
+          "title": "Broma de pantalla azul de la muerte",
+          "description": "Engaña a tus amigos con una falsa pantalla azul de la muerte que imita un fallo real de Windows, provocando pánico y diversión. Es una forma inofensiva de gastar una broma tecnológica clásica"
+        },
+        {
+          "title": "Pantalla azul de la muerte de vacaciones",
+          "description": "Añade un toque de humor tecnológico a tus reuniones mostrando una pantalla azul de la muerte falsa en pantalla dividida y sorprende a tus invitados con un toque divertido. Es una forma genial de romper el hielo, tanto si eres un friki como un simple espectador."
+        },
+        {
+          "title": "BSOD para entrenamiento",
+          "description": "Enseñe técnicas de resolución de problemas informáticos de forma segura mediante la simulación de una pantalla azul de la muerte, lo que permite a los alumnos practicar el diagnóstico de errores sin tener que enfrentarse a situaciones reales. Es una herramienta práctica para generar confianza en el soporte técnico."
+        },
+        {
+          "title": "BSOD para habilidades técnicas",
+          "description": "Practica tus habilidades de soporte técnico en un entorno controlado con un BSOD false que te desafía a pensar en soluciones. Es una forma divertida y segura de mejorar tus habilidades para la resolución de problemas"
+        },
+        {
+          "title": "Pantalla azul de la muerte para YouTube",
+          "description": "Dale vida a tus videos de YouTube con un efecto de pantallazo azul false para crear contenido tecnológico cautivador o escenas dramáticas. Añade un toque nostálgico y reconocible que conecta con los espectadores expertos en tecnología"
+        },
+        {
+          "title": "Prueba de paciencia con BSOD",
+          "description": "Pon a prueba tu tolerancia al estrés o gasta una broma a los demás con una pantalla azul de la muerte (BSOD) falsa de carga lenta que mantiene el suspenso. Es una forma única de ver cómo la gente lidia con la frustración tecnológica"
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Chistes y entretenimiento",
+          "content": [
+            "Broma informática inofensiva",
+            "Broma técnica del Día de los Inocentes",
+            "Gag de fiesta con temática tecnológica",
+            "Asusta a tus amigos por diversión",
+            "Crea contenido viral de broma"
+          ]
+        },
+        {
+          "title": "Fin de estudios",
+          "content": [
+            "Enseñanza de la resolución de problemas de BSOD",
+            "Simular fallos del sistema",
+            "Capacitación del personal de soporte de TI",
+            "Demostrar la recuperación del sistema",
+            "Educar sobre los mensajes de error"
+          ]
+        },
+        {
+          "title": "Creación de contenido",
+          "content": [
+            "Mejorando los vídeos técnicos",
+            "Crea tutoriales atractivos",
+            "Filmación de escenas técnicas realistas",
+            "Añadiendo dramatismo a las revisiones técnicas",
+            "Ilustrar las discusiones sobre la estabilidad del sistema"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows-10": {
+    "name": "Falsa pantalla azul de la muerte 10",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Falsa pantalla azul de la muerte en Windows 10",
+    "type": "broma",
+    "tip": {
+      "title": "Falsa pantalla azul de la muerte en Windows 10",
+      "content": [
+        {
+          "title": "Broma de BSOD en la oficina",
+          "description": "Engaña a tus compañeros de trabajo con una falsa pantalla azul de la muerte de Windows 10 que aparece en pleno día, causando confusión y risas en la oficina. Es una configuración rápida para un pequeño descanso de la rutina."
+        },
+        {
+          "title": "Escapar de una llamada BSOD",
+          "description": "Escapa de una videoconferencia aburrida activando una falsa pantalla azul de la muerte como excusa creíble para desconectarte temporalmente. Es una forma ingeniosa y divertida de evitar pasar tiempo en pantalla sin querer"
+        },
+        {
+          "title": "BSOD de capacitación informática",
+          "description": "Practica la solución de errores de Windows 10 con una pantalla azul falsa que imita fallos reales, lo que te proporciona un espacio seguro para desarrollar tus habilidades informáticas. Es perfecto para aprender de forma práctica sin arriesgar sistemas reales."
+        },
+        {
+          "title": "Broma de BSOD",
+          "description": "Sorprende a los jugadores en plena sesión con un BSOD false que interrumpe el juego y genera reacciones divertidísimas, ya sea por diversión o por contenido. Una jugada audaz que causa estragos en los momentos multijugador."
+        },
+        {
+          "title": "Vídeos de reacciones de BSOD",
+          "description": "Graba reacciones divertidas a una pantalla azul falsa en Windows 10 para crear videos que sorprenderán a tu audiencia. Una configuración sencilla para imágenes virales."
+        },
+        {
+          "title": "El equipo prueba el BSOD",
+          "description": "Pon a prueba el tiempo de respuesta y la capacidad de resolución de problemas de tu equipo de TI con un simulacro de emergencia de BSOD que replica situaciones reales. Es un ejercicio práctico para mejorar la coordinación y la preparación."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Bromas divertidas",
+          "content": [
+            "Bromas rápidas de oficina con pantallazos azules falsos.",
+            "Troll de pantalla azul en la transmisión de juegos",
+            "Bromas sobre averías informáticas familiares",
+            "Videos de reacciones a la pantalla de la muerte de Windows",
+            "Chistes de fiesta con pantalla azul de la muerte (BSOD) a pantalla completa"
+          ]
+        },
+        {
+          "title": "Usos educativos",
+          "content": [
+            "Herramienta de capacitación sobre soporte informático BSOD",
+            "Demostraciones de pantalla de bloqueo de Windows",
+            "herramienta de enseñanza de alfabetización informática",
+            "ejemplos de talleres técnicos",
+            "Práctica de respuesta ante la pantalla azul"
+          ]
+        },
+        {
+          "title": "Creación de contenido",
+          "content": [
+            "Vídeos de bromas de pantalla azul de YouTube",
+            "Contenido de memes sobre fallos de Windows",
+            "clips de reacciones en redes sociales",
+            "transmisión de pantallas azules falsas",
+            "Demostraciones de tutoriales técnicos"
+          ]
+        }
+      ]
+    }
+  },
+  "/hacker-screen": {
+    "name": "Pantalla de entrada del hacker",
+    "icon": "https://emojicdn.elk.sh/💻‍💻",
+    "title": "Pantalla de Hacker Typer - Broma",
+    "type": "broma",
+    "tip": {
+      "title": "Pantalla de hacker - Broma",
+      "content": [
+        {
+          "title": "Broma de pantalla de hacker",
+          "description": "Impresiona a tus colegas escribiendo teclas aleatorias para generar un código de hackeo false digno de una película. Una forma divertida de parecer un genio de la tecnología en segundos."
+        },
+        {
+          "title": "Pantalla de hacker para lecciones",
+          "description": "Anima a los estudiantes a programar mostrando una pantalla de hacker que hace que la programación sea emocionante y accesible. Es una forma divertida de despertar el interés en la educación tecnológica"
+        },
+        {
+          "title": "Pantalla de hacker para streaming",
+          "description": "Añade un toque tecnológico a tus transmisiones en vivo con una superposición de pantalla de hacker que crea una atmósfera ciberpunk inmersiva. Ideal para juegos o transmisiones centradas en la tecnología"
+        },
+        {
+          "title": "pantalla de hacker para vlogs",
+          "description": "Dale un toque especial a tus vlogs tecnológicos con un efecto de pantalla hacker que añade imágenes de código dinámico a tu narrativa. Es una forma sencilla de darle a tu contenido un toque tecnológico y atractivo."
+        },
+        {
+          "title": "pantalla de hacker para presentaciones",
+          "description": "Mejora tus debates técnicos con una pantalla de hacker en vivo que muestra el código en tiempo real y cautiva visualmente a tu audiencia. Es una incorporación excepcional a las conversaciones sobre programación o ciberseguridad."
+        },
+        {
+          "title": "pantalla de hacker para películas",
+          "description": "Crea auténticas escenas de hackers para tus cortometrajes o sketches con una pantalla de hackers convincentemente compleja. Es una forma económica de obtener efectos tecnológicos cinematográficos"
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Entretenimiento y farsas",
+          "content": [
+            "Impresiona a tus amigos con falsas habilidades de piratería",
+            "Hazle bromas a los miembros de tu familia",
+            "Agregue un poco de diversión a las fiestas de oficina",
+            "Crea contenido divertido para las redes sociales",
+            "Engaña a tus amigos para que piensen que eres un programador"
+          ]
+        },
+        {
+          "title": "Fines educativos",
+          "content": [
+            "Demostrar la codificación en clase",
+            "Visualizar conceptos de programación",
+            "Hacer que los estudiantes se interesen por la tecnología",
+            "Dale vida a tus técnicas de presentación",
+            "Introducir la codificación a los principiantes"
+          ]
+        },
+        {
+          "title": "Uso creativo y profesional",
+          "content": [
+            "Mejorar las imágenes de la transmisión en vivo",
+            "Crear escenas técnicas auténticas en las películas",
+            "Añade una estética hacker a los vídeos",
+            "Despertar interés en las conferencias tecnológicas",
+            "Inspirar debates sobre ciberseguridad"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-10-update-screen": {
+    "name": "Actualización falsa de Windows 10",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Actualización falsa de Windows 10",
+    "type": "actualización falsa",
+    "tip": {
+      "title": "Actualización falsa de Windows 10",
+      "content": [
+        {
+          "title": "Broma de Windows 10",
+          "description": "Engaña a tus amigos con una actualización falsa de Windows 10, frustrantemente realista y repetitiva, que los deja sin saber cuándo terminará. Es la oportunidad perfecta para asustarse o reírse."
+        },
+        {
+          "title": "Broma de Office de Windows 10",
+          "description": "Engaña a tus compañeros de trabajo mostrando una pantalla falsa de actualización lenta en sus computadoras durante un descanso, imitando el infame retraso de Windows. Observa sus reacciones cuando creen que su trabajo está bloqueado"
+        },
+        {
+          "title": "Chat grupal de Windows 10",
+          "description": "Comparte capturas de pantalla o clips de una actualización falsa de Windows 10 en chats grupales para generar risas y confusión entre amigos. Es una forma sencilla de añadir un toque de humor tecnológico a la conversación"
+        },
+        {
+          "title": "Windows 10, una fiesta exitosa",
+          "description": "Interrumpe una noche aburrida proyectando una pantalla de actualización falsa, convirtiendo una discusión aburrida en un chiste tecnológico que todos disfrutarán. Una forma única de animar el ambiente."
+        },
+        {
+          "title": "Windows 10, una experiencia personalizada",
+          "description": "Añade mensajes personalizados y divertidos a la pantalla de actualización, como 'Instalando Candy Crush 2.0', para darle un toque extra de absurdo y diversión. Personalízalo para que coincida con el objetivo de tu broma y maximiza su efecto."
+        },
+        {
+          "title": "Reacción de Windows 10",
+          "description": "Graba reacciones divertidas a una actualización falsa de Windows 10, como cuando la gente entra en pánico o se queja, para crear contenido para un video de reacción o simplemente un buen recuerdo. Es una excelente manera de capturar una sorpresa genuina."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Actualización simulada de Windows 10",
+          "content": [
+            "Actualización falsa de Windows 10",
+            "Simulación de actualización de Windows 10",
+            "Simular una actualización de Windows 10",
+            "Pantalla de actualización falsa de Windows 10",
+            "Emular actualización de Windows 10",
+            "Broma de actualización de Windows 10",
+            "Proceso de actualización de Windows 10"
+          ]
+        },
+        {
+          "title": "Experiencia realista",
+          "content": [
+            "Actualización de Windows 10 con aspecto original",
+            "Pantalla de actualización realista de Windows 10",
+            "Engañando a tus amigos con la actualización de Windows 10",
+            "Progreso realista de actualización de Windows 10",
+            "Simulación de actualización original de Windows 10",
+            "Mensajes de actualización originales de Windows 10",
+            "Paso de actualización de Windows 10"
+          ]
+        },
+        {
+          "title": "Entretenimiento y placer",
+          "content": [
+            "Broma entretenida sobre la actualización de Windows 10",
+            "Actualización falsa y divertida de Windows 10",
+            "Disfruta de una actualización simulada de Windows 10",
+            "Broma con una actualización falsa de Windows 10",
+            "Emocionante experiencia de actualización de Windows 10",
+            "Actualiza Windows 10 por diversión",
+            "Herramienta de broma para actualizaciones de Windows 10"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-xp-update-screen": {
+    "name": "Actualización falsa de Windows XP",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Actualización falsa de Windows XP",
+    "type": "actualización falsa",
+    "tip": {
+      "title": "Actualización falsa de Windows XP",
+      "content": [
+        {
+          "title": "Broma de oficina de XP",
+          "description": "Siembra nostalgia y confusión en la oficina con una pantalla falsa de actualización de Windows XP que parece sacada del pasado. Es un sutil guiño a la tecnología retro que sorprenderá a tus compañeros."
+        },
+        {
+          "title": "Prueba de paciencia XP",
+          "description": "Pon a prueba la frustración de alguien con una actualización falsa de XP que se extiende indefinidamente, imitando la barra de progreso de antaño. Es una forma divertida de ver cuánto tiempo esperarán antes de reaccionar"
+        },
+        {
+          "title": "Experiencia retro divertida",
+          "description": "Revive la era de Windows XP mostrando una pantalla de actualización falsa que evoca conexiones de acceso telefónico e imágenes prediseñadas para entretenimiento retro. Un divertido regreso al pasado para entusiastas de la tecnología o personas a las que les gusta hacer bromas."
+        },
+        {
+          "title": "Contenido viral de XP",
+          "description": "Crea videos o publicaciones de tecnología retro con una pantalla falsa de actualización de XP que aproveche la nostalgia para crear contenido viral y compartible. Combínalo con un título divertido para maximizar su atractivo en línea"
+        },
+        {
+          "title": "Lección de tecnología XP",
+          "description": "Enseñe la historia de los sistemas operativos con una simulación de actualización de XP que muestra visualmente cómo eran las actualizaciones hace décadas. Es una forma atractiva de conectar las tecnologías del pasado con las lecciones modernas."
+        },
+        {
+          "title": "Broma entre amigos XP",
+          "description": "Engaña a tus amigos con una clásica pantalla de actualización de XP que parece congelarles el dispositivo, provocando una mezcla de molestia y buenos recuerdos. Es una broma inofensiva con un toque de nostalgia."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Actualización simulada de Windows XP",
+          "content": [
+            "Actualización falsa de Windows XP",
+            "Simulación de actualización de Windows XP",
+            "Simular una actualización de Windows XP",
+            "Pantalla de actualización falsa de Windows XP",
+            "Broma de actualización de Windows XP",
+            "Proceso de actualización de Windows XP"
+          ]
+        },
+        {
+          "title": "Experiencia realista",
+          "content": [
+            "Actualización de Windows XP con aspecto original",
+            "Pantalla de actualización de Windows XP realista",
+            "Engañando a tus amigos con la actualización de Windows XP",
+            "Progreso de actualización de Windows XP realista",
+            "Simulación de actualización original de Windows XP",
+            "Mensajes de actualización originales de Windows XP",
+            "Paso de actualización de Windows XP"
+          ]
+        },
+        {
+          "title": "Entretenimiento y diversión",
+          "content": [
+            "Divertida broma de actualización de Windows XP",
+            "Actualización falsa y divertida de Windows XP",
+            "Disfruta de una actualización simulada de Windows XP",
+            "Broma con una actualización falsa de Windows XP",
+            "Emocionante experiencia de actualización a Windows XP",
+            "Actualización de Windows XP para entretenimiento",
+            "Herramienta de broma para actualizaciones de Windows XP"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-mac-os-x-update-screen": {
+    "name": "Actualización falsa de Mac OS X",
+    "icon": "https://emojicdn.elk.sh/🍎",
+    "title": "Actualización falsa de Mac OS X",
+    "type": "actualización falsa",
+    "tip": {
+      "title": "Actualización falsa de Mac OS X",
+      "content": [
+        {
+          "title": "Relleno de Mac",
+          "description": "Engañar a los fanáticos de Mac con una pantalla de actualización de OS X falsa que parece lo suficientemente auténtica como para inducirlos a revisar su sistema es una forma inteligente de engañar incluso a los usuarios de Apple más expertos"
+        },
+        {
+          "title": "Prueba de paciencia de Mac",
+          "description": "Observa las reacciones a medida que avanza una actualización falsa de Mac OS X, para comprobar cuánto tiempo se quedará alguien mirando una barra de progreso falsa. Es una broma sutil que explota la ansiedad por las actualizaciones"
+        },
+        {
+          "title": "Ayuda didáctica de Mac",
+          "description": "Capacite al personal de TI o a los estudiantes con una simulación segura de actualización de Mac que replica escenarios reales sin poner en riesgo los sistemas. Es una herramienta práctica para practicar la gestión de actualizaciones."
+        },
+        {
+          "title": "Pruebas de experiencia de usuario de Mac",
+          "description": "Estudie las reacciones de los usuarios ante un false retraso en la actualización de Mac OS X, observando sus interacciones o reacciones ante una ralentización. Es una forma sencilla de explorar los límites de la paciencia de la interfaz de usuario."
+        },
+        {
+          "title": "Creación de contenido para Mac",
+          "description": "Añade imágenes realistas de actualización a tus videos o tutoriales con una pantalla falsa de Mac OS X que resalta el contenido tecnológico. Es un toque elegante para tus reseñas o sketches."
+        },
+        {
+          "title": "Broma grupal de Mac",
+          "description": "Engaña a un grupo de amigos con una pantalla falsa de actualización de Apple en un dispositivo compartido, lo que provoca risas o quejas colectivas. Es una broma comunitaria que crea vínculos en torno a problemas tecnológicos compartidos"
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Actualización simulada de Mac OS X",
+          "content": [
+            "Actualización falsa de Mac OS X",
+            "Simulación de actualización de Mac OS X",
+            "Simular una actualización de Mac OS X",
+            "Pantalla de actualización ficticia de Mac OS X",
+            "Emular una actualización de Mac OS X",
+            "Broma de actualización de Mac OS X",
+            "Proceso de actualización de Mac OS X"
+          ]
+        },
+        {
+          "title": "Experiencia realista",
+          "content": [
+            "Actualización de Mac OS X con aspecto original",
+            "Pantalla de actualización realista de Mac OS X",
+            "Engañando a tus amigos con una actualización de Mac OS X",
+            "Progreso realista de actualización de Mac OS X",
+            "Simulación de actualización original de Mac OS X",
+            "Mensajes de actualización originales de Mac OS X",
+            "Paso de actualización de Mac OS X"
+          ]
+        },
+        {
+          "title": "Entretenimiento y diversión",
+          "content": [
+            "Divertida broma de actualización de Mac OS X",
+            "Actualización falsa y divertida de Mac OS X",
+            "Disfruta de una actualización simulada de Mac OS X",
+            "Broma con una actualización falsa de Mac OS X",
+            "Emocionante experiencia de actualización de Mac OS X",
+            "Actualización de Mac OS X para entretenimiento",
+            "Herramienta de broma para actualizaciones de Mac OS X"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-ubuntu-22-04-update-screen": {
+    "name": "Actualización falsa de Ubuntu 22.04",
+    "icon": "https://emojicdn.elk.sh/🐧",
+    "title": "Actualización falsa de Ubuntu 22.04",
+    "type": "actualización falsa",
+    "tip": {
+      "title": "Actualización falsa de Ubuntu 22.04",
+      "content": [
+        {
+          "title": "Broma de Ubuntu",
+          "description": "Engaña a los usuarios de Linux con una pantalla falsa de actualización de Ubuntu 22.04 que parece una actualización real del sistema, sorprendiendo incluso a los más expertos en tecnología. Es una broma para los entusiastas del código abierto."
+        },
+        {
+          "title": "Pruebas de software de Ubuntu",
+          "description": "Simula actualizaciones de Ubuntu para probar el comportamiento de las aplicaciones durante una actualización falsa del sistema, sin cambiar la configuración. Es un truco útil para desarrolladores y evaluadores."
+        },
+        {
+          "title": "Capacitación en Ubuntu",
+          "description": "Enseñe los procesos de actualización de Linux de forma segura con una pantalla simulada de actualización a Ubuntu 22.04 que imita la salida y el progreso de una terminal real. Es una forma eficaz de capacitar a nuevos usuarios o al personal de TI."
+        },
+        {
+          "title": "Contenido de Ubuntu",
+          "description": "Añade imágenes de terminal auténticas a tus videos o tutoriales con una pantalla de actualización de Ubuntu falsa que muestra la experiencia Linux. Es una excelente opción para creadores de contenido tecnológico"
+        },
+        {
+          "title": "Prueba de Ubuntu",
+          "description": "Muestre las actualizaciones durante demostraciones o presentaciones en vivo con una pantalla simulada de Ubuntu 22.04 que cautivará a su audiencia con imágenes realistas. Es perfecto para conferencias o talleres técnicos."
+        },
+        {
+          "title": "Reacción de Ubuntu",
+          "description": "Graba reacciones divertidas o frustradas ante una actualización falsa de Ubuntu para crear contenido que resalte las peculiaridades de los usuarios de Linux. Es una forma divertida de capturar momentos auténticos"
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Actualización simulada de Ubuntu 22.04",
+          "content": [
+            "Actualización falsa de Ubuntu 22.04",
+            "Simulación de actualización de Ubuntu 22.04",
+            "Simular una actualización de Ubuntu 22.04",
+            "Pantalla de actualización falsa de Ubuntu 22.04",
+            "Emular una actualización de Ubuntu 22.04",
+            "Broma de actualización de Ubuntu 22.04",
+            "Proceso de actualización de Ubuntu 22.04"
+          ]
+        },
+        {
+          "title": "Experiencia realista",
+          "content": [
+            "Actualización de Ubuntu 22.04 con aspecto original",
+            "Pantalla de actualización realista de Ubuntu 22.04",
+            "Engañando a tus amigos con la actualización de Ubuntu 22.04",
+            "Progreso realista de la actualización de Ubuntu 22.04",
+            "Simulación de actualización original de Ubuntu 22.04",
+            "Mensajes de actualización de Ubuntu 22.04 original",
+            "Actualización de Ubuntu 22.04"
+          ]
+        },
+        {
+          "title": "Entretenimiento y diversión",
+          "content": [
+            "Divertida broma sobre la actualización de Ubuntu 22.04",
+            "Actualización falsa y divertida de Ubuntu 22.04",
+            "Disfruta de una actualización simulada a Ubuntu 22.04",
+            "Broma con una actualización falsa de Ubuntu 22.04",
+            "Emocionante experiencia de actualización a Ubuntu 22.04",
+            "Actualización de Ubuntu 22.04 para entretenimiento",
+            "Herramienta de broma para la actualización de Ubuntu 22.04"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-chrome-os-update-screen": {
+    "name": "Actualización falsa de Chrome OS",
+    "icon": "https://emojicdn.elk.sh/🌐",
+    "title": "Actualización falsa de Chrome OS",
+    "type": "actualización falsa",
+    "tip": {
+      "title": "Actualización falsa de ChromeOS",
+      "content": [
+        {
+          "title": "Broma de ChromeOS",
+          "description": "Engaña a tus amigos con una pantalla de actualización falsa de ChromeOS que imita el aspecto limpio y minimalista de una actualización real del sistema. Es una broma rápida y convincente para usuarios de Chromebooks"
+        },
+        {
+          "title": "Prueba de reacción de ChromeOS",
+          "description": "Estudia las reacciones de los usuarios ante un false retraso en la actualización de ChromeOS, observando su paciencia o confusión. Esta es una forma sutil de explorar el comportamiento del usuario ante interrupciones tecnológicas."
+        },
+        {
+          "title": "Escenas de vídeo de ChromeOS",
+          "description": "Agrega imágenes realistas de actualización a tus tutoriales o bocetos con una pantalla falsa de ChromeOS que realza tu contenido de video tecnológico. Un toque profesional y limpio para creadores"
+        },
+        {
+          "title": "Broma de laboratorio de ChromeOS",
+          "description": "Engaña a todo un laboratorio escolar mostrando una pantalla de actualización falsa en varias Chromebooks, lo que provoca risas y quejas entre los estudiantes. ¡Una broma audaz para un entorno tecnológico!"
+        },
+        {
+          "title": "Práctica informática con ChromeOS",
+          "description": "Capacite al equipo de soporte de TI con una simulación segura de actualización de ChromeOS, replicando escenarios reales para practicar la resolución de problemas. Es una herramienta práctica para generar confianza en la gestión del sistema"
+        },
+        {
+          "title": "Descripción general de ChromeOS",
+          "description": "Mejora tus presentaciones técnicas o demostraciones con una simulación de pantalla de actualización de ChromeOS que añade elementos visuales dinámicos a tu discusión. Es una forma atractiva de ilustrar los procesos de actualización o las características del sistema"
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Entretenimiento y diversión",
+          "content": [
+            "Hazle una broma a tus amigos durante la hora del almuerzo",
+            "Sorprende a tus familiares",
+            "Broma en el laboratorio de informática de la escuela",
+            "Broma de ChromeOS en Office"
+          ]
+        },
+        {
+          "title": "Educación y formación",
+          "content": [
+            "Escenarios de capacitación en soporte de TI",
+            "Talleres de actualización de software",
+            "Grabaciones de tutoriales de ChromeOS",
+            "Presentaciones para administradores de sistemas",
+            "Estudios del comportamiento del usuario"
+          ]
+        },
+        {
+          "title": "Creación de contenido",
+          "content": [
+            "Capturas de pantalla de la actualización de ChromeOS",
+            "Imágenes de revisión técnica",
+            "Fondos de vídeos tutoriales",
+            "Imágenes de documentación de software",
+            "Hardware de demostración de ChromeOS"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-11-update-screen": {
+    "name": "Actualización falsa de Windows 11",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Actualización falsa de Windows 11",
+    "type": "actualización falsa",
+    "tip": {
+      "title": "Pantalla de actualización de Windows 11",
+      "content": [
+        {
+          "title": "Actualización falsa de Windows 11",
+          "description": "Engaña a tus amigos con una actualización falsa de Windows 11 que parece atascada en un bucle infinito, causando confusión y risas. Es una versión moderna de la clásica broma de actualización, con un diseño visual elegante."
+        },
+        {
+          "title": "Windows 11 Office Spice",
+          "description": "Engaña a tu equipo durante una reunión mostrando una pantalla de actualización falsa en una computadora compartida, dándole un toque divertido a la jornada laboral. Observa cómo se esfuerzan por averiguar qué está pasando"
+        },
+        {
+          "title": "Broma de Windows 11",
+          "description": "Interrumpe una sesión de juego con una actualización falsa de Windows 11 que aparece en medio de la partida, pillando a los jugadores desprevenidos y provocando una reacción divertidísima. Perfecto para streamers o noches de juego en grupo."
+        },
+        {
+          "title": "Windows 11, una tecnología impresionante",
+          "description": "Impresiona a tus amigos con una simulación realista de actualización falsa que imita el elegante diseño de Windows 11, haciéndoles creer que has hackeado el sistema. Una forma geek de presumir de tus habilidades de bromista."
+        },
+        {
+          "title": "Video divertido de Windows 11",
+          "description": "Graba las reacciones de tus amigos ante una actualización falsa de Windows 11 para crear un video entretenido que capture su sorpresa o frustración. Una configuración sencilla para imágenes virales."
+        },
+        {
+          "title": "Los colegas se toman un descanso de Windows 11",
+          "description": "Sorprende a tus compañeros con una pantalla de actualización falsa que interrumpe su flujo de trabajo, solo para que, tras el pánico inicial, se descubra que era una broma. Una jugada audaz para provocar risas en la oficina"
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Actualización simulada de Windows 11",
+          "content": [
+            "Actualización falsa de Windows 11",
+            "Simulación de actualización de Windows 11",
+            "Simular una actualización de Windows 11",
+            "Pantalla de actualización falsa de Windows 11",
+            "Emular una actualización de Windows 11",
+            "Broma de actualización de Windows 11",
+            "Proceso de actualización de Windows 11"
+          ]
+        },
+        {
+          "title": "Experiencia realista",
+          "content": [
+            "Actualización original de Windows 11",
+            "Pantalla de actualización realista de Windows 11",
+            "Engañando a tus amigos con la actualización de Windows 11",
+            "Progreso realista de actualización de Windows 11",
+            "Simulación de actualización original de Windows 11",
+            "Mensajes de actualización originales de Windows 11",
+            "Paso de actualización de Windows 11"
+          ]
+        },
+        {
+          "title": "Entretenimiento y diversión",
+          "content": [
+            "Broma entretenida sobre la actualización de Windows 11",
+            "Actualización falsa y divertida de Windows 11",
+            "Disfruta de una simulación de actualización de Windows 11",
+            "Haz una broma con una actualización falsa de Windows 11",
+            "Emocionante experiencia de actualización de Windows 11",
+            "Actualización de Windows 11 por diversión",
+            "Herramienta de broma para actualizaciones de Windows 11"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-android-update": {
+    "name": "Actualización falsa de Android",
+    "icon": "https://emojicdn.elk.sh/📱",
+    "title": "Actualización falsa de Android",
+    "type": "actualización falsa",
+    "tip": {
+      "title": "Pantalla de actualización de Android falsa",
+      "content": [
+        {
+          "title": "Prueba de software de Android",
+          "description": "Simula una actualización de Android para probar el comportamiento de las aplicaciones durante una actualización falsa del sistema, sin afectar tu dispositivo real. Es un entorno seguro para desarrolladores y aficionados a las manualidades."
+        },
+        {
+          "title": "Presentación de Android",
+          "description": "Entusiasme a su público durante sus presentaciones técnicas con una simulación de pantalla de actualización de Android que aporta un toque visual dinámico y realista a sus diapositivas. Es una excelente manera de ilustrar conceptos de sistemas operativos móviles"
+        },
+        {
+          "title": "Capacitación técnica en Android",
+          "description": "Enseñe los procesos de actualización de Android sin dispositivos reales mediante una pantalla de actualización simulada que replica la experiencia real. Es una herramienta eficaz para capacitar a personal de TI o estudiantes."
+        },
+        {
+          "title": "Creación de contenido para Android",
+          "description": "Añade imágenes de actualización auténticas a tus videos o tutoriales con una pantalla falsa de Android que enriquece tu contenido tecnológico. Es un toque refinado para tus reseñas o guías prácticas."
+        },
+        {
+          "title": "Broma de Android",
+          "description": "Engaña a tus amigos con una actualización falsa de Android que bloquea la pantalla de su teléfono, haciéndoles creer que están esperando a que se complete la actualización. Es una broma furtiva para usuarios de móviles"
+        },
+        {
+          "title": "Estudio de experiencia de usuario de Android",
+          "description": "Analice la reacción del usuario ante el diseño o los retrasos de una actualización falsa de Android y obtenga información sobre su experiencia sin ningún riesgo real. Esta es una forma de explorar las reacciones de la interfaz de usuario móvil con poco riesgo."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Actualización simulada de Android",
+          "content": [
+            "Actualización falsa de Android",
+            "Simulación de actualización de Android",
+            "Simular una actualización de Android",
+            "Pantalla de actualización de Android falsa",
+            "Emular una actualización de Android",
+            "Broma de actualización de Android",
+            "Proceso de actualización de Android"
+          ]
+        },
+        {
+          "title": "Experiencia realista",
+          "content": [
+            "Actualización de Android con aspecto original",
+            "Pantalla de actualización de Android realista",
+            "Engañando a tus amigos con una actualización de Android",
+            "Progreso realista de actualización de Android",
+            "Simulación de actualización de Android original",
+            "Mensajes de actualización de Android original",
+            "Paso de actualización de Android"
+          ]
+        },
+        {
+          "title": "Entretenimiento y placer",
+          "content": [
+            "Divertida broma de actualización de Android",
+            "Actualización falsa y divertida de Android",
+            "Disfruta de una actualización simulada de Android",
+            "Broma de actualización falsa de Android",
+            "Emocionante experiencia de actualización de Android",
+            "Actualización de Android para entretenimiento",
+            "Herramienta de broma para actualizaciones de Android"
+          ]
+        }
+      ]
+    }
+  },
+  "/dvd-screensaver": {
+    "name": "Protector de pantalla de DVD",
+    "icon": "https://emojicdn.elk.sh/📀",
+    "title": "Protector de pantalla de DVD",
+    "type": "protector de pantalla",
+    "tip": {
+      "title": "Protector de pantalla de DVD",
+      "content": [
+        {
+          "title": "DVD de relajación",
+          "description": "Relájate mientras ves el icónico logo del DVD rebotar en tu pantalla, con un movimiento relajante e hipnótico que calma la mente. Una forma nostálgica de desconectar después de un largo día."
+        },
+        {
+          "title": "Presentación en DVD",
+          "description": "Agregue movimiento sutil a sus diapositivas o pausas de presentación con el protector de pantalla en DVD, cautivando a su audiencia sin distracciones. Un toque retro que alegra el ambiente."
+        },
+        {
+          "title": "DVD de la sala de espera",
+          "description": "Entretenga a sus visitantes en la sala de espera con el estilo retro del protector de pantalla en DVD, ofreciéndoles un espectáculo sencillo y cautivador. Una forma sencilla y eficaz de mejorar el ambiente."
+        },
+        {
+          "title": "DVD para una noche divertida",
+          "description": "Crea un ambiente nostálgico con el protector de pantalla del DVD que se proyecta en una pantalla grande y da pie a conversaciones sobre tecnología antigua. Es un complemento divertido y original para cualquier reunión."
+        },
+        {
+          "title": "DVD de ayuda para el estudio",
+          "description": "Mejora tu concentración durante tus sesiones de estudio con el movimiento suave y predecible del protector de pantalla del DVD, que proporciona un fondo relajante sin distraer. Es un sutil compañero para la concentración."
+        },
+        {
+          "title": "DVD para un descanso",
+          "description": "Rellena las pantallas inactivas con la animación del protector de pantalla en DVD durante los descansos, transformando una pantalla en blanco en una divertida distracción retro. Ideal para animar los momentos entre tareas."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Relajación y ambiente",
+          "content": [
+            "Relájate con un protector de pantalla nostálgico",
+            "Crea un ambiente tranquilo",
+            "Disfruta de un ambiente retro",
+            "Crea un fondo tranquilo",
+            "Perfecto para sesiones de meditación"
+          ]
+        },
+        {
+          "title": "Uso profesional y comercial",
+          "content": [
+            "Mejora tus presentaciones con movimiento",
+            "Visualización dinámica de la sala de espera",
+            "Fondo de escritorio atractivo",
+            "Protector de pantalla profesional para reuniones",
+            "Exhibidores de tienda llamativos"
+          ]
+        },
+        {
+          "title": "Entretenimiento y placer",
+          "content": [
+            "Creador de ambiente de fiesta",
+            "Divertida herramienta para descansar del estudio",
+            "Protector de pantalla interactivo para niños",
+            "Entretenimiento visual durante el tiempo de inactividad",
+            "Pantalla de fiesta personalizable"
+          ]
+        }
+      ]
+    }
+  },
+  "/flip-clock-screensaver": {
+    "name": "Reloj giratorio",
+    "icon": "https://emojicdn.elk.sh/⏰",
+    "title": "Protector de pantalla de reloj giratorio",
+    "type": "protector de pantalla",
+    "tip": {
+      "title": "Protector de pantalla de reloj giratorio",
+      "content": [
+        {
+          "title": "Reloj de relajación",
+          "description": "Disfruta del movimiento retro de un reloj digital para relajarte, mientras los cambios rítmicos crean un efecto calmante y meditativo. Una forma elegante de desconectar sin perder de vista la hora."
+        },
+        {
+          "title": "Reloj de escritorio plegable",
+          "description": "Agregue un toque de sofisticación a su espacio de trabajo con un protector de pantalla de reloj plegable que, además, muestra la hora con elegancia. Es una mejora tanto funcional como estética para cualquier escritorio."
+        },
+        {
+          "title": "Presentación de reloj invertido",
+          "description": "Mejora tus conversaciones con un elegante protector de pantalla con forma de reloj que funciona como temporizador o como fondo sutil, permitiendo a tu audiencia controlar la hora. Una incorporación elegante a entornos profesionales."
+        },
+        {
+          "title": "Reloj giratorio para casa",
+          "description": "Crea un ambiente moderno y minimalista en tu hogar con un protector de pantalla de reloj plegable que combina el encanto retro con un diseño contemporáneo. Una forma elegante de ver la hora en tu televisor o monitor."
+        },
+        {
+          "title": "Reloj giratorio para estudiar",
+          "description": "Controla tu tiempo de estudio con las agradables rotaciones de un reloj giratorio que te ayudará a cumplir con tu horario y a añadir un ritmo relajante a tus sesiones. Es una herramienta práctica para trabajar con concentración."
+        },
+        {
+          "title": "Gira el reloj para esperar",
+          "description": "Entusiasme a los visitantes en las salas de espera con un elegante protector de pantalla de reloj plegable que combina utilidad y estética, haciendo el tiempo más agradable. Un toque de elegancia para espacios públicos."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Relajación y estética",
+          "content": [
+            "Estética vintage",
+            "Reloj relajante en pantalla completa",
+            "Ambiente retro",
+            "Diseño minimalista moderno",
+            "Diseño interior elegante"
+          ]
+        },
+        {
+          "title": "Profesionalidad y productividad",
+          "content": [
+            "Visualización del tiempo de oficina",
+            "Antecedentes de la presentación",
+            "Entorno de estudio estructurado",
+            "Reloj atractivo en la sala de espera",
+            "Herramienta de gestión del tiempo"
+          ]
+        },
+        {
+          "title": "Entretenimiento y eventos",
+          "content": [
+            "Ambiente de fiesta",
+            "Decoración de eventos",
+            "Función expositiva",
+            "Pantalla interactiva",
+            "Tiempo personalizado para eventos"
+          ]
+        }
+      ]
+    }
+  },
+  "/motivational-quote-screensaver": {
+    "quote": {
+      "paragraph": "La única manera de hacer un gran trabajo es amar lo que haces. Si aún no lo has encontrado, sigue buscando. No te conformes.",
+      "author": "Steve Jobs"
+    },
+    "name": "Cita motivacional",
+    "icon": "https://emojicdn.elk.sh/💬",
+    "title": "Protector de pantalla con citas motivacionales",
+    "type": "protector de pantalla",
+    "tip": {
+      "title": "Salvapantallas con frases motivadoras",
+      "content": [
+        {
+          "title": "Cita para animar tu mañana",
+          "description": "Empieza el día con inspiración mostrando un protector de pantalla con una cita motivacional que te animará y te dará una vibra positiva. Es una forma sencilla de empezar el día con propósito."
+        },
+        {
+          "title": "Cita para espacio de trabajo",
+          "description": "Motiva tu jornada laboral con un protector de pantalla con frases motivadoras que te mantendrán concentrado y con energía en la oficina. Es un sutil recordatorio para mantenerte motivado durante largas jornadas."
+        },
+        {
+          "title": "Cita para reuniones",
+          "description": "Despierte la creatividad y la conversación durante las reuniones de equipo mostrando un salvapantallas con una cita motivacional durante los descansos o presentaciones. Es una forma inteligente de inspirar la colaboración y las ideas"
+        },
+        {
+          "title": "Presupuesto para ayuda de estudio",
+          "description": "Inspírate mientras estudias con un protector de pantalla con frases motivadoras que te mantendrán motivado durante las sesiones difíciles. Un true estímulo mental para repasar tarde en la noche o para proyectos largos."
+        },
+        {
+          "title": "Cita para la atmósfera de la casa",
+          "description": "Añade un toque positivo a tu espacio vital con un protector de pantalla motivacional que ilumina la estancia y anima a todos. Un toque decorativo con un fuerte impacto emocional."
+        },
+        {
+          "title": "Cita sobre el fitness",
+          "description": "Persevera en tus entrenamientos con un protector de pantalla con frases motivacionales que te mantendrán motivado. Un true impulso visual para alcanzar tus objetivos de fitness."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Motivación diaria",
+          "content": [
+            "Un impulso de inspiración matutino",
+            "Un comienzo positivo del día",
+            "Dosis diaria de motivación",
+            "Citas inspiradoras sobre el refrigerio",
+            "Empieza el día con positividad"
+          ]
+        },
+        {
+          "title": "Productividad y concentración",
+          "content": [
+            "Manténgase concentrado en el trabajo",
+            "Motivar durante los estudios",
+            "Estimular la creatividad del equipo",
+            "Pausas laborales inspiradoras",
+            "Mejorar el ambiente del espacio de trabajo"
+          ]
+        },
+        {
+          "title": "Uso personal y doméstico",
+          "content": [
+            "Diseño de interiores inspirador",
+            "Visualización de cotizaciones personalizable",
+            "Citas personales favoritas",
+            "Fomentar las rutinas de ejercicio",
+            "Ambiente interior motivador"
+          ]
+        }
+      ]
+    }
+  },
+  "/no-signal-smpte-color-bars-screensaver": {
+    "name": "Sin señal",
+    "icon": "https://emojicdn.elk.sh/📡",
+    "title": "Barras de color: pantalla de TV sin señal",
+    "type": "protector de pantalla",
+    "tip": {
+      "title": "Barras de color: pantalla de TV sin señal",
+      "content": [
+        {
+          "title": "Calibración de la barra de color",
+          "description": "Ajuste sus pantallas con barras de color SMPTE retro para garantizar una configuración precisa de color y brillo, y una visualización óptima. Es una herramienta clásica tanto para entusiastas de la tecnología como para profesionales."
+        },
+        {
+          "title": "Vídeo con barras de color",
+          "description": "Mejora tu producción de video con patrones de prueba usando barras de color como referencia o como pantalla de pausa, dándole un toque profesional a tu trabajo. Es un guiño a la historia de la radiodifusión que mejora la calidad."
+        },
+        {
+          "title": "Transmisión con barras de color",
+          "description": "Añade cortes profesionales a tus transmisiones con barras de color que imitan las señales de prueba de TV, ofreciendo a tu audiencia un corte refinado. Un toque retro para creadores de contenido en vivo."
+        },
+        {
+          "title": "Arte de barra de color",
+          "description": "Crea instalaciones multimedia retro con barras de color para crear un fondo vibrante y nostálgico para tus galerías o proyectos creativos. Una imagen audaz que combina tecnología y estética."
+        },
+        {
+          "title": "Atmósfera de barra de color",
+          "description": "Crea un ambiente de TV vintage en tu espacio con barras de colores que evocan programas de antaño, perfectas para un ambiente peculiar. Una manera fácil de añadir personalidad a cualquier habitación."
+        },
+        {
+          "title": "Relleno de barras de color",
+          "description": "Engaña a tus amigos con un fallo de TV false mostrando barras de colores, haciéndoles creer que se perdió la señal, solo el tiempo suficiente para reírse. Una broma inofensiva con un toque retro."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Entretenimiento y farsas",
+          "content": [
+            "chistes en pantalla completa sin señal",
+            "Decoraciones retro para fiestas de TV",
+            "efectos de pantalla de pausa de transmisión",
+            "estética de transmisión vintage",
+            "ambiente de sala de juegos"
+          ]
+        },
+        {
+          "title": "Usos profesionales",
+          "content": [
+            "Prueba de barra de color SMPTE",
+            "modelos de calibración de monitores",
+            "tarjetas de prueba de producción de video",
+            "referencia de configuración de pantalla",
+            "verificaciones de equipos de transmisión"
+          ]
+        },
+        {
+          "title": "Proyectos creativos",
+          "content": [
+            "fondos de instalaciones artísticas",
+            "estética de video retro",
+            "diseño de televisor vintage",
+            "accesorios de producción cinematográfica",
+            "pantallas multimedia nostálgicas"
+          ]
+        }
+      ]
+    }
+  },
+  "/terms-and-conditions": {
+    "name": "Condiciones de uso",
+    "icon": "https://emojicdn.elk.sh/📜",
+    "title": "Condiciones de uso",
+    "type": "página"
+  },
+  "/privacy-policy": {
+    "name": "Política de privacidad",
+    "icon": "https://emojicdn.elk.sh/🔒",
+    "title": "Política de privacidad",
+    "type": "página"
+  },
+  "/contact-us": {
+    "name": "Contáctanos",
+    "icon": "https://emojicdn.elk.sh/📞",
+    "title": "Contáctanos",
+    "type": "página"
+  },
+  "/kernel-panic": {
+    "name": "Pánico del kernel",
+    "icon": "https://emojicdn.elk.sh/🔋",
+    "title": "Pánico del núcleo",
+    "type": "broma",
+    "isPage": true,
+    "tip": {
+      "title": "Pánico del núcleo",
+      "content": [
+        {
+          "title": "Pánico del núcleo",
+          "description": "Kernel Panic es una pantalla de broma que simula la descarga de un dispositivo electrónico."
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "color": "Pantallas a color",
+    "prank": "Pantallas de broma",
+    "fake-update": "Pantallas de actualización falsas",
+    "screensaver": "Salvapantallas",
+    "tip": {
+      "header": "La gente usa {tipTitle} para:"
+    }
+  },
+  "settings": {
+    "time": [
+      "Hora de actualización",
+      "Hora de inicio",
+      "minutos",
+      "Reanudar"
+    ],
+    "color": [
+      "Descargar",
+      "{title} antecedentes"
+    ],
+    "hacker": [
+      "Velocidad"
+    ]
+  },
+  "title": "{title} | Herramienta en línea",
+  "/null": {
+    "name": "Nulo",
+    "icon": "https://emojicdn.elk.sh/⚫️",
+    "title": "Nulo",
+    "type": "página",
+    "color": "#000000",
+    "colorName": "Negro",
+    "isPage": true,
+    "tip": {
+      "title": "Nulo",
+      "content": [
+        {
+          "title": "Nulo",
+          "description": "Null es una página sin texto ni imágenes."
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "links": "Enlaces",
+    "uses": "Usos",
+    "other_tips": "Otros consejos"
+  }
+}
