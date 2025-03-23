@@ -1571,9 +1571,9 @@
     }
   },
   "/motivational-quote-screensaver": {
-    "cita": {
-      "párrafo": "La única manera de hacer un gran trabajo es amar lo que haces. Si aún no lo has encontrado, sigue buscando. No te conformes.",
-      "autor": "Steve Jobs"
+    "quote": {
+      "paragraph": "La única manera de hacer un gran trabajo es amar lo que haces. Si aún no lo has encontrado, sigue buscando. No te conformes.",
+      "author": "Steve Jobs"
     },
     "name": "Cita motivacional",
     "icon": "https://emojicdn.elk.sh/💬",

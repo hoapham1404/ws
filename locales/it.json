@@ -125,7 +125,7 @@
       ]
     }
   },
-  "//red-screen": {
+  "/red-screen": {
     "name": "Schermo rosso",
     "color": "#FF0000",
     "isAxis": false,
@@ -187,7 +187,7 @@
       ]
     }
   },
-  "//green-screen": {
+  "/green-screen": {
     "name": "Schermo verde",
     "color": "#00FF00",
     "isAxis": false,
@@ -251,7 +251,7 @@
       ]
     }
   },
-  "//blue-screen": {
+  "/blue-screen": {
     "name": "Schermata blu",
     "color": "#0000FF",
     "isAxis": false,
@@ -314,7 +314,7 @@
       ]
     }
   },
-  "//yellow-screen": {
+  "/yellow-screen": {
     "name": "Schermo giallo",
     "color": "#FFFF00",
     "isAxis": true,
@@ -1573,9 +1573,9 @@
     }
   },
   "/motivational-quote-screensaver": {
-    "citazione": {
-      "paragrafo": "L'unico modo per fare un ottimo lavoro è amare ciò che fai. Se non l'hai ancora trovato, continua a cercare. Non accontentarti.",
-      "autore": "Steve Jobs"
+    "quote": {
+      "paragraph": "L'unico modo per fare un ottimo lavoro è amare ciò che fai. Se non l'hai ancora trovato, continua a cercare. Non accontentarti.",
+      "author": "Steve Jobs"
     },
     "name": "Citazione motivazionale",
     "icon": "https://emojicdn.elk.sh/💬",

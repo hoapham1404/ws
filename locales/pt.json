@@ -1,1795 +1,1795 @@
 {
-    "/": {
-      "name": "Tela branca",
-      "color": "#FFFFFF",
-      "isAxis": false,
-      "title": "Tela branca",
-      "type": "color",
-      "tip": {
-        "title": "tela branca",
-        "content": [
-          {
-            "title": "tela branca para copiar desenhos",
-            "description": "Coloque uma folha de papel em uma tela branca brilhante para traçar facilmente imagens ou esboços. Este método é simples e eficaz para reproduzir obras de arte sem ferramentas especializadas."
-          },
-          {
-            "title": "tela branca como fonte de luz",
-            "description": "Use uma tela branca como luz de fundo para fotografia para iluminar uniformemente os objetos ou como uma mesa de luz improvisada para pequenos projetos. É uma solução econômica para criar iluminação suave e difusa."
-          },
-          {
-            "title": "tela branca para verificar a tela",
-            "description": "Exiba uma tela branca completa para inspecionar sua tela em busca de pixels mortos, descoloração ou outros problemas de exibição. Esta técnica permite que você identifique rapidamente imperfeições que poderiam passar despercebidas."
-          },
-          {
-            "title": "Tela branca para tela vazia",
-            "description": "Tela branca para minimizar distrações durante tarefas que não exigem uma tela ativa, como brainstorming ou ouvir áudio. É uma maneira fácil de manter o foco sem desligar o dispositivo."
-          },
-          {
-            "title": "Tela branca como luminária de leitura",
-            "description": "Ilumine seus livros ou anotações em condições de pouca luz usando uma tela branca como uma lâmpada de leitura suave. Ajuste o brilho conforme necessário para uma leitura confortável e sem reflexos."
-          },
-          {
-            "title": "Tela branca para maquiagem",
-            "description": "Aplique maquiagem ou tire selfies bem iluminadas com uma tela branca que fornece iluminação brilhante e uniforme que imita a luz natural do dia. Esta configuração garante reprodução de cores precisa e resultados impecáveis."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Tela branca para limpeza",
-            "content": [
-              "tela branca para limpeza do monitor",
-              "tela branca para encontrar pixels mortos",
-              "tela branca para encontrar pontos sujos"
-            ]
-          },
-          {
-            "title": "Luz branca online",
-            "content": [
-              "luz branca para leitura",
-              "luz branca para videochamadas",
-              "luz branca",
-              "tela/luz branca para selfie",
-              "luzes LED brancas online"
-            ]
-          },
-          {
-            "title": "Outros",
-            "content": [
-              "tela de projeção branca",
-              "tela branca para crianças",
-              "fundo de tela branca inteira"
-            ]
-          }
-        ]
-      }
-    },
-    "/black-screen": {
-      "name": "Tela preta",
-      "color": "#000000",
-      "isAxis": false,
-      "title": "Tela preta completa",
-      "type": "color",
-      "tip": {
-        "title": "tela preta",
-        "content": [
-          {
-            "title": "tela preta para o segundo monitor",
-            "description": "Coloque um segundo monitor em uma tela preta para mantê-lo ativo sem exibir conteúdo que distraia enquanto você trabalha. Este truque preserva a funcionalidade enquanto reduz a desordem visual."
-          },
-          {
-            "title": "tela preta para economizar eletricidade",
-            "description": "Mude para uma tela preta em displays OLED ou AMOLED para reduzir o consumo de energia, pois esses displays usam menos energia ao exibir cores escuras. É uma escolha ecologicamente correta para uso prolongado."
-          },
-          {
-            "title": "tela preta para ocultar atividade",
-            "description": "Use uma tela preta para ocultar discretamente o conteúdo do seu computador enquanto estiver ausente, mantendo seu trabalho ou atividades privadas. É uma alternativa rápida para bloquear ou desligar seu dispositivo."
-          },
-          {
-            "title": "Tela preta para limpar a tela",
-            "description": "Exiba uma tela preta para destacar poeira, manchas ou impressões digitais na tela e facilitar a limpeza. O contraste nítido ajuda a detectar imperfeições que precisam de atenção."
-          },
-          {
-            "title": "Tela preta como fundo escuro",
-            "description": "Crie um fundo escuro e envolvente para seus jogos, vídeos ou projetos criativos configurando sua tela para preto. Isso melhora a concentração e reduz o cansaço visual em baixa luminosidade."
-          },
-          {
-            "title": "Tela preta para evitar queima de tela",
-            "description": "Proteja os displays de plasma ou OLED contra queima de tela exibindo uma tela preta durante períodos de inatividade ou pausas. Essa precaução estende a vida útil do seu display evitando a retenção de imagem estática."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Tela preta para limpeza",
-            "content": [
-              "tela preta para limpeza do monitor",
-              "tela preta para encontrar pixels mortos",
-              "tela preta para encontrar pontos sujos"
-            ]
-          },
-          {
-            "title": "Cor preta online",
-            "content": [
-              "tela de computador em branco",
-              "tela preta total",
-              "tela preta completa"
-            ]
-          },
-          {
-            "title": "Outros",
-            "content": [
-              "tela preta para projetor",
-              "tela preta para crianças",
-              "tela cheia fundo preto"
-            ]
-          }
-        ]
-      }
-    },
-    "/red-screen": {
-      "name": "Tela vermelha",
-      "color": "#FF0000",
-      "isAxis": false,
-      "title": "Tela vermelha",
-      "type": "color",
-      "tip": {
-        "title": "tela vermelha",
-        "content": [
-          {
-            "title": "tela vermelha para fotografia",
-            "description": "Integre uma tela vermelha para adicionar efeitos de cor ousados e dramáticos aos seus projetos de foto ou vídeo, melhorando o clima e os visuais. É uma maneira criativa de experimentar iluminação sem equipamento adicional."
-          },
-          {
-            "title": "tela vermelha para a saúde dos olhos",
-            "description": "Use uma tela vermelha em ambientes escuros para reduzir a exposição à luz azul e aliviar o cansaço visual durante o uso noturno. Essa abordagem imita as configurações do Modo Noturno para uma experiência de visualização mais confortável."
-          },
-          {
-            "title": "tela vermelha para eventos virtuais",
-            "description": "Use uma tela vermelha como um pano de fundo dinâmico para suas reuniões virtuais ou transmissões ao vivo para criar uma atmosfera vibrante e memorável. Ela chama a atenção e adiciona um toque profissional e dinâmico à sua presença online."
-          },
-          {
-            "title": "Fundo vermelho para gráficos",
-            "description": "Use um fundo vermelho para inspirar projetos de design gráfico ousados. Sua tonalidade vibrante serve como base para visuais ou layouts impactantes. É ideal para experimentar contrastes de cores e criar ilustrações atraentes."
-          },
-          {
-            "title": "Fundo vermelho para apresentações",
-            "description": "Destaque slides ou temas principais em suas apresentações com um fundo vermelho para enfatizar pontos importantes e cativar seu público. Sua cor vibrante naturalmente chama a atenção para seu conteúdo."
-          },
-          {
-            "title": "Fundo vermelho para TikTok",
-            "description": "Crie vídeos cativantes do TikTok com um fundo vermelho vibrante que se destaca nos feeds e adiciona um toque moderno. Combine com iluminação criativa ou filtros para impacto máximo."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Cor vermelha online",
-            "content": [
-              "tela vermelha para tiktoks",
-              "tela vermelha para chamadas online",
-              "tela vermelha para fotos"
-            ]
-          },
-          {
-            "title": "Luz vermelha online",
-            "content": [
-              "luz de cor vermelha",
-              "luz vermelha para selfie",
-              "luzes LED vermelhas online"
-            ]
-          },
-          {
-            "title": "Outros",
-            "content": [
-              "tela de projeção vermelha",
-              "tela vermelha em branco para crianças",
-              "fundo de tela vermelho completo"
-            ]
-          }
-        ]
-      }
-    },
-    "/green-screen": {
-      "name": "Tela verde",
-      "color": "#00FF00",
-      "isAxis": false,
-      "title": "Tela verde",
-      "type": "color",
-      "tip": {
-        "title": "tela verde",
-        "content": [
-          {
-            "title": "tela verde para criação de vídeo",
-            "description": "Use uma tela verde para substituir facilmente fundos durante a produção de vídeo, permitindo ambientes criativos como mundos virtuais ou estúdios profissionais. Essa técnica, chamada chroma keying, é amplamente usada em filmes e streaming por sua versatilidade."
-          },
-          {
-            "title": "tela verde para relaxamento",
-            "description": "Exiba uma tela verde relaxante para acalmar seus olhos após longos períodos de trabalho ou tempo de tela, aproveitando as propriedades naturalmente relaxantes da cor. É uma maneira fácil de fazer uma pausa visual sem sair da sua mesa."
-          },
-          {
-            "title": "tela verde para jogos",
-            "description": "Melhore seus streams de jogos adicionando uma tela verde imersiva personalizável com visuais dinâmicos ou sobreposições temáticas de jogos. Isso melhora a experiência de visualização do seu público e adiciona um toque profissional."
-          },
-          {
-            "title": "Tela verde para reuniões",
-            "description": "Instale uma tela verde para suas videochamadas e substitua-a por um fundo profissional e polido que mascare seu entorno da vida real. Isso ajuda você a manter o foco e a ter uma aparência nítida durante reuniões virtuais."
-          },
-          {
-            "title": "Tela verde para educação",
-            "description": "Torne suas aulas on-line mais envolventes usando uma tela verde para integrar visuais interativos, como mapas ou diagramas, em seu fluxo de vídeo. Isso ajuda os alunos a permanecerem focados e aprimora a experiência de aprendizado com conteúdo dinâmico."
-          },
-          {
-            "title": "Tela verde para Photoshop",
-            "description": "Edite suas imagens sem esforço no Photoshop fotografando seus objetos contra uma tela verde, o que permite remoção rápida e precisa do fundo. O verde vivo fornece contraste nítido para recortes mais limpos e composições criativas."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Tela verde para limpeza",
-            "content": [
-              "tela verde para limpeza de monitor",
-              "tela verde para encontrar pixels mortos",
-              "tela verde para encontrar pontos sujos"
-            ]
-          },
-          {
-            "title": "Luz verde online",
-            "content": [
-              "luz verde para videochamadas",
-              "iluminação de tela verde",
-              "luz verde",
-              "luz verde para selfie",
-              "luzes LED verdes online"
-            ]
-          },
-          {
-            "title": "Outro",
-            "content": [
-              "tela verde para projetor",
-              "tela verde para crianças",
-              "fundo de tela verde completo"
-            ]
-          }
-        ]
-      }
-    },
-    "/blue-screen": {
-      "name": "Tela azul",
-      "color": "#0000FF",
-      "isAxis": false,
-      "title": "Tela azul",
-      "type": "color",
-      "tip": {
-        "title": "tela azul",
-        "content": [
-          {
-            "title": "tela azul para relaxamento",
-            "description": "Mude para uma tela azul para acalmar sua mente após um dia agitado, pois seus tons frios são conhecidos por ter um efeito calmante no cérebro. É uma maneira fácil de relaxar sem ter que sair do seu dispositivo."
-          },
-          {
-            "title": "tela azul para dormir",
-            "description": "Use uma tela azul suave à noite para promover o sono minimizando a luz brilhante e criando uma atmosfera relaxante. Embora menos agressivo do que filtros de luz azul, ele ainda pode encorajar seu corpo a relaxar."
-          },
-          {
-            "title": "tela azul para a saúde dos olhos",
-            "description": "Exiba uma tela azul durante longas sessões de trabalho para reduzir o cansaço visual, pois sua tonalidade suave pode parecer menos intensa do que cores mais brilhantes. Combine isso com pausas regulares para uma experiência de tela mais confortável."
-          },
-          {
-            "title": "Fundo azul para apresentações",
-            "description": "Integre um fundo azul como pano de fundo para suas apresentações para aprimorar seus visuais ou slides com um tom profissional e acessível. A versatilidade dessa cor a torna ideal para ambientes formais e criativos."
-          },
-          {
-            "title": "Fundo azul para vídeos",
-            "description": "Crie um plano de fundo de vídeo exclusivo com um fundo azul que adiciona um toque moderno e moderno ao seu conteúdo, ideal para vlogs ou tutoriais. É uma alternativa sutil às telas verdes para efeitos básicos de chroma key."
-          },
-          {
-            "title": "Fundo azul para traçado",
-            "description": "Coloque papel sobre um fundo azul para traçar imagens ou padrões nitidamente, usando a iluminação uniforme para guiar suas linhas. A cor distinta ajuda a distinguir detalhes, ao mesmo tempo em que simplifica e agiliza o processo."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Tela azul para limpeza",
-            "content": [
-              "Tela azul para limpeza do monitor",
-              "Tela azul para encontrar pixels mortos",
-              "Tela azul para encontrar pontos sujos"
-            ]
-          },
-          {
-            "title": "Luz azul online",
-            "content": [
-              "Luz azul para videochamadas",
-              "Luz de cor azul",
-              "Luz azul para selfie",
-              "Luzes LED azuis online"
-            ]
-          },
-          {
-            "title": "Outros",
-            "content": [
-              "Tela azul para projetor",
-              "Tela Azul para Crianças",
-              "Fundo azul em tela cheia"
-            ]
-          }
-        ]
-      }
-    },
-    "/yellow-screen": {
-      "name": "Tela amarela",
-      "color": "#FFFF00",
-      "isAxis": true,
-      "title": "Tela amarela",
-      "type": "color",
-      "tip": {
-        "title": "tela amarela",
-        "content": [
-          {
-            "title": "tela amarela para conteúdo",
-            "description": "Dê um toque de energia aos seus streams, vídeos ou apresentações com uma tela amarela que captura a atenção e transmite excitação. Sua cor brilhante e alegre destaca seu conteúdo e cativa a atenção dos espectadores."
-          },
-          {
-            "title": "tela amarela para conforto dos olhos",
-            "description": "Opte por uma tela amarela para reduzir a exposição à luz azul e aliviar a fadiga ocular durante o uso prolongado do computador, especialmente à noite. Sua tonalidade quente imita uma fonte de luz mais suave, proporcionando uma experiência de visualização mais suave."
-          },
-          {
-            "title": "tela amarela para criatividade",
-            "description": "Estimule a inspiração cercando-se de uma tela amarela, uma cor frequentemente associada ao otimismo e à imaginação. É um cenário ideal para sessões de brainstorming ou projetos de arte."
-          },
-          {
-            "title": "Tela amarela para teste",
-            "description": "Teste a precisão e a consistência das cores do seu monitor exibindo uma tela amarela completa para detectar inconsistências ou defeitos. A tonalidade vívida facilita a identificação de problemas sutis no monitor."
-          },
-          {
-            "title": "Tela amarela para ensino",
-            "description": "Capture a atenção dos alunos durante as aulas online com uma tela amarela brilhante que fornece um fundo atraente e vibrante. Ela cria uma atmosfera acolhedora que incentiva a participação e o foco."
-          },
-          {
-            "title": "Tela amarela para ambiente",
-            "description": "Crie uma atmosfera calorosa e acolhedora em seu espaço de trabalho ou vídeos com uma tela amarela que exala positividade e simpatia. É perfeita para criar um ambiente estimulante para você ou seu público."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Tela amarela para limpeza",
-            "content": [
-              "tela amarela para limpeza do monitor",
-              "tela amarela para encontrar pixels mortos",
-              "tela amarela para encontrar pontos sujos"
-            ]
-          },
-          {
-            "title": "Cor amarela online",
-            "content": [
-              "tela de computador em branco",
-              "tela amarela total",
-              "tela amarela cheia"
-            ]
-          },
-          {
-            "title": "Outros",
-            "content": [
-              "tela de projeção amarela",
-              "tela amarela para crianças",
-              "fundo de tela cheia amarelo"
-            ]
-          }
-        ]
-      }
-    },
-    "/orange-screen": {
-      "name": "Tela laranja",
-      "color": "#FFA500",
-      "isAxis": true,
-      "title": "Tela laranja",
-      "type": "color",
-      "tip": {
-        "title": "tela laranja",
-        "content": [
-          {
-            "title": "tela laranja para fundos",
-            "description": "Destaque sua presença virtual com uma tela laranja que adiciona um toque quente e ousado às suas videochamadas ou transmissões. Sua cor vibrante permite que você seja memorável sem sobrecarregar seu conteúdo."
-          },
-          {
-            "title": "tela laranja para dormir",
-            "description": "Filtre a luz azul com uma tela laranja à noite para promover um melhor descanso imitando os tons do pôr do sol. É uma maneira natural de preparar seu corpo para o sono enquanto usa seu dispositivo."
-          },
-          {
-            "title": "tela laranja para criatividade",
-            "description": "Desperte sua imaginação com uma tela laranja, uma cor conhecida por estimular energia e inovação. Use-a como plano de fundo para escrever, desenhar ou qualquer outro esforço criativo."
-          },
-          {
-            "title": "Tela laranja para calibração",
-            "description": "Verifique a precisão das cores do seu monitor exibindo uma tela laranja para revelar qualquer irregularidade no tom ou brilho. Sua tonalidade rica é ideal para ajustar efetivamente as configurações do monitor."
-          },
-          {
-            "title": "Tela laranja para ensino",
-            "description": "Incentive os alunos a fazer aulas on-line com uma tela laranja que captura a atenção e promove um ambiente de aprendizagem estimulante. Sua cor brilhante mantém os níveis de energia e incentiva a interação."
-          },
-          {
-            "title": "Tela laranja para ambiente",
-            "description": "Crie uma atmosfera acolhedora e criativa com uma tela laranja que combina calor e vibração, ideal para vídeos informais ou um espaço de trabalho pessoal. É uma escolha versátil para criar um ambiente acolhedor."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Tela laranja para limpeza",
-            "content": [
-              "tela laranja para limpeza do monitor",
-              "tela laranja para encontrar pixels mortos",
-              "tela laranja para encontrar pontos sujos"
-            ]
-          },
-          {
-            "title": "Cor laranja online",
-            "content": [
-              "tela de computador em branco",
-              "tela laranja total",
-              "tela laranja cheia"
-            ]
-          },
-          {
-            "title": "Outros",
-            "content": [
-              "tela de projeção laranja",
-              "tela laranja para crianças",
-              "fundo laranja em tela cheia"
-            ]
-          }
-        ]
-      }
-    },
-    "/pink-screen": {
-      "name": "Tela rosa",
-      "color": "#FFC0CB",
-      "isAxis": true,
-      "title": "Tela rosa",
-      "type": "color",
-      "tip": {
-        "title": "tela rosa",
-        "content": [
-          {
-            "title": "tela rosa para conteúdo",
-            "description": "Dê aos seus vídeos ou transmissões ao vivo uma vibração amigável e acessível usando uma tela rosa como um fundo vibrante. Sua tonalidade suave e alegre instantaneamente faz com que seu conteúdo pareça acolhedor e convidativo para os espectadores."
-          },
-          {
-            "title": "tela rosa para relaxamento",
-            "description": "Opte por uma tela rosa para relaxar após um longo dia, pois seu tom pastel suave cria uma sensação de paz e conforto. Crie facilmente um ambiente relaxante sem ferramentas adicionais."
-          },
-          {
-            "title": "tela rosa para design",
-            "description": "Inspire sua criatividade com uma tela rosa que adiciona um toque lúdico e elegante aos seus projetos gráficos ou artísticos. A versatilidade desta cor incentiva a experimentação com layouts ousados e harmoniosos."
-          },
-          {
-            "title": "tela rosa para teste",
-            "description": "Verifique a precisão da sua exibição visualizando uma tela rosa completa para detectar inconsistências na reprodução de cores ou no desempenho de pixels. Seu tom distinto ajuda a revelar problemas sutis que podem afetar a qualidade visual."
-          },
-          {
-            "title": "tela rosa para apresentações",
-            "description": "Capture a atenção do seu público durante suas apresentações com uma tela rosa ousada que adiciona dinamismo e personalidade aos seus slides. É uma escolha poderosa que captura a atenção enquanto destaca pontos-chave."
-          },
-          {
-            "title": "tela rosa para ambiente",
-            "description": "Crie uma atmosfera lúdica e acolhedora em seu espaço de trabalho ou vídeos com uma tela rosa que exala positividade e charme. É perfeita para criar uma atmosfera leve durante suas transmissões informais ou projetos pessoais."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Tela rosa para limpeza",
-            "content": [
-              "tela rosa para limpeza do monitor",
-              "tela rosa para encontrar pixels mortos",
-              "tela rosa para encontrar pontos sujos"
-            ]
-          },
-          {
-            "title": "Cor rosa online",
-            "content": [
-              "tela de computador em branco",
-              "tela rosa total",
-              "tela rosa cheia"
-            ]
-          },
-          {
-            "title": "Outros",
-            "content": [
-              "tela de projeção rosa",
-              "tela rosa para crianças",
-              "fundo rosa tela cheia"
-            ]
-          }
-        ]
-      }
-    },
-    "/purple-screen": {
-      "name": "Tela roxa",
-      "color": "#800080",
-      "isAxis": true,
-      "title": "Tela roxa",
-      "type": "color",
-      "tip": {
-        "title": "tela roxa",
-        "content": [
-          {
-            "title": "tela roxa para bem-estar",
-            "description": "Melhore sua rotina de meditação ou relaxamento com uma tela roxa relaxante, uma cor frequentemente associada à tranquilidade e à introspecção. Sua tonalidade rica ajuda a criar um espaço sereno propício à atenção plena ou ao relaxamento."
-          },
-          {
-            "title": "tela roxa para iluminação",
-            "description": "Adicione um brilho místico e encantador às suas videochamadas ou eventos virtuais usando uma tela roxa como uma fonte de iluminação criativa. Ela transforma sua configuração em um espaço único e visualmente cativante."
-          },
-          {
-            "title": "tela roxa para estudo",
-            "description": "Explore a teoria das cores ou conceitos de design com uma tela roxa que serve como um exemplo prático para alunos ou aprendizes. Sua tonalidade profunda fornece um pano de fundo estimulante e focado para conteúdo educacional."
-          },
-          {
-            "title": "Tela roxa para teste",
-            "description": "Teste a precisão e o desempenho das cores do seu monitor com uma tela roxa para identificar quaisquer irregularidades de exibição ou problemas de pixel. Sua tonalidade vívida facilita a detecção de imperfeições na tela."
-          },
-          {
-            "title": "Tela roxa para crianças",
-            "description": "Desperte a imaginação das crianças durante suas sessões de aprendizado ou brincadeiras com uma tela roxa mágica e inspiradora. É uma maneira divertida de tornar vídeos ou atividades educacionais mais envolventes para mentes jovens."
-          },
-          {
-            "title": "Tela roxa para ambiente",
-            "description": "Crie um ambiente criativo e luxuoso com uma tela roxa que combina sofisticação e talento artístico, ideal para streaming ou espaços pessoais. Seu tom majestoso aprimora a atmosfera sem esforço."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Tela roxa para limpeza",
-            "content": [
-              "tela roxa para limpeza de monitor",
-              "tela roxa para encontrar pixels mortos",
-              "tela roxa para encontrar pontos sujos"
-            ]
-          },
-          {
-            "title": "Cor roxa online",
-            "content": [
-              "tela de computador em branco",
-              "tela roxa total",
-              "tela roxa completa"
-            ]
-          },
-          {
-            "title": "Outros",
-            "content": [
-              "tela de projeção roxa",
-              "tela roxa para crianças",
-              "fundo roxo em tela cheia"
-            ]
-          }
-        ]
-      }
-    },
-    "/zoom-lighting": {
-      "name": "Iluminação com Zoom",
-      "color": "#FFC5C2",
-      "isAxis": true,
-      "title": "Iluminação para chamadas de Zoom",
-      "type": "color",
-      "tip": {
-        "title": "Iluminação para chamadas de Zoom",
-        "content": [
-          {
-            "title": "Iluminação com zoom para chamadas",
-            "description": "Defina sua tela para uma cor suave e quente, como Zoom Lighting (#FFC5C2), para melhorar sua aparência durante videochamadas comerciais com iluminação favorável. Ela imita a luz natural do dia, reduz sombras e cria uma aparência polida."
-          },
-          {
-            "title": "Iluminação com zoom para fotografia",
-            "description": "Crie o clima perfeito para fotografia usando a Iluminação Zoom como uma fonte suave e difusa que destaca lindamente os objetos. Seu tom pêssego sutil adiciona calor e profundidade a retratos ou fotos."
-          },
-          {
-            "title": "Iluminação com zoom para e-learning",
-            "description": "Reduza a fadiga ocular e melhore o foco durante as aulas online configurando sua tela para Zoom Lighting, que fornece brilho confortável para sessões longas. Ajuda a manter a concentração sem a aspereza de telas mais brilhantes."
-          },
-          {
-            "title": "Iluminação com Zoom para Desenvolvedores",
-            "description": "Teste suas interfaces de usuário ou paletas de cores sob iluminação de zoom para ver como elas são renderizadas em luz quente e realista. Esta é uma maneira útil de garantir que seu trabalho tenha uma ótima aparência sob diferentes condições de visualização."
-          },
-          {
-            "title": "Iluminação com zoom para terapia",
-            "description": "Use a iluminação do Zoom durante suas sessões remotas de bem-estar ou terapia para criar uma atmosfera calmante e de apoio com sua tonalidade suave e acolhedora. Essa cor pode aumentar a conexão emocional e o conforto para os clientes."
-          },
-          {
-            "title": "Iluminação de zoom com tela branca",
-            "description": "Ilumine suas videochamadas pareando o Zoom Lighting com um segundo monitor configurado para uma tela branca, fornecendo luz brilhante e uniforme sem equipamento adicional. Esta configuração garante iluminação ideal e uma imagem profissional com facilidade."
-          }
-        ]
-      }
-    },
-    "/white-noise": {
-      "name": "Ruído branco",
-      "icon": "https://emojicdn.elk.sh/🔊",
-      "title": "Ruído branco para dormir",
-      "type": "pegadinha",
-      "tip": {
-        "title": "Ruído branco para dormir",
-        "content": [
-          {
-            "title": "Ruído branco para concentração",
-            "description": "Mascare o ruído de fundo que distrai com ruído branco para melhorar sua concentração durante suas sessões de trabalho ou estudo. Seu zumbido constante cria um ambiente sonoro consistente que ajuda você a manter o foco."
-          },
-          {
-            "title": "Ruído branco para dormir",
-            "description": "Adormeça mais rápido tocando ruído branco para abafar sons noturnos perturbadores, como trânsito ou latidos de cachorro. O som contínuo imita um ritmo relaxante que acalma sua mente."
-          },
-          {
-            "title": "Ruído branco para bebês",
-            "description": "Acalme os bebês com ruído branco que reproduz os sons reconfortantes do útero aos quais eles estão acostumados. É uma maneira gentil de acalmar bebês agitados e estabelecer uma rotina relaxante para a hora de dormir."
-          },
-          {
-            "title": "Ruído branco para meditação",
-            "description": "Melhore suas sessões de atenção plena com ruído branco que fornece um ambiente neutro e discreto para respiração profunda e concentração. Ele ajuda a limpar a desordem mental e evita que ruídos externos perturbem sua calma."
-          },
-          {
-            "title": "Ruído branco para o Halloween",
-            "description": "Crie uma atmosfera assustadora combinando ruído branco com efeitos assustadores para festas de Halloween ou cenários mal-assombrados. Sua intensidade sutil cria uma atmosfera assustadora sem abafar outros sons."
-          },
-          {
-            "title": "Ruído branco para brincadeiras",
-            "description": "Produza um ruído branco sutil no fundo para perturbar seus colegas ou amigos e fazê-los se perguntar sobre os sons fracos e misteriosos. É uma brincadeira discreta, perfeita para o escritório ou um ambiente casual."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Melhore a produtividade e a concentração",
-            "content": [
-              "Melhorar a concentração em ambientes ruidosos",
-              "Aumentar a produtividade no trabalho",
-              "Melhore a concentração durante as sessões de estudo",
-              "Minimize as distrações ao trabalhar remotamente",
-              "Torne os períodos de trabalho intenso mais fáceis"
-            ]
-          },
-          {
-            "title": "Sono e relaxamento",
-            "content": [
-              "Promova um adormecimento mais rápido",
-              "Disfarce ruídos noturnos perturbadores",
-              "Melhorando a qualidade do sono para insones",
-              "Acalmar bebês e crianças pequenas",
-              "Crie uma rotina relaxante para a hora de dormir"
-            ]
-          },
-          {
-            "title": "Saúde e bem-estar",
-            "content": [
-              "Reduza os níveis de estresse e ansiedade",
-              "Ajuda com práticas de meditação e atenção plena",
-              "Ajude a controlar os sintomas do zumbido",
-              "Incentive o relaxamento durante a ioga",
-              "Apoiar a saúde mental reduzindo a sobrecarga sensorial"
-            ]
-          }
-        ]
-      }
-    },
-    "/broken-screen": {
-      "name": "Tela quebrada falsa",
-      "icon": "https://emojicdn.elk.sh/💔",
-      "title": "Tela quebrada falsa - Piada",
-      "type": "pegadinha",
-      "tip": {
-        "title": "Tela quebrada falsa - Piada",
-        "content": [
-          {
-            "title": "piada da tela quebrada",
-            "description": "Assuste seus amigos exibindo uma tela quebrada falsa incrivelmente realista, perfeita para uma risada instantânea. Instale-a no dispositivo deles quando não estiverem procurando a surpresa definitiva."
-          },
-          {
-            "title": "tela quebrada para conteúdo",
-            "description": "Adicione um toque de drama aos seus vídeos ou postagens de mídia social com um efeito de tela quebrada falsa que captura a atenção instantaneamente. É uma maneira criativa de encenar incidentes técnicos ou criar suspense."
-          },
-          {
-            "title": "teste de reação de tela quebrada",
-            "description": "Pratique manter a calma sob pressão simulando uma tela quebrada e observando sua própria reação. É uma maneira única de testar sua resiliência sem arriscar danos reais."
-          },
-          {
-            "title": "Tela quebrada para projetos",
-            "description": "Incorpore uma tela quebrada falsa em seus projetos de arte ou design para criar uma textura ou elemento visual único. Rachaduras podem adicionar um toque de originalidade e desgaste aos seus trabalhos digitais ou de mídia mista."
-          },
-          {
-            "title": "Tela quebrada para educação",
-            "description": "Destaque os benefícios dos protetores de tela ou da manutenção do dispositivo apresentando uma tela quebrada simulada como um exemplo de aviso. Este é um auxílio visual eficaz para aulas de segurança de computador."
-          },
-          {
-            "title": "Tela quebrada para revisão",
-            "description": "Destaque a durabilidade em análises técnicas comparando uma tela quebrada falsa com a resistência real do dispositivo. Esta é uma maneira convincente de demonstrar qualidade de construção ou recursos de proteção."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Piadas e pegadinhas",
-            "content": [
-              "Farsa tecnológica épica",
-              "Assuste amigos e familiares",
-              "Ideia de brincadeira de escritório",
-              "Pegadinha do Dia da Mentira",
-              "Surpreender alguém por diversão"
-            ]
-          },
-          {
-            "title": "Conteúdo e criatividade",
-            "content": [
-              "Fundo de arte digital exclusivo",
-              "Conteúdo envolvente para mídias sociais",
-              "Visuais de projetos criativos",
-              "Efeito dramático em vídeos",
-              "Ilustrando histórias de terror tecnológicas"
-            ]
-          },
-          {
-            "title": "Educação e conscientização",
-            "content": [
-              "Demonstrar a fragilidade da tela",
-              "Promover acessórios de proteção",
-              "Apresentações Técnicas de Segurança",
-              "Auxílio visual para discussões sobre manutenção de eletrodomésticos",
-              "Enfatizar a importância das garantias"
-            ]
-          }
-        ]
-      }
-    },
-    "/blue-screen-of-death-windows": {
-      "name": "Tela Azul Falsa da Morte",
-      "icon": "https://emojicdn.elk.sh/💻",
-      "title": "Tela Azul da Morte do Windows Falsa",
-      "type": "pegadinha",
-      "tip": {
-        "title": "Tela Azul da Morte do Windows Falsa",
-        "content": [
-          {
-            "title": "Brincadeira BSOD",
-            "description": "Engane seus amigos com uma Tela Azul da Morte falsa que imita uma falha real do Windows, causando pânico e diversão. É uma maneira inofensiva de fazer uma pegadinha tecnológica clássica."
-          },
-          {
-            "title": "BSOD de feriado",
-            "description": "Adicione um toque de humor tecnológico às suas reuniões exibindo uma falsa tela azul da morte em uma tela dividida e surpreendendo seus convidados com um toque lúdico. É uma ótima maneira de quebrar o gelo, seja você um geek ou apenas um espectador."
-          },
-          {
-            "title": "BSOD para treinamento",
-            "description": "Ensine técnicas de solução de problemas de computador com segurança simulando uma Tela Azul da Morte, permitindo que os alunos pratiquem o diagnóstico de erros sem os riscos do mundo real. É uma ferramenta prática para construir confiança no suporte técnico."
-          },
-          {
-            "title": "BSOD para habilidades técnicas",
-            "description": "Pratique suas próprias habilidades de suporte técnico em um ambiente controlado com um BSOD false que desafia você a pensar em soluções. É uma maneira divertida e sem riscos de melhorar suas habilidades de resolução de problemas."
-          },
-          {
-            "title": "BSOD para YouTube",
-            "description": "Apimente seus vídeos do YouTube com um efeito BSOD false para criar conteúdo tecnológico cativante ou esquetes dramáticos. Ele adiciona um toque nostálgico e reconhecível que ressoa com espectadores antenados em tecnologia."
-          },
-          {
-            "title": "Teste de paciência BSOD",
-            "description": "Teste sua tolerância ao estresse ou faça uma brincadeira com os outros com um BSOD false de carregamento lento que mantém o suspense. É uma maneira única de ver como as pessoas lidam com a frustração tecnológica."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Piadas e Entretenimento",
-            "content": [
-              "Piada inofensiva de computador",
-              "Piada técnica do Dia da Mentira",
-              "Festa com tema de tecnologia",
-              "Assuste seus amigos por diversão",
-              "Crie conteúdo de pegadinha viral"
-            ]
-          },
-          {
-            "title": "Fim dos estudos",
-            "content": [
-              "Ensinando solução de problemas de BSOD",
-              "Simular falhas do sistema",
-              "Treinamento de equipe de suporte de TI",
-              "Demonstrar recuperação do sistema",
-              "Eduque sobre mensagens de erro"
-            ]
-          },
-          {
-            "title": "Criação de conteúdo",
-            "content": [
-              "Melhorando vídeos técnicos",
-              "Crie tutoriais envolventes",
-              "Filmando cenas técnicas realistas",
-              "Adicionando drama às revisões técnicas",
-              "Ilustrar discussões sobre estabilidade do sistema"
-            ]
-          }
-        ]
-      }
-    },
-    "/blue-screen-of-death-windows-10": {
-      "name": "Tela Azul Falsa da Morte 10",
-      "icon": "https://emojicdn.elk.sh/💻",
-      "title": "Tela Azul da Morte Falsa do Windows 10",
-      "type": "pegadinha",
-      "tip": {
-        "title": "Tela Azul da Morte Falsa no Windows 10",
-        "content": [
-          {
-            "title": "Piada sobre BSOD no escritório",
-            "description": "Engane seus colegas de trabalho com uma falsa Tela Azul da Morte do Windows 10 que aparece no meio do dia, causando confusão e risadas no escritório. É uma configuração rápida para uma leve quebra na rotina."
-          },
-          {
-            "title": "Escape de uma chamada BSOD",
-            "description": "Fuja de uma videoconferência chata acionando uma Tela Azul da Morte falsa como uma desculpa crível para se desconectar temporariamente. É uma maneira sorrateira e bem-humorada de evitar tempo de tela indesejado."
-          },
-          {
-            "title": "BSOD de treinamento em computador",
-            "description": "Pratique a correção de erros do Windows 10 com uma Tela Azul da Morte falsa que imita travamentos reais, fornecendo um espaço seguro para desenvolver suas habilidades com computadores. É perfeito para aprendizado prático sem arriscar sistemas reais."
-          },
-          {
-            "title": "Piada BSOD",
-            "description": "Surpreenda os jogadores no meio da sessão com um BSOD false que interrompe o jogo e captura reações hilárias, seja por diversão ou por conteúdo. Um movimento ousado que causa estragos nos momentos multijogador."
-          },
-          {
-            "title": "Vídeos de reação BSOD",
-            "description": "Grave reações engraçadas a um BSOD false no Windows 10 para vídeos de reação que vão impressionar seu público. Uma configuração simples para imagens virais."
-          },
-          {
-            "title": "Equipe testa BSOD",
-            "description": "Teste o tempo de resposta e as habilidades de resolução de problemas da sua equipe de TI com uma emergência BSOD simulada que replica cenários da vida real. É um exercício prático para melhorar a coordenação e a preparação."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "pegadinhas engraçadas",
-            "content": [
-              "pegadinhas rápidas de escritório com BSODs falsos",
-              "tela azul trolling em streaming de jogos",
-              "pegadinhas de quebra de computador em família",
-              "Vídeos de reação à tela da morte do Windows",
-              "piadas de festa BSOD em tela cheia"
-            ]
-          },
-          {
-            "title": "Usos educacionais",
-            "content": [
-              "Ferramenta de treinamento BSOD de suporte de computador",
-              "Demonstrações de tela de travamento do Windows",
-              "ferramenta de ensino de informática",
-              "exemplos de workshops técnicos",
-              "prática de resposta de tela azul"
-            ]
-          },
-          {
-            "title": "Criação de conteúdo",
-            "content": [
-              "Vídeos de pegadinhas do BSOD do YouTube",
-              "Conteúdo do meme de travamento do Windows",
-              "clipes de reação em mídias sociais",
-              "transmissão de telas azuis falsas",
-              "demonstrações de tutoriais técnicos"
-            ]
-          }
-        ]
-      }
-    },
-    "/hacker-screen": {
-      "name": "Tela de entrada do hacker",
-      "icon": "https://emojicdn.elk.sh/💻‍💻",
-      "title": "Tela do Hacker Typer - Pegadinha",
-      "type": "pegadinha",
-      "tip": {
-        "title": "Tela de Hacker - Piada",
-        "content": [
-          {
-            "title": "Pegadinha de tela de hacker",
-            "description": "Impressione seus colegas digitando chaves aleatórias para gerar um código de hack false digno de um filme. Uma maneira divertida de parecer um gênio da tecnologia em segundos."
-          },
-          {
-            "title": "Tela de hacker para aulas",
-            "description": "Deixe os alunos animados com a programação, exibindo uma tela de hacker que torna a codificação emocionante e acessível. É um gancho divertido para despertar o interesse na educação tecnológica."
-          },
-          {
-            "title": "Tela de hacker para streaming",
-            "description": "Adicione um toque tecnológico às suas transmissões ao vivo com uma sobreposição de tela de hacker que cria uma vibe cyberpunk envolvente. Ideal para transmissões focadas em jogos ou tecnologia."
-          },
-          {
-            "title": "tela de hacker para vlogs",
-            "description": "Impulsione seus vlogs de tecnologia com um efeito de tela de hacker que adiciona visuais de código dinâmico à sua narrativa. É uma maneira fácil de dar ao seu conteúdo uma sensação de alta tecnologia e envolvente."
-          },
-          {
-            "title": "tela de hacker para apresentações",
-            "description": "Aprimore suas discussões técnicas com uma tela de hacker ao vivo que exibe código em tempo real e cativa visualmente seu público. É uma adição notável para discussões sobre programação ou segurança cibernética."
-          },
-          {
-            "title": "tela de hacker para filmes",
-            "description": "Crie cenas de hacker autênticas para seus curtas-metragens ou esquetes com uma tela de hacker convincentemente complexa. É um atalho econômico para efeitos de tecnologia cinematográfica."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Entretenimento e farsas",
-            "content": [
-              "Impressione seus amigos com falsas habilidades de hacking",
-              "Pregue peças nos seus familiares",
-              "Adicione um pouco de diversão às festas do escritório",
-              "Crie conteúdo divertido para mídias sociais",
-              "Engane seus amigos e faça-os pensar que você é um programador"
-            ]
-          },
-          {
-            "title": "Fins educacionais",
-            "content": [
-              "Demonstrar codificação em sala de aula",
-              "Visualize conceitos de programação",
-              "Fazer com que os alunos se interessem por tecnologia",
-              "Apimente suas técnicas de apresentação",
-              "Introduzir iniciantes à codificação"
-            ]
-          },
-          {
-            "title": "Uso criativo e profissional",
-            "content": [
-              "Melhore os visuais de transmissão ao vivo",
-              "Criar cenas técnicas autênticas em filmes",
-              "Adicione uma estética hacker aos vídeos",
-              "Desperte o interesse em conferências de tecnologia",
-              "Inspirar discussões sobre segurança cibernética"
-            ]
-          }
-        ]
-      }
-    },
-    "/fake-windows-10-update-screen": {
-      "name": "Atualização falsa do Windows 10",
-      "icon": "https://emojicdn.elk.sh/🪟",
-      "title": "Atualização falsa do Windows 10",
-      "type": "atualização falsa",
-      "tip": {
-        "title": "Atualização falsa do Windows 10",
-        "content": [
-          {
-            "title": "Brincadeira do Windows 10",
-            "description": "Engana seus amigos com uma atualização falsa do Windows 10 frustrantemente realista e repetitiva que os deixa inseguros sobre quando ela vai acabar. É a oportunidade perfeita para um susto ou uma risada."
-          },
-          {
-            "title": "Brincadeira do Office no Windows 10",
-            "description": "Engane seus colegas de trabalho exibindo uma tela falsa de atualização lenta no computador deles durante um intervalo, imitando o infame lag do Windows. Observe suas reações quando acharem que seu trabalho está travado."
-          },
-          {
-            "title": "Bate-papo em grupo do Windows 10",
-            "description": "Compartilhe capturas de tela ou clipes de uma atualização falsa do Windows 10 em chats de grupo para provocar risadas e confusão entre amigos. É uma maneira fácil de trazer um toque de humor técnico para a conversa."
-          },
-          {
-            "title": "Windows 10, uma festa de sucesso",
-            "description": "Interrompa uma noite chata projetando uma tela de atualização falsa, transformando uma discussão sem graça em uma piada tecnológica que todos irão gostar. Uma maneira única de animar a atmosfera."
-          },
-          {
-            "title": "Windows 10, uma experiência personalizada",
-            "description": "Adicione mensagens personalizadas divertidas à tela de atualização, como 'Instalando Candy Crush 2.0', para um toque extra de absurdo e diversão. Personalize-a para corresponder ao alvo da sua brincadeira e maximize seu efeito."
-          },
-          {
-            "title": "Reação do Windows 10",
-            "description": "Grave reações hilárias a uma atualização falsa do Windows 10, enquanto as pessoas entram em pânico ou gemem, para criar conteúdo para um vídeo de reação ou apenas uma lembrança querida. É uma ótima maneira de capturar uma surpresa genuína."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Atualização simulada do Windows 10",
-            "content": [
-              "Atualização falsa do Windows 10",
-              "Simulação de atualização do Windows 10",
-              "Simular uma atualização do Windows 10",
-              "Tela falsa de atualização do Windows 10",
-              "Emular atualização do Windows 10",
-              "Brincadeira de atualização do Windows 10",
-              "Processo de atualização do Windows 10"
-            ]
-          },
-          {
-            "title": "Experiência realista",
-            "content": [
-              "Atualização do Windows 10 com aparência genuína",
-              "Tela de atualização realista do Windows 10",
-              "Enganando seus amigos com a atualização do Windows 10",
-              "Progresso realista da atualização do Windows 10",
-              "Simulação de atualização genuína do Windows 10",
-              "Mensagens de atualização genuínas do Windows 10",
-              "Etapa de atualização do Windows 10"
-            ]
-          },
-          {
-            "title": "Entretenimento e prazer",
-            "content": [
-              "Piada divertida sobre a atualização do Windows 10",
-              "Atualização falsa e engraçada do Windows 10",
-              "Aproveite uma atualização simulada do Windows 10",
-              "Brincadeira com uma atualização falsa do Windows 10",
-              "Experiência emocionante de atualização do Windows 10",
-              "Atualize o Windows 10 por diversão",
-              "Ferramenta de pegadinha de atualização do Windows 10"
-            ]
-          }
-        ]
-      }
-    },
-    "/fake-windows-xp-update-screen": {
-      "name": "Atualização falsa do Windows XP",
-      "icon": "https://emojicdn.elk.sh/🪟",
-      "title": "Atualização falsa do Windows XP",
-      "type": "atualização falsa",
-      "tip": {
-        "title": "Atualização falsa do Windows XP",
-        "content": [
-          {
-            "title": "Brincadeira do XP Office",
-            "description": "Semeie nostalgia e confusão no escritório com uma tela falsa de atualização do Windows XP que parece ter saído diretamente do passado. É um aceno sutil à tecnologia retrô que surpreenderá seus colegas."
-          },
-          {
-            "title": "Teste de paciência XP",
-            "description": "Teste a frustração de alguém com uma atualização falsa do XP que se arrasta e se arrasta, imitando a barra de progresso de antigamente. É uma maneira divertida de ver quanto tempo eles vão esperar antes de reagir."
-          },
-          {
-            "title": "XP retrô divertido",
-            "description": "Reviva a era do Windows XP exibindo uma tela de atualização falsa que lembra conexões discadas e clip art para entretenimento retrô. Um retorno divertido para entusiastas de tecnologia ou alvos de pegadinhas."
-          },
-          {
-            "title": "Conteúdo viral XP",
-            "description": "Crie vídeos ou postagens de tecnologia retrô com uma tela falsa de atualização do XP que aproveite a nostalgia para conteúdo viral compartilhável. Combine com uma legenda divertida para maximizar seu apelo online."
-          },
-          {
-            "title": "Aula de tecnologia XP",
-            "description": "Ensine a história do sistema operacional com uma simulação de atualização do XP que demonstra visualmente como eram as atualizações décadas atrás. É uma maneira envolvente de conectar tecnologias passadas a lições modernas."
-          },
-          {
-            "title": "Brincadeira entre amigos XP",
-            "description": "Engane seus amigos com uma tela de atualização clássica do XP que parece congelar o dispositivo deles, provocando uma mistura de aborrecimento e boas lembranças. É uma brincadeira inofensiva com um toque de nostalgia."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Atualização simulada do Windows XP",
-            "content": [
-              "Atualização falsa do Windows XP",
-              "Simulação de atualização do Windows XP",
-              "Simular uma atualização do Windows XP",
-              "Tela falsa de atualização do Windows XP",
-              "Emular uma atualização do Windows XP",
-              "Brincadeira de atualização do Windows XP",
-              "Processo de atualização do Windows XP"
-            ]
-          },
-          {
-            "title": "Experiência realista",
-            "content": [
-              "Atualização do Windows XP com aparência genuína",
-              "Tela de atualização realista do Windows XP",
-              "Enganando seus amigos com a atualização do Windows XP",
-              "Progresso da atualização do Windows XP realista",
-              "Simulação de atualização genuína do Windows XP",
-              "Mensagens de atualização genuínas do Windows XP",
-              "Etapa de atualização do Windows XP"
-            ]
-          },
-          {
-            "title": "Entretenimento e diversão",
-            "content": [
-              "Brincadeira engraçada sobre atualização do Windows XP",
-              "Atualização falsa e engraçada do Windows XP",
-              "Aproveite uma atualização simulada do Windows XP",
-              "Brincadeira com uma atualização falsa do Windows XP",
-              "Experiência emocionante de atualização do Windows XP",
-              "Atualização do Windows XP para entretenimento",
-              "Ferramenta de pegadinha de atualização do Windows XP"
-            ]
-          }
-        ]
-      }
-    },
-    "/fake-mac-os-x-update-screen": {
-      "name": "Atualização falsa do Mac OS X",
-      "icon": "https://emojicdn.elk.sh/🍎",
-      "title": "Atualização falsa do Mac OS X",
-      "type": "atualização falsa",
-      "tip": {
-        "title": "Atualização falsa do Mac OS X",
-        "content": [
-          {
-            "title": "Recheio de Mac",
-            "description": "Enganar os fãs do Mac com uma tela falsa de atualização do OS X que parece autêntica o suficiente para induzi-los a verificar o sistema é uma maneira inteligente de enganar até os usuários mais experientes da Apple."
-          },
-          {
-            "title": "Teste de paciência Mac",
-            "description": "Observe as reações enquanto uma atualização falsa do Mac OS X progride, testando por quanto tempo alguém ficará olhando para uma barra de progresso falsa. É uma brincadeira sutil que brinca com a ansiedade de atualização."
-          },
-          {
-            "title": "Auxílio didático para Mac",
-            "description": "Treine a equipe de TI ou estudantes com uma simulação segura de atualização de Mac que replica cenários da vida real sem arriscar sistemas reais. É uma ferramenta útil para praticar o gerenciamento de atualizações."
-          },
-          {
-            "title": "Testes Mac UX",
-            "description": "Estude as reações dos usuários a um atraso false na atualização do Mac OS X, observando suas interações ou reações a uma lentidão. Esta é uma maneira simples de explorar os limites da paciência da interface do usuário."
-          },
-          {
-            "title": "Criação de conteúdo para Mac",
-            "description": "Adicione visuais de atualização realistas aos seus vídeos ou tutoriais com uma tela falsa do Mac OS X que destaca o conteúdo técnico. É um toque bacana para suas análises ou esquetes."
-          },
-          {
-            "title": "Brincadeira do Mac Group",
-            "description": "Enganar um grupo de amigos com uma tela falsa de atualização da Apple em um dispositivo compartilhado, provocando risadas ou gemidos coletivos. É uma brincadeira comunitária que cria laços em torno de problemas de tecnologia compartilhados."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Atualização simulada do Mac OS X",
-            "content": [
-              "Atualização falsa do Mac OS X",
-              "Simulação de atualização do Mac OS X",
-              "Simular uma atualização do Mac OS X",
-              "Tela de atualização fictícia do Mac OS X",
-              "Emular uma atualização do Mac OS X",
-              "Brincadeira de atualização do Mac OS X",
-              "Processo de atualização do Mac OS X"
-            ]
-          },
-          {
-            "title": "Experiência realista",
-            "content": [
-              "Atualização do Mac OS X com aparência genuína",
-              "Tela de atualização realista do Mac OS X",
-              "Enganando seus amigos com uma atualização do Mac OS X",
-              "Progresso realista da atualização do Mac OS X",
-              "Simulação de atualização genuína do Mac OS X",
-              "Mensagens de atualização genuínas do Mac OS X",
-              "Etapa de atualização do Mac OS X"
-            ]
-          },
-          {
-            "title": "Entretenimento e diversão",
-            "content": [
-              "Brincadeira divertida sobre atualização do Mac OS X",
-              "Atualização falsa e engraçada do Mac OS X",
-              "Aproveite uma atualização simulada do Mac OS X",
-              "Brincadeira com uma atualização falsa do Mac OS X",
-              "Experiência emocionante de atualização do Mac OS X",
-              "Atualizando o Mac OS X para entretenimento",
-              "Ferramenta de pegadinha de atualização do Mac OS X"
-            ]
-          }
-        ]
-      }
-    },
-    "/fake-ubuntu-22-04-update-screen": {
-      "name": "Atualização falsa do Ubuntu 22.04",
-      "icon": "https://emojicdn.elk.sh/🐧",
-      "title": "Atualização falsa do Ubuntu 22.04",
-      "type": "atualização falsa",
-      "tip": {
-        "title": "Atualização falsa do Ubuntu 22.04",
-        "content": [
-          {
-            "title": "Brincadeira do Ubuntu",
-            "description": "Enganar usuários do Linux com uma tela falsa de atualização do Ubuntu 22.04 que parece uma atualização real do sistema, pegando até os mais experientes em tecnologia de surpresa. É uma brincadeira para entusiastas de código aberto."
-          },
-          {
-            "title": "Teste de software Ubuntu",
-            "description": "Simule atualizações do Ubuntu para testar como os aplicativos se comportam durante uma atualização falsa do sistema, sem alterar sua configuração. Este é um truque útil para desenvolvedores ou testadores."
-          },
-          {
-            "title": "Treinamento Ubuntu",
-            "description": "Ensine processos de atualização do Linux com segurança com uma tela de atualização simulada do Ubuntu 22.04 que imita a saída e o progresso do terminal real. Esta é uma maneira eficaz de treinar novos usuários ou equipe de TI."
-          },
-          {
-            "title": "Conteúdo Ubuntu",
-            "description": "Adicione visuais de terminal autênticos aos seus vídeos ou tutoriais com uma tela falsa de atualização do Ubuntu que mostra a experiência do Linux. É um ótimo visual para criadores de conteúdo técnico."
-          },
-          {
-            "title": "Preparação do Ubuntu",
-            "description": "Mostre atualizações durante demonstrações ou apresentações ao vivo com uma tela simulada do Ubuntu 22.04 que cativa seu público com visuais realistas. É perfeito para conferências técnicas ou workshops."
-          },
-          {
-            "title": "Reação do Ubuntu",
-            "description": "Grave reações engraçadas ou frustradas a uma atualização falsa do Ubuntu para obter conteúdo de reação que destaque as peculiaridades dos usuários do Linux. É uma maneira divertida de capturar momentos autênticos."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Atualização simulada do Ubuntu 22.04",
-            "content": [
-              "Atualização falsa do Ubuntu 22.04",
-              "Simulação de atualização do Ubuntu 22.04",
-              "Simular uma atualização do Ubuntu 22.04",
-              "Tela falsa de atualização do Ubuntu 22.04",
-              "Emular uma atualização do Ubuntu 22.04",
-              "Pegadinha da atualização do Ubuntu 22.04",
-              "Processo de atualização do Ubuntu 22.04"
-            ]
-          },
-          {
-            "title": "Experiência realista",
-            "content": [
-              "Atualização do Ubuntu 22.04 com aparência genuína",
-              "Tela realista de atualização do Ubuntu 22.04",
-              "Enganando seus amigos com a atualização do Ubuntu 22.04",
-              "Progresso realista da atualização do Ubuntu 22.04",
-              "Simulação de atualização genuína do Ubuntu 22.04",
-              "Mensagens de atualização genuínas do Ubuntu 22.04",
-              "Atualização do Ubuntu 22.04"
-            ]
-          },
-          {
-            "title": "Entretenimento e diversão",
-            "content": [
-              "Brincadeira divertida sobre a atualização do Ubuntu 22.04",
-              "Atualização falsa engraçada do Ubuntu 22.04",
-              "Aproveite uma atualização simulada para o Ubuntu 22.04",
-              "Brincadeira com uma atualização falsa do Ubuntu 22.04",
-              "Experiência emocionante de atualização do Ubuntu 22.04",
-              "Atualização do Ubuntu 22.04 para entretenimento",
-              "Ferramenta de pegadinha da atualização do Ubuntu 22.04"
-            ]
-          }
-        ]
-      }
-    },
-    "/fake-chrome-os-update-screen": {
-      "name": "Atualização falsa do Chrome OS",
-      "icon": "https://emojicdn.elk.sh/🌐",
-      "title": "Atualização falsa do Chrome OS",
-      "type": "atualização falsa",
-      "tip": {
-        "title": "Atualização falsa do ChromeOS",
-        "content": [
-          {
-            "title": "Brincadeira do ChromeOS",
-            "description": "Engane seus amigos com uma tela falsa de atualização do ChromeOS que imita a aparência limpa e minimalista de uma atualização real do sistema. É uma brincadeira rápida e convincente para usuários do Chromebook."
-          },
-          {
-            "title": "Teste de reação do ChromeOS",
-            "description": "Estude as reações dos usuários a um atraso false na atualização do ChromeOS, observando sua paciência ou confusão. Esta é uma maneira sutil de explorar o comportamento do usuário diante de interrupções tecnológicas."
-          },
-          {
-            "title": "Cenas de vídeo do ChromeOS",
-            "description": "Adicione visuais de atualização realistas aos seus tutoriais ou esboços com uma tela falsa do ChromeOS que aprimora seu conteúdo de vídeo técnico. Um toque profissional e limpo para criadores."
-          },
-          {
-            "title": "Brincadeira do ChromeOS Lab",
-            "description": "Enganar um laboratório escolar inteiro exibindo uma tela de atualização falsa em vários Chromebooks, causando uma onda de risos e gemidos dos alunos. Esta é uma brincadeira ousada para um ambiente de tecnologia."
-          },
-          {
-            "title": "Prática de computação do ChromeOS",
-            "description": "Treine o suporte de TI com uma simulação de atualização segura do ChromeOS, replicando cenários do mundo real para praticar a solução de problemas. É uma ferramenta prática para criar confiança no gerenciamento do sistema."
-          },
-          {
-            "title": "Visão geral do ChromeOS",
-            "description": "Aprimore suas apresentações técnicas ou demonstrações com uma tela de atualização simulada do ChromeOS que adiciona visuais dinâmicos à sua discussão. É uma maneira envolvente de ilustrar processos de atualização ou recursos do sistema."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Entretenimento e Entretenimento",
-            "content": [
-              "Pregue uma peça nos seus amigos durante o seu horário de almoço",
-              "Surpreenda os membros da sua família",
-              "Crie vídeos engraçados de reação",
-              "Brincadeira no laboratório de informática da escola",
-              "Brincadeira do Office ChromeOS"
-            ]
-          },
-          {
-            "title": "Educação e treinamento",
-            "content": [
-              "Cenários de treinamento de suporte de TI",
-              "Workshops de atualização de software",
-              "Gravações de tutoriais do ChromeOS",
-              "Apresentações do administrador do sistema",
-              "Estudos de comportamento do usuário"
-            ]
-          },
-          {
-            "title": "Criação de conteúdo",
-            "content": [
-              "Capturas de tela da atualização do ChromeOS",
-              "Visuais de revisão técnica",
-              "Fundos de Vídeo Tutorial",
-              "Imagens de documentação de software",
-              "Hardware de demonstração do ChromeOS"
-            ]
-          }
-        ]
-      }
-    },
-    "/fake-windows-11-update-screen": {
-      "name": "Atualização falsa do Windows 11",
-      "icon": "https://emojicdn.elk.sh/🪟",
-      "title": "Atualização falsa do Windows 11",
-      "type": "atualização falsa",
-      "tip": {
-        "title": "Tela de atualização do Windows 11",
-        "content": [
-          {
-            "title": "Atualização falsa do Windows 11",
-            "description": "Engane seus amigos com uma atualização falsa do Windows 11 que parece presa em um loop infinito, causando confusão e risadas. É uma versão moderna da clássica pegadinha de atualização, com visuais estilosos."
-          },
-          {
-            "title": "Windows 11 Office Spice",
-            "description": "Engane sua equipe durante uma reunião exibindo uma tela de atualização falsa em um computador compartilhado, adicionando um toque divertido ao dia de trabalho. Observe-os se esforçando para descobrir o que está acontecendo."
-          },
-          {
-            "title": "Piada do Windows 11",
-            "description": "Interrompa uma sessão de jogo com uma atualização falsa do Windows 11 que aparece no meio do jogo, pegando os jogadores desprevenidos e provocando uma reação hilária. Perfeito para streamers ou noites de jogos em grupo."
-          },
-          {
-            "title": "Windows 11, uma tecnologia impressionante",
-            "description": "Impressione seus amigos com uma simulação realista de atualização falsa que imita o design elegante do Windows 11, fazendo-os pensar que você hackeou o sistema. Uma maneira nerd de mostrar suas habilidades de brincalhão."
-          },
-          {
-            "title": "Vídeo engraçado do Windows 11",
-            "description": "Grave as reações dos seus amigos a uma atualização falsa do Windows 11 para criar conteúdo de vídeo divertido que capture a surpresa ou frustração deles. Uma configuração simples para imagens virais."
-          },
-          {
-            "title": "Colegas fazem uma pausa no Windows 11",
-            "description": "Surpreenda seus colegas com uma tela de atualização falsa que interrompe o fluxo de trabalho deles, apenas para ser revelada como uma brincadeira após o pânico inicial. Uma jogada ousada para fazer rir no escritório."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Atualização simulada do Windows 11",
-            "content": [
-              "Atualização falsa do Windows 11",
-              "Simulação de atualização do Windows 11",
-              "Simular uma atualização do Windows 11",
-              "Tela falsa de atualização do Windows 11",
-              "Emular uma atualização do Windows 11",
-              "Brincadeira de atualização do Windows 11",
-              "Processo de atualização do Windows 11"
-            ]
-          },
-          {
-            "title": "Experiência realista",
-            "content": [
-              "Atualização genuína do Windows 11",
-              "Tela de atualização realista do Windows 11",
-              "Enganando seus amigos com a atualização do Windows 11",
-              "Progresso realista da atualização do Windows 11",
-              "Simulação de atualização genuína do Windows 11",
-              "Mensagens de atualização genuínas do Windows 11",
-              "Etapa de atualização do Windows 11"
-            ]
-          },
-          {
-            "title": "Entretenimento e Entretenimento",
-            "content": [
-              "Piada divertida sobre a atualização do Windows 11",
-              "Atualização falsa e engraçada do Windows 11",
-              "Aproveite uma simulação de atualização do Windows 11",
-              "Faça uma brincadeira com uma atualização falsa do Windows 11",
-              "Experiência emocionante de atualização do Windows 11",
-              "Atualização do Windows 11 por diversão",
-              "Ferramenta de pegadinha de atualização do Windows 11"
-            ]
-          }
-        ]
-      }
-    },
-    "/fake-android-update": {
-      "name": "Atualização falsa do Android",
-      "icon": "https://emojicdn.elk.sh/📱",
-      "title": "Atualização falsa do Android",
-      "type": "atualização falsa",
-      "tip": {
-        "title": "Tela falsa de atualização do Android",
-        "content": [
-          {
-            "title": "Teste de software Android",
-            "description": "Simule uma atualização do Android para testar como os aplicativos se comportam durante uma atualização falsa do sistema, sem afetar seu dispositivo real. É um ambiente seguro para desenvolvedores e curiosos."
-          },
-          {
-            "title": "Apresentação Android",
-            "description": "Estimule seu público durante suas apresentações técnicas com uma tela de atualização simulada do Android que adiciona um visual dinâmico e realista aos seus slides. É uma ótima maneira de ilustrar conceitos de sistemas operacionais móveis."
-          },
-          {
-            "title": "Treinamento técnico Android",
-            "description": "Ensine processos de atualização do Android sem dispositivos reais usando uma tela de atualização simulada que replica a experiência da vida real. É uma ferramenta eficaz para treinar funcionários ou estudantes de TI."
-          },
-          {
-            "title": "Criação de conteúdo Android",
-            "description": "Adicione visuais de atualização autênticos aos seus vídeos ou tutoriais com uma tela falsa do Android que enriquece seu conteúdo de tecnologia. É um toque refinado para suas análises ou guias de instruções."
-          },
-          {
-            "title": "Brincadeira Android",
-            "description": "Engane seus amigos com uma atualização falsa do Android que bloqueia a tela do telefone deles, fazendo-os pensar que estão presos esperando a atualização terminar. Esta é uma brincadeira furtiva para usuários de dispositivos móveis."
-          },
-          {
-            "title": "Estudo de UX do Android",
-            "description": "Analise a reação do usuário ao design ou atrasos de uma atualização falsa do Android e obtenha insights sobre a experiência do usuário sem nenhum risco real. Esta é uma maneira de baixo risco de explorar as reações da IU móvel."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Atualização Simulada do Android",
-            "content": [
-              "Atualização falsa do Android",
-              "Simulação de atualização do Android",
-              "Simular uma atualização do Android",
-              "Tela falsa de atualização do Android",
-              "Emular uma atualização do Android",
-              "Brincadeira de atualização do Android",
-              "Processo de atualização do Android"
-            ]
-          },
-          {
-            "title": "Experiência realista",
-            "content": [
-              "Atualização do Android com aparência genuína",
-              "Tela de atualização realista do Android",
-              "Enganando seus amigos com uma atualização do Android",
-              "Progresso realista da atualização do Android",
-              "Simulação de atualização genuína do Android",
-              "Mensagens de atualização genuína do Android",
-              "Etapa de atualização do Android"
-            ]
-          },
-          {
-            "title": "Entretenimento e prazer",
-            "content": [
-              "Brincadeira divertida de atualização do Android",
-              "Atualização falsa e engraçada do Android",
-              "Aproveite uma atualização simulada do Android",
-              "Pegadinha de atualização falsa do Android",
-              "Experiência emocionante de atualização do Android",
-              "Atualização do Android para entretenimento",
-              "Ferramenta de pegadinha de atualização do Android"
-            ]
-          }
-        ]
-      }
-    },
-    "/dvd-screensaver": {
-      "name": "Protetor de tela de DVD",
-      "icon": "https://emojicdn.elk.sh/📀",
-      "title": "Protetor de tela de DVD",
-      "type": "protetor de tela",
-      "tip": {
-        "title": "Protetor de tela de DVD",
-        "content": [
-          {
-            "title": "DVD de relaxamento",
-            "description": "Relaxe enquanto assiste ao icônico logotipo do DVD saltando pela tela, proporcionando um movimento relaxante e hipnótico que acalma a mente. Uma maneira nostálgica de relaxar após um longo dia."
-          },
-          {
-            "title": "Apresentação em DVD",
-            "description": "Adicione movimento sutil aos seus slides ou intervalos de apresentação com o protetor de tela de DVD, cativando seu público sem distrações. Um toque retrô que alivia o clima."
-          },
-          {
-            "title": "DVD da sala de espera",
-            "description": "Entretenha seus visitantes em uma sala de espera com a sensação retrô do protetor de tela de DVD, oferecendo a eles um show simples e cativante. Uma maneira simples e eficaz de melhorar a atmosfera."
-          },
-          {
-            "title": "DVD para uma noite divertida",
-            "description": "Crie uma atmosfera nostálgica com o protetor de tela de DVD que salta de uma tela grande e desperta conversas sobre tecnologia antiga. É uma adição divertida e original a qualquer reunião."
-          },
-          {
-            "title": "DVD para auxílio ao estudo",
-            "description": "Melhore seu foco durante suas sessões de estudo com o movimento suave e previsível do protetor de tela do DVD, que fornece um fundo relaxante sem distrair. É um companheiro sutil para concentração."
-          },
-          {
-            "title": "DVD para uma pausa",
-            "description": "Preencha telas inativas com animação de proteção de tela de DVD durante os intervalos, transformando uma tela em branco em uma distração divertida e retrô. Ideal para animar momentos entre tarefas."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Relaxamento e atmosfera",
-            "content": [
-              "Relaxe com um protetor de tela nostálgico",
-              "Crie um ambiente calmo",
-              "Desfrute de uma atmosfera retrô",
-              "Crie um ambiente tranquilo",
-              "Perfeito para sessões de meditação"
-            ]
-          },
-          {
-            "title": "Uso profissional e comercial",
-            "content": [
-              "Melhore suas apresentações com movimento",
-              "Exibição dinâmica da sala de espera",
-              "Fundo de tela atraente",
-              "Protetor de tela profissional para reuniões",
-              "Vitrines de loja atraentes"
-            ]
-          },
-          {
-            "title": "Entretenimento e prazer",
-            "content": [
-              "Criador de clima de festa",
-              "Ferramenta divertida para pausa nos estudos",
-              "Protetor de tela interativo para crianças",
-              "Entretenimento visual durante o tempo de inatividade",
-              "Tela de festa personalizável"
-            ]
-          }
-        ]
-      }
-    },
-    "/flip-clock-screensaver": {
-      "name": "Relógio de giro",
-      "icon": "https://emojicdn.elk.sh/⏰",
-      "title": "Protetor de tela Flip Clock",
-      "type": "protetor de tela",
-      "tip": {
-        "title": "Protetor de tela Flip Clock",
-        "content": [
-          {
-            "title": "Relógio de relaxamento",
-            "description": "Aproveite o movimento retrô de um relógio digital para relaxar, enquanto as mudanças rítmicas criam um efeito calmante e meditativo. Uma maneira estilosa de relaxar enquanto fica de olho no tempo."
-          },
-          {
-            "title": "Relógio de mesa giratório",
-            "description": "Adicione um toque de sofisticação ao seu espaço de trabalho com um protetor de tela de relógio flip que também exibe as horas com elegância. É um aprimoramento funcional e estético para qualquer mesa."
-          },
-          {
-            "title": "Apresentação de relógio flip",
-            "description": "Melhore suas conversas com um protetor de tela de relógio flip estiloso que serve como um cronômetro ou um pano de fundo sutil, permitindo que seu público fique de olho no tempo. Uma adição refinada para ambientes profissionais."
-          },
-          {
-            "title": "Relógio flip para casa",
-            "description": "Crie uma atmosfera moderna e minimalista em sua casa com um protetor de tela de relógio flip que combina charme retrô com design contemporâneo. Uma maneira estilosa de ver as horas na sua TV ou monitor."
-          },
-          {
-            "title": "Relógio flip para estudo",
-            "description": "Monitore seu tempo de estudo com as rotações agradáveis de um relógio flip para ajudar você a cumprir sua agenda enquanto adiciona um ritmo relaxante às suas sessões. É uma ferramenta útil para trabalho focado."
-          },
-          {
-            "title": "Virar relógio para esperar",
-            "description": "Entusiasme os visitantes nas áreas de espera com um protetor de tela de relógio flip estiloso que combina utilidade e estética, tornando o tempo mais agradável. Um toque de elegância para espaços públicos."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Relaxamento e estética",
-            "content": [
-              "Estética vintage",
-              "Relógio calmante em tela cheia",
-              "Atmosfera retrô",
-              "Design minimalista moderno",
-              "Design de interiores elegante"
-            ]
-          },
-          {
-            "title": "Profissional e produtividade",
-            "content": [
-              "Exibição de tempo de escritório",
-              "Contexto da apresentação",
-              "Ambiente de estudo estruturado",
-              "Relógio de sala de espera envolvente",
-              "Ferramenta de gerenciamento de tempo"
-            ]
-          },
-          {
-            "title": "Entretenimento e Eventos",
-            "content": [
-              "Atmosfera de festa",
-              "Decoração de eventos",
-              "Função de exposição",
-              "Exibição interativa",
-              "Horário personalizado para eventos"
-            ]
-          }
-        ]
-      }
-    },
-    "/motivational-quote-screensaver": {
-      "citar": {
-        "parágrafo": "A única maneira de fazer um ótimo trabalho é amar o que você faz. Se você ainda não encontrou, continue procurando. Não se acomode.",
-        "autor": "Steve Jobs"
-      },
-      "name": "Citação motivacional",
-      "icon": "https://emojicdn.elk.sh/💬",
-      "title": "Protetor de tela com citações motivacionais",
-      "type": "protetor de tela",
-      "tip": {
-        "title": "Protetor de tela com citações motivacionais",
-        "content": [
-          {
-            "title": "Citação para animar sua manhã",
-            "description": "Comece seu dia com inspiração exibindo um protetor de tela com citação motivacional que levantará seu ânimo e lhe dará uma vibração positiva. É uma maneira simples de começar o dia com propósito."
-          },
-          {
-            "title": "Cotação para espaço de trabalho",
-            "description": "Motive seu dia de trabalho com um protetor de tela com citações encorajadoras que o manterão focado e energizado no escritório. É um lembrete sutil para permanecer motivado durante longas horas."
-          },
-          {
-            "title": "Citação para reuniões",
-            "description": "Desperte a criatividade e a conversa durante as reuniões de equipe exibindo um protetor de tela com citação motivacional durante os intervalos ou apresentações. É uma maneira atenciosa de inspirar colaboração e ideias."
-          },
-          {
-            "title": "Cotação para auxílio estudo",
-            "description": "Fique inspirado enquanto estuda com um protetor de tela com citações motivacionais que o manterão motivado durante sessões difíceis. Um true estímulo mental para revisões noturnas ou projetos longos."
-          },
-          {
-            "title": "Citação para a atmosfera da casa",
-            "description": "Adicione um toque positivo ao seu espaço de convivência com um protetor de tela motivacional que ilumina o ambiente e encoraja a todos. Um toque decorativo com forte impacto emocional."
-          },
-          {
-            "title": "Citação de Fitness",
-            "description": "Persista em seus treinos com um protetor de tela com citações motivacionais que o manterão motivado durante seus treinos. Um true impulso visual para atingir seus objetivos de condicionamento físico."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Motivação diária",
-            "content": [
-              "Inspiração matinal",
-              "Começo positivo do dia",
-              "Dose diária de motivação",
-              "Citações edificantes sobre refrescos",
-              "Comece o dia com positividade"
-            ]
-          },
-          {
-            "title": "Produtividade e concentração",
-            "content": [
-              "Mantenha o foco no trabalho",
-              "Motivar durante os estudos",
-              "Estimular a criatividade da equipe",
-              "Pausas inspiradoras no trabalho",
-              "Melhore a atmosfera do ambiente de trabalho"
-            ]
-          },
-          {
-            "title": "Uso pessoal e doméstico",
-            "content": [
-              "Design de interiores inspirador",
-              "Exibição de cotação personalizável",
-              "Citações pessoais favoritas",
-              "Incentive rotinas de exercícios",
-              "Atmosfera interior motivadora"
-            ]
-          }
-        ]
-      }
-    },
-    "/no-signal-smpte-color-bars-screensaver": {
-      "name": "Sem sinal",
-      "icon": "https://emojicdn.elk.sh/📡",
-      "title": "Barras coloridas - tela de TV sem sinal",
-      "type": "protetor de tela",
-      "tip": {
-        "title": "Barras coloridas - tela de TV sem sinal",
-        "content": [
-          {
-            "title": "Calibração da barra de cores",
-            "description": "Ajuste seus displays com barras de cores SMPTE retrô para garantir configurações precisas de cor e brilho e visualização ideal. É uma ferramenta clássica para entusiastas de tecnologia e profissionais."
-          },
-          {
-            "title": "Vídeo com barras coloridas",
-            "description": "Melhore sua produção de vídeo com padrões de teste usando barras de cores como referência ou como uma tela de pausa, adicionando um toque profissional ao seu trabalho. É um aceno ao histórico de transmissão que melhora a qualidade."
-          },
-          {
-            "title": "Transmissão com barras coloridas",
-            "description": "Adicione intervalos profissionais aos seus streams com barras de cores que imitam sinais de teste de TV, dando ao seu público um intervalo refinado. Um toque retrô para criadores de conteúdo ao vivo."
-          },
-          {
-            "title": "Arte da barra de cores",
-            "description": "Crie instalações multimídia retrô com barras de cores para criar um cenário vibrante e nostálgico para suas galerias ou projetos criativos. Um visual ousado que combina tecnologia e estética."
-          },
-          {
-            "title": "Atmosfera da barra de cores",
-            "description": "Crie uma vibe de TV vintage em seu espaço com barras de cores que evocam programas de antigamente, perfeitas para uma atmosfera peculiar. Uma maneira fácil de adicionar personalidade a qualquer ambiente."
-          },
-          {
-            "title": "Preenchimento de barra de cores",
-            "description": "Engane seus amigos com uma falha falsa de TV exibindo barras coloridas, fazendo-os acreditar que o sinal está perdido, apenas o tempo suficiente para uma risada. Uma brincadeira inofensiva com um toque retrô."
-          }
-        ],
-        "subTips": [
-          {
-            "title": "Entretenimento e farsas",
-            "content": [
-              "piadas em tela cheia sem sinal",
-              "decorações de festa de TV retrô",
-              "efeitos de tela de pausa de streaming",
-              "estética de transmissão vintage",
-              "atmosfera de sala de jogos"
-            ]
-          },
-          {
-            "title": "Usos profissionais",
-            "content": [
-              "Teste de barra de cores SMPTE",
-              "monitorar modelos de calibração",
-              "cartões de teste de produção de vídeo",
-              "referência de configuração de exibição",
-              "verificações de equipamentos de transmissão"
-            ]
-          },
-          {
-            "title": "Projetos Criativos",
-            "content": [
-              "fundos de instalação de arte",
-              "estética de vídeo retrô",
-              "design de aparelho de TV vintage",
-              "acessórios para produção cinematográfica",
-              "exibições multimídia nostálgicas"
-            ]
-          }
-        ]
-      }
-    },
-    "/terms-and-conditions": {
-      "name": "Termos de Uso",
-      "icon": "https://emojicdn.elk.sh/📜",
-      "title": "Termos de Uso",
-      "type": "página"
-    },
-    "/privacy-policy": {
-      "name": "Política de Privacidade",
-      "icon": "https://emojicdn.elk.sh/🔒",
-      "title": "Política de Privacidade",
-      "type": "página"
-    },
-    "/contact-us": {
-      "name": "Entre em contato conosco",
-      "icon": "https://emojicdn.elk.sh/📞",
-      "title": "Entre em contato conosco",
-      "type": "página"
-    },
-    "/kernel-panic": {
-      "name": "Pânico no Kernel",
-      "icon": "https://emojicdn.elk.sh/🔋",
-      "title": "Pânico no Kernel",
-      "type": "pegadinha",
-      "isPage": true,
-      "tip": {
-        "title": "Pânico no Kernel",
-        "content": [
-          {
-            "title": "Pânico no Kernel",
-            "description": "Kernel panic é uma tela de brincadeira que simula um dispositivo eletrônico descarregando."
-          }
-        ]
-      }
-    },
-    "navigation": {
-      "color": "Telas coloridas",
-      "prank": "Telas de pegadinhas",
-      "fake-update": "Telas de atualização falsas",
-      "screensaver": "Protetores de tela",
-      "tip": {
-        "header": "As pessoas usam {tipTitle} para:"
-      }
-    },
-    "settings": {
-      "time": [
-        "Hora da atualização",
-        "Hora de início",
-        "minutos",
-        "Reiniciar"
+  "/": {
+    "name": "Tela branca",
+    "color": "#FFFFFF",
+    "isAxis": false,
+    "title": "Tela branca",
+    "type": "color",
+    "tip": {
+      "title": "tela branca",
+      "content": [
+        {
+          "title": "tela branca para copiar desenhos",
+          "description": "Coloque uma folha de papel em uma tela branca brilhante para traçar facilmente imagens ou esboços. Este método é simples e eficaz para reproduzir obras de arte sem ferramentas especializadas."
+        },
+        {
+          "title": "tela branca como fonte de luz",
+          "description": "Use uma tela branca como luz de fundo para fotografia para iluminar uniformemente os objetos ou como uma mesa de luz improvisada para pequenos projetos. É uma solução econômica para criar iluminação suave e difusa."
+        },
+        {
+          "title": "tela branca para verificar a tela",
+          "description": "Exiba uma tela branca completa para inspecionar sua tela em busca de pixels mortos, descoloração ou outros problemas de exibição. Esta técnica permite que você identifique rapidamente imperfeições que poderiam passar despercebidas."
+        },
+        {
+          "title": "Tela branca para tela vazia",
+          "description": "Tela branca para minimizar distrações durante tarefas que não exigem uma tela ativa, como brainstorming ou ouvir áudio. É uma maneira fácil de manter o foco sem desligar o dispositivo."
+        },
+        {
+          "title": "Tela branca como luminária de leitura",
+          "description": "Ilumine seus livros ou anotações em condições de pouca luz usando uma tela branca como uma lâmpada de leitura suave. Ajuste o brilho conforme necessário para uma leitura confortável e sem reflexos."
+        },
+        {
+          "title": "Tela branca para maquiagem",
+          "description": "Aplique maquiagem ou tire selfies bem iluminadas com uma tela branca que fornece iluminação brilhante e uniforme que imita a luz natural do dia. Esta configuração garante reprodução de cores precisa e resultados impecáveis."
+        }
       ],
-      "color": [
-        "Download",
-        "{title} fundo"
-      ],
-      "hacker": [
-        "Velocidade"
+      "subTips": [
+        {
+          "title": "Tela branca para limpeza",
+          "content": [
+            "tela branca para limpeza do monitor",
+            "tela branca para encontrar pixels mortos",
+            "tela branca para encontrar pontos sujos"
+          ]
+        },
+        {
+          "title": "Luz branca online",
+          "content": [
+            "luz branca para leitura",
+            "luz branca para videochamadas",
+            "luz branca",
+            "tela/luz branca para selfie",
+            "luzes LED brancas online"
+          ]
+        },
+        {
+          "title": "Outros",
+          "content": [
+            "tela de projeção branca",
+            "tela branca para crianças",
+            "fundo de tela branca inteira"
+          ]
+        }
       ]
-    },
-    "title": "{title} | Ferramenta on-line",
-    "/path33": {
-      "name": "Nulo",
-      "icon": "https://emojicdn.elk.sh/⚫️",
-      "title": "Nulo",
-      "type": "página",
-      "color": "#000000",
-      "colorName": "Preto",
-      "isPage": true,
-      "tip": {
-        "title": "Nulo",
-        "content": [
-          {
-            "title": "Nulo",
-            "description": "Null é uma página sem texto ou imagens."
-          }
-        ]
-      }
-    },
-    "sidebar": {
-      "links": "Links",
-      "uses": "Usos",
-      "other_tips": "Outras dicas"
     }
+  },
+  "/black-screen": {
+    "name": "Tela preta",
+    "color": "#000000",
+    "isAxis": false,
+    "title": "Tela preta completa",
+    "type": "color",
+    "tip": {
+      "title": "tela preta",
+      "content": [
+        {
+          "title": "tela preta para o segundo monitor",
+          "description": "Coloque um segundo monitor em uma tela preta para mantê-lo ativo sem exibir conteúdo que distraia enquanto você trabalha. Este truque preserva a funcionalidade enquanto reduz a desordem visual."
+        },
+        {
+          "title": "tela preta para economizar eletricidade",
+          "description": "Mude para uma tela preta em displays OLED ou AMOLED para reduzir o consumo de energia, pois esses displays usam menos energia ao exibir cores escuras. É uma escolha ecologicamente correta para uso prolongado."
+        },
+        {
+          "title": "tela preta para ocultar atividade",
+          "description": "Use uma tela preta para ocultar discretamente o conteúdo do seu computador enquanto estiver ausente, mantendo seu trabalho ou atividades privadas. É uma alternativa rápida para bloquear ou desligar seu dispositivo."
+        },
+        {
+          "title": "Tela preta para limpar a tela",
+          "description": "Exiba uma tela preta para destacar poeira, manchas ou impressões digitais na tela e facilitar a limpeza. O contraste nítido ajuda a detectar imperfeições que precisam de atenção."
+        },
+        {
+          "title": "Tela preta como fundo escuro",
+          "description": "Crie um fundo escuro e envolvente para seus jogos, vídeos ou projetos criativos configurando sua tela para preto. Isso melhora a concentração e reduz o cansaço visual em baixa luminosidade."
+        },
+        {
+          "title": "Tela preta para evitar queima de tela",
+          "description": "Proteja os displays de plasma ou OLED contra queima de tela exibindo uma tela preta durante períodos de inatividade ou pausas. Essa precaução estende a vida útil do seu display evitando a retenção de imagem estática."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Tela preta para limpeza",
+          "content": [
+            "tela preta para limpeza do monitor",
+            "tela preta para encontrar pixels mortos",
+            "tela preta para encontrar pontos sujos"
+          ]
+        },
+        {
+          "title": "Cor preta online",
+          "content": [
+            "tela de computador em branco",
+            "tela preta total",
+            "tela preta completa"
+          ]
+        },
+        {
+          "title": "Outros",
+          "content": [
+            "tela preta para projetor",
+            "tela preta para crianças",
+            "tela cheia fundo preto"
+          ]
+        }
+      ]
+    }
+  },
+  "/red-screen": {
+    "name": "Tela vermelha",
+    "color": "#FF0000",
+    "isAxis": false,
+    "title": "Tela vermelha",
+    "type": "color",
+    "tip": {
+      "title": "tela vermelha",
+      "content": [
+        {
+          "title": "tela vermelha para fotografia",
+          "description": "Integre uma tela vermelha para adicionar efeitos de cor ousados e dramáticos aos seus projetos de foto ou vídeo, melhorando o clima e os visuais. É uma maneira criativa de experimentar iluminação sem equipamento adicional."
+        },
+        {
+          "title": "tela vermelha para a saúde dos olhos",
+          "description": "Use uma tela vermelha em ambientes escuros para reduzir a exposição à luz azul e aliviar o cansaço visual durante o uso noturno. Essa abordagem imita as configurações do Modo Noturno para uma experiência de visualização mais confortável."
+        },
+        {
+          "title": "tela vermelha para eventos virtuais",
+          "description": "Use uma tela vermelha como um pano de fundo dinâmico para suas reuniões virtuais ou transmissões ao vivo para criar uma atmosfera vibrante e memorável. Ela chama a atenção e adiciona um toque profissional e dinâmico à sua presença online."
+        },
+        {
+          "title": "Fundo vermelho para gráficos",
+          "description": "Use um fundo vermelho para inspirar projetos de design gráfico ousados. Sua tonalidade vibrante serve como base para visuais ou layouts impactantes. É ideal para experimentar contrastes de cores e criar ilustrações atraentes."
+        },
+        {
+          "title": "Fundo vermelho para apresentações",
+          "description": "Destaque slides ou temas principais em suas apresentações com um fundo vermelho para enfatizar pontos importantes e cativar seu público. Sua cor vibrante naturalmente chama a atenção para seu conteúdo."
+        },
+        {
+          "title": "Fundo vermelho para TikTok",
+          "description": "Crie vídeos cativantes do TikTok com um fundo vermelho vibrante que se destaca nos feeds e adiciona um toque moderno. Combine com iluminação criativa ou filtros para impacto máximo."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Cor vermelha online",
+          "content": [
+            "tela vermelha para tiktoks",
+            "tela vermelha para chamadas online",
+            "tela vermelha para fotos"
+          ]
+        },
+        {
+          "title": "Luz vermelha online",
+          "content": [
+            "luz de cor vermelha",
+            "luz vermelha para selfie",
+            "luzes LED vermelhas online"
+          ]
+        },
+        {
+          "title": "Outros",
+          "content": [
+            "tela de projeção vermelha",
+            "tela vermelha em branco para crianças",
+            "fundo de tela vermelho completo"
+          ]
+        }
+      ]
+    }
+  },
+  "/green-screen": {
+    "name": "Tela verde",
+    "color": "#00FF00",
+    "isAxis": false,
+    "title": "Tela verde",
+    "type": "color",
+    "tip": {
+      "title": "tela verde",
+      "content": [
+        {
+          "title": "tela verde para criação de vídeo",
+          "description": "Use uma tela verde para substituir facilmente fundos durante a produção de vídeo, permitindo ambientes criativos como mundos virtuais ou estúdios profissionais. Essa técnica, chamada chroma keying, é amplamente usada em filmes e streaming por sua versatilidade."
+        },
+        {
+          "title": "tela verde para relaxamento",
+          "description": "Exiba uma tela verde relaxante para acalmar seus olhos após longos períodos de trabalho ou tempo de tela, aproveitando as propriedades naturalmente relaxantes da cor. É uma maneira fácil de fazer uma pausa visual sem sair da sua mesa."
+        },
+        {
+          "title": "tela verde para jogos",
+          "description": "Melhore seus streams de jogos adicionando uma tela verde imersiva personalizável com visuais dinâmicos ou sobreposições temáticas de jogos. Isso melhora a experiência de visualização do seu público e adiciona um toque profissional."
+        },
+        {
+          "title": "Tela verde para reuniões",
+          "description": "Instale uma tela verde para suas videochamadas e substitua-a por um fundo profissional e polido que mascare seu entorno da vida real. Isso ajuda você a manter o foco e a ter uma aparência nítida durante reuniões virtuais."
+        },
+        {
+          "title": "Tela verde para educação",
+          "description": "Torne suas aulas on-line mais envolventes usando uma tela verde para integrar visuais interativos, como mapas ou diagramas, em seu fluxo de vídeo. Isso ajuda os alunos a permanecerem focados e aprimora a experiência de aprendizado com conteúdo dinâmico."
+        },
+        {
+          "title": "Tela verde para Photoshop",
+          "description": "Edite suas imagens sem esforço no Photoshop fotografando seus objetos contra uma tela verde, o que permite remoção rápida e precisa do fundo. O verde vivo fornece contraste nítido para recortes mais limpos e composições criativas."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Tela verde para limpeza",
+          "content": [
+            "tela verde para limpeza de monitor",
+            "tela verde para encontrar pixels mortos",
+            "tela verde para encontrar pontos sujos"
+          ]
+        },
+        {
+          "title": "Luz verde online",
+          "content": [
+            "luz verde para videochamadas",
+            "iluminação de tela verde",
+            "luz verde",
+            "luz verde para selfie",
+            "luzes LED verdes online"
+          ]
+        },
+        {
+          "title": "Outro",
+          "content": [
+            "tela verde para projetor",
+            "tela verde para crianças",
+            "fundo de tela verde completo"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen": {
+    "name": "Tela azul",
+    "color": "#0000FF",
+    "isAxis": false,
+    "title": "Tela azul",
+    "type": "color",
+    "tip": {
+      "title": "tela azul",
+      "content": [
+        {
+          "title": "tela azul para relaxamento",
+          "description": "Mude para uma tela azul para acalmar sua mente após um dia agitado, pois seus tons frios são conhecidos por ter um efeito calmante no cérebro. É uma maneira fácil de relaxar sem ter que sair do seu dispositivo."
+        },
+        {
+          "title": "tela azul para dormir",
+          "description": "Use uma tela azul suave à noite para promover o sono minimizando a luz brilhante e criando uma atmosfera relaxante. Embora menos agressivo do que filtros de luz azul, ele ainda pode encorajar seu corpo a relaxar."
+        },
+        {
+          "title": "tela azul para a saúde dos olhos",
+          "description": "Exiba uma tela azul durante longas sessões de trabalho para reduzir o cansaço visual, pois sua tonalidade suave pode parecer menos intensa do que cores mais brilhantes. Combine isso com pausas regulares para uma experiência de tela mais confortável."
+        },
+        {
+          "title": "Fundo azul para apresentações",
+          "description": "Integre um fundo azul como pano de fundo para suas apresentações para aprimorar seus visuais ou slides com um tom profissional e acessível. A versatilidade dessa cor a torna ideal para ambientes formais e criativos."
+        },
+        {
+          "title": "Fundo azul para vídeos",
+          "description": "Crie um plano de fundo de vídeo exclusivo com um fundo azul que adiciona um toque moderno e moderno ao seu conteúdo, ideal para vlogs ou tutoriais. É uma alternativa sutil às telas verdes para efeitos básicos de chroma key."
+        },
+        {
+          "title": "Fundo azul para traçado",
+          "description": "Coloque papel sobre um fundo azul para traçar imagens ou padrões nitidamente, usando a iluminação uniforme para guiar suas linhas. A cor distinta ajuda a distinguir detalhes, ao mesmo tempo em que simplifica e agiliza o processo."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Tela azul para limpeza",
+          "content": [
+            "Tela azul para limpeza do monitor",
+            "Tela azul para encontrar pixels mortos",
+            "Tela azul para encontrar pontos sujos"
+          ]
+        },
+        {
+          "title": "Luz azul online",
+          "content": [
+            "Luz azul para videochamadas",
+            "Luz de cor azul",
+            "Luz azul para selfie",
+            "Luzes LED azuis online"
+          ]
+        },
+        {
+          "title": "Outros",
+          "content": [
+            "Tela azul para projetor",
+            "Tela Azul para Crianças",
+            "Fundo azul em tela cheia"
+          ]
+        }
+      ]
+    }
+  },
+  "/yellow-screen": {
+    "name": "Tela amarela",
+    "color": "#FFFF00",
+    "isAxis": true,
+    "title": "Tela amarela",
+    "type": "color",
+    "tip": {
+      "title": "tela amarela",
+      "content": [
+        {
+          "title": "tela amarela para conteúdo",
+          "description": "Dê um toque de energia aos seus streams, vídeos ou apresentações com uma tela amarela que captura a atenção e transmite excitação. Sua cor brilhante e alegre destaca seu conteúdo e cativa a atenção dos espectadores."
+        },
+        {
+          "title": "tela amarela para conforto dos olhos",
+          "description": "Opte por uma tela amarela para reduzir a exposição à luz azul e aliviar a fadiga ocular durante o uso prolongado do computador, especialmente à noite. Sua tonalidade quente imita uma fonte de luz mais suave, proporcionando uma experiência de visualização mais suave."
+        },
+        {
+          "title": "tela amarela para criatividade",
+          "description": "Estimule a inspiração cercando-se de uma tela amarela, uma cor frequentemente associada ao otimismo e à imaginação. É um cenário ideal para sessões de brainstorming ou projetos de arte."
+        },
+        {
+          "title": "Tela amarela para teste",
+          "description": "Teste a precisão e a consistência das cores do seu monitor exibindo uma tela amarela completa para detectar inconsistências ou defeitos. A tonalidade vívida facilita a identificação de problemas sutis no monitor."
+        },
+        {
+          "title": "Tela amarela para ensino",
+          "description": "Capture a atenção dos alunos durante as aulas online com uma tela amarela brilhante que fornece um fundo atraente e vibrante. Ela cria uma atmosfera acolhedora que incentiva a participação e o foco."
+        },
+        {
+          "title": "Tela amarela para ambiente",
+          "description": "Crie uma atmosfera calorosa e acolhedora em seu espaço de trabalho ou vídeos com uma tela amarela que exala positividade e simpatia. É perfeita para criar um ambiente estimulante para você ou seu público."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Tela amarela para limpeza",
+          "content": [
+            "tela amarela para limpeza do monitor",
+            "tela amarela para encontrar pixels mortos",
+            "tela amarela para encontrar pontos sujos"
+          ]
+        },
+        {
+          "title": "Cor amarela online",
+          "content": [
+            "tela de computador em branco",
+            "tela amarela total",
+            "tela amarela cheia"
+          ]
+        },
+        {
+          "title": "Outros",
+          "content": [
+            "tela de projeção amarela",
+            "tela amarela para crianças",
+            "fundo de tela cheia amarelo"
+          ]
+        }
+      ]
+    }
+  },
+  "/orange-screen": {
+    "name": "Tela laranja",
+    "color": "#FFA500",
+    "isAxis": true,
+    "title": "Tela laranja",
+    "type": "color",
+    "tip": {
+      "title": "tela laranja",
+      "content": [
+        {
+          "title": "tela laranja para fundos",
+          "description": "Destaque sua presença virtual com uma tela laranja que adiciona um toque quente e ousado às suas videochamadas ou transmissões. Sua cor vibrante permite que você seja memorável sem sobrecarregar seu conteúdo."
+        },
+        {
+          "title": "tela laranja para dormir",
+          "description": "Filtre a luz azul com uma tela laranja à noite para promover um melhor descanso imitando os tons do pôr do sol. É uma maneira natural de preparar seu corpo para o sono enquanto usa seu dispositivo."
+        },
+        {
+          "title": "tela laranja para criatividade",
+          "description": "Desperte sua imaginação com uma tela laranja, uma cor conhecida por estimular energia e inovação. Use-a como plano de fundo para escrever, desenhar ou qualquer outro esforço criativo."
+        },
+        {
+          "title": "Tela laranja para calibração",
+          "description": "Verifique a precisão das cores do seu monitor exibindo uma tela laranja para revelar qualquer irregularidade no tom ou brilho. Sua tonalidade rica é ideal para ajustar efetivamente as configurações do monitor."
+        },
+        {
+          "title": "Tela laranja para ensino",
+          "description": "Incentive os alunos a fazer aulas on-line com uma tela laranja que captura a atenção e promove um ambiente de aprendizagem estimulante. Sua cor brilhante mantém os níveis de energia e incentiva a interação."
+        },
+        {
+          "title": "Tela laranja para ambiente",
+          "description": "Crie uma atmosfera acolhedora e criativa com uma tela laranja que combina calor e vibração, ideal para vídeos informais ou um espaço de trabalho pessoal. É uma escolha versátil para criar um ambiente acolhedor."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Tela laranja para limpeza",
+          "content": [
+            "tela laranja para limpeza do monitor",
+            "tela laranja para encontrar pixels mortos",
+            "tela laranja para encontrar pontos sujos"
+          ]
+        },
+        {
+          "title": "Cor laranja online",
+          "content": [
+            "tela de computador em branco",
+            "tela laranja total",
+            "tela laranja cheia"
+          ]
+        },
+        {
+          "title": "Outros",
+          "content": [
+            "tela de projeção laranja",
+            "tela laranja para crianças",
+            "fundo laranja em tela cheia"
+          ]
+        }
+      ]
+    }
+  },
+  "/pink-screen": {
+    "name": "Tela rosa",
+    "color": "#FFC0CB",
+    "isAxis": true,
+    "title": "Tela rosa",
+    "type": "color",
+    "tip": {
+      "title": "tela rosa",
+      "content": [
+        {
+          "title": "tela rosa para conteúdo",
+          "description": "Dê aos seus vídeos ou transmissões ao vivo uma vibração amigável e acessível usando uma tela rosa como um fundo vibrante. Sua tonalidade suave e alegre instantaneamente faz com que seu conteúdo pareça acolhedor e convidativo para os espectadores."
+        },
+        {
+          "title": "tela rosa para relaxamento",
+          "description": "Opte por uma tela rosa para relaxar após um longo dia, pois seu tom pastel suave cria uma sensação de paz e conforto. Crie facilmente um ambiente relaxante sem ferramentas adicionais."
+        },
+        {
+          "title": "tela rosa para design",
+          "description": "Inspire sua criatividade com uma tela rosa que adiciona um toque lúdico e elegante aos seus projetos gráficos ou artísticos. A versatilidade desta cor incentiva a experimentação com layouts ousados e harmoniosos."
+        },
+        {
+          "title": "tela rosa para teste",
+          "description": "Verifique a precisão da sua exibição visualizando uma tela rosa completa para detectar inconsistências na reprodução de cores ou no desempenho de pixels. Seu tom distinto ajuda a revelar problemas sutis que podem afetar a qualidade visual."
+        },
+        {
+          "title": "tela rosa para apresentações",
+          "description": "Capture a atenção do seu público durante suas apresentações com uma tela rosa ousada que adiciona dinamismo e personalidade aos seus slides. É uma escolha poderosa que captura a atenção enquanto destaca pontos-chave."
+        },
+        {
+          "title": "tela rosa para ambiente",
+          "description": "Crie uma atmosfera lúdica e acolhedora em seu espaço de trabalho ou vídeos com uma tela rosa que exala positividade e charme. É perfeita para criar uma atmosfera leve durante suas transmissões informais ou projetos pessoais."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Tela rosa para limpeza",
+          "content": [
+            "tela rosa para limpeza do monitor",
+            "tela rosa para encontrar pixels mortos",
+            "tela rosa para encontrar pontos sujos"
+          ]
+        },
+        {
+          "title": "Cor rosa online",
+          "content": [
+            "tela de computador em branco",
+            "tela rosa total",
+            "tela rosa cheia"
+          ]
+        },
+        {
+          "title": "Outros",
+          "content": [
+            "tela de projeção rosa",
+            "tela rosa para crianças",
+            "fundo rosa tela cheia"
+          ]
+        }
+      ]
+    }
+  },
+  "/purple-screen": {
+    "name": "Tela roxa",
+    "color": "#800080",
+    "isAxis": true,
+    "title": "Tela roxa",
+    "type": "color",
+    "tip": {
+      "title": "tela roxa",
+      "content": [
+        {
+          "title": "tela roxa para bem-estar",
+          "description": "Melhore sua rotina de meditação ou relaxamento com uma tela roxa relaxante, uma cor frequentemente associada à tranquilidade e à introspecção. Sua tonalidade rica ajuda a criar um espaço sereno propício à atenção plena ou ao relaxamento."
+        },
+        {
+          "title": "tela roxa para iluminação",
+          "description": "Adicione um brilho místico e encantador às suas videochamadas ou eventos virtuais usando uma tela roxa como uma fonte de iluminação criativa. Ela transforma sua configuração em um espaço único e visualmente cativante."
+        },
+        {
+          "title": "tela roxa para estudo",
+          "description": "Explore a teoria das cores ou conceitos de design com uma tela roxa que serve como um exemplo prático para alunos ou aprendizes. Sua tonalidade profunda fornece um pano de fundo estimulante e focado para conteúdo educacional."
+        },
+        {
+          "title": "Tela roxa para teste",
+          "description": "Teste a precisão e o desempenho das cores do seu monitor com uma tela roxa para identificar quaisquer irregularidades de exibição ou problemas de pixel. Sua tonalidade vívida facilita a detecção de imperfeições na tela."
+        },
+        {
+          "title": "Tela roxa para crianças",
+          "description": "Desperte a imaginação das crianças durante suas sessões de aprendizado ou brincadeiras com uma tela roxa mágica e inspiradora. É uma maneira divertida de tornar vídeos ou atividades educacionais mais envolventes para mentes jovens."
+        },
+        {
+          "title": "Tela roxa para ambiente",
+          "description": "Crie um ambiente criativo e luxuoso com uma tela roxa que combina sofisticação e talento artístico, ideal para streaming ou espaços pessoais. Seu tom majestoso aprimora a atmosfera sem esforço."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Tela roxa para limpeza",
+          "content": [
+            "tela roxa para limpeza de monitor",
+            "tela roxa para encontrar pixels mortos",
+            "tela roxa para encontrar pontos sujos"
+          ]
+        },
+        {
+          "title": "Cor roxa online",
+          "content": [
+            "tela de computador em branco",
+            "tela roxa total",
+            "tela roxa completa"
+          ]
+        },
+        {
+          "title": "Outros",
+          "content": [
+            "tela de projeção roxa",
+            "tela roxa para crianças",
+            "fundo roxo em tela cheia"
+          ]
+        }
+      ]
+    }
+  },
+  "/zoom-lighting": {
+    "name": "Iluminação com Zoom",
+    "color": "#FFC5C2",
+    "isAxis": true,
+    "title": "Iluminação para chamadas de Zoom",
+    "type": "color",
+    "tip": {
+      "title": "Iluminação para chamadas de Zoom",
+      "content": [
+        {
+          "title": "Iluminação com zoom para chamadas",
+          "description": "Defina sua tela para uma cor suave e quente, como Zoom Lighting (#FFC5C2), para melhorar sua aparência durante videochamadas comerciais com iluminação favorável. Ela imita a luz natural do dia, reduz sombras e cria uma aparência polida."
+        },
+        {
+          "title": "Iluminação com zoom para fotografia",
+          "description": "Crie o clima perfeito para fotografia usando a Iluminação Zoom como uma fonte suave e difusa que destaca lindamente os objetos. Seu tom pêssego sutil adiciona calor e profundidade a retratos ou fotos."
+        },
+        {
+          "title": "Iluminação com zoom para e-learning",
+          "description": "Reduza a fadiga ocular e melhore o foco durante as aulas online configurando sua tela para Zoom Lighting, que fornece brilho confortável para sessões longas. Ajuda a manter a concentração sem a aspereza de telas mais brilhantes."
+        },
+        {
+          "title": "Iluminação com Zoom para Desenvolvedores",
+          "description": "Teste suas interfaces de usuário ou paletas de cores sob iluminação de zoom para ver como elas são renderizadas em luz quente e realista. Esta é uma maneira útil de garantir que seu trabalho tenha uma ótima aparência sob diferentes condições de visualização."
+        },
+        {
+          "title": "Iluminação com zoom para terapia",
+          "description": "Use a iluminação do Zoom durante suas sessões remotas de bem-estar ou terapia para criar uma atmosfera calmante e de apoio com sua tonalidade suave e acolhedora. Essa cor pode aumentar a conexão emocional e o conforto para os clientes."
+        },
+        {
+          "title": "Iluminação de zoom com tela branca",
+          "description": "Ilumine suas videochamadas pareando o Zoom Lighting com um segundo monitor configurado para uma tela branca, fornecendo luz brilhante e uniforme sem equipamento adicional. Esta configuração garante iluminação ideal e uma imagem profissional com facilidade."
+        }
+      ]
+    }
+  },
+  "/white-noise": {
+    "name": "Ruído branco",
+    "icon": "https://emojicdn.elk.sh/🔊",
+    "title": "Ruído branco para dormir",
+    "type": "pegadinha",
+    "tip": {
+      "title": "Ruído branco para dormir",
+      "content": [
+        {
+          "title": "Ruído branco para concentração",
+          "description": "Mascare o ruído de fundo que distrai com ruído branco para melhorar sua concentração durante suas sessões de trabalho ou estudo. Seu zumbido constante cria um ambiente sonoro consistente que ajuda você a manter o foco."
+        },
+        {
+          "title": "Ruído branco para dormir",
+          "description": "Adormeça mais rápido tocando ruído branco para abafar sons noturnos perturbadores, como trânsito ou latidos de cachorro. O som contínuo imita um ritmo relaxante que acalma sua mente."
+        },
+        {
+          "title": "Ruído branco para bebês",
+          "description": "Acalme os bebês com ruído branco que reproduz os sons reconfortantes do útero aos quais eles estão acostumados. É uma maneira gentil de acalmar bebês agitados e estabelecer uma rotina relaxante para a hora de dormir."
+        },
+        {
+          "title": "Ruído branco para meditação",
+          "description": "Melhore suas sessões de atenção plena com ruído branco que fornece um ambiente neutro e discreto para respiração profunda e concentração. Ele ajuda a limpar a desordem mental e evita que ruídos externos perturbem sua calma."
+        },
+        {
+          "title": "Ruído branco para o Halloween",
+          "description": "Crie uma atmosfera assustadora combinando ruído branco com efeitos assustadores para festas de Halloween ou cenários mal-assombrados. Sua intensidade sutil cria uma atmosfera assustadora sem abafar outros sons."
+        },
+        {
+          "title": "Ruído branco para brincadeiras",
+          "description": "Produza um ruído branco sutil no fundo para perturbar seus colegas ou amigos e fazê-los se perguntar sobre os sons fracos e misteriosos. É uma brincadeira discreta, perfeita para o escritório ou um ambiente casual."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Melhore a produtividade e a concentração",
+          "content": [
+            "Melhorar a concentração em ambientes ruidosos",
+            "Aumentar a produtividade no trabalho",
+            "Melhore a concentração durante as sessões de estudo",
+            "Minimize as distrações ao trabalhar remotamente",
+            "Torne os períodos de trabalho intenso mais fáceis"
+          ]
+        },
+        {
+          "title": "Sono e relaxamento",
+          "content": [
+            "Promova um adormecimento mais rápido",
+            "Disfarce ruídos noturnos perturbadores",
+            "Melhorando a qualidade do sono para insones",
+            "Acalmar bebês e crianças pequenas",
+            "Crie uma rotina relaxante para a hora de dormir"
+          ]
+        },
+        {
+          "title": "Saúde e bem-estar",
+          "content": [
+            "Reduza os níveis de estresse e ansiedade",
+            "Ajuda com práticas de meditação e atenção plena",
+            "Ajude a controlar os sintomas do zumbido",
+            "Incentive o relaxamento durante a ioga",
+            "Apoiar a saúde mental reduzindo a sobrecarga sensorial"
+          ]
+        }
+      ]
+    }
+  },
+  "/broken-screen": {
+    "name": "Tela quebrada falsa",
+    "icon": "https://emojicdn.elk.sh/💔",
+    "title": "Tela quebrada falsa - Piada",
+    "type": "pegadinha",
+    "tip": {
+      "title": "Tela quebrada falsa - Piada",
+      "content": [
+        {
+          "title": "piada da tela quebrada",
+          "description": "Assuste seus amigos exibindo uma tela quebrada falsa incrivelmente realista, perfeita para uma risada instantânea. Instale-a no dispositivo deles quando não estiverem procurando a surpresa definitiva."
+        },
+        {
+          "title": "tela quebrada para conteúdo",
+          "description": "Adicione um toque de drama aos seus vídeos ou postagens de mídia social com um efeito de tela quebrada falsa que captura a atenção instantaneamente. É uma maneira criativa de encenar incidentes técnicos ou criar suspense."
+        },
+        {
+          "title": "teste de reação de tela quebrada",
+          "description": "Pratique manter a calma sob pressão simulando uma tela quebrada e observando sua própria reação. É uma maneira única de testar sua resiliência sem arriscar danos reais."
+        },
+        {
+          "title": "Tela quebrada para projetos",
+          "description": "Incorpore uma tela quebrada falsa em seus projetos de arte ou design para criar uma textura ou elemento visual único. Rachaduras podem adicionar um toque de originalidade e desgaste aos seus trabalhos digitais ou de mídia mista."
+        },
+        {
+          "title": "Tela quebrada para educação",
+          "description": "Destaque os benefícios dos protetores de tela ou da manutenção do dispositivo apresentando uma tela quebrada simulada como um exemplo de aviso. Este é um auxílio visual eficaz para aulas de segurança de computador."
+        },
+        {
+          "title": "Tela quebrada para revisão",
+          "description": "Destaque a durabilidade em análises técnicas comparando uma tela quebrada falsa com a resistência real do dispositivo. Esta é uma maneira convincente de demonstrar qualidade de construção ou recursos de proteção."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Piadas e pegadinhas",
+          "content": [
+            "Farsa tecnológica épica",
+            "Assuste amigos e familiares",
+            "Ideia de brincadeira de escritório",
+            "Pegadinha do Dia da Mentira",
+            "Surpreender alguém por diversão"
+          ]
+        },
+        {
+          "title": "Conteúdo e criatividade",
+          "content": [
+            "Fundo de arte digital exclusivo",
+            "Conteúdo envolvente para mídias sociais",
+            "Visuais de projetos criativos",
+            "Efeito dramático em vídeos",
+            "Ilustrando histórias de terror tecnológicas"
+          ]
+        },
+        {
+          "title": "Educação e conscientização",
+          "content": [
+            "Demonstrar a fragilidade da tela",
+            "Promover acessórios de proteção",
+            "Apresentações Técnicas de Segurança",
+            "Auxílio visual para discussões sobre manutenção de eletrodomésticos",
+            "Enfatizar a importância das garantias"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows": {
+    "name": "Tela Azul Falsa da Morte",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Tela Azul da Morte do Windows Falsa",
+    "type": "pegadinha",
+    "tip": {
+      "title": "Tela Azul da Morte do Windows Falsa",
+      "content": [
+        {
+          "title": "Brincadeira BSOD",
+          "description": "Engane seus amigos com uma Tela Azul da Morte falsa que imita uma falha real do Windows, causando pânico e diversão. É uma maneira inofensiva de fazer uma pegadinha tecnológica clássica."
+        },
+        {
+          "title": "BSOD de feriado",
+          "description": "Adicione um toque de humor tecnológico às suas reuniões exibindo uma falsa tela azul da morte em uma tela dividida e surpreendendo seus convidados com um toque lúdico. É uma ótima maneira de quebrar o gelo, seja você um geek ou apenas um espectador."
+        },
+        {
+          "title": "BSOD para treinamento",
+          "description": "Ensine técnicas de solução de problemas de computador com segurança simulando uma Tela Azul da Morte, permitindo que os alunos pratiquem o diagnóstico de erros sem os riscos do mundo real. É uma ferramenta prática para construir confiança no suporte técnico."
+        },
+        {
+          "title": "BSOD para habilidades técnicas",
+          "description": "Pratique suas próprias habilidades de suporte técnico em um ambiente controlado com um BSOD false que desafia você a pensar em soluções. É uma maneira divertida e sem riscos de melhorar suas habilidades de resolução de problemas."
+        },
+        {
+          "title": "BSOD para YouTube",
+          "description": "Apimente seus vídeos do YouTube com um efeito BSOD false para criar conteúdo tecnológico cativante ou esquetes dramáticos. Ele adiciona um toque nostálgico e reconhecível que ressoa com espectadores antenados em tecnologia."
+        },
+        {
+          "title": "Teste de paciência BSOD",
+          "description": "Teste sua tolerância ao estresse ou faça uma brincadeira com os outros com um BSOD false de carregamento lento que mantém o suspense. É uma maneira única de ver como as pessoas lidam com a frustração tecnológica."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Piadas e Entretenimento",
+          "content": [
+            "Piada inofensiva de computador",
+            "Piada técnica do Dia da Mentira",
+            "Festa com tema de tecnologia",
+            "Assuste seus amigos por diversão",
+            "Crie conteúdo de pegadinha viral"
+          ]
+        },
+        {
+          "title": "Fim dos estudos",
+          "content": [
+            "Ensinando solução de problemas de BSOD",
+            "Simular falhas do sistema",
+            "Treinamento de equipe de suporte de TI",
+            "Demonstrar recuperação do sistema",
+            "Eduque sobre mensagens de erro"
+          ]
+        },
+        {
+          "title": "Criação de conteúdo",
+          "content": [
+            "Melhorando vídeos técnicos",
+            "Crie tutoriais envolventes",
+            "Filmando cenas técnicas realistas",
+            "Adicionando drama às revisões técnicas",
+            "Ilustrar discussões sobre estabilidade do sistema"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows-10": {
+    "name": "Tela Azul Falsa da Morte 10",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Tela Azul da Morte Falsa do Windows 10",
+    "type": "pegadinha",
+    "tip": {
+      "title": "Tela Azul da Morte Falsa no Windows 10",
+      "content": [
+        {
+          "title": "Piada sobre BSOD no escritório",
+          "description": "Engane seus colegas de trabalho com uma falsa Tela Azul da Morte do Windows 10 que aparece no meio do dia, causando confusão e risadas no escritório. É uma configuração rápida para uma leve quebra na rotina."
+        },
+        {
+          "title": "Escape de uma chamada BSOD",
+          "description": "Fuja de uma videoconferência chata acionando uma Tela Azul da Morte falsa como uma desculpa crível para se desconectar temporariamente. É uma maneira sorrateira e bem-humorada de evitar tempo de tela indesejado."
+        },
+        {
+          "title": "BSOD de treinamento em computador",
+          "description": "Pratique a correção de erros do Windows 10 com uma Tela Azul da Morte falsa que imita travamentos reais, fornecendo um espaço seguro para desenvolver suas habilidades com computadores. É perfeito para aprendizado prático sem arriscar sistemas reais."
+        },
+        {
+          "title": "Piada BSOD",
+          "description": "Surpreenda os jogadores no meio da sessão com um BSOD false que interrompe o jogo e captura reações hilárias, seja por diversão ou por conteúdo. Um movimento ousado que causa estragos nos momentos multijogador."
+        },
+        {
+          "title": "Vídeos de reação BSOD",
+          "description": "Grave reações engraçadas a um BSOD false no Windows 10 para vídeos de reação que vão impressionar seu público. Uma configuração simples para imagens virais."
+        },
+        {
+          "title": "Equipe testa BSOD",
+          "description": "Teste o tempo de resposta e as habilidades de resolução de problemas da sua equipe de TI com uma emergência BSOD simulada que replica cenários da vida real. É um exercício prático para melhorar a coordenação e a preparação."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "pegadinhas engraçadas",
+          "content": [
+            "pegadinhas rápidas de escritório com BSODs falsos",
+            "tela azul trolling em streaming de jogos",
+            "pegadinhas de quebra de computador em família",
+            "Vídeos de reação à tela da morte do Windows",
+            "piadas de festa BSOD em tela cheia"
+          ]
+        },
+        {
+          "title": "Usos educacionais",
+          "content": [
+            "Ferramenta de treinamento BSOD de suporte de computador",
+            "Demonstrações de tela de travamento do Windows",
+            "ferramenta de ensino de informática",
+            "exemplos de workshops técnicos",
+            "prática de resposta de tela azul"
+          ]
+        },
+        {
+          "title": "Criação de conteúdo",
+          "content": [
+            "Vídeos de pegadinhas do BSOD do YouTube",
+            "Conteúdo do meme de travamento do Windows",
+            "clipes de reação em mídias sociais",
+            "transmissão de telas azuis falsas",
+            "demonstrações de tutoriais técnicos"
+          ]
+        }
+      ]
+    }
+  },
+  "/hacker-screen": {
+    "name": "Tela de entrada do hacker",
+    "icon": "https://emojicdn.elk.sh/💻‍💻",
+    "title": "Tela do Hacker Typer - Pegadinha",
+    "type": "pegadinha",
+    "tip": {
+      "title": "Tela de Hacker - Piada",
+      "content": [
+        {
+          "title": "Pegadinha de tela de hacker",
+          "description": "Impressione seus colegas digitando chaves aleatórias para gerar um código de hack false digno de um filme. Uma maneira divertida de parecer um gênio da tecnologia em segundos."
+        },
+        {
+          "title": "Tela de hacker para aulas",
+          "description": "Deixe os alunos animados com a programação, exibindo uma tela de hacker que torna a codificação emocionante e acessível. É um gancho divertido para despertar o interesse na educação tecnológica."
+        },
+        {
+          "title": "Tela de hacker para streaming",
+          "description": "Adicione um toque tecnológico às suas transmissões ao vivo com uma sobreposição de tela de hacker que cria uma vibe cyberpunk envolvente. Ideal para transmissões focadas em jogos ou tecnologia."
+        },
+        {
+          "title": "tela de hacker para vlogs",
+          "description": "Impulsione seus vlogs de tecnologia com um efeito de tela de hacker que adiciona visuais de código dinâmico à sua narrativa. É uma maneira fácil de dar ao seu conteúdo uma sensação de alta tecnologia e envolvente."
+        },
+        {
+          "title": "tela de hacker para apresentações",
+          "description": "Aprimore suas discussões técnicas com uma tela de hacker ao vivo que exibe código em tempo real e cativa visualmente seu público. É uma adição notável para discussões sobre programação ou segurança cibernética."
+        },
+        {
+          "title": "tela de hacker para filmes",
+          "description": "Crie cenas de hacker autênticas para seus curtas-metragens ou esquetes com uma tela de hacker convincentemente complexa. É um atalho econômico para efeitos de tecnologia cinematográfica."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Entretenimento e farsas",
+          "content": [
+            "Impressione seus amigos com falsas habilidades de hacking",
+            "Pregue peças nos seus familiares",
+            "Adicione um pouco de diversão às festas do escritório",
+            "Crie conteúdo divertido para mídias sociais",
+            "Engane seus amigos e faça-os pensar que você é um programador"
+          ]
+        },
+        {
+          "title": "Fins educacionais",
+          "content": [
+            "Demonstrar codificação em sala de aula",
+            "Visualize conceitos de programação",
+            "Fazer com que os alunos se interessem por tecnologia",
+            "Apimente suas técnicas de apresentação",
+            "Introduzir iniciantes à codificação"
+          ]
+        },
+        {
+          "title": "Uso criativo e profissional",
+          "content": [
+            "Melhore os visuais de transmissão ao vivo",
+            "Criar cenas técnicas autênticas em filmes",
+            "Adicione uma estética hacker aos vídeos",
+            "Desperte o interesse em conferências de tecnologia",
+            "Inspirar discussões sobre segurança cibernética"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-10-update-screen": {
+    "name": "Atualização falsa do Windows 10",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Atualização falsa do Windows 10",
+    "type": "atualização falsa",
+    "tip": {
+      "title": "Atualização falsa do Windows 10",
+      "content": [
+        {
+          "title": "Brincadeira do Windows 10",
+          "description": "Engana seus amigos com uma atualização falsa do Windows 10 frustrantemente realista e repetitiva que os deixa inseguros sobre quando ela vai acabar. É a oportunidade perfeita para um susto ou uma risada."
+        },
+        {
+          "title": "Brincadeira do Office no Windows 10",
+          "description": "Engane seus colegas de trabalho exibindo uma tela falsa de atualização lenta no computador deles durante um intervalo, imitando o infame lag do Windows. Observe suas reações quando acharem que seu trabalho está travado."
+        },
+        {
+          "title": "Bate-papo em grupo do Windows 10",
+          "description": "Compartilhe capturas de tela ou clipes de uma atualização falsa do Windows 10 em chats de grupo para provocar risadas e confusão entre amigos. É uma maneira fácil de trazer um toque de humor técnico para a conversa."
+        },
+        {
+          "title": "Windows 10, uma festa de sucesso",
+          "description": "Interrompa uma noite chata projetando uma tela de atualização falsa, transformando uma discussão sem graça em uma piada tecnológica que todos irão gostar. Uma maneira única de animar a atmosfera."
+        },
+        {
+          "title": "Windows 10, uma experiência personalizada",
+          "description": "Adicione mensagens personalizadas divertidas à tela de atualização, como 'Instalando Candy Crush 2.0', para um toque extra de absurdo e diversão. Personalize-a para corresponder ao alvo da sua brincadeira e maximize seu efeito."
+        },
+        {
+          "title": "Reação do Windows 10",
+          "description": "Grave reações hilárias a uma atualização falsa do Windows 10, enquanto as pessoas entram em pânico ou gemem, para criar conteúdo para um vídeo de reação ou apenas uma lembrança querida. É uma ótima maneira de capturar uma surpresa genuína."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Atualização simulada do Windows 10",
+          "content": [
+            "Atualização falsa do Windows 10",
+            "Simulação de atualização do Windows 10",
+            "Simular uma atualização do Windows 10",
+            "Tela falsa de atualização do Windows 10",
+            "Emular atualização do Windows 10",
+            "Brincadeira de atualização do Windows 10",
+            "Processo de atualização do Windows 10"
+          ]
+        },
+        {
+          "title": "Experiência realista",
+          "content": [
+            "Atualização do Windows 10 com aparência genuína",
+            "Tela de atualização realista do Windows 10",
+            "Enganando seus amigos com a atualização do Windows 10",
+            "Progresso realista da atualização do Windows 10",
+            "Simulação de atualização genuína do Windows 10",
+            "Mensagens de atualização genuínas do Windows 10",
+            "Etapa de atualização do Windows 10"
+          ]
+        },
+        {
+          "title": "Entretenimento e prazer",
+          "content": [
+            "Piada divertida sobre a atualização do Windows 10",
+            "Atualização falsa e engraçada do Windows 10",
+            "Aproveite uma atualização simulada do Windows 10",
+            "Brincadeira com uma atualização falsa do Windows 10",
+            "Experiência emocionante de atualização do Windows 10",
+            "Atualize o Windows 10 por diversão",
+            "Ferramenta de pegadinha de atualização do Windows 10"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-xp-update-screen": {
+    "name": "Atualização falsa do Windows XP",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Atualização falsa do Windows XP",
+    "type": "atualização falsa",
+    "tip": {
+      "title": "Atualização falsa do Windows XP",
+      "content": [
+        {
+          "title": "Brincadeira do XP Office",
+          "description": "Semeie nostalgia e confusão no escritório com uma tela falsa de atualização do Windows XP que parece ter saído diretamente do passado. É um aceno sutil à tecnologia retrô que surpreenderá seus colegas."
+        },
+        {
+          "title": "Teste de paciência XP",
+          "description": "Teste a frustração de alguém com uma atualização falsa do XP que se arrasta e se arrasta, imitando a barra de progresso de antigamente. É uma maneira divertida de ver quanto tempo eles vão esperar antes de reagir."
+        },
+        {
+          "title": "XP retrô divertido",
+          "description": "Reviva a era do Windows XP exibindo uma tela de atualização falsa que lembra conexões discadas e clip art para entretenimento retrô. Um retorno divertido para entusiastas de tecnologia ou alvos de pegadinhas."
+        },
+        {
+          "title": "Conteúdo viral XP",
+          "description": "Crie vídeos ou postagens de tecnologia retrô com uma tela falsa de atualização do XP que aproveite a nostalgia para conteúdo viral compartilhável. Combine com uma legenda divertida para maximizar seu apelo online."
+        },
+        {
+          "title": "Aula de tecnologia XP",
+          "description": "Ensine a história do sistema operacional com uma simulação de atualização do XP que demonstra visualmente como eram as atualizações décadas atrás. É uma maneira envolvente de conectar tecnologias passadas a lições modernas."
+        },
+        {
+          "title": "Brincadeira entre amigos XP",
+          "description": "Engane seus amigos com uma tela de atualização clássica do XP que parece congelar o dispositivo deles, provocando uma mistura de aborrecimento e boas lembranças. É uma brincadeira inofensiva com um toque de nostalgia."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Atualização simulada do Windows XP",
+          "content": [
+            "Atualização falsa do Windows XP",
+            "Simulação de atualização do Windows XP",
+            "Simular uma atualização do Windows XP",
+            "Tela falsa de atualização do Windows XP",
+            "Emular uma atualização do Windows XP",
+            "Brincadeira de atualização do Windows XP",
+            "Processo de atualização do Windows XP"
+          ]
+        },
+        {
+          "title": "Experiência realista",
+          "content": [
+            "Atualização do Windows XP com aparência genuína",
+            "Tela de atualização realista do Windows XP",
+            "Enganando seus amigos com a atualização do Windows XP",
+            "Progresso da atualização do Windows XP realista",
+            "Simulação de atualização genuína do Windows XP",
+            "Mensagens de atualização genuínas do Windows XP",
+            "Etapa de atualização do Windows XP"
+          ]
+        },
+        {
+          "title": "Entretenimento e diversão",
+          "content": [
+            "Brincadeira engraçada sobre atualização do Windows XP",
+            "Atualização falsa e engraçada do Windows XP",
+            "Aproveite uma atualização simulada do Windows XP",
+            "Brincadeira com uma atualização falsa do Windows XP",
+            "Experiência emocionante de atualização do Windows XP",
+            "Atualização do Windows XP para entretenimento",
+            "Ferramenta de pegadinha de atualização do Windows XP"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-mac-os-x-update-screen": {
+    "name": "Atualização falsa do Mac OS X",
+    "icon": "https://emojicdn.elk.sh/🍎",
+    "title": "Atualização falsa do Mac OS X",
+    "type": "atualização falsa",
+    "tip": {
+      "title": "Atualização falsa do Mac OS X",
+      "content": [
+        {
+          "title": "Recheio de Mac",
+          "description": "Enganar os fãs do Mac com uma tela falsa de atualização do OS X que parece autêntica o suficiente para induzi-los a verificar o sistema é uma maneira inteligente de enganar até os usuários mais experientes da Apple."
+        },
+        {
+          "title": "Teste de paciência Mac",
+          "description": "Observe as reações enquanto uma atualização falsa do Mac OS X progride, testando por quanto tempo alguém ficará olhando para uma barra de progresso falsa. É uma brincadeira sutil que brinca com a ansiedade de atualização."
+        },
+        {
+          "title": "Auxílio didático para Mac",
+          "description": "Treine a equipe de TI ou estudantes com uma simulação segura de atualização de Mac que replica cenários da vida real sem arriscar sistemas reais. É uma ferramenta útil para praticar o gerenciamento de atualizações."
+        },
+        {
+          "title": "Testes Mac UX",
+          "description": "Estude as reações dos usuários a um atraso false na atualização do Mac OS X, observando suas interações ou reações a uma lentidão. Esta é uma maneira simples de explorar os limites da paciência da interface do usuário."
+        },
+        {
+          "title": "Criação de conteúdo para Mac",
+          "description": "Adicione visuais de atualização realistas aos seus vídeos ou tutoriais com uma tela falsa do Mac OS X que destaca o conteúdo técnico. É um toque bacana para suas análises ou esquetes."
+        },
+        {
+          "title": "Brincadeira do Mac Group",
+          "description": "Enganar um grupo de amigos com uma tela falsa de atualização da Apple em um dispositivo compartilhado, provocando risadas ou gemidos coletivos. É uma brincadeira comunitária que cria laços em torno de problemas de tecnologia compartilhados."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Atualização simulada do Mac OS X",
+          "content": [
+            "Atualização falsa do Mac OS X",
+            "Simulação de atualização do Mac OS X",
+            "Simular uma atualização do Mac OS X",
+            "Tela de atualização fictícia do Mac OS X",
+            "Emular uma atualização do Mac OS X",
+            "Brincadeira de atualização do Mac OS X",
+            "Processo de atualização do Mac OS X"
+          ]
+        },
+        {
+          "title": "Experiência realista",
+          "content": [
+            "Atualização do Mac OS X com aparência genuína",
+            "Tela de atualização realista do Mac OS X",
+            "Enganando seus amigos com uma atualização do Mac OS X",
+            "Progresso realista da atualização do Mac OS X",
+            "Simulação de atualização genuína do Mac OS X",
+            "Mensagens de atualização genuínas do Mac OS X",
+            "Etapa de atualização do Mac OS X"
+          ]
+        },
+        {
+          "title": "Entretenimento e diversão",
+          "content": [
+            "Brincadeira divertida sobre atualização do Mac OS X",
+            "Atualização falsa e engraçada do Mac OS X",
+            "Aproveite uma atualização simulada do Mac OS X",
+            "Brincadeira com uma atualização falsa do Mac OS X",
+            "Experiência emocionante de atualização do Mac OS X",
+            "Atualizando o Mac OS X para entretenimento",
+            "Ferramenta de pegadinha de atualização do Mac OS X"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-ubuntu-22-04-update-screen": {
+    "name": "Atualização falsa do Ubuntu 22.04",
+    "icon": "https://emojicdn.elk.sh/🐧",
+    "title": "Atualização falsa do Ubuntu 22.04",
+    "type": "atualização falsa",
+    "tip": {
+      "title": "Atualização falsa do Ubuntu 22.04",
+      "content": [
+        {
+          "title": "Brincadeira do Ubuntu",
+          "description": "Enganar usuários do Linux com uma tela falsa de atualização do Ubuntu 22.04 que parece uma atualização real do sistema, pegando até os mais experientes em tecnologia de surpresa. É uma brincadeira para entusiastas de código aberto."
+        },
+        {
+          "title": "Teste de software Ubuntu",
+          "description": "Simule atualizações do Ubuntu para testar como os aplicativos se comportam durante uma atualização falsa do sistema, sem alterar sua configuração. Este é um truque útil para desenvolvedores ou testadores."
+        },
+        {
+          "title": "Treinamento Ubuntu",
+          "description": "Ensine processos de atualização do Linux com segurança com uma tela de atualização simulada do Ubuntu 22.04 que imita a saída e o progresso do terminal real. Esta é uma maneira eficaz de treinar novos usuários ou equipe de TI."
+        },
+        {
+          "title": "Conteúdo Ubuntu",
+          "description": "Adicione visuais de terminal autênticos aos seus vídeos ou tutoriais com uma tela falsa de atualização do Ubuntu que mostra a experiência do Linux. É um ótimo visual para criadores de conteúdo técnico."
+        },
+        {
+          "title": "Preparação do Ubuntu",
+          "description": "Mostre atualizações durante demonstrações ou apresentações ao vivo com uma tela simulada do Ubuntu 22.04 que cativa seu público com visuais realistas. É perfeito para conferências técnicas ou workshops."
+        },
+        {
+          "title": "Reação do Ubuntu",
+          "description": "Grave reações engraçadas ou frustradas a uma atualização falsa do Ubuntu para obter conteúdo de reação que destaque as peculiaridades dos usuários do Linux. É uma maneira divertida de capturar momentos autênticos."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Atualização simulada do Ubuntu 22.04",
+          "content": [
+            "Atualização falsa do Ubuntu 22.04",
+            "Simulação de atualização do Ubuntu 22.04",
+            "Simular uma atualização do Ubuntu 22.04",
+            "Tela falsa de atualização do Ubuntu 22.04",
+            "Emular uma atualização do Ubuntu 22.04",
+            "Pegadinha da atualização do Ubuntu 22.04",
+            "Processo de atualização do Ubuntu 22.04"
+          ]
+        },
+        {
+          "title": "Experiência realista",
+          "content": [
+            "Atualização do Ubuntu 22.04 com aparência genuína",
+            "Tela realista de atualização do Ubuntu 22.04",
+            "Enganando seus amigos com a atualização do Ubuntu 22.04",
+            "Progresso realista da atualização do Ubuntu 22.04",
+            "Simulação de atualização genuína do Ubuntu 22.04",
+            "Mensagens de atualização genuínas do Ubuntu 22.04",
+            "Atualização do Ubuntu 22.04"
+          ]
+        },
+        {
+          "title": "Entretenimento e diversão",
+          "content": [
+            "Brincadeira divertida sobre a atualização do Ubuntu 22.04",
+            "Atualização falsa engraçada do Ubuntu 22.04",
+            "Aproveite uma atualização simulada para o Ubuntu 22.04",
+            "Brincadeira com uma atualização falsa do Ubuntu 22.04",
+            "Experiência emocionante de atualização do Ubuntu 22.04",
+            "Atualização do Ubuntu 22.04 para entretenimento",
+            "Ferramenta de pegadinha da atualização do Ubuntu 22.04"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-chrome-os-update-screen": {
+    "name": "Atualização falsa do Chrome OS",
+    "icon": "https://emojicdn.elk.sh/🌐",
+    "title": "Atualização falsa do Chrome OS",
+    "type": "atualização falsa",
+    "tip": {
+      "title": "Atualização falsa do ChromeOS",
+      "content": [
+        {
+          "title": "Brincadeira do ChromeOS",
+          "description": "Engane seus amigos com uma tela falsa de atualização do ChromeOS que imita a aparência limpa e minimalista de uma atualização real do sistema. É uma brincadeira rápida e convincente para usuários do Chromebook."
+        },
+        {
+          "title": "Teste de reação do ChromeOS",
+          "description": "Estude as reações dos usuários a um atraso false na atualização do ChromeOS, observando sua paciência ou confusão. Esta é uma maneira sutil de explorar o comportamento do usuário diante de interrupções tecnológicas."
+        },
+        {
+          "title": "Cenas de vídeo do ChromeOS",
+          "description": "Adicione visuais de atualização realistas aos seus tutoriais ou esboços com uma tela falsa do ChromeOS que aprimora seu conteúdo de vídeo técnico. Um toque profissional e limpo para criadores."
+        },
+        {
+          "title": "Brincadeira do ChromeOS Lab",
+          "description": "Enganar um laboratório escolar inteiro exibindo uma tela de atualização falsa em vários Chromebooks, causando uma onda de risos e gemidos dos alunos. Esta é uma brincadeira ousada para um ambiente de tecnologia."
+        },
+        {
+          "title": "Prática de computação do ChromeOS",
+          "description": "Treine o suporte de TI com uma simulação de atualização segura do ChromeOS, replicando cenários do mundo real para praticar a solução de problemas. É uma ferramenta prática para criar confiança no gerenciamento do sistema."
+        },
+        {
+          "title": "Visão geral do ChromeOS",
+          "description": "Aprimore suas apresentações técnicas ou demonstrações com uma tela de atualização simulada do ChromeOS que adiciona visuais dinâmicos à sua discussão. É uma maneira envolvente de ilustrar processos de atualização ou recursos do sistema."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Entretenimento e Entretenimento",
+          "content": [
+            "Pregue uma peça nos seus amigos durante o seu horário de almoço",
+            "Surpreenda os membros da sua família",
+            "Crie vídeos engraçados de reação",
+            "Brincadeira no laboratório de informática da escola",
+            "Brincadeira do Office ChromeOS"
+          ]
+        },
+        {
+          "title": "Educação e treinamento",
+          "content": [
+            "Cenários de treinamento de suporte de TI",
+            "Workshops de atualização de software",
+            "Gravações de tutoriais do ChromeOS",
+            "Apresentações do administrador do sistema",
+            "Estudos de comportamento do usuário"
+          ]
+        },
+        {
+          "title": "Criação de conteúdo",
+          "content": [
+            "Capturas de tela da atualização do ChromeOS",
+            "Visuais de revisão técnica",
+            "Fundos de Vídeo Tutorial",
+            "Imagens de documentação de software",
+            "Hardware de demonstração do ChromeOS"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-11-update-screen": {
+    "name": "Atualização falsa do Windows 11",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Atualização falsa do Windows 11",
+    "type": "atualização falsa",
+    "tip": {
+      "title": "Tela de atualização do Windows 11",
+      "content": [
+        {
+          "title": "Atualização falsa do Windows 11",
+          "description": "Engane seus amigos com uma atualização falsa do Windows 11 que parece presa em um loop infinito, causando confusão e risadas. É uma versão moderna da clássica pegadinha de atualização, com visuais estilosos."
+        },
+        {
+          "title": "Windows 11 Office Spice",
+          "description": "Engane sua equipe durante uma reunião exibindo uma tela de atualização falsa em um computador compartilhado, adicionando um toque divertido ao dia de trabalho. Observe-os se esforçando para descobrir o que está acontecendo."
+        },
+        {
+          "title": "Piada do Windows 11",
+          "description": "Interrompa uma sessão de jogo com uma atualização falsa do Windows 11 que aparece no meio do jogo, pegando os jogadores desprevenidos e provocando uma reação hilária. Perfeito para streamers ou noites de jogos em grupo."
+        },
+        {
+          "title": "Windows 11, uma tecnologia impressionante",
+          "description": "Impressione seus amigos com uma simulação realista de atualização falsa que imita o design elegante do Windows 11, fazendo-os pensar que você hackeou o sistema. Uma maneira nerd de mostrar suas habilidades de brincalhão."
+        },
+        {
+          "title": "Vídeo engraçado do Windows 11",
+          "description": "Grave as reações dos seus amigos a uma atualização falsa do Windows 11 para criar conteúdo de vídeo divertido que capture a surpresa ou frustração deles. Uma configuração simples para imagens virais."
+        },
+        {
+          "title": "Colegas fazem uma pausa no Windows 11",
+          "description": "Surpreenda seus colegas com uma tela de atualização falsa que interrompe o fluxo de trabalho deles, apenas para ser revelada como uma brincadeira após o pânico inicial. Uma jogada ousada para fazer rir no escritório."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Atualização simulada do Windows 11",
+          "content": [
+            "Atualização falsa do Windows 11",
+            "Simulação de atualização do Windows 11",
+            "Simular uma atualização do Windows 11",
+            "Tela falsa de atualização do Windows 11",
+            "Emular uma atualização do Windows 11",
+            "Brincadeira de atualização do Windows 11",
+            "Processo de atualização do Windows 11"
+          ]
+        },
+        {
+          "title": "Experiência realista",
+          "content": [
+            "Atualização genuína do Windows 11",
+            "Tela de atualização realista do Windows 11",
+            "Enganando seus amigos com a atualização do Windows 11",
+            "Progresso realista da atualização do Windows 11",
+            "Simulação de atualização genuína do Windows 11",
+            "Mensagens de atualização genuínas do Windows 11",
+            "Etapa de atualização do Windows 11"
+          ]
+        },
+        {
+          "title": "Entretenimento e Entretenimento",
+          "content": [
+            "Piada divertida sobre a atualização do Windows 11",
+            "Atualização falsa e engraçada do Windows 11",
+            "Aproveite uma simulação de atualização do Windows 11",
+            "Faça uma brincadeira com uma atualização falsa do Windows 11",
+            "Experiência emocionante de atualização do Windows 11",
+            "Atualização do Windows 11 por diversão",
+            "Ferramenta de pegadinha de atualização do Windows 11"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-android-update": {
+    "name": "Atualização falsa do Android",
+    "icon": "https://emojicdn.elk.sh/📱",
+    "title": "Atualização falsa do Android",
+    "type": "atualização falsa",
+    "tip": {
+      "title": "Tela falsa de atualização do Android",
+      "content": [
+        {
+          "title": "Teste de software Android",
+          "description": "Simule uma atualização do Android para testar como os aplicativos se comportam durante uma atualização falsa do sistema, sem afetar seu dispositivo real. É um ambiente seguro para desenvolvedores e curiosos."
+        },
+        {
+          "title": "Apresentação Android",
+          "description": "Estimule seu público durante suas apresentações técnicas com uma tela de atualização simulada do Android que adiciona um visual dinâmico e realista aos seus slides. É uma ótima maneira de ilustrar conceitos de sistemas operacionais móveis."
+        },
+        {
+          "title": "Treinamento técnico Android",
+          "description": "Ensine processos de atualização do Android sem dispositivos reais usando uma tela de atualização simulada que replica a experiência da vida real. É uma ferramenta eficaz para treinar funcionários ou estudantes de TI."
+        },
+        {
+          "title": "Criação de conteúdo Android",
+          "description": "Adicione visuais de atualização autênticos aos seus vídeos ou tutoriais com uma tela falsa do Android que enriquece seu conteúdo de tecnologia. É um toque refinado para suas análises ou guias de instruções."
+        },
+        {
+          "title": "Brincadeira Android",
+          "description": "Engane seus amigos com uma atualização falsa do Android que bloqueia a tela do telefone deles, fazendo-os pensar que estão presos esperando a atualização terminar. Esta é uma brincadeira furtiva para usuários de dispositivos móveis."
+        },
+        {
+          "title": "Estudo de UX do Android",
+          "description": "Analise a reação do usuário ao design ou atrasos de uma atualização falsa do Android e obtenha insights sobre a experiência do usuário sem nenhum risco real. Esta é uma maneira de baixo risco de explorar as reações da IU móvel."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Atualização Simulada do Android",
+          "content": [
+            "Atualização falsa do Android",
+            "Simulação de atualização do Android",
+            "Simular uma atualização do Android",
+            "Tela falsa de atualização do Android",
+            "Emular uma atualização do Android",
+            "Brincadeira de atualização do Android",
+            "Processo de atualização do Android"
+          ]
+        },
+        {
+          "title": "Experiência realista",
+          "content": [
+            "Atualização do Android com aparência genuína",
+            "Tela de atualização realista do Android",
+            "Enganando seus amigos com uma atualização do Android",
+            "Progresso realista da atualização do Android",
+            "Simulação de atualização genuína do Android",
+            "Mensagens de atualização genuína do Android",
+            "Etapa de atualização do Android"
+          ]
+        },
+        {
+          "title": "Entretenimento e prazer",
+          "content": [
+            "Brincadeira divertida de atualização do Android",
+            "Atualização falsa e engraçada do Android",
+            "Aproveite uma atualização simulada do Android",
+            "Pegadinha de atualização falsa do Android",
+            "Experiência emocionante de atualização do Android",
+            "Atualização do Android para entretenimento",
+            "Ferramenta de pegadinha de atualização do Android"
+          ]
+        }
+      ]
+    }
+  },
+  "/dvd-screensaver": {
+    "name": "Protetor de tela de DVD",
+    "icon": "https://emojicdn.elk.sh/📀",
+    "title": "Protetor de tela de DVD",
+    "type": "protetor de tela",
+    "tip": {
+      "title": "Protetor de tela de DVD",
+      "content": [
+        {
+          "title": "DVD de relaxamento",
+          "description": "Relaxe enquanto assiste ao icônico logotipo do DVD saltando pela tela, proporcionando um movimento relaxante e hipnótico que acalma a mente. Uma maneira nostálgica de relaxar após um longo dia."
+        },
+        {
+          "title": "Apresentação em DVD",
+          "description": "Adicione movimento sutil aos seus slides ou intervalos de apresentação com o protetor de tela de DVD, cativando seu público sem distrações. Um toque retrô que alivia o clima."
+        },
+        {
+          "title": "DVD da sala de espera",
+          "description": "Entretenha seus visitantes em uma sala de espera com a sensação retrô do protetor de tela de DVD, oferecendo a eles um show simples e cativante. Uma maneira simples e eficaz de melhorar a atmosfera."
+        },
+        {
+          "title": "DVD para uma noite divertida",
+          "description": "Crie uma atmosfera nostálgica com o protetor de tela de DVD que salta de uma tela grande e desperta conversas sobre tecnologia antiga. É uma adição divertida e original a qualquer reunião."
+        },
+        {
+          "title": "DVD para auxílio ao estudo",
+          "description": "Melhore seu foco durante suas sessões de estudo com o movimento suave e previsível do protetor de tela do DVD, que fornece um fundo relaxante sem distrair. É um companheiro sutil para concentração."
+        },
+        {
+          "title": "DVD para uma pausa",
+          "description": "Preencha telas inativas com animação de proteção de tela de DVD durante os intervalos, transformando uma tela em branco em uma distração divertida e retrô. Ideal para animar momentos entre tarefas."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Relaxamento e atmosfera",
+          "content": [
+            "Relaxe com um protetor de tela nostálgico",
+            "Crie um ambiente calmo",
+            "Desfrute de uma atmosfera retrô",
+            "Crie um ambiente tranquilo",
+            "Perfeito para sessões de meditação"
+          ]
+        },
+        {
+          "title": "Uso profissional e comercial",
+          "content": [
+            "Melhore suas apresentações com movimento",
+            "Exibição dinâmica da sala de espera",
+            "Fundo de tela atraente",
+            "Protetor de tela profissional para reuniões",
+            "Vitrines de loja atraentes"
+          ]
+        },
+        {
+          "title": "Entretenimento e prazer",
+          "content": [
+            "Criador de clima de festa",
+            "Ferramenta divertida para pausa nos estudos",
+            "Protetor de tela interativo para crianças",
+            "Entretenimento visual durante o tempo de inatividade",
+            "Tela de festa personalizável"
+          ]
+        }
+      ]
+    }
+  },
+  "/flip-clock-screensaver": {
+    "name": "Relógio de giro",
+    "icon": "https://emojicdn.elk.sh/⏰",
+    "title": "Protetor de tela Flip Clock",
+    "type": "protetor de tela",
+    "tip": {
+      "title": "Protetor de tela Flip Clock",
+      "content": [
+        {
+          "title": "Relógio de relaxamento",
+          "description": "Aproveite o movimento retrô de um relógio digital para relaxar, enquanto as mudanças rítmicas criam um efeito calmante e meditativo. Uma maneira estilosa de relaxar enquanto fica de olho no tempo."
+        },
+        {
+          "title": "Relógio de mesa giratório",
+          "description": "Adicione um toque de sofisticação ao seu espaço de trabalho com um protetor de tela de relógio flip que também exibe as horas com elegância. É um aprimoramento funcional e estético para qualquer mesa."
+        },
+        {
+          "title": "Apresentação de relógio flip",
+          "description": "Melhore suas conversas com um protetor de tela de relógio flip estiloso que serve como um cronômetro ou um pano de fundo sutil, permitindo que seu público fique de olho no tempo. Uma adição refinada para ambientes profissionais."
+        },
+        {
+          "title": "Relógio flip para casa",
+          "description": "Crie uma atmosfera moderna e minimalista em sua casa com um protetor de tela de relógio flip que combina charme retrô com design contemporâneo. Uma maneira estilosa de ver as horas na sua TV ou monitor."
+        },
+        {
+          "title": "Relógio flip para estudo",
+          "description": "Monitore seu tempo de estudo com as rotações agradáveis de um relógio flip para ajudar você a cumprir sua agenda enquanto adiciona um ritmo relaxante às suas sessões. É uma ferramenta útil para trabalho focado."
+        },
+        {
+          "title": "Virar relógio para esperar",
+          "description": "Entusiasme os visitantes nas áreas de espera com um protetor de tela de relógio flip estiloso que combina utilidade e estética, tornando o tempo mais agradável. Um toque de elegância para espaços públicos."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Relaxamento e estética",
+          "content": [
+            "Estética vintage",
+            "Relógio calmante em tela cheia",
+            "Atmosfera retrô",
+            "Design minimalista moderno",
+            "Design de interiores elegante"
+          ]
+        },
+        {
+          "title": "Profissional e produtividade",
+          "content": [
+            "Exibição de tempo de escritório",
+            "Contexto da apresentação",
+            "Ambiente de estudo estruturado",
+            "Relógio de sala de espera envolvente",
+            "Ferramenta de gerenciamento de tempo"
+          ]
+        },
+        {
+          "title": "Entretenimento e Eventos",
+          "content": [
+            "Atmosfera de festa",
+            "Decoração de eventos",
+            "Função de exposição",
+            "Exibição interativa",
+            "Horário personalizado para eventos"
+          ]
+        }
+      ]
+    }
+  },
+  "/motivational-quote-screensaver": {
+    "quote": {
+      "paragraph": "A única maneira de fazer um ótimo trabalho é amar o que você faz. Se você ainda não encontrou, continue procurando. Não se acomode.",
+      "author": "Steve Jobs"
+    },
+    "name": "Citação motivacional",
+    "icon": "https://emojicdn.elk.sh/💬",
+    "title": "Protetor de tela com citações motivacionais",
+    "type": "protetor de tela",
+    "tip": {
+      "title": "Protetor de tela com citações motivacionais",
+      "content": [
+        {
+          "title": "Citação para animar sua manhã",
+          "description": "Comece seu dia com inspiração exibindo um protetor de tela com citação motivacional que levantará seu ânimo e lhe dará uma vibração positiva. É uma maneira simples de começar o dia com propósito."
+        },
+        {
+          "title": "Cotação para espaço de trabalho",
+          "description": "Motive seu dia de trabalho com um protetor de tela com citações encorajadoras que o manterão focado e energizado no escritório. É um lembrete sutil para permanecer motivado durante longas horas."
+        },
+        {
+          "title": "Citação para reuniões",
+          "description": "Desperte a criatividade e a conversa durante as reuniões de equipe exibindo um protetor de tela com citação motivacional durante os intervalos ou apresentações. É uma maneira atenciosa de inspirar colaboração e ideias."
+        },
+        {
+          "title": "Cotação para auxílio estudo",
+          "description": "Fique inspirado enquanto estuda com um protetor de tela com citações motivacionais que o manterão motivado durante sessões difíceis. Um true estímulo mental para revisões noturnas ou projetos longos."
+        },
+        {
+          "title": "Citação para a atmosfera da casa",
+          "description": "Adicione um toque positivo ao seu espaço de convivência com um protetor de tela motivacional que ilumina o ambiente e encoraja a todos. Um toque decorativo com forte impacto emocional."
+        },
+        {
+          "title": "Citação de Fitness",
+          "description": "Persista em seus treinos com um protetor de tela com citações motivacionais que o manterão motivado durante seus treinos. Um true impulso visual para atingir seus objetivos de condicionamento físico."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Motivação diária",
+          "content": [
+            "Inspiração matinal",
+            "Começo positivo do dia",
+            "Dose diária de motivação",
+            "Citações edificantes sobre refrescos",
+            "Comece o dia com positividade"
+          ]
+        },
+        {
+          "title": "Produtividade e concentração",
+          "content": [
+            "Mantenha o foco no trabalho",
+            "Motivar durante os estudos",
+            "Estimular a criatividade da equipe",
+            "Pausas inspiradoras no trabalho",
+            "Melhore a atmosfera do ambiente de trabalho"
+          ]
+        },
+        {
+          "title": "Uso pessoal e doméstico",
+          "content": [
+            "Design de interiores inspirador",
+            "Exibição de cotação personalizável",
+            "Citações pessoais favoritas",
+            "Incentive rotinas de exercícios",
+            "Atmosfera interior motivadora"
+          ]
+        }
+      ]
+    }
+  },
+  "/no-signal-smpte-color-bars-screensaver": {
+    "name": "Sem sinal",
+    "icon": "https://emojicdn.elk.sh/📡",
+    "title": "Barras coloridas - tela de TV sem sinal",
+    "type": "protetor de tela",
+    "tip": {
+      "title": "Barras coloridas - tela de TV sem sinal",
+      "content": [
+        {
+          "title": "Calibração da barra de cores",
+          "description": "Ajuste seus displays com barras de cores SMPTE retrô para garantir configurações precisas de cor e brilho e visualização ideal. É uma ferramenta clássica para entusiastas de tecnologia e profissionais."
+        },
+        {
+          "title": "Vídeo com barras coloridas",
+          "description": "Melhore sua produção de vídeo com padrões de teste usando barras de cores como referência ou como uma tela de pausa, adicionando um toque profissional ao seu trabalho. É um aceno ao histórico de transmissão que melhora a qualidade."
+        },
+        {
+          "title": "Transmissão com barras coloridas",
+          "description": "Adicione intervalos profissionais aos seus streams com barras de cores que imitam sinais de teste de TV, dando ao seu público um intervalo refinado. Um toque retrô para criadores de conteúdo ao vivo."
+        },
+        {
+          "title": "Arte da barra de cores",
+          "description": "Crie instalações multimídia retrô com barras de cores para criar um cenário vibrante e nostálgico para suas galerias ou projetos criativos. Um visual ousado que combina tecnologia e estética."
+        },
+        {
+          "title": "Atmosfera da barra de cores",
+          "description": "Crie uma vibe de TV vintage em seu espaço com barras de cores que evocam programas de antigamente, perfeitas para uma atmosfera peculiar. Uma maneira fácil de adicionar personalidade a qualquer ambiente."
+        },
+        {
+          "title": "Preenchimento de barra de cores",
+          "description": "Engane seus amigos com uma falha falsa de TV exibindo barras coloridas, fazendo-os acreditar que o sinal está perdido, apenas o tempo suficiente para uma risada. Uma brincadeira inofensiva com um toque retrô."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Entretenimento e farsas",
+          "content": [
+            "piadas em tela cheia sem sinal",
+            "decorações de festa de TV retrô",
+            "efeitos de tela de pausa de streaming",
+            "estética de transmissão vintage",
+            "atmosfera de sala de jogos"
+          ]
+        },
+        {
+          "title": "Usos profissionais",
+          "content": [
+            "Teste de barra de cores SMPTE",
+            "monitorar modelos de calibração",
+            "cartões de teste de produção de vídeo",
+            "referência de configuração de exibição",
+            "verificações de equipamentos de transmissão"
+          ]
+        },
+        {
+          "title": "Projetos Criativos",
+          "content": [
+            "fundos de instalação de arte",
+            "estética de vídeo retrô",
+            "design de aparelho de TV vintage",
+            "acessórios para produção cinematográfica",
+            "exibições multimídia nostálgicas"
+          ]
+        }
+      ]
+    }
+  },
+  "/terms-and-conditions": {
+    "name": "Termos de Uso",
+    "icon": "https://emojicdn.elk.sh/📜",
+    "title": "Termos de Uso",
+    "type": "página"
+  },
+  "/privacy-policy": {
+    "name": "Política de Privacidade",
+    "icon": "https://emojicdn.elk.sh/🔒",
+    "title": "Política de Privacidade",
+    "type": "página"
+  },
+  "/contact-us": {
+    "name": "Entre em contato conosco",
+    "icon": "https://emojicdn.elk.sh/📞",
+    "title": "Entre em contato conosco",
+    "type": "página"
+  },
+  "/kernel-panic": {
+    "name": "Pânico no Kernel",
+    "icon": "https://emojicdn.elk.sh/🔋",
+    "title": "Pânico no Kernel",
+    "type": "pegadinha",
+    "isPage": true,
+    "tip": {
+      "title": "Pânico no Kernel",
+      "content": [
+        {
+          "title": "Pânico no Kernel",
+          "description": "Kernel panic é uma tela de brincadeira que simula um dispositivo eletrônico descarregando."
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "color": "Telas coloridas",
+    "prank": "Telas de pegadinhas",
+    "fake-update": "Telas de atualização falsas",
+    "screensaver": "Protetores de tela",
+    "tip": {
+      "header": "As pessoas usam {tipTitle} para:"
+    }
+  },
+  "settings": {
+    "time": [
+      "Hora da atualização",
+      "Hora de início",
+      "minutos",
+      "Reiniciar"
+    ],
+    "color": [
+      "Download",
+      "{title} fundo"
+    ],
+    "hacker": [
+      "Velocidade"
+    ]
+  },
+  "title": "{title} | Ferramenta on-line",
+  "/path33": {
+    "name": "Nulo",
+    "icon": "https://emojicdn.elk.sh/⚫️",
+    "title": "Nulo",
+    "type": "página",
+    "color": "#000000",
+    "colorName": "Preto",
+    "isPage": true,
+    "tip": {
+      "title": "Nulo",
+      "content": [
+        {
+          "title": "Nulo",
+          "description": "Null é uma página sem texto ou imagens."
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "links": "Links",
+    "uses": "Usos",
+    "other_tips": "Outras dicas"
+  }
 }

@@ -1572,9 +1572,9 @@
     }
   },
   "/motivational-quote-screensaver": {
-    "alıntı": {
-      "paragraf": "Harika işler yapmanın tek yolu yaptığınız işi sevmektir. Eğer henüz bulamadıysanız, aramaya devam edin. Yetinmeyin.",
-      "yazar": "Steve Jobs"
+    "quote": {
+      "paragraph": "Harika işler yapmanın tek yolu yaptığınız işi sevmektir. Eğer henüz bulamadıysanız, aramaya devam edin. Yetinmeyin.",
+      "author": "Steve Jobs"
     },
     "name": "Motivasyonel Söz",
     "icon": "https://emojicdn.elk.sh/💬",
