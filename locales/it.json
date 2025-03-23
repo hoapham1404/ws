@@ -1,0 +1,1795 @@
+{
+  "/": {
+    "name": "Schermo bianco",
+    "color": "#FFFFFF",
+    "isAxis": false,
+    "title": "Schermo bianco",
+    "type": "color",
+    "tip": {
+      "title": "schermo bianco",
+      "content": [
+        {
+          "title": "schermo bianco per la copia dei disegni",
+          "description": "Posiziona un foglio di carta su uno schermo bianco luminoso per tracciare facilmente immagini o schizzi. Questo metodo è semplice ed efficace per riprodurre opere d'arte senza strumenti specializzati."
+        },
+        {
+          "title": "schermo bianco come sorgente luminosa",
+          "description": "Usa uno schermo bianco come retroilluminazione per la fotografia per illuminare uniformemente i soggetti o come tavolo luminoso improvvisato per piccoli progetti. È una soluzione conveniente per creare un'illuminazione morbida e diffusa."
+        },
+        {
+          "title": "schermo bianco per controllare lo schermo",
+          "description": "Visualizza una schermata completamente bianca per ispezionare il display alla ricerca di pixel morti, scolorimento o altri problemi di visualizzazione. Questa tecnica consente di identificare rapidamente imperfezioni che altrimenti potrebbero passare inosservate."
+        },
+        {
+          "title": "Schermata bianca per schermo vuoto",
+          "description": "Schermo bianco per ridurre al minimo le distrazioni durante le attività che non richiedono uno schermo attivo, come il brainstorming o l'ascolto di audio. È un modo semplice per rimanere concentrati senza spegnere il dispositivo."
+        },
+        {
+          "title": "Schermo bianco come lampada da lettura",
+          "description": "Illumina i tuoi libri o appunti in condizioni di scarsa illuminazione utilizzando uno schermo bianco come una morbida lampada da lettura. Regola la luminosità come necessario per una lettura confortevole e senza riflessi."
+        },
+        {
+          "title": "Schermo bianco per il trucco",
+          "description": "Applica il trucco o scatta selfie ben illuminati con uno schermo bianco che fornisce un'illuminazione brillante e uniforme che imita la luce naturale del giorno. Questa configurazione assicura una riproduzione accurata dei colori e risultati impeccabili."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Schermo bianco per la pulizia",
+          "content": [
+            "schermo bianco per la pulizia del monitor",
+            "schermo bianco per trovare i pixel morti",
+            "schermo bianco per trovare punti sporchi"
+          ]
+        },
+        {
+          "title": "Luce bianca online",
+          "content": [
+            "luce bianca per la lettura",
+            "luce bianca per le videochiamate",
+            "luce bianca",
+            "schermo bianco/luce per selfie",
+            "luci LED bianche online"
+          ]
+        },
+        {
+          "title": "Altri",
+          "content": [
+            "schermo bianco del proiettore",
+            "schermo bianco per bambini",
+            "sfondo bianco a schermo intero"
+          ]
+        }
+      ]
+    }
+  },
+  "/black-screen": {
+    "name": "Schermo nero",
+    "color": "#000000",
+    "isAxis": false,
+    "title": "Schermo completamente nero",
+    "type": "color",
+    "tip": {
+      "title": "schermo nero",
+      "content": [
+        {
+          "title": "schermo nero per il secondo monitor",
+          "description": "Imposta un secondo monitor su uno schermo nero per mantenerlo attivo senza visualizzare contenuti che distraggono mentre lavori. Questo trucco preserva la funzionalità riducendo al contempo l'ingombro visivo."
+        },
+        {
+          "title": "schermo nero per risparmiare energia",
+          "description": "Passa a una schermata nera su display OLED o AMOLED per ridurre il consumo energetico, poiché questi display utilizzano meno energia quando visualizzano colori scuri. È una scelta ecologica per un uso prolungato."
+        },
+        {
+          "title": "schermo nero per nascondere l'attività",
+          "description": "Usa una schermata nera per nascondere discretamente il contenuto del tuo computer quando sei lontano, mantenendo privati il tuo lavoro o le tue attività. È un'alternativa rapida al blocco o allo spegnimento del tuo dispositivo."
+        },
+        {
+          "title": "Schermo nero per pulire lo schermo",
+          "description": "Visualizza una schermata nera per evidenziare polvere, macchie o impronte digitali sullo schermo e semplificarne la pulizia. Il netto contrasto ti aiuta a individuare le imperfezioni che necessitano attenzione."
+        },
+        {
+          "title": "Schermo nero come sfondo scuro",
+          "description": "Crea uno sfondo scuro e immersivo per i tuoi giochi, video o progetti creativi impostando lo schermo su nero. Ciò migliora la concentrazione e riduce l'affaticamento degli occhi in condizioni di scarsa illuminazione."
+        },
+        {
+          "title": "Schermo nero per evitare il burn-in dello schermo",
+          "description": "Proteggi i display al plasma o OLED dal burn-in dello schermo visualizzando una schermata nera durante i periodi di inattività o le pause. Questa precauzione prolunga la durata del display impedendo la ritenzione di immagini statiche."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Schermo nero per la pulizia",
+          "content": [
+            "schermo nero per la pulizia del monitor",
+            "schermo nero per trovare i pixel morti",
+            "schermo nero per trovare punti sporchi"
+          ]
+        },
+        {
+          "title": "Colore nero online",
+          "content": [
+            "schermo del computer vuoto",
+            "schermo completamente nero",
+            "schermo completamente nero"
+          ]
+        },
+        {
+          "title": "Altri",
+          "content": [
+            "schermo nero per il proiettore",
+            "schermo nero per bambini",
+            "sfondo nero a schermo intero"
+          ]
+        }
+      ]
+    }
+  },
+  "//red-screen": {
+    "name": "Schermo rosso",
+    "color": "#FF0000",
+    "isAxis": false,
+    "title": "Schermo rosso",
+    "type": "color",
+    "tip": {
+      "title": "schermo rosso",
+      "content": [
+        {
+          "title": "schermo rosso per la fotografia",
+          "description": "Integra uno schermo rosso per aggiungere effetti di colore audaci e drammatici ai tuoi progetti fotografici o video, migliorando l'atmosfera e gli effetti visivi. È un modo creativo per sperimentare l'illuminazione senza apparecchiature aggiuntive."
+        },
+        {
+          "title": "schermo rosso per la salute degli occhi",
+          "description": "Usa uno schermo rosso in ambienti bui per ridurre l'esposizione alla luce blu e alleviare l'affaticamento degli occhi durante l'uso notturno. Questo approccio imita le impostazioni della modalità notturna per un'esperienza visiva più confortevole."
+        },
+        {
+          "title": "schermo rosso per eventi virtuali",
+          "description": "Usa uno schermo rosso come sfondo dinamico per i tuoi meeting virtuali o streaming live per creare un'atmosfera vibrante e memorabile. Cattura l'attenzione e aggiunge un tocco professionale e dinamico alla tua presenza online."
+        },
+        {
+          "title": "Sfondo rosso per la grafica",
+          "description": "Usa uno sfondo rosso per ispirare progetti di graphic design audaci. La sua tonalità vibrante funge da base per immagini o layout di impatto. È ideale per sperimentare contrasti di colore e creare illustrazioni accattivanti."
+        },
+        {
+          "title": "Sfondo rosso per le presentazioni",
+          "description": "Evidenzia le slide o i temi chiave nelle tue presentazioni con uno sfondo rosso per sottolineare i punti importanti e catturare l'attenzione del tuo pubblico. Il suo colore vibrante attira naturalmente l'attenzione sul tuo contenuto."
+        },
+        {
+          "title": "Sfondo rosso per TikTok",
+          "description": "Crea accattivanti video TikTok con uno sfondo rosso vibrante che risalti nei feed e aggiunga un tocco trendy. Abbinalo a luci o filtri creativi per il massimo impatto."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Colore rosso online",
+          "content": [
+            "schermo rosso per tik tok",
+            "schermo rosso per chiamate online",
+            "schermo rosso per le foto"
+          ]
+        },
+        {
+          "title": "Semaforo rosso online",
+          "content": [
+            "luce colorata rossa",
+            "luce rossa per selfie",
+            "luci LED rosse online"
+          ]
+        },
+        {
+          "title": "Altri",
+          "content": [
+            "schermo del proiettore rosso",
+            "schermo rosso vuoto per bambini",
+            "sfondo schermo completamente rosso"
+          ]
+        }
+      ]
+    }
+  },
+  "//green-screen": {
+    "name": "Schermo verde",
+    "color": "#00FF00",
+    "isAxis": false,
+    "title": "Schermo verde",
+    "type": "color",
+    "tip": {
+      "title": "schermo verde",
+      "content": [
+        {
+          "title": "schermo verde per la creazione di video",
+          "description": "Utilizza uno schermo verde per sostituire facilmente gli sfondi durante la produzione video, consentendo ambienti creativi come mondi virtuali o studi professionali. Questa tecnica, chiamata chroma keying, è ampiamente utilizzata nel cinema e nello streaming per la sua versatilità."
+        },
+        {
+          "title": "schermo verde per il relax",
+          "description": "Visualizza uno schermo verde rilassante per lenire i tuoi occhi dopo lunghi periodi di lavoro o di tempo trascorso davanti allo schermo, sfruttando le proprietà naturalmente rilassanti del colore. È un modo semplice per fare una pausa visiva senza lasciare la scrivania."
+        },
+        {
+          "title": "schermo verde per il gaming",
+          "description": "Migliora i tuoi streaming di gioco aggiungendo uno schermo verde immersivo personalizzabile con immagini dinamiche o sovrapposizioni a tema gioco. Ciò migliora l'esperienza visiva del tuo pubblico e aggiunge un tocco professionale."
+        },
+        {
+          "title": "Schermo verde per riunioni",
+          "description": "Installa uno schermo verde per le tue videochiamate e sostituiscilo con uno sfondo professionale e raffinato che mascheri l'ambiente circostante reale. Questo ti aiuta a rimanere concentrato e ad apparire impeccabile durante le riunioni virtuali."
+        },
+        {
+          "title": "Schermo verde per l'istruzione",
+          "description": "Rendi le tue lezioni online più coinvolgenti utilizzando uno schermo verde per integrare elementi visivi interattivi, come mappe o diagrammi, nel tuo flusso video. Ciò aiuta gli studenti a rimanere concentrati e migliora l'esperienza di apprendimento con contenuti dinamici."
+        },
+        {
+          "title": "Schermo verde per Photoshop",
+          "description": "Modifica senza sforzo le tue immagini in Photoshop fotografando i soggetti contro uno schermo verde, che consente una rimozione rapida e precisa dello sfondo. Il verde vivido fornisce un netto contrasto per ritagli più puliti e composizioni creative."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Schermo verde per la pulizia",
+          "content": [
+            "schermo verde per la pulizia del monitor",
+            "schermo verde per trovare i pixel morti",
+            "schermo verde per trovare i punti sporchi"
+          ]
+        },
+        {
+          "title": "Semaforo verde online",
+          "content": [
+            "luce verde per le videochiamate",
+            "illuminazione dello schermo verde",
+            "luce verde",
+            "luce verde per i selfie",
+            "luci LED verdi online"
+          ]
+        },
+        {
+          "title": "Altro",
+          "content": [
+            "schermo verde per proiettore",
+            "schermo verde per bambini",
+            "sfondo verde completo"
+          ]
+        }
+      ]
+    }
+  },
+  "//blue-screen": {
+    "name": "Schermata blu",
+    "color": "#0000FF",
+    "isAxis": false,
+    "title": "Schermata blu",
+    "type": "color",
+    "tip": {
+      "title": "schermata blu",
+      "content": [
+        {
+          "title": "schermata blu per il relax",
+          "description": "Passa a una schermata blu per calmare la mente dopo una giornata impegnativa, poiché è noto che i suoi toni freddi hanno un effetto calmante sul cervello. È un modo semplice per rilassarsi senza dover lasciare il dispositivo."
+        },
+        {
+          "title": "schermata blu per dormire",
+          "description": "Usa uno schermo blu tenue di notte per favorire il sonno riducendo al minimo la luce intensa e creando un'atmosfera riposante. Sebbene sia meno aggressivo dei filtri per la luce blu, può comunque incoraggiare il tuo corpo a rilassarsi."
+        },
+        {
+          "title": "schermata blu per la salute degli occhi",
+          "description": "Visualizza una schermata blu durante lunghe sessioni di lavoro per ridurre l'affaticamento degli occhi, poiché la sua tinta tenue può apparire meno intensa rispetto ai colori più brillanti. Abbinala a pause regolari per un'esperienza di visualizzazione più confortevole."
+        },
+        {
+          "title": "Sfondo blu per presentazioni",
+          "description": "Integra uno sfondo blu come sfondo per le tue presentazioni per migliorare i tuoi elementi visivi o le tue slide con un tono professionale e accessibile. La versatilità di questo colore lo rende ideale sia per ambienti formali che creativi."
+        },
+        {
+          "title": "Sfondo blu per i video",
+          "description": "Crea uno sfondo video unico con uno sfondo blu che aggiunge un tocco moderno e alla moda ai tuoi contenuti, ideale per vlog o tutorial. È un'alternativa discreta agli schermi verdi per effetti chroma key di base."
+        },
+        {
+          "title": "Sfondo blu per tracciamento",
+          "description": "Posiziona la carta su uno sfondo blu per tracciare immagini o motivi in modo nitido, utilizzando l'illuminazione uniforme per guidare le tue linee. Il colore distinto aiuta a distinguere i dettagli semplificando e ottimizzando il processo."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Schermata blu per la pulizia",
+          "content": [
+            "Schermata blu per la pulizia del monitor",
+            "Schermata blu per trovare i pixel morti",
+            "Schermata blu per trovare i punti sporchi"
+          ]
+        },
+        {
+          "title": "Luce blu online",
+          "content": [
+            "Luce blu per le videochiamate",
+            "Luce colorata blu",
+            "Luce blu per selfie",
+            "Luci LED blu online"
+          ]
+        },
+        {
+          "title": "Altri",
+          "content": [
+            "Schermata blu per il proiettore",
+            "Schermata blu per bambini",
+            "Schermo intero sfondo blu"
+          ]
+        }
+      ]
+    }
+  },
+  "//yellow-screen": {
+    "name": "Schermo giallo",
+    "color": "#FFFF00",
+    "isAxis": true,
+    "title": "Schermo giallo",
+    "type": "color",
+    "tip": {
+      "title": "schermo giallo",
+      "content": [
+        {
+          "title": "schermo giallo per il contenuto",
+          "description": "Porta un tocco di energia ai tuoi stream, video o presentazioni con uno schermo giallo che cattura l'attenzione e trasmette entusiasmo. Il suo colore luminoso e allegro mette in risalto i tuoi contenuti e cattura l'attenzione degli spettatori."
+        },
+        {
+          "title": "schermo giallo per il comfort degli occhi",
+          "description": "Scegli uno schermo giallo per ridurre l'esposizione alla luce blu e alleviare l'affaticamento degli occhi durante un uso prolungato del computer, soprattutto di notte. La sua tinta calda imita una fonte di luce più morbida, offrendo un'esperienza visiva più delicata."
+        },
+        {
+          "title": "schermo giallo per la creatività",
+          "description": "Stimola l'ispirazione circondandoti di uno schermo giallo, un colore spesso associato all'ottimismo e all'immaginazione. È un ambiente ideale per sessioni di brainstorming o progetti artistici."
+        },
+        {
+          "title": "Schermata gialla per test",
+          "description": "Testa la precisione e la coerenza del colore del tuo display visualizzando una schermata completamente gialla per individuare incongruenze o difetti. La tinta vivida semplifica l'identificazione di problemi di visualizzazione impercettibili."
+        },
+        {
+          "title": "Schermo giallo per l'insegnamento",
+          "description": "Cattura l'attenzione degli studenti durante le lezioni online con uno schermo giallo brillante che fornisce uno sfondo attraente e vivace. Crea un'atmosfera accogliente che incoraggia la partecipazione e la concentrazione."
+        },
+        {
+          "title": "Schermo giallo per l'atmosfera",
+          "description": "Crea un'atmosfera calda e accogliente nel tuo spazio di lavoro o nei tuoi video con uno schermo giallo che trasuda positività e cordialità. È perfetto per creare un ambiente stimolante per te o per il tuo pubblico."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Schermo giallo per la pulizia",
+          "content": [
+            "schermo giallo per la pulizia del monitor",
+            "schermo giallo per trovare i pixel morti",
+            "schermo giallo per trovare punti sporchi"
+          ]
+        },
+        {
+          "title": "Colore giallo online",
+          "content": [
+            "schermo del computer vuoto",
+            "schermo giallo totale",
+            "schermo giallo completo"
+          ]
+        },
+        {
+          "title": "Altri",
+          "content": [
+            "schermo di proiezione giallo",
+            "schermo giallo per bambini",
+            "sfondo giallo a tutto schermo"
+          ]
+        }
+      ]
+    }
+  },
+  "/orange-screen": {
+    "name": "Schermo arancione",
+    "color": "#FFA500",
+    "isAxis": true,
+    "title": "Schermo arancione",
+    "type": "color",
+    "tip": {
+      "title": "schermo arancione",
+      "content": [
+        {
+          "title": "schermo arancione per gli sfondi",
+          "description": "Metti in risalto la tua presenza virtuale con uno schermo arancione che aggiunge un tocco caldo e audace alle tue videochiamate o trasmissioni. Il suo colore vibrante ti consente di essere memorabile senza sopraffare i tuoi contenuti."
+        },
+        {
+          "title": "schermo arancione per dormire",
+          "description": "Filtra la luce blu con uno schermo arancione la sera per favorire un riposo migliore imitando i toni di un tramonto. È un modo naturale per preparare il corpo al sonno mentre usi il tuo dispositivo."
+        },
+        {
+          "title": "schermo arancione per la creatività",
+          "description": "Scatena la tua immaginazione con uno schermo arancione, un colore noto per stimolare energia e innovazione. Usalo come sfondo per scrivere, progettare o qualsiasi altro sforzo creativo."
+        },
+        {
+          "title": "Schermo arancione per la calibrazione",
+          "description": "Controlla la precisione del colore del tuo display visualizzando una schermata arancione per rivelare eventuali irregolarità di tono o luminosità. La sua tonalità intensa è ideale per una messa a punto efficace delle impostazioni del display."
+        },
+        {
+          "title": "Schermo arancione per l'insegnamento",
+          "description": "Invoglia gli studenti a seguire lezioni online con uno schermo arancione che cattura l'attenzione e favorisce un ambiente di apprendimento stimolante. Il suo colore brillante mantiene i livelli di energia e incoraggia l'interazione."
+        },
+        {
+          "title": "Schermo arancione per l'atmosfera",
+          "description": "Crea un'atmosfera calda e creativa con uno schermo arancione che unisce calore e vivacità, ideale per video informali o uno spazio di lavoro personale. È una scelta versatile per creare un'atmosfera calda."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Schermo arancione per la pulizia",
+          "content": [
+            "schermo arancione per la pulizia del monitor",
+            "schermo arancione per trovare i pixel morti",
+            "schermo arancione per trovare i punti sporchi"
+          ]
+        },
+        {
+          "title": "Colore arancione online",
+          "content": [
+            "schermo del computer vuoto",
+            "schermo arancione totale",
+            "schermo completamente arancione"
+          ]
+        },
+        {
+          "title": "Altri",
+          "content": [
+            "schermo del proiettore arancione",
+            "schermo arancione per bambini",
+            "sfondo arancione a schermo intero"
+          ]
+        }
+      ]
+    }
+  },
+  "/pink-screen": {
+    "name": "Schermata rosa",
+    "color": "#FFC0CB",
+    "isAxis": true,
+    "title": "Schermata rosa",
+    "type": "color",
+    "tip": {
+      "title": "schermo rosa",
+      "content": [
+        {
+          "title": "schermata rosa per il contenuto",
+          "description": "Conferisci ai tuoi video o streaming live un'atmosfera amichevole e accessibile utilizzando uno schermo rosa come sfondo vivace. La sua tonalità morbida e allegra rende immediatamente i tuoi contenuti caldi e invitanti per gli spettatori."
+        },
+        {
+          "title": "schermo rosa per il relax",
+          "description": "Scegli uno schermo rosa per rilassarti dopo una lunga giornata, poiché la sua delicata tonalità pastello crea un senso di pace e comfort. Crea facilmente un ambiente rilassante senza strumenti aggiuntivi."
+        },
+        {
+          "title": "schermo rosa per il design",
+          "description": "Ispira la tua creatività con uno schermo rosa che aggiunge un tocco giocoso ed elegante ai tuoi progetti grafici o artistici. La versatilità di questo colore incoraggia la sperimentazione con layout audaci e armoniosi."
+        },
+        {
+          "title": "schermata rosa per test",
+          "description": "Controlla la precisione del tuo display visualizzando una schermata rosa completa per rilevare incongruenze nella riproduzione del colore o nelle prestazioni dei pixel. Il suo tono distinto aiuta a rivelare problemi sottili che potrebbero influire sulla qualità visiva."
+        },
+        {
+          "title": "schermo rosa per presentazioni",
+          "description": "Cattura l'attenzione del tuo pubblico durante le tue presentazioni con uno schermo rosa intenso che aggiunge dinamismo e personalità alle tue slide. È una scelta potente che cattura l'attenzione evidenziando i punti chiave."
+        },
+        {
+          "title": "schermo rosa per l'atmosfera",
+          "description": "Crea un'atmosfera giocosa e calda nel tuo spazio di lavoro o nei tuoi video con uno schermo rosa che trasuda positività e fascino. È perfetto per creare un'atmosfera spensierata durante le tue trasmissioni informali o progetti personali."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Schermo rosa per la pulizia",
+          "content": [
+            "schermo rosa per la pulizia del monitor",
+            "schermo rosa per trovare i pixel morti",
+            "schermo rosa per trovare i punti sporchi"
+          ]
+        },
+        {
+          "title": "Colore rosa online",
+          "content": [
+            "schermo del computer vuoto",
+            "schermo rosa totale",
+            "schermo rosa completo"
+          ]
+        },
+        {
+          "title": "Altri",
+          "content": [
+            "schermo del proiettore rosa",
+            "schermo rosa per bambini",
+            "sfondo rosa a schermo intero"
+          ]
+        }
+      ]
+    }
+  },
+  "/purple-screen": {
+    "name": "Schermo viola",
+    "color": "#800080",
+    "isAxis": true,
+    "title": "Schermo viola",
+    "type": "color",
+    "tip": {
+      "title": "schermo viola",
+      "content": [
+        {
+          "title": "schermo viola per il benessere",
+          "description": "Migliora la tua routine di meditazione o rilassamento con uno schermo viola rilassante, un colore spesso associato alla tranquillità e all'introspezione. La sua tonalità intensa aiuta a creare uno spazio sereno che favorisce la consapevolezza o il rilassamento."
+        },
+        {
+          "title": "schermo viola per illuminazione",
+          "description": "Aggiungi un bagliore mistico e incantevole alle tue videochiamate o eventi virtuali utilizzando uno schermo viola come fonte di illuminazione creativa. Trasforma la tua configurazione in uno spazio unico e visivamente accattivante."
+        },
+        {
+          "title": "schermo viola per studio",
+          "description": "Esplora la teoria del colore o i concetti di design con uno schermo viola che funge da esempio pratico per studenti o apprendisti. La sua tonalità profonda fornisce uno sfondo stimolante e mirato per i contenuti educativi."
+        },
+        {
+          "title": "Schermata viola per test",
+          "description": "Metti alla prova la precisione e le prestazioni del colore del tuo monitor con uno schermo viola per identificare eventuali irregolarità di visualizzazione o problemi di pixel. La sua tinta vivida rende più facile individuare le imperfezioni sullo schermo."
+        },
+        {
+          "title": "Schermo viola per bambini",
+          "description": "Stimola l'immaginazione dei bambini durante le loro sessioni di apprendimento o di gioco con uno schermo viola magico e stimolante. È un modo divertente per rendere i video o le attività educative più coinvolgenti per le giovani menti."
+        },
+        {
+          "title": "Schermo viola per l'atmosfera",
+          "description": "Crea un'atmosfera creativa e lussuosa con uno schermo viola che unisce raffinatezza e talento artistico, ideale per lo streaming o per spazi personali. Il suo tono maestoso esalta senza sforzo l'atmosfera."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Schermo viola per la pulizia",
+          "content": [
+            "schermo viola per la pulizia del monitor",
+            "schermo viola per trovare i pixel morti",
+            "schermo viola per trovare i punti sporchi"
+          ]
+        },
+        {
+          "title": "Colore viola online",
+          "content": [
+            "schermo del computer vuoto",
+            "schermo viola totale",
+            "schermo viola completo"
+          ]
+        },
+        {
+          "title": "Altri",
+          "content": [
+            "schermo del proiettore viola",
+            "schermo viola per bambini",
+            "sfondo viola a schermo intero"
+          ]
+        }
+      ]
+    }
+  },
+  "/zoom-lighting": {
+    "name": "Illuminazione zoom",
+    "color": "#FFC5C2",
+    "isAxis": true,
+    "title": "Illuminazione per chiamate Zoom",
+    "type": "color",
+    "tip": {
+      "title": "Illuminazione per chiamate Zoom",
+      "content": [
+        {
+          "title": "Illuminazione zoom per le chiamate",
+          "description": "Imposta lo schermo su un colore caldo e tenue, come Zoom Lighting (#FFC5C2), per migliorare il tuo aspetto durante le videochiamate aziendali con un'illuminazione lusinghiera. Imita la luce naturale del giorno, riduce le ombre e crea un aspetto raffinato."
+        },
+        {
+          "title": "Illuminazione zoom per la fotografia",
+          "description": "Crea l'atmosfera perfetta per la fotografia utilizzando Zoom Lighting come una fonte morbida e diffusa che mette in risalto magnificamente i soggetti. La sua delicata tonalità pesca aggiunge calore e profondità ai ritratti o alle foto."
+        },
+        {
+          "title": "Zoom Lighting per l'e-learning",
+          "description": "Riduci l'affaticamento degli occhi e migliora la concentrazione durante le lezioni online impostando lo schermo su Zoom Lighting, che fornisce una luminosità confortevole per lunghe sessioni. Aiuta a mantenere la concentrazione senza la durezza degli schermi più luminosi."
+        },
+        {
+          "title": "Zoom Lighting per sviluppatori",
+          "description": "Prova le tue interfacce utente o palette di colori con illuminazione zoom per vedere come vengono renderizzate in una luce calda e realistica. Questo è un modo pratico per assicurarti che il tuo lavoro abbia un bell'aspetto in diverse condizioni di visualizzazione."
+        },
+        {
+          "title": "Illuminazione zoom per terapia",
+          "description": "Usa l'illuminazione Zoom durante le tue sessioni di benessere o terapia a distanza per creare un'atmosfera rilassante e di supporto con la sua tonalità morbida e accogliente. Questo colore può migliorare la connessione emotiva e il comfort per i clienti."
+        },
+        {
+          "title": "Zoom illuminazione con schermo bianco",
+          "description": "Illumina le tue videochiamate abbinando Zoom Lighting a un secondo monitor impostato su uno schermo bianco, per una luce brillante e uniforme senza apparecchiature aggiuntive. Questa configurazione assicura un'illuminazione ottimale e un'immagine professionale con facilità."
+        }
+      ]
+    }
+  },
+  "/white-noise": {
+    "name": "Rumore bianco",
+    "icon": "https://emojicdn.elk.sh/🔊",
+    "title": "Rumore bianco per dormire",
+    "type": "scherzo",
+    "tip": {
+      "title": "Rumore bianco per dormire",
+      "content": [
+        {
+          "title": "Rumore bianco per la concentrazione",
+          "description": "Maschera il rumore di sottofondo che distrae con il rumore bianco per migliorare la concentrazione durante le sessioni di lavoro o di studio. Il suo ronzio costante crea un ambiente sonoro coerente che ti aiuta a rimanere concentrato."
+        },
+        {
+          "title": "Rumore bianco per dormire",
+          "description": "Addormentati più velocemente riproducendo rumore bianco per attutire i rumori notturni fastidiosi come il traffico o i cani che abbaiano. Il suono continuo imita un ritmo rilassante che culla la tua mente."
+        },
+        {
+          "title": "Rumore bianco per neonati",
+          "description": "Calma i neonati con un rumore bianco che riproduce i suoni confortanti dell'utero a cui sono abituati. È un modo delicato per calmare i neonati irrequieti e stabilire una routine rilassante per andare a dormire."
+        },
+        {
+          "title": "Rumore bianco per la meditazione",
+          "description": "Migliora le tue sessioni di consapevolezza con il rumore bianco che fornisce un'atmosfera neutra e discreta per respirare profondamente e concentrarti. Aiuta a liberare la mente dal disordine e impedisce al rumore esterno di disturbare la tua calma."
+        },
+        {
+          "title": "Rumore bianco per Halloween",
+          "description": "Crea un'atmosfera spettrale combinando rumore bianco con effetti inquietanti per feste di Halloween o ambientazioni infestate. La sua sottile intensità crea un'atmosfera inquietante senza coprire gli altri suoni."
+        },
+        {
+          "title": "Rumore bianco per scherzi",
+          "description": "Produci un sottile rumore bianco in sottofondo per disturbare i tuoi colleghi o amici e farli interrogare sui suoni deboli e misteriosi. È uno scherzo discreto, perfetto per l'ufficio o un ambiente informale."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Migliora la produttività e la concentrazione",
+          "content": [
+            "Migliorare la concentrazione in ambienti rumorosi",
+            "Aumentare la produttività sul lavoro",
+            "Migliora la concentrazione durante le sessioni di studio",
+            "Ridurre al minimo le distrazioni quando si lavora da remoto",
+            "Rendere più facili i periodi di lavoro intenso"
+          ]
+        },
+        {
+          "title": "Sonno e relax",
+          "content": [
+            "Favorisce un addormentamento più rapido",
+            "Maschera i rumori notturni fastidiosi",
+            "Migliorare la qualità del sonno per gli insonni",
+            "Calmare i neonati e i bambini piccoli",
+            "Crea una routine rilassante per andare a dormire"
+          ]
+        },
+        {
+          "title": "Salute e benessere",
+          "content": [
+            "Ridurre i livelli di stress e ansia",
+            "Aiuto con pratiche di meditazione e consapevolezza",
+            "Aiuta a gestire i sintomi dell'acufene",
+            "Incoraggiare il rilassamento durante lo yoga",
+            "Supportare la salute mentale riducendo il sovraccarico sensoriale"
+          ]
+        }
+      ]
+    }
+  },
+  "/broken-screen": {
+    "name": "Schermo rotto finto",
+    "icon": "https://emojicdn.elk.sh/💔",
+    "title": "Schermo rotto finto - Scherzo",
+    "type": "scherzo",
+    "tip": {
+      "title": "Schermo rotto finto - Scherzo",
+      "content": [
+        {
+          "title": "scherzo sullo schermo rotto",
+          "description": "Spaventa i tuoi amici mostrando uno schermo rotto finto incredibilmente realistico, perfetto per una risata immediata. Installalo sul loro dispositivo quando non sono alla ricerca della sorpresa definitiva."
+        },
+        {
+          "title": "schermo rotto per il contenuto",
+          "description": "Aggiungi un tocco di drammaticità ai tuoi video o post sui social media con un effetto finto schermo rotto che cattura immediatamente l'attenzione. È un modo creativo per mettere in scena incidenti tecnici o creare suspense."
+        },
+        {
+          "title": "test di reazione a schermo rotto",
+          "description": "Esercitati a mantenere la calma sotto pressione simulando uno schermo rotto e osservando la tua reazione. È un modo unico per mettere alla prova la tua resilienza senza rischiare danni reali."
+        },
+        {
+          "title": "Schermata rotta per i progetti",
+          "description": "Incorpora uno schermo rotto finto nei tuoi progetti artistici o di design per creare una texture o un elemento visivo unico. Le crepe possono aggiungere un tocco di originalità e usura ai tuoi lavori digitali o misti."
+        },
+        {
+          "title": "Schermo rotto per l'istruzione",
+          "description": "Evidenzia i vantaggi delle pellicole protettive per lo schermo o della manutenzione del dispositivo presentando uno schermo rotto simulato come esempio di avvertimento. Questo è un efficace supporto visivo per le lezioni sulla sicurezza informatica."
+        },
+        {
+          "title": "Schermata rotta per revisione",
+          "description": "Evidenzia la durevolezza nelle recensioni tecniche confrontando uno schermo rotto finto con la resistenza effettiva del dispositivo. Questo è un modo convincente per dimostrare la qualità costruttiva o le caratteristiche di protezione."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Scherzi e scherzi pratici",
+          "content": [
+            "Farsa tecnologica epica",
+            "Spaventare amici e parenti",
+            "Idea per uno scherzo in ufficio",
+            "Scherzo del pesce d'aprile",
+            "Sorprendere qualcuno per divertimento"
+          ]
+        },
+        {
+          "title": "Contenuto e creatività",
+          "content": [
+            "Sfondo d'arte digitale unico",
+            "Contenuti coinvolgenti per i social media",
+            "Immagini di progetti creativi",
+            "Effetto drammatico nei video",
+            "Illustrare storie di orrore tecnologico"
+          ]
+        },
+        {
+          "title": "Istruzione e consapevolezza",
+          "content": [
+            "Dimostrare la fragilità dello schermo",
+            "Promuovere gli accessori protettivi",
+            "Presentazioni sulla sicurezza tecnica",
+            "Aiuto visivo per le discussioni sulla manutenzione degli elettrodomestici",
+            "Sottolineare l'importanza delle garanzie"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows": {
+    "name": "Falso schermo blu della morte",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Falso schermo blu della morte di Windows",
+    "type": "scherzo",
+    "tip": {
+      "title": "Falso schermo blu della morte di Windows",
+      "content": [
+        {
+          "title": "Scherzo BSOD",
+          "description": "Inganna i tuoi amici con una finta schermata blu della morte che imita un true crash di Windows, causando panico e divertimento. È un modo innocuo per realizzare un classico scherzo tecnologico."
+        },
+        {
+          "title": "BSOD delle vacanze",
+          "description": "Aggiungi un tocco di umorismo tecnologico ai tuoi incontri mostrando una finta schermata blu della morte su uno schermo diviso e sorprendendo i tuoi ospiti con un tocco giocoso. È un ottimo modo per rompere il ghiaccio, che tu sia un nerd o un semplice spettatore."
+        },
+        {
+          "title": "BSOD per la formazione",
+          "description": "Insegna tecniche di risoluzione dei problemi del computer in modo sicuro simulando una schermata blu della morte, consentendo agli studenti di esercitarsi nella diagnosi degli errori senza le poste in gioco del mondo reale. È uno strumento pratico per creare fiducia nel supporto tecnico."
+        },
+        {
+          "title": "BSOD per competenze tecniche",
+          "description": "Esercita le tue capacità di supporto tecnico in un ambiente controllato con un finto BSOD che ti sfida a pensare a delle soluzioni. È un modo divertente e senza rischi per migliorare le tue capacità di problem-solving."
+        },
+        {
+          "title": "BSOD per YouTube",
+          "description": "Ravviva i tuoi video di YouTube con un effetto BSOD finto per creare accattivanti contenuti tecnologici o scenette drammatiche. Aggiunge un tocco nostalgico e riconoscibile che risuona con gli spettatori esperti di tecnologia."
+        },
+        {
+          "title": "Test di pazienza BSOD",
+          "description": "Metti alla prova la tua tolleranza allo stress o fai uno scherzo agli altri con un finto BSOD a caricamento lento che mantiene viva la suspense. È un modo unico per vedere come le persone affrontano la frustrazione tecnologica."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Scherzi e intrattenimento",
+          "content": [
+            "Innocuo scherzo informatico",
+            "Scherzo tecnico del pesce d'aprile",
+            "Gag da festa a tema tecnologico",
+            "Spaventa i tuoi amici per divertimento",
+            "Crea contenuti scherzi virali"
+          ]
+        },
+        {
+          "title": "Fine degli studi",
+          "content": [
+            "Insegnamento della risoluzione dei problemi BSOD",
+            "Simulare guasti del sistema",
+            "Formazione del personale di supporto IT",
+            "Dimostrare il ripristino del sistema",
+            "Informarsi sui messaggi di errore"
+          ]
+        },
+        {
+          "title": "Creazione di contenuti",
+          "content": [
+            "Migliorare i video tecnici",
+            "Crea tutorial coinvolgenti",
+            "Riprese di scene tecniche realistiche",
+            "Aggiungere drammaticità alle recensioni tecniche",
+            "Illustrare le discussioni sulla stabilità del sistema"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows-10": {
+    "name": "Schermata blu della morte falsa 10",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Schermata blu di Windows 10 falsa",
+    "type": "scherzo",
+    "tip": {
+      "title": "Schermata blu di errore falsa in Windows 10",
+      "content": [
+        {
+          "title": "Barzelletta BSOD in ufficio",
+          "description": "Inganna i tuoi colleghi con una finta schermata blu di Windows 10 che compare a metà giornata, causando confusione e risate in ufficio. È un modo rapido per una pausa leggera dalla routine."
+        },
+        {
+          "title": "Esci da una chiamata BSOD",
+          "description": "Sfuggi a una noiosa videoconferenza attivando una finta schermata blu della morte come scusa credibile per disconnetterti temporaneamente. È un modo furtivo e divertente per evitare di passare troppo tempo davanti allo schermo."
+        },
+        {
+          "title": "BSOD di formazione informatica",
+          "description": "Esercitati a correggere gli errori di Windows 10 con una finta schermata blu della morte che imita veri crash, offrendoti uno spazio sicuro per sviluppare le tue competenze informatiche. È perfetto per l'apprendimento pratico senza mettere a rischio i sistemi reali."
+        },
+        {
+          "title": "Barzelletta BSOD",
+          "description": "Sorprendi i giocatori a metà sessione con un finto BSOD che interrompe il loro gioco e cattura reazioni esilaranti, sia per divertimento che per contenuto. Una mossa audace che crea scompiglio nei momenti multigiocatore."
+        },
+        {
+          "title": "Video di reazione BSOD",
+          "description": "Registra reazioni divertenti a un false BSOD su Windows 10 per video di reazione che stupiranno il tuo pubblico. Una semplice configurazione per immagini virali."
+        },
+        {
+          "title": "Il team testa BSOD",
+          "description": "Metti alla prova il tempo di risposta e le capacità di risoluzione dei problemi del tuo team IT con un'emergenza BSOD simulata che riproduce scenari di vita reale. È un esercizio pratico per migliorare il coordinamento e la preparazione."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Scherzi divertenti",
+          "content": [
+            "scherzi rapidi in ufficio con falsi BSOD",
+            "schermata blu trolling nello streaming di un gioco",
+            "scherzi di famiglia sul guasto del computer",
+            "Video di reazione alla schermata di morte di Windows",
+            "scherzi BSOD a schermo intero"
+          ]
+        },
+        {
+          "title": "Usi didattici",
+          "content": [
+            "Strumento di formazione per BSOD di supporto al computer",
+            "Dimostrazioni di schermate di crash di Windows",
+            "strumento didattico per l'alfabetizzazione informatica",
+            "esempi di workshop tecnici",
+            "pratica di risposta alla schermata blu"
+          ]
+        },
+        {
+          "title": "Creazione di contenuti",
+          "content": [
+            "Video di scherzi BSOD su YouTube",
+            "Contenuto del meme sul crash di Windows",
+            "clip di reazione ai social media",
+            "streaming di schermate blu false",
+            "dimostrazioni tecniche di esercitazione"
+          ]
+        }
+      ]
+    }
+  },
+  "/hacker-screen": {
+    "name": "Schermata di input dell'hacker",
+    "icon": "https://emojicdn.elk.sh/💻‍💻",
+    "title": "Schermo di digitazione hacker - Scherzo",
+    "type": "scherzo",
+    "tip": {
+      "title": "Schermo hacker - Scherzo",
+      "content": [
+        {
+          "title": "Scherzo dello schermo dell'hacker",
+          "description": "Fai colpo sui tuoi colleghi digitando tasti casuali per generare un codice di hacking false degno di un film. Un modo divertente per sembrare un genio della tecnologia in pochi secondi."
+        },
+        {
+          "title": "Schermo hacker per le lezioni",
+          "description": "Fai appassionare gli studenti alla programmazione mostrando uno schermo hacker che rende la codifica entusiasmante e accessibile. È un divertente escamotage per accendere l'interesse per l'istruzione tecnologica."
+        },
+        {
+          "title": "Schermata hacker per lo streaming",
+          "description": "Aggiungi un tocco tecnologico ai tuoi streaming live con una sovrapposizione di schermo hacker che crea un'atmosfera cyberpunk immersiva. Ideale per streaming incentrati sul gaming o sulla tecnologia."
+        },
+        {
+          "title": "schermo hacker per vlog",
+          "description": "Potenzia i tuoi vlog tecnologici con un effetto schermo hacker che aggiunge elementi visivi di codice dinamico alla tua narrazione. È un modo semplice per dare ai tuoi contenuti un aspetto high-tech e coinvolgente."
+        },
+        {
+          "title": "schermo hacker per presentazioni",
+          "description": "Migliora le tue discussioni tecniche con uno schermo hacker live che mostra il codice in tempo reale e cattura visivamente il tuo pubblico. È un'aggiunta notevole alle discussioni sulla programmazione o sulla sicurezza informatica."
+        },
+        {
+          "title": "schermo hacker per film",
+          "description": "Crea autentiche scene hacker per i tuoi cortometraggi o sketch con uno schermo hacker convincentemente complesso. È una scorciatoia conveniente per gli effetti tecnici cinematografici."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Spettacolo e farse",
+          "content": [
+            "Fai colpo sui tuoi amici con le tue abilità di hackeraggio fasullo",
+            "Fai scherzi ai tuoi familiari",
+            "Aggiungi un po' di divertimento alle feste in ufficio",
+            "Crea contenuti divertenti per i social media",
+            "Inganna i tuoi amici facendogli credere che sei un programmatore"
+          ]
+        },
+        {
+          "title": "Scopi educativi",
+          "content": [
+            "Dimostrare la codifica in classe",
+            "Visualizzare i concetti di programmazione",
+            "Fai in modo che gli studenti siano interessati alla tecnologia",
+            "Ravviva le tue tecniche di presentazione",
+            "Introdurre i principianti alla programmazione"
+          ]
+        },
+        {
+          "title": "Uso creativo e professionale",
+          "content": [
+            "Migliora le immagini dello streaming live",
+            "Creare scene tecniche autentiche nei film",
+            "Aggiungi un'estetica hacker ai video",
+            "Attira l’interesse alle conferenze tecnologiche",
+            "Ispirare discussioni sulla sicurezza informatica"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-10-update-screen": {
+    "name": "Aggiornamento false di Windows 10",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Aggiornamento false di Windows 10",
+    "type": "false-aggiornamento",
+    "tip": {
+      "title": "Aggiornamento false di Windows 10",
+      "content": [
+        {
+          "title": "Scherzo su Windows 10",
+          "description": "Inganna i tuoi amici con un aggiornamento false di Windows 10 frustrantemente realistico e ripetitivo che li lascia incerti su quando finirà. È l'occasione perfetta per uno spavento o una risata."
+        },
+        {
+          "title": "Scherzo di Windows 10 Office",
+          "description": "Inganna i tuoi colleghi mostrando una finta schermata di aggiornamento lento sul loro computer durante una pausa, imitando il famigerato ritardo di Windows. Osserva le loro reazioni quando pensano che il loro lavoro sia bloccato."
+        },
+        {
+          "title": "Chat di gruppo di Windows 10",
+          "description": "Condividi screenshot o clip di un false aggiornamento di Windows 10 nelle chat di gruppo per scatenare risate e confusione tra amici. È un modo semplice per aggiungere un tocco di umorismo tecnologico alla conversazione."
+        },
+        {
+          "title": "Windows 10, una festa riuscita",
+          "description": "Interrompi una serata noiosa proiettando una schermata di aggiornamento finta, trasformando una discussione noiosa in una gag tecnologica che piacerà a tutti. Un modo unico per ravvivare l'atmosfera."
+        },
+        {
+          "title": "Windows 10, un'esperienza personalizzata",
+          "description": "Aggiungi divertenti messaggi personalizzati alla schermata di aggiornamento, come 'Installazione di Candy Crush 2.0', per un tocco extra di assurdità e divertimento. Personalizzalo in base al bersaglio del tuo scherzo e massimizzane l'effetto."
+        },
+        {
+          "title": "Reazione di Windows 10",
+          "description": "Registra reazioni esilaranti a un false aggiornamento di Windows 10, mentre le persone vanno nel panico o si lamentano, per creare contenuti per un video di reazione o semplicemente un bel ricordo. È un ottimo modo per catturare una vera sorpresa."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Aggiornamento simulato di Windows 10",
+          "content": [
+            "Aggiornamento false di Windows 10",
+            "Simulazione di aggiornamento di Windows 10",
+            "Simula un aggiornamento di Windows 10",
+            "Schermata di aggiornamento falsa di Windows 10",
+            "Emula l'aggiornamento di Windows 10",
+            "Scherzo sull'aggiornamento di Windows 10",
+            "Processo di aggiornamento di Windows 10"
+          ]
+        },
+        {
+          "title": "Esperienza realistica",
+          "content": [
+            "Aggiornamento di Windows 10 dall'aspetto autentico",
+            "Schermata di aggiornamento di Windows 10 realistica",
+            "Ingannare i tuoi amici con l'aggiornamento di Windows 10",
+            "Progressi realistici dell'aggiornamento di Windows 10",
+            "Simulazione di aggiornamento originale di Windows 10",
+            "Messaggi di aggiornamento originali di Windows 10",
+            "Fase di aggiornamento di Windows 10"
+          ]
+        },
+        {
+          "title": "Divertimento e piacere",
+          "content": [
+            "Divertente barzelletta sull'aggiornamento di Windows 10",
+            "Divertente aggiornamento false di Windows 10",
+            "Goditi un aggiornamento simulato di Windows 10",
+            "Scherzo con un false aggiornamento di Windows 10",
+            "Esperienza entusiasmante di aggiornamento di Windows 10",
+            "Aggiorna Windows 10 per divertimento",
+            "Strumento scherzo per l'aggiornamento di Windows 10"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-xp-update-screen": {
+    "name": "Aggiornamento false di Windows XP",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Aggiornamento false di Windows XP",
+    "type": "false-aggiornamento",
+    "tip": {
+      "title": "Aggiornamento false di Windows XP",
+      "content": [
+        {
+          "title": "Scherzo di XP Office",
+          "description": "Semina nostalgia e confusione in ufficio con una finta schermata di aggiornamento di Windows XP che sembra uscita direttamente dal passato. È un sottile cenno alla tecnologia retrò che sorprenderà i tuoi colleghi."
+        },
+        {
+          "title": "Test di pazienza XP",
+          "description": "Metti alla prova la frustrazione di qualcuno con un false aggiornamento XP che si trascina all'infinito, imitando la barra di avanzamento di una volta. È un modo divertente per vedere quanto tempo aspetteranno prima di reagire."
+        },
+        {
+          "title": "Divertente XP retrò",
+          "description": "Rivivi l'era di Windows XP visualizzando una finta schermata di aggiornamento che ricorda le connessioni dial-up e clip art per un intrattenimento retrò. Un divertente ritorno al passato per gli appassionati di tecnologia o per i bersagli di scherzi."
+        },
+        {
+          "title": "Contenuto virale XP",
+          "description": "Crea video o post tecnologici retrò con una finta schermata di aggiornamento XP che sfrutta la nostalgia per contenuti virali condivisibili. Abbinala a una didascalia divertente per massimizzarne l'attrattiva online."
+        },
+        {
+          "title": "Lezione sulla tecnologia XP",
+          "description": "Insegna la storia del sistema operativo con una simulazione di aggiornamento XP che mostra visivamente come apparivano gli aggiornamenti decenni fa. È un modo coinvolgente per collegare le tecnologie del passato alle lezioni moderne."
+        },
+        {
+          "title": "Scherzo tra amici XP",
+          "description": "Inganna i tuoi amici con una classica schermata di aggiornamento XP che sembra bloccare il loro dispositivo, scatenando un misto di fastidio e bei ricordi. È uno scherzo innocuo con un pizzico di nostalgia."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Aggiornamento simulato di Windows XP",
+          "content": [
+            "Aggiornamento false di Windows XP",
+            "Simulazione di aggiornamento di Windows XP",
+            "Simula un aggiornamento di Windows XP",
+            "Schermata di aggiornamento di Windows XP falsa",
+            "Emula un aggiornamento di Windows XP",
+            "Scherzo sull'aggiornamento di Windows XP",
+            "Processo di aggiornamento di Windows XP"
+          ]
+        },
+        {
+          "title": "Esperienza realistica",
+          "content": [
+            "Aggiornamento di Windows XP dall'aspetto autentico",
+            "Schermata di aggiornamento di Windows XP realistica",
+            "Ingannare i tuoi amici con l'aggiornamento di Windows XP",
+            "I progressi dell'aggiornamento di Windows XP sono realistici",
+            "Simulazione di aggiornamento originale di Windows XP",
+            "Messaggi di aggiornamento originali di Windows XP",
+            "Fase di aggiornamento di Windows XP"
+          ]
+        },
+        {
+          "title": "Intrattenimento e divertimento",
+          "content": [
+            "Divertente scherzo sull'aggiornamento di Windows XP",
+            "Divertente aggiornamento false di Windows XP",
+            "Goditi un aggiornamento simulato di Windows XP",
+            "Scherzo con un false aggiornamento di Windows XP",
+            "Esperienza entusiasmante di aggiornamento a Windows XP",
+            "Aggiornamento di Windows XP per l'intrattenimento",
+            "Strumento scherzoso per l'aggiornamento di Windows XP"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-mac-os-x-update-screen": {
+    "name": "Aggiornamento false di Mac OS X",
+    "icon": "https://emojicdn.elk.sh/🍎",
+    "title": "Aggiornamento false di Mac OS X",
+    "type": "false-aggiornamento",
+    "tip": {
+      "title": "Aggiornamento false di Mac OS X",
+      "content": [
+        {
+          "title": "Ripieno Mac",
+          "description": "Ingannare i fan del Mac con una falsa schermata di aggiornamento OS X che sembra abbastanza autentica da indurli a controllare il loro sistema è un modo ingegnoso per ingannare anche gli utenti Apple più esperti."
+        },
+        {
+          "title": "Test di pazienza Mac",
+          "description": "Guarda le reazioni mentre procede un false aggiornamento di Mac OS X, testando per quanto tempo qualcuno fissa una falsa barra di avanzamento. È uno scherzo sottile che gioca sull'ansia da aggiornamento."
+        },
+        {
+          "title": "Ausili didattici Mac",
+          "description": "Forma il personale IT o gli studenti con una simulazione di aggiornamento Mac sicura che riproduce scenari reali senza mettere a rischio i sistemi effettivi. È uno strumento utile per esercitarsi nella gestione degli aggiornamenti."
+        },
+        {
+          "title": "Test UX Mac",
+          "description": "Studia le reazioni degli utenti a un false ritardo di aggiornamento di Mac OS X, osservando le loro interazioni o reazioni a un rallentamento. Questo è un modo semplice per esplorare i limiti della pazienza dell'interfaccia utente."
+        },
+        {
+          "title": "Creazione di contenuti Mac",
+          "description": "Aggiungi immagini di aggiornamento realistiche ai tuoi video o tutorial con una schermata finta di Mac OS X che evidenzia il contenuto tecnico. È un tocco carino per le tue recensioni o sketch."
+        },
+        {
+          "title": "Scherzo del gruppo Mac",
+          "description": "Inganna un gruppo di amici con una finta schermata di aggiornamento Apple su un dispositivo condiviso, scatenando risate o lamenti collettivi. È uno scherzo della comunità che crea legami attorno a problemi tecnologici condivisi."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Aggiornamento simulato di Mac OS X",
+          "content": [
+            "Aggiornamento false di Mac OS X",
+            "Simulazione di aggiornamento Mac OS X",
+            "Simula un aggiornamento Mac OS X",
+            "Schermata fittizia di aggiornamento Mac OS X",
+            "Emula un aggiornamento di Mac OS X",
+            "Scherzo sull'aggiornamento di Mac OS X",
+            "Processo di aggiornamento di Mac OS X"
+          ]
+        },
+        {
+          "title": "Esperienza realistica",
+          "content": [
+            "Aggiornamento Mac OS X dall'aspetto autentico",
+            "Schermata di aggiornamento realistica di Mac OS X",
+            "Ingannare i tuoi amici con un aggiornamento di Mac OS X",
+            "Progresso realistico dell'aggiornamento di Mac OS X",
+            "Simulazione di aggiornamento originale Mac OS X",
+            "Messaggi di aggiornamento originali di Mac OS X",
+            "Fase di aggiornamento di Mac OS X"
+          ]
+        },
+        {
+          "title": "Intrattenimento e divertimento",
+          "content": [
+            "Divertente scherzo sull'aggiornamento di Mac OS X",
+            "Divertente aggiornamento false di Mac OS X",
+            "Goditi un aggiornamento simulato di Mac OS X",
+            "Scherzo con un false aggiornamento di Mac OS X",
+            "Esperienza entusiasmante di aggiornamento di Mac OS X",
+            "Aggiornamento di Mac OS X per l'intrattenimento",
+            "Strumento scherzoso per l'aggiornamento di Mac OS X"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-ubuntu-22-04-update-screen": {
+    "name": "Aggiornamento false di Ubuntu 22.04",
+    "icon": "https://emojicdn.elk.sh/🐧",
+    "title": "Aggiornamento false di Ubuntu 22.04",
+    "type": "false-aggiornamento",
+    "tip": {
+      "title": "Aggiornamento false di Ubuntu 22.04",
+      "content": [
+        {
+          "title": "Scherzo di Ubuntu",
+          "description": "Inganna gli utenti Linux con una finta schermata di aggiornamento di Ubuntu 22.04 che sembra un true aggiornamento di sistema, cogliendo di sorpresa anche i più esperti di tecnologia. È uno scherzo per gli appassionati di open source."
+        },
+        {
+          "title": "Test del software Ubuntu",
+          "description": "Simula gli aggiornamenti di Ubuntu per testare il comportamento delle applicazioni durante un false aggiornamento di sistema, senza modificare la configurazione. Questo è un trucco utile per sviluppatori o tester."
+        },
+        {
+          "title": "Corso Ubuntu",
+          "description": "Insegna i processi di aggiornamento Linux in modo sicuro con una schermata di aggiornamento di Ubuntu 22.04 simulata che imita l'output e l'avanzamento del terminale reale. Questo è un modo efficace per formare nuovi utenti o personale IT."
+        },
+        {
+          "title": "Contenuto Ubuntu",
+          "description": "Aggiungi elementi visivi terminali autentici ai tuoi video o tutorial con una schermata di aggiornamento Ubuntu finta che mostra l'esperienza Linux. È un'ottima immagine per i creatori di contenuti tecnologici."
+        },
+        {
+          "title": "Staging di Ubuntu",
+          "description": "Mostra gli aggiornamenti durante le demo o le presentazioni dal vivo con una schermata finta di Ubuntu 22.04 che cattura il tuo pubblico con immagini realistiche. È perfetto per conferenze tecniche o workshop."
+        },
+        {
+          "title": "Reazione Ubuntu",
+          "description": "Registra reazioni divertenti o frustrate a un false aggiornamento di Ubuntu per contenuti di reazione che evidenziano le stranezze degli utenti Linux. È un modo divertente per catturare momenti autentici."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Aggiornamento simulato di Ubuntu 22.04",
+          "content": [
+            "Aggiornamento false di Ubuntu 22.04",
+            "Simulazione dell'aggiornamento di Ubuntu 22.04",
+            "Simula un aggiornamento di Ubuntu 22.04",
+            "Schermata di aggiornamento falsa di Ubuntu 22.04",
+            "Emula un aggiornamento di Ubuntu 22.04",
+            "Scherzo sull'aggiornamento di Ubuntu 22.04",
+            "Processo di aggiornamento di Ubuntu 22.04"
+          ]
+        },
+        {
+          "title": "Esperienza realistica",
+          "content": [
+            "Aggiornamento Ubuntu 22.04 dall'aspetto autentico",
+            "Schermata di aggiornamento realistica di Ubuntu 22.04",
+            "Ingannare i tuoi amici con l'aggiornamento di Ubuntu 22.04",
+            "Progressi realistici dell'aggiornamento di Ubuntu 22.04",
+            "Simulazione di aggiornamento originale di Ubuntu 22.04",
+            "Messaggi di aggiornamento originali di Ubuntu 22.04",
+            "Aggiornamento Ubuntu 22.04"
+          ]
+        },
+        {
+          "title": "Intrattenimento e divertimento",
+          "content": [
+            "Divertente scherzo sull'aggiornamento di Ubuntu 22.04",
+            "Divertente aggiornamento false di Ubuntu 22.04",
+            "Goditi un aggiornamento simulato a Ubuntu 22.04",
+            "Scherzo con un false aggiornamento di Ubuntu 22.04",
+            "Esperienza entusiasmante di aggiornamento a Ubuntu 22.04",
+            "Aggiornamento Ubuntu 22.04 per l'intrattenimento",
+            "Strumento per scherzi di aggiornamento di Ubuntu 22.04"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-chrome-os-update-screen": {
+    "name": "Aggiornamento false di Chrome OS",
+    "icon": "https://emojicdn.elk.sh/🌐",
+    "title": "Aggiornamento false di Chrome OS",
+    "type": "false-aggiornamento",
+    "tip": {
+      "title": "Aggiornamento false di ChromeOS",
+      "content": [
+        {
+          "title": "Scherzo su ChromeOS",
+          "description": "Inganna i tuoi amici con una finta schermata di aggiornamento di ChromeOS che imita l'aspetto pulito e minimalista di un true aggiornamento di sistema. È uno scherzo rapido e convincente per gli utenti di Chromebook."
+        },
+        {
+          "title": "Test di reazione di ChromeOS",
+          "description": "Studia le reazioni degli utenti a un false ritardo di aggiornamento di ChromeOS, osservando la loro pazienza o confusione. Questo è un modo sottile per esplorare il comportamento degli utenti di fronte alle interruzioni tecnologiche."
+        },
+        {
+          "title": "Scene video ChromeOS",
+          "description": "Aggiungi immagini di aggiornamento realistiche ai tuoi tutorial o schizzi con una schermata ChromeOS finta che migliora i tuoi contenuti video tecnologici. Un tocco professionale e pulito per i creatori."
+        },
+        {
+          "title": "Scherzo del laboratorio ChromeOS",
+          "description": "Inganna un intero laboratorio scolastico mostrando una schermata di aggiornamento falsa su più Chromebook, provocando un'ondata di risate e lamenti da parte degli studenti. Questo è uno scherzo audace per un ambiente tecnologico."
+        },
+        {
+          "title": "Pratica informatica ChromeOS",
+          "description": "Forma il supporto IT con una simulazione di aggiornamento sicura di ChromeOS, replicando scenari del mondo reale per esercitarti nella risoluzione dei problemi. È uno strumento pratico per creare fiducia nella gestione del sistema."
+        },
+        {
+          "title": "Panoramica di ChromeOS",
+          "description": "Migliora le tue presentazioni tecniche o demo con una schermata di aggiornamento di ChromeOS simulata che aggiunge elementi visivi dinamici alla tua discussione. È un modo coinvolgente per illustrare i processi di aggiornamento o le funzionalità del sistema."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Intrattenimento e intrattenimento",
+          "content": [
+            "Fai uno scherzo ai tuoi amici durante la pausa pranzo",
+            "Sorprendi i tuoi familiari",
+            "Crea video di reazioni divertenti",
+            "Scherzo al laboratorio informatico della scuola",
+            "Scherzo su ChromeOS in ufficio"
+          ]
+        },
+        {
+          "title": "Istruzione e formazione",
+          "content": [
+            "Scenari di formazione per il supporto IT",
+            "Workshop di aggiornamento software",
+            "Registrazioni tutorial ChromeOS",
+            "Presentazioni per amministratori di sistema",
+            "Studi sul comportamento degli utenti"
+          ]
+        },
+        {
+          "title": "Creazione di contenuti",
+          "content": [
+            "Schermate di aggiornamento di ChromeOS",
+            "Elementi visivi di revisione tecnica",
+            "Sfondi video tutorial",
+            "Immagini della documentazione software",
+            "Hardware dimostrativo di ChromeOS"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-11-update-screen": {
+    "name": "Aggiornamento false di Windows 11",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Aggiornamento false di Windows 11",
+    "type": "false-aggiornamento",
+    "tip": {
+      "title": "Schermata di aggiornamento di Windows 11",
+      "content": [
+        {
+          "title": "Aggiornamento false di Windows 11",
+          "description": "Inganna i tuoi amici con un false aggiornamento di Windows 11 che sembra bloccato in un loop infinito, causando confusione e risate. È una versione moderna del classico scherzo di aggiornamento, con immagini eleganti."
+        },
+        {
+          "title": "Windows 11 Office Spice",
+          "description": "Inganna il tuo team durante una riunione mostrando una schermata di aggiornamento falsa su un computer condiviso, aggiungendo un tocco di divertimento alla giornata lavorativa. Guardali mentre si affannano per capire cosa sta succedendo."
+        },
+        {
+          "title": "Scherzo su Windows 11",
+          "description": "Interrompi una sessione di gioco con un false aggiornamento di Windows 11 che appare a metà partita, cogliendo di sorpresa i giocatori e provocando una reazione esilarante. Perfetto per gli streamer o le serate di gioco di gruppo."
+        },
+        {
+          "title": "Windows 11, una tecnologia impressionante",
+          "description": "Stupisci i tuoi amici con una simulazione realistica di un false aggiornamento che imita il design elegante di Windows 11, facendogli credere che hai hackerato il sistema. Un modo geek per mostrare le tue abilità da burlone."
+        },
+        {
+          "title": "Video divertente di Windows 11",
+          "description": "Registra le reazioni dei tuoi amici a un false aggiornamento di Windows 11 per creare contenuti video divertenti che catturino la loro sorpresa o frustrazione. Una semplice configurazione per immagini virali."
+        },
+        {
+          "title": "I colleghi si prendono una pausa da Windows 11",
+          "description": "Sorprendi i tuoi colleghi con una finta schermata di aggiornamento che interrompe il loro flusso di lavoro, solo per rivelarsi uno scherzo dopo il panico iniziale. Una mossa audace per strappare una risata in ufficio."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Aggiornamento simulato di Windows 11",
+          "content": [
+            "Aggiornamento false di Windows 11",
+            "Simulazione di aggiornamento di Windows 11",
+            "Simula un aggiornamento di Windows 11",
+            "Schermata di aggiornamento falsa di Windows 11",
+            "Emula un aggiornamento di Windows 11",
+            "Scherzo sull'aggiornamento di Windows 11",
+            "Processo di aggiornamento di Windows 11"
+          ]
+        },
+        {
+          "title": "Esperienza realistica",
+          "content": [
+            "Aggiornamento originale di Windows 11",
+            "Schermata di aggiornamento di Windows 11 realistica",
+            "Ingannare i tuoi amici con l'aggiornamento di Windows 11",
+            "Progressi realistici dell'aggiornamento di Windows 11",
+            "Simulazione di aggiornamento originale di Windows 11",
+            "Messaggi di aggiornamento originali di Windows 11",
+            "Fase di aggiornamento di Windows 11"
+          ]
+        },
+        {
+          "title": "Intrattenimento e intrattenimento",
+          "content": [
+            "Divertente scherzo sull'aggiornamento di Windows 11",
+            "Divertente aggiornamento false di Windows 11",
+            "Goditi una simulazione di aggiornamento di Windows 11",
+            "Fai uno scherzo con un false aggiornamento di Windows 11",
+            "Esperienza entusiasmante con l'aggiornamento di Windows 11",
+            "Aggiornamento di Windows 11 per divertimento",
+            "Strumento scherzoso per l'aggiornamento di Windows 11"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-android-update": {
+    "name": "Aggiornamento Android false",
+    "icon": "https://emojicdn.elk.sh/📱",
+    "title": "Aggiornamento Android false",
+    "type": "false-aggiornamento",
+    "tip": {
+      "title": "Schermata di aggiornamento Android falsa",
+      "content": [
+        {
+          "title": "Test del software Android",
+          "description": "Simula un aggiornamento Android per testare il comportamento delle app durante un false aggiornamento del sistema, senza influire sul tuo dispositivo reale. È un ambiente sicuro per sviluppatori e curiosi smanettoni."
+        },
+        {
+          "title": "Presentazione Android",
+          "description": "Emoziona il tuo pubblico durante le tue presentazioni tecniche con una schermata di aggiornamento Android fittizia che aggiunge un elemento visivo dinamico e realistico alle tue slide. È un ottimo modo per illustrare i concetti del sistema operativo mobile."
+        },
+        {
+          "title": "Corso tecnico Android",
+          "description": "Insegna i processi di aggiornamento Android senza dispositivi reali utilizzando una schermata di aggiornamento simulata che riproduce l'esperienza reale. È uno strumento efficace per la formazione del personale IT o degli studenti."
+        },
+        {
+          "title": "Creazione di contenuti Android",
+          "description": "Aggiungi immagini di aggiornamento autentiche ai tuoi video o tutorial con una schermata Android finta che arricchisce i tuoi contenuti tecnologici. È un tocco raffinato per le tue recensioni o guide pratiche."
+        },
+        {
+          "title": "Scherzo Android",
+          "description": "Inganna i tuoi amici con un false aggiornamento Android che blocca lo schermo del loro telefono, facendogli credere di essere bloccati in attesa del completamento dell'aggiornamento. Questo è uno scherzo subdolo per gli utenti di dispositivi mobili."
+        },
+        {
+          "title": "Studio UX Android",
+          "description": "Analizza la reazione degli utenti alla progettazione o ai ritardi di un false aggiornamento Android e ottieni informazioni sull'esperienza utente senza alcuna posta in gioco reale. Questo è un modo a basso rischio per esplorare le reazioni dell'interfaccia utente mobile."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Aggiornamento Android simulato",
+          "content": [
+            "Aggiornamento Android false",
+            "Simulazione di aggiornamento Android",
+            "Simula un aggiornamento Android",
+            "Schermata di aggiornamento Android falsa",
+            "Emula un aggiornamento Android",
+            "Scherzo sull'aggiornamento Android",
+            "Processo di aggiornamento Android"
+          ]
+        },
+        {
+          "title": "Esperienza realistica",
+          "content": [
+            "Aggiornamento Android dall'aspetto autentico",
+            "Schermata di aggiornamento Android realistica",
+            "Ingannare i tuoi amici con un aggiornamento Android",
+            "Progressi realistici degli aggiornamenti Android",
+            "Simulazione di aggiornamento Android originale",
+            "Messaggi di aggiornamento Android originali",
+            "Fase di aggiornamento Android"
+          ]
+        },
+        {
+          "title": "Divertimento e piacere",
+          "content": [
+            "Divertente scherzo di aggiornamento Android",
+            "Divertente aggiornamento false di Android",
+            "Goditi un aggiornamento Android simulato",
+            "Scherzo sull'aggiornamento false di Android",
+            "Esperienza entusiasmante di aggiornamento Android",
+            "Aggiornamento Android per l'intrattenimento",
+            "Strumento scherzoso per l'aggiornamento Android"
+          ]
+        }
+      ]
+    }
+  },
+  "/dvd-screensaver": {
+    "name": "Salvaschermo DVD",
+    "icon": "https://emojicdn.elk.sh/📀",
+    "title": "Salvaschermo DVD",
+    "type": "salvaschermo",
+    "tip": {
+      "title": "Salvaschermo DVD",
+      "content": [
+        {
+          "title": "DVD relax",
+          "description": "Rilassati mentre guardi l'iconico logo del DVD rimbalzare sullo schermo, offrendo un movimento rilassante e ipnotico che calma la mente. Un modo nostalgico per rilassarsi dopo una lunga giornata."
+        },
+        {
+          "title": "Presentazione DVD",
+          "description": "Aggiungi un movimento sottile alle tue diapositive o alle pause della presentazione con lo screensaver DVD, catturando il tuo pubblico senza distrazioni. Un tocco retrò che alleggerisce l'atmosfera."
+        },
+        {
+          "title": "DVD Sala d'attesa",
+          "description": "Intrattieni i tuoi visitatori in una sala d'attesa con l'atmosfera retrò dello screensaver DVD, offrendo loro uno spettacolo semplice e accattivante. Un modo semplice ed efficace per migliorare l'atmosfera."
+        },
+        {
+          "title": "DVD per una serata divertente",
+          "description": "Crea un'atmosfera nostalgica con lo screensaver DVD che rimbalza su un grande schermo e accende conversazioni sulla tecnologia vecchio stile. È un'aggiunta divertente e originale a qualsiasi riunione."
+        },
+        {
+          "title": "DVD per supporto allo studio",
+          "description": "Migliora la tua concentrazione durante le sessioni di studio con il movimento fluido e prevedibile dello screensaver del DVD, che fornisce uno sfondo rilassante senza distrarre. È un compagno discreto per la concentrazione."
+        },
+        {
+          "title": "DVD per una pausa",
+          "description": "Riempi gli schermi inattivi con l'animazione dello screensaver DVD durante le pause, trasformando uno schermo vuoto in una divertente distrazione retrò. Ideale per ravvivare i momenti tra un'attività e l'altra."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Relax e atmosfera",
+          "content": [
+            "Rilassati con uno screensaver nostalgico",
+            "Crea un ambiente rilassante",
+            "Goditi un'atmosfera retrò",
+            "Crea uno sfondo tranquillo",
+            "Perfetto per sessioni di meditazione"
+          ]
+        },
+        {
+          "title": "Uso professionale e commerciale",
+          "content": [
+            "Migliora le tue presentazioni con il movimento",
+            "Visualizzazione dinamica della sala d'attesa",
+            "Sfondo desktop accattivante",
+            "Screensaver professionale per riunioni",
+            "Espositori accattivanti per negozi"
+          ]
+        },
+        {
+          "title": "Divertimento e piacere",
+          "content": [
+            "Creatore di atmosfera di festa",
+            "Strumento divertente per le pause di studio",
+            "Screensaver interattivo per bambini",
+            "Intrattenimento visivo durante i tempi morti",
+            "Schermata Party personalizzabile"
+          ]
+        }
+      ]
+    }
+  },
+  "/flip-clock-screensaver": {
+    "name": "Orologio a rotazione",
+    "icon": "https://emojicdn.elk.sh/⏰",
+    "title": "Salvaschermo con orologio a ribalta",
+    "type": "salvaschermo",
+    "tip": {
+      "title": "Salvaschermo con orologio a ribalta",
+      "content": [
+        {
+          "title": "Orologio a vibrazione per il relax",
+          "description": "Goditi il movimento retrò di un orologio digitale per rilassarti, mentre i cambiamenti ritmici creano un effetto calmante e meditativo. Un modo elegante per rilassarsi tenendo d'occhio l'ora."
+        },
+        {
+          "title": "Orologio da tavolo a ribalta",
+          "description": "Aggiungi un tocco di raffinatezza al tuo spazio di lavoro con uno screensaver flip clock che mostra anche l'ora in modo elegante. È un miglioramento funzionale ed estetico per qualsiasi scrivania."
+        },
+        {
+          "title": "Presentazione dell'orologio a fogli mobili",
+          "description": "Migliora le tue conversazioni con uno screensaver elegante con orologio a ribalta che funge da timer o da sfondo discreto, consentendo al tuo pubblico di tenere d'occhio l'ora. Un'aggiunta raffinata agli ambienti professionali."
+        },
+        {
+          "title": "Orologio a bilanciere per la casa",
+          "description": "Crea un'atmosfera moderna e minimalista nella tua casa con uno screensaver flip clock che unisce il fascino retrò al design contemporaneo. Un modo elegante per leggere l'ora sulla tua TV o sul tuo monitor."
+        },
+        {
+          "title": "Orologio a bilanciere per lo studio",
+          "description": "Tieni traccia del tuo tempo di studio con le piacevoli rotazioni di un orologio a levetta per aiutarti a rispettare il tuo programma, aggiungendo un ritmo rilassante alle tue sessioni. È uno strumento utile per un lavoro concentrato."
+        },
+        {
+          "title": "Gira l'orologio per l'attesa",
+          "description": "Entusiasma i visitatori nelle aree di attesa con uno screensaver elegante con orologio a ribalta che unisce utilità ed estetica, rendendo il tempo più piacevole. Un tocco di eleganza per gli spazi pubblici."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Relax ed estetica",
+          "content": [
+            "Estetica vintage",
+            "Orologio rilassante a schermo intero",
+            "Atmosfera retrò",
+            "Design moderno e minimalista",
+            "Elegante design degli interni"
+          ]
+        },
+        {
+          "title": "Professionale e produttivo",
+          "content": [
+            "Visualizzazione dell'orario d'ufficio",
+            "Sfondo della presentazione",
+            "Ambiente di studio strutturato",
+            "Orologio coinvolgente della sala d'attesa",
+            "Strumento di gestione del tempo"
+          ]
+        },
+        {
+          "title": "Intrattenimento ed eventi",
+          "content": [
+            "Atmosfera di festa",
+            "Decorazione per eventi",
+            "Funzione espositiva",
+            "Schermo interattivo",
+            "Orario personalizzato per gli eventi"
+          ]
+        }
+      ]
+    }
+  },
+  "/motivational-quote-screensaver": {
+    "citazione": {
+      "paragrafo": "L'unico modo per fare un ottimo lavoro è amare ciò che fai. Se non l'hai ancora trovato, continua a cercare. Non accontentarti.",
+      "autore": "Steve Jobs"
+    },
+    "name": "Citazione motivazionale",
+    "icon": "https://emojicdn.elk.sh/💬",
+    "title": "Screensaver con citazioni motivazionali",
+    "type": "salvaschermo",
+    "tip": {
+      "title": "Screensaver con citazioni motivazionali",
+      "content": [
+        {
+          "title": "Citazione per dare una scossa alla tua mattinata",
+          "description": "Inizia la giornata con ispirazione visualizzando uno screensaver con citazioni motivazionali che ti solleverà il morale e ti darà una vibrazione positiva. È un modo semplice per iniziare la giornata con uno scopo."
+        },
+        {
+          "title": "Preventivo per l'area di lavoro",
+          "description": "Motiva la tua giornata lavorativa con uno screensaver con citazioni incoraggianti che ti manterranno concentrato ed energico in ufficio. È un promemoria discreto per rimanere motivato durante le lunghe ore."
+        },
+        {
+          "title": "Citazione per riunioni",
+          "description": "Stimola la creatività e la conversazione durante le riunioni di gruppo visualizzando uno screensaver con citazioni motivazionali durante le pause o le presentazioni. È un modo premuroso per ispirare collaborazione e idee."
+        },
+        {
+          "title": "Preventivo per assistenza allo studio",
+          "description": "Rimani ispirato mentre studi con uno screensaver con citazioni motivazionali che ti manterranno motivato durante le sessioni più difficili. Una vera spinta mentale per la revisione notturna o per progetti lunghi."
+        },
+        {
+          "title": "Citazione per l'atmosfera della casa",
+          "description": "Aggiungi un tocco positivo al tuo spazio abitativo con uno screensaver motivazionale che illumina la stanza e incoraggia tutti. Un tocco decorativo con un forte impatto emotivo."
+        },
+        {
+          "title": "Citazione di fitness",
+          "description": "Perseverate nei vostri allenamenti con uno screensaver con citazioni motivazionali che vi manterranno motivati durante i vostri allenamenti. Un true e proprio stimolo visivo per raggiungere i vostri obiettivi di fitness."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Motivazione quotidiana",
+          "content": [
+            "Una spinta all'ispirazione mattutina",
+            "Inizio positivo della giornata",
+            "Dose giornaliera di motivazione",
+            "Citazioni edificanti sul ristoro",
+            "Inizia la giornata con positività"
+          ]
+        },
+        {
+          "title": "Produttività e concentrazione",
+          "content": [
+            "Resta concentrato sul lavoro",
+            "Motivare durante gli studi",
+            "Stimolare la creatività del team",
+            "Pause di lavoro stimolanti",
+            "Migliorare l'atmosfera dell'ambiente di lavoro"
+          ]
+        },
+        {
+          "title": "Uso personale e domestico",
+          "content": [
+            "Design d'interni ispiratore",
+            "Visualizzazione preventivo personalizzabile",
+            "Citazioni personali preferite",
+            "Incoraggiare le routine di fitness",
+            "Atmosfera interiore motivante"
+          ]
+        }
+      ]
+    }
+  },
+  "/no-signal-smpte-color-bars-screensaver": {
+    "name": "Nessun segnale",
+    "icon": "https://emojicdn.elk.sh/📡",
+    "title": "Barre colorate - Schermo TV senza segnale",
+    "type": "salvaschermo",
+    "tip": {
+      "title": "Barre colorate - Schermo TV senza segnale",
+      "content": [
+        {
+          "title": "Calibrazione barra colore",
+          "description": "Regola i tuoi display con barre colore SMPTE retrò per garantire impostazioni di colore e luminosità accurate e una visualizzazione ottimale. È uno strumento classico per appassionati di tecnologia e professionisti."
+        },
+        {
+          "title": "Video con barre colorate",
+          "description": "Migliora la tua produzione video con modelli di test utilizzando barre colorate come riferimento o come schermata di pausa, aggiungendo un tocco professionale al tuo lavoro. È un cenno alla storia della trasmissione che migliora la qualità."
+        },
+        {
+          "title": "Trasmissione con barre colorate",
+          "description": "Aggiungi pause professionali ai tuoi flussi con barre colorate che imitano i segnali di test TV, offrendo al tuo pubblico una pausa raffinata. Un tocco retrò per i creatori di contenuti live."
+        },
+        {
+          "title": "Barra dei colori",
+          "description": "Crea installazioni multimediali retrò con barre colorate per creare uno sfondo vibrante e nostalgico per le tue gallerie o progetti creativi. Un'immagine audace che unisce tecnologia ed estetica."
+        },
+        {
+          "title": "Atmosfera della barra dei colori",
+          "description": "Crea un'atmosfera da TV vintage nel tuo spazio con barre colorate che evocano programmi di un tempo, perfette per un'atmosfera eccentrica. Un modo semplice per aggiungere carattere a qualsiasi stanza."
+        },
+        {
+          "title": "Riempimento barra colore",
+          "description": "Inganna i tuoi amici con un false glitch TV mostrando barre colorate, facendogli credere che il segnale è perso, giusto il tempo di una risata. Uno scherzo innocuo con un tocco retrò."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Spettacolo e farse",
+          "content": [
+            "scherzi a schermo intero senza segnale",
+            "decorazioni per feste a tema TV retrò",
+            "effetti di pausa dello streaming",
+            "estetica della trasmissione d'epoca",
+            "atmosfera da sala giochi"
+          ]
+        },
+        {
+          "title": "Usi professionali",
+          "content": [
+            "Test della barra colore SMPTE",
+            "monitorare i modelli di calibrazione",
+            "schede di prova per la produzione video",
+            "riferimento alla configurazione del display",
+            "controlli delle apparecchiature di trasmissione"
+          ]
+        },
+        {
+          "title": "Progetti creativi",
+          "content": [
+            "sfondi di installazioni artistiche",
+            "estetica video retrò",
+            "design di set TV d'epoca",
+            "accessori per la produzione cinematografica",
+            "esposizioni multimediali nostalgiche"
+          ]
+        }
+      ]
+    }
+  },
+  "/terms-and-conditions": {
+    "name": "Termini di utilizzo",
+    "icon": "https://emojicdn.elk.sh/📜",
+    "title": "Termini di utilizzo",
+    "type": "pagina"
+  },
+  "/privacy-policy": {
+    "name": "Informativa sulla privacy",
+    "icon": "https://emojicdn.elk.sh/🔒",
+    "title": "Informativa sulla privacy",
+    "type": "pagina"
+  },
+  "/contact-us": {
+    "name": "Contattaci",
+    "icon": "https://emojicdn.elk.sh/📞",
+    "title": "Contattaci",
+    "type": "pagina"
+  },
+  "/kernel-panic": {
+    "name": "Panico del kernel",
+    "icon": "https://emojicdn.elk.sh/🔋",
+    "title": "Panico del kernel",
+    "type": "scherzo",
+    "isPage": true,
+    "tip": {
+      "title": "Panico del kernel",
+      "content": [
+        {
+          "title": "Panico del kernel",
+          "description": "Kernel panic è uno scherzo che simula la scarica di un dispositivo elettronico."
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "color": "Schermi a colori",
+    "prank": "Schermate scherzo",
+    "fake-update": "Schermate di aggiornamento false",
+    "screensaver": "Screensaver",
+    "tip": {
+      "header": "Le persone usano {tipTitle} per:"
+    }
+  },
+  "settings": {
+    "time": [
+      "Tempo di aggiornamento",
+      "Ora di inizio",
+      "minuti",
+      "Ricomincia"
+    ],
+    "color": [
+      "Scaricamento",
+      "{title} sfondo"
+    ],
+    "hacker": [
+      "Velocità"
+    ]
+  },
+  "title": "{title} | Strumento online",
+  "/null": {
+    "name": "Nulla",
+    "icon": "https://emojicdn.elk.sh/⚫️",
+    "title": "Nulla",
+    "type": "pagina",
+    "color": "#000000",
+    "colorName": "Nero",
+    "isPage": true,
+    "tip": {
+      "title": "Nulla",
+      "content": [
+        {
+          "title": "Nulla",
+          "description": "Null è una pagina senza testo o immagini."
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "links": "Collegamenti",
+    "uses": "Utilizzi",
+    "other_tips": "Altri suggerimenti"
+  }
+}

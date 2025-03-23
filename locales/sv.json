@@ -1,0 +1,1795 @@
+{
+  "/": {
+    "name": "Vit skärm",
+    "color": "#FFFFFF",
+    "isAxis": false,
+    "title": "Vit skärm",
+    "type": "color",
+    "tip": {
+      "title": "vit skärm",
+      "content": [
+        {
+          "title": "vit skärm för att kopiera ritningar",
+          "description": "Placera ett pappersark på en ljus vit skärm för att enkelt spåra bilder eller skisser. Denna metod är enkel och effektiv för att reproducera konstverk utan specialverktyg."
+        },
+        {
+          "title": "vit skärm som ljuskälla",
+          "description": "Använd en vit skärm som bakgrundsbelysning för fotografering för att jämnt belysa motiv eller som ett provisoriskt ljusbord för små projekt. Det är en kostnadseffektiv lösning för att skapa mjuk, diffus belysning."
+        },
+        {
+          "title": "vit skärm för att kontrollera skärmen",
+          "description": "Visa en hel vit skärm för att inspektera din skärm för döda pixlar, missfärgning eller andra skärmproblem. Den här tekniken gör att du snabbt kan identifiera brister som annars skulle kunna förbli obemärkta."
+        },
+        {
+          "title": "Vit skärm för tom skärm",
+          "description": "Vit skärm för att minimera distraktioner under uppgifter som inte kräver en aktiv skärm, till exempel brainstorming eller att lyssna på ljud. Det är ett enkelt sätt att hålla fokus utan att stänga av enheten."
+        },
+        {
+          "title": "Vit skärm som läslampa",
+          "description": "Belys dina böcker eller anteckningar i svagt ljus genom att använda en vit skärm som en mjuk läslampa. Justera ljusstyrkan efter behov för bekväm, bländfri läsning."
+        },
+        {
+          "title": "Vit skärm för smink",
+          "description": "Sminka eller ta väl upplysta selfies med en vit skärm som ger ljus, jämn belysning som efterliknar naturligt dagsljus. Denna inställning säkerställer exakt färgåtergivning och felfria resultat."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Vit skärm för rengöring",
+          "content": [
+            "vit skärm för bildskärmsrengöring",
+            "vit skärm för att hitta döda pixlar",
+            "vit skärm för att hitta smutsiga fläckar"
+          ]
+        },
+        {
+          "title": "Vitt ljus online",
+          "content": [
+            "vitt ljus för läsning",
+            "vitt ljus för videosamtal",
+            "vitt ljus",
+            "vit skärm/ljus för selfie",
+            "vita LED-lampor online"
+          ]
+        },
+        {
+          "title": "Andra",
+          "content": [
+            "vit projektorduk",
+            "vit skärm för barn",
+            "vit helskärmsbakgrund"
+          ]
+        }
+      ]
+    }
+  },
+  "/black-screen": {
+    "name": "Svart skärm",
+    "color": "#000000",
+    "isAxis": false,
+    "title": "Fullständig svart skärm",
+    "type": "color",
+    "tip": {
+      "title": "svart skärm",
+      "content": [
+        {
+          "title": "svart skärm för andra monitor",
+          "description": "Ställ in en andra bildskärm till en svart skärm för att hålla den aktiv utan att visa distraherande innehåll medan du arbetar. Det här tricket bevarar funktionaliteten samtidigt som det minskar visuella röran."
+        },
+        {
+          "title": "svart skärm för att spara el",
+          "description": "Byt till en svart skärm på OLED- eller AMOLED-skärmar för att minska strömförbrukningen, eftersom dessa skärmar använder mindre ström när de visar mörka färger. Det är ett miljövänligt val för långvarig användning."
+        },
+        {
+          "title": "svart skärm för att dölja aktivitet",
+          "description": "Använd en svart skärm för att diskret dölja innehållet på din dator medan du är borta, hålla ditt arbete eller aktiviteter privata. Det är ett snabbt alternativ till att låsa eller stänga av din enhet."
+        },
+        {
+          "title": "Svart skärm för att rengöra skärmen",
+          "description": "Visa en svart skärm för att markera damm, fläckar eller fingeravtryck på skärmen och göra den lättare att rengöra. Den skarpa kontrasten hjälper dig att upptäcka brister som behöver åtgärdas."
+        },
+        {
+          "title": "Svart skärm som mörk bakgrund",
+          "description": "Skapa en mörk, uppslukande bakgrund för dina spel, videor eller kreativa projekt genom att ställa in skärmen på svart. Detta förbättrar koncentrationen och minskar påfrestningen på ögonen i svagt ljus."
+        },
+        {
+          "title": "Svart skärm för att förhindra att skärmen bränns in",
+          "description": "Skydda plasma- eller OLED-skärmar från att bränna in skärmen genom att visa en svart skärm under perioder av inaktivitet eller pauser. Denna försiktighetsåtgärd förlänger skärmens livslängd genom att förhindra kvarhållande av statisk bild."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Svart skärm för rengöring",
+          "content": [
+            "svart skärm för skärmrengöring",
+            "svart skärm för att hitta döda pixlar",
+            "svart skärm för att hitta smutsiga fläckar"
+          ]
+        },
+        {
+          "title": "Svart färg online",
+          "content": [
+            "tom datorskärm",
+            "total svart skärm",
+            "fullständig svart skärm"
+          ]
+        },
+        {
+          "title": "Andra",
+          "content": [
+            "svart duk för projektor",
+            "svart skärm för barn",
+            "helskärmssvart bakgrund"
+          ]
+        }
+      ]
+    }
+  },
+  "/red-screen": {
+    "name": "Röd skärm",
+    "color": "#FF0000",
+    "isAxis": false,
+    "title": "Röd skärm",
+    "type": "color",
+    "tip": {
+      "title": "röd skärm",
+      "content": [
+        {
+          "title": "röd skärm för fotografering",
+          "description": "Integrera en röd skärm för att lägga till djärva och dramatiska färgeffekter till dina foto- eller videoprojekt, vilket förbättrar stämningen och visuella effekter. Det är ett kreativt sätt att experimentera med belysning utan extra utrustning."
+        },
+        {
+          "title": "röd skärm för ögonhälsa",
+          "description": "Använd en röd skärm i mörka miljöer för att minska exponeringen för blått ljus och lindra påfrestningar på ögonen vid användning på natten. Detta tillvägagångssätt efterliknar inställningarna för nattläge för en bekvämare tittarupplevelse."
+        },
+        {
+          "title": "röd skärm för virtuella händelser",
+          "description": "Använd en röd skärm som en dynamisk bakgrund för dina virtuella möten eller livestreamar för att skapa en levande och minnesvärd atmosfär. Det fångar uppmärksamhet och ger en professionell och dynamisk touch till din onlinenärvaro."
+        },
+        {
+          "title": "Röd bakgrund för grafik",
+          "description": "Använd en röd bakgrund för att inspirera till djärva grafiska designprojekt. Dess livfulla nyans fungerar som grunden för effektfulla bilder eller layouter. Den är idealisk för att experimentera med färgkontraster och skapa iögonfallande illustrationer."
+        },
+        {
+          "title": "Röd bakgrund för presentationer",
+          "description": "Markera nyckelbilder eller teman i dina presentationer med en röd bakgrund för att betona viktiga punkter och fängsla din publik. Dess livfulla färg drar naturligtvis uppmärksamheten till ditt innehåll."
+        },
+        {
+          "title": "Röd bakgrund för TikTok",
+          "description": "Skapa fängslande TikTok-videor med en levande röd bakgrund som sticker ut i flöden och ger en trendig touch. Para ihop den med kreativ belysning eller filter för maximal effekt."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Röd färg online",
+          "content": [
+            "röd skärm för tiktoks",
+            "röd skärm för onlinesamtal",
+            "röd skärm för foton"
+          ]
+        },
+        {
+          "title": "Rött ljus online",
+          "content": [
+            "röd färgat ljus",
+            "rött ljus för selfie",
+            "röda LED-lampor online"
+          ]
+        },
+        {
+          "title": "Andra",
+          "content": [
+            "röd projektorduk",
+            "tom röd skärm för barn",
+            "full röd skärmbakgrund"
+          ]
+        }
+      ]
+    }
+  },
+  "/green-screen": {
+    "name": "Grön skärm",
+    "color": "#00FF00",
+    "isAxis": false,
+    "title": "Grön skärm",
+    "type": "color",
+    "tip": {
+      "title": "grön skärm",
+      "content": [
+        {
+          "title": "grön skärm för att skapa video",
+          "description": "Använd en grön skärm för att enkelt ersätta bakgrunder under videoproduktion, vilket möjliggör kreativa miljöer som virtuella världar eller professionella studior. Denna teknik, som kallas chroma keying, används ofta inom film och streaming för sin mångsidighet."
+        },
+        {
+          "title": "grön skärm för avkoppling",
+          "description": "Visa en lugnande grön skärm för att lugna dina ögon efter långa perioder av arbete eller skärmtid, och utnyttja färgens naturligt avslappnande egenskaper. Det är ett enkelt sätt att ta en visuell paus utan att lämna ditt skrivbord."
+        },
+        {
+          "title": "grön skärm för spel",
+          "description": "Förbättra dina spelströmmar genom att lägga till en anpassningsbar uppslukande grön skärm med dynamiska bilder eller överlägg med speltema. Detta förbättrar din publiks tittarupplevelse och ger en professionell touch."
+        },
+        {
+          "title": "Grön skärm för möten",
+          "description": "Installera en grön skärm för dina videosamtal och ersätt den med en professionell, polerad bakgrund som maskerar din verkliga omgivning. Detta hjälper dig att hålla fokus och se skarp ut under virtuella möten."
+        },
+        {
+          "title": "Grön skärm för utbildning",
+          "description": "Gör dina onlineklasser mer engagerande genom att använda en grön skärm för att integrera interaktiva bilder, som kartor eller diagram, i din videoström. Detta hjälper eleverna att hålla fokus och förbättrar inlärningsupplevelsen med dynamiskt innehåll."
+        },
+        {
+          "title": "Grön skärm för Photoshop",
+          "description": "Redigera dina bilder enkelt i Photoshop genom att fotografera dina motiv mot en grön skärm, vilket möjliggör snabb och exakt bakgrundsborttagning. Den livfulla gröna ger skarp kontrast för renare utskärningar och kreativa kompositioner."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Grön skärm för rengöring",
+          "content": [
+            "grön skärm för skärmrengöring",
+            "grön skärm för att hitta döda pixlar",
+            "grön skärm för att hitta smutsiga fläckar"
+          ]
+        },
+        {
+          "title": "Grönt ljus online",
+          "content": [
+            "grönt ljus för videosamtal",
+            "grön skärm belysning",
+            "grönt ljus",
+            "grönt ljus för selfie",
+            "gröna LED-lampor online"
+          ]
+        },
+        {
+          "title": "Annat",
+          "content": [
+            "grön duk för projektor",
+            "grön skärm för barn",
+            "full grön skärm bakgrund"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen": {
+    "name": "Blå skärm",
+    "color": "#0000FF",
+    "isAxis": false,
+    "title": "Blå skärm",
+    "type": "color",
+    "tip": {
+      "title": "blå skärm",
+      "content": [
+        {
+          "title": "blå skärm för avkoppling",
+          "description": "Byt till en blå skärm för att lugna ditt sinne efter en hektisk dag, eftersom dess svala toner är kända för att ha en lugnande effekt på hjärnan. Det är ett enkelt sätt att koppla av utan att behöva lämna din enhet."
+        },
+        {
+          "title": "blå skärm för att vila",
+          "description": "Använd en mjuk blå skärm på natten för att främja sömn genom att minimera starkt ljus och skapa en vilsam atmosfär. Även om det är mindre hårda än filter för blått ljus, kan det fortfarande uppmuntra din kropp att slappna av."
+        },
+        {
+          "title": "blå skärm för ögonhälsa",
+          "description": "Visa en blå skärm under långa arbetspass för att minska påfrestningarna på ögonen, eftersom dess mjuka nyans kan verka mindre intensiv än ljusare färger. Kombinera den med regelbundna pauser för en bekvämare skärmupplevelse."
+        },
+        {
+          "title": "Blå bakgrund för presentationer",
+          "description": "Integrera en blå bakgrund som bakgrund för dina presentationer för att förbättra dina bilder eller bilder med en professionell och lättillgänglig ton. Den här färgens mångsidighet gör den idealisk för både formella och kreativa miljöer."
+        },
+        {
+          "title": "Blå bakgrund för videor",
+          "description": "Skapa en unik videobakgrund med en blå bakgrund som ger ditt innehåll en modern, trendig touch, perfekt för vloggar eller handledningar. Det är ett subtilt alternativ till gröna skärmar för grundläggande chroma key-effekter."
+        },
+        {
+          "title": "Blå bakgrund för spårning",
+          "description": "Placera papper på en blå bakgrund för att spåra bilder eller mönster skarpt, använd den jämna belysningen för att styra dina linjer. Den distinkta färgen hjälper till att urskilja detaljer samtidigt som den förenklar och effektiviserar processen."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Blå skärm för rengöring",
+          "content": [
+            "Blå skärm för bildskärmsrengöring",
+            "Blå skärm för att hitta döda pixlar",
+            "Blå skärm för att hitta smutsiga fläckar"
+          ]
+        },
+        {
+          "title": "Blå ljus online",
+          "content": [
+            "Blå ljus för videosamtal",
+            "Blå färgat ljus",
+            "Blå ljus för selfie",
+            "Blå LED-lampor online"
+          ]
+        },
+        {
+          "title": "Andra",
+          "content": [
+            "Blå duk för projektor",
+            "Blå skärm för barn",
+            "Helskärmsblå bakgrund"
+          ]
+        }
+      ]
+    }
+  },
+  "/yellow-screen": {
+    "name": "Gul skärm",
+    "color": "#FFFF00",
+    "isAxis": true,
+    "title": "Gul skärm",
+    "type": "color",
+    "tip": {
+      "title": "gul skärm",
+      "content": [
+        {
+          "title": "gul skärm för innehåll",
+          "description": "Ge en touch av energi till dina strömmar, videor eller presentationer med en gul skärm som fångar uppmärksamhet och förmedlar spänning. Dess ljusa, glada färg framhäver ditt innehåll och fängslar tittarnas uppmärksamhet."
+        },
+        {
+          "title": "gul skärm för ögonkomfort",
+          "description": "Välj en gul skärm för att minska exponeringen för blått ljus och lindra ögonbelastningen under långvarig datoranvändning, särskilt på natten. Dess varma nyans efterliknar en mjukare ljuskälla och ger en mjukare tittarupplevelse."
+        },
+        {
+          "title": "gul skärm för kreativitet",
+          "description": "Stimulera inspiration genom att omge dig med en gul skärm, en färg som ofta förknippas med optimism och fantasi. Det är en idealisk miljö för brainstormingsessioner eller konstprojekt."
+        },
+        {
+          "title": "Gul skärm för testning",
+          "description": "Testa din skärms färgnoggrannhet och konsistens genom att visa en hel gul skärm för att upptäcka inkonsekvenser eller defekter. Den livfulla nyansen gör det lättare att identifiera subtila skärmproblem."
+        },
+        {
+          "title": "Gul skärm för undervisning",
+          "description": "Fånga elevernas uppmärksamhet under onlinelektioner med en ljusgul skärm som ger en attraktiv och levande bakgrund. Det skapar en välkomnande atmosfär som uppmuntrar deltagande och fokus."
+        },
+        {
+          "title": "Gul skärm för stämning",
+          "description": "Skapa en varm och välkomnande atmosfär på din arbetsplats eller i videor med en gul skärm som utstrålar positivitet och vänlighet. Det är perfekt för att skapa en stimulerande miljö för dig själv eller din publik."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Gul skärm för rengöring",
+          "content": [
+            "gul skärm för skärmrengöring",
+            "gul skärm för att hitta döda pixlar",
+            "gul skärm för att hitta smutsiga fläckar"
+          ]
+        },
+        {
+          "title": "Gul färg online",
+          "content": [
+            "tom datorskärm",
+            "total gul skärm",
+            "hel gul skärm"
+          ]
+        },
+        {
+          "title": "Andra",
+          "content": [
+            "gul projektorduk",
+            "gul skärm för barn",
+            "gul helskärmsbakgrund"
+          ]
+        }
+      ]
+    }
+  },
+  "/orange-screen": {
+    "name": "Orange skärm",
+    "color": "#FFA500",
+    "isAxis": true,
+    "title": "Orange skärm",
+    "type": "color",
+    "tip": {
+      "title": "orange skärm",
+      "content": [
+        {
+          "title": "orange skärm för bakgrunder",
+          "description": "Markera din virtuella närvaro med en orange skärm som ger en varm, djärv touch till dina videosamtal eller sändningar. Dess livfulla färg gör att du kan bli minnesvärd utan att överväldiga ditt innehåll."
+        },
+        {
+          "title": "orange skärm för sömn",
+          "description": "Filtrera blått ljus med en orange skärm på kvällen för att främja bättre vila genom att efterlikna tonerna av en solnedgång. Det är ett naturligt sätt att förbereda din kropp för sömn medan du använder enheten."
+        },
+        {
+          "title": "orange skärm för kreativitet",
+          "description": "Väck din fantasi med en orange skärm, en färg som är känd för att stimulera energi och innovation. Använd den som bakgrund för att skriva, designa eller någon annan kreativ strävan."
+        },
+        {
+          "title": "Orange skärm för kalibrering",
+          "description": "Kontrollera skärmens färgnoggrannhet genom att visa en orange skärm för att avslöja eventuella ojämnheter i ton eller ljusstyrka. Dess fylliga nyans är idealisk för att effektivt finjustera skärminställningar."
+        },
+        {
+          "title": "Orange skärm för undervisning",
+          "description": "Förleda eleverna att ta onlinekurser med en orange skärm som fångar uppmärksamhet och främjar en stimulerande inlärningsmiljö. Dess ljusa färg upprätthåller energinivåer och uppmuntrar interaktion."
+        },
+        {
+          "title": "Orange skärm för stämning",
+          "description": "Skapa en varm och kreativ atmosfär med en orange skärm som kombinerar värme och livfullhet, perfekt för informella videor eller en personlig arbetsyta. Det är ett mångsidigt val för att skapa en varm atmosfär."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Orange skärm för rengöring",
+          "content": [
+            "orange skärm för skärmrengöring",
+            "orange skärm för att hitta döda pixlar",
+            "orange skärm för att hitta smutsiga fläckar"
+          ]
+        },
+        {
+          "title": "Orange färg online",
+          "content": [
+            "tom datorskärm",
+            "total orange skärm",
+            "hel orange skärm"
+          ]
+        },
+        {
+          "title": "Andra",
+          "content": [
+            "orange projektorduk",
+            "orange skärm för barn",
+            "helskärms orange bakgrund"
+          ]
+        }
+      ]
+    }
+  },
+  "/pink-screen": {
+    "name": "Rosa skärm",
+    "color": "#FFC0CB",
+    "isAxis": true,
+    "title": "Rosa skärm",
+    "type": "color",
+    "tip": {
+      "title": "rosa skärm",
+      "content": [
+        {
+          "title": "rosa skärm för innehåll",
+          "description": "Ge dina videor eller livestreamar en vänlig, lättillgänglig atmosfär genom att använda en rosa skärm som en levande bakgrund. Dess mjuka, glada nyans gör att ditt innehåll omedelbart känns varmt och inbjudande för tittarna."
+        },
+        {
+          "title": "rosa skärm för avkoppling",
+          "description": "Välj en rosa skärm för att varva ner efter en lång dag, eftersom dess mjuka pastellfärger skapar en känsla av lugn och komfort. Skapa enkelt en lugnande miljö utan extra verktyg."
+        },
+        {
+          "title": "rosa skärm för design",
+          "description": "Inspirera din kreativitet med en rosa skärm som ger en lekfull och elegant touch till dina grafiska eller konstnärliga projekt. Den här färgens mångsidighet uppmuntrar till experiment med djärva och harmoniska layouter."
+        },
+        {
+          "title": "rosa skärm för testning",
+          "description": "Kontrollera noggrannheten på din skärm genom att se en hel rosa skärm för att upptäcka inkonsekvenser i färgåtergivning eller pixelprestanda. Dess distinkta ton hjälper till att avslöja subtila problem som kan påverka visuell kvalitet."
+        },
+        {
+          "title": "rosa skärm för presentationer",
+          "description": "Fånga publikens uppmärksamhet under dina presentationer med en djärv rosa skärm som lägger till dynamik och personlighet till dina bilder. Det är ett kraftfullt val som fångar uppmärksamheten samtidigt som du lyfter fram viktiga punkter."
+        },
+        {
+          "title": "rosa skärm för stämning",
+          "description": "Skapa en lekfull och varm atmosfär på din arbetsplats eller i videor med en rosa skärm som utstrålar positivitet och charm. Den är perfekt för att skapa en lättsam atmosfär under dina informella sändningar eller personliga projekt."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Rosa skärm för rengöring",
+          "content": [
+            "rosa skärm för bildskärmsrengöring",
+            "rosa skärm för att hitta döda pixlar",
+            "rosa skärm för att hitta smutsiga fläckar"
+          ]
+        },
+        {
+          "title": "Rosa färg online",
+          "content": [
+            "tom datorskärm",
+            "total rosa skärm",
+            "hel rosa skärm"
+          ]
+        },
+        {
+          "title": "Andra",
+          "content": [
+            "rosa projektorduk",
+            "rosa skärm för barn",
+            "helskärmsrosa bakgrund"
+          ]
+        }
+      ]
+    }
+  },
+  "/purple-screen": {
+    "name": "Lila skärm",
+    "color": "#800080",
+    "isAxis": true,
+    "title": "Lila skärm",
+    "type": "color",
+    "tip": {
+      "title": "lila skärm",
+      "content": [
+        {
+          "title": "lila skärm för välbefinnande",
+          "description": "Förbättra din meditations- eller avslappningsrutin med en lugnande lila skärm, en färg som ofta förknippas med lugn och introspektion. Dess rika nyans hjälper till att skapa ett lugnt utrymme som främjar mindfulness eller avkoppling."
+        },
+        {
+          "title": "lila skärm för belysning",
+          "description": "Lägg till en mystisk och förtrollande glöd till dina videosamtal eller virtuella händelser genom att använda en lila skärm som en kreativ ljuskälla. Det förvandlar din installation till ett unikt och visuellt fängslande utrymme."
+        },
+        {
+          "title": "lila skärm för studier",
+          "description": "Utforska färgteori eller designkoncept med en lila skärm som fungerar som ett praktiskt exempel för elever eller elever. Dess djupa nyans ger en stimulerande och fokuserad bakgrund för utbildningsinnehåll."
+        },
+        {
+          "title": "Lila skärm för testning",
+          "description": "Testa din bildskärms färgnoggrannhet och prestanda med en lila skärm för att identifiera eventuella oregelbundenheter eller pixelproblem. Dess livfulla nyans gör det lättare att upptäcka brister på skärmen."
+        },
+        {
+          "title": "Lila skärm för barn",
+          "description": "Väck barns fantasi under deras inlärnings- eller leksessioner med en magisk och inspirerande lila skärm. Det är ett roligt sätt att göra utbildningsvideor eller aktiviteter mer engagerande för unga sinnen."
+        },
+        {
+          "title": "Lila skärm för stämning",
+          "description": "Skapa en kreativ och lyxig atmosfär med en lila skärm som kombinerar sofistikering och konstnärlig stil, perfekt för streaming eller personliga utrymmen. Dess majestätiska ton förhöjer atmosfären utan ansträngning."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Lila skärm för rengöring",
+          "content": [
+            "lila skärm för bildskärmsrengöring",
+            "lila skärm för att hitta döda pixlar",
+            "lila skärm för att hitta smutsiga fläckar"
+          ]
+        },
+        {
+          "title": "Lila färg online",
+          "content": [
+            "tom datorskärm",
+            "total lila skärm",
+            "komplett lila skärm"
+          ]
+        },
+        {
+          "title": "Andra",
+          "content": [
+            "lila projektorduk",
+            "lila skärm för barn",
+            "lila bakgrund i helskärm"
+          ]
+        }
+      ]
+    }
+  },
+  "/zoom-lighting": {
+    "name": "Zoombelysning",
+    "color": "#FFC5C2",
+    "isAxis": true,
+    "title": "Belysning för zoomsamtal",
+    "type": "color",
+    "tip": {
+      "title": "Belysning för zoomsamtal",
+      "content": [
+        {
+          "title": "Zoombelysning för samtal",
+          "description": "Ställ in skärmen på en mjuk, varm färg, som Zoom Lighting (#FFC5C2), för att förbättra ditt utseende under affärsvideosamtal med smickrande belysning. Den efterliknar naturligt dagsljus, minskar skuggor och skapar en polerad look."
+        },
+        {
+          "title": "Zoombelysning för fotografering",
+          "description": "Skapa den perfekta stämningen för fotografering genom att använda Zoom Lighting som en mjuk, diffus källa som vackert framhäver motiv. Dess subtila persikoton ger värme och djup till porträtt eller foton."
+        },
+        {
+          "title": "Zoombelysning för e-learning",
+          "description": "Minska ögonbelastningen och förbättra fokus under onlinelektioner genom att ställa in skärmen på Zoom Lighting, vilket ger bekväm ljusstyrka för långa sessioner. Det hjälper till att bibehålla koncentrationen utan hårdheten hos ljusare skärmar."
+        },
+        {
+          "title": "Zoombelysning för utvecklare",
+          "description": "Testa dina användargränssnitt eller färgpaletter under zoombelysning för att se hur de återges i varmt, realistiskt ljus. Detta är ett praktiskt sätt att se till att ditt arbete ser bra ut under olika visningsförhållanden."
+        },
+        {
+          "title": "Zoombelysning för terapi",
+          "description": "Använd Zoom-belysning under dina distans- eller terapisessioner för att skapa en lugnande och stödjande atmosfär med sin mjuka, välkomnande nyans. Den här färgen kan förbättra den känslomässiga anslutningen och komforten för kunderna."
+        },
+        {
+          "title": "Zoombelysning med vit skärm",
+          "description": "Ljus upp dina videosamtal genom att para ihop Zoom Lighting med en andra monitor inställd på en vit skärm, vilket ger starkt, jämnt ljus utan extra utrustning. Denna inställning säkerställer optimal belysning och en professionell bild med lätthet."
+        }
+      ]
+    }
+  },
+  "/white-noise": {
+    "name": "Vit brus",
+    "icon": "https://emojicdn.elk.sh/🔊",
+    "title": "Vit brus för att sova",
+    "type": "upptåg",
+    "tip": {
+      "title": "Vit brus för att sova",
+      "content": [
+        {
+          "title": "Vit brus för koncentration",
+          "description": "Maskering av distraherande bakgrundsljud med vitt brus för att förbättra din koncentration under ditt arbete eller studiepass. Dess jämna brummande skapar en konsekvent ljudmiljö som hjälper dig att hålla fokus."
+        },
+        {
+          "title": "Vit brus för att sova",
+          "description": "Somna snabbare genom att spela vitt brus för att överrösta störande nattljud som trafik eller skällande hundar. Det kontinuerliga ljudet efterliknar en lugnande rytm som dämpar ditt sinne."
+        },
+        {
+          "title": "Vit brus för bebisar",
+          "description": "Lugna spädbarn med vitt brus som replikerar de tröstande livmoderljuden de är vana vid. Det är ett skonsamt sätt att lugna kinkiga bebisar och skapa en avkopplande läggdagsrutin."
+        },
+        {
+          "title": "Vit brus för meditation",
+          "description": "Förbättra dina mindfulness-sessioner med vitt brus som ger en neutral, diskret atmosfär för djupandning och koncentration. Det hjälper till att rensa bort mental röran och förhindrar att buller utifrån stör ditt lugn."
+        },
+        {
+          "title": "Vitt brus för Halloween",
+          "description": "Skapa en kuslig atmosfär genom att kombinera vitt brus med kusliga effekter för halloweenfester eller hemsökta miljöer. Dess subtila intensitet skapar en kuslig atmosfär utan att överrösta andra ljud."
+        },
+        {
+          "title": "Vit brus för spratt",
+          "description": "Producera subtilt vitt brus i bakgrunden för att störa dina kollegor eller vänner och få dem att undra över de svaga, mystiska ljuden. Det är ett diskret skämt, perfekt för kontoret eller en avslappnad miljö."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Förbättra produktivitet och koncentration",
+          "content": [
+            "Förbättrad koncentration i bullriga miljöer",
+            "Öka produktiviteten på jobbet",
+            "Förbättra koncentrationen under studietillfällen",
+            "Minimera distraktioner när du arbetar på distans",
+            "Gör perioder av intensivt arbete lättare"
+          ]
+        },
+        {
+          "title": "Sömn och avkoppling",
+          "content": [
+            "Främja snabbare insomning",
+            "Mask upp störande nattljud",
+            "Förbättra sömnkvaliteten för sömnlösa",
+            "Lugnande spädbarn och små barn",
+            "Skapa en lugnande läggdagsrutin"
+          ]
+        },
+        {
+          "title": "Hälsa och välbefinnande",
+          "content": [
+            "Minska stress och ångestnivåer",
+            "Hjälp med meditation och mindfulnessövningar",
+            "Hjälp till att hantera symtom på tinnitus",
+            "Uppmuntra avslappning under yoga",
+            "Stödja mental hälsa genom att minska sensorisk överbelastning"
+          ]
+        }
+      ]
+    }
+  },
+  "/broken-screen": {
+    "name": "Falsk trasig skärm",
+    "icon": "https://emojicdn.elk.sh/💔",
+    "title": "Fake Broken Screen - Joke",
+    "type": "upptåg",
+    "tip": {
+      "title": "Fake Broken Screen - Joke",
+      "content": [
+        {
+          "title": "skämt med trasig skärm",
+          "description": "Skräm dina vänner genom att visa en otroligt realistisk falsk trasig skärm, perfekt för ett omedelbart skratt. Installera den på deras enhet när de inte letar efter den ultimata överraskningen."
+        },
+        {
+          "title": "trasig skärm för innehåll",
+          "description": "Lägg till en touch av dramatik till dina videor eller inlägg på sociala medier med en falsk effekt som omedelbart fångar uppmärksamheten. Det är ett kreativt sätt att iscensätta tekniska incidenter eller skapa spänning."
+        },
+        {
+          "title": "reaktionstest för trasig skärm",
+          "description": "Öva på att hålla dig lugn under press genom att simulera en trasig skärm och observera din egen reaktion. Det är ett unikt sätt att testa din motståndskraft utan att riskera verklig skada."
+        },
+        {
+          "title": "Krossad skärm för projekt",
+          "description": "Införliva en falsk trasig skärm i dina konst- eller designprojekt för att skapa en unik textur eller visuellt element. Sprickor kan ge en touch av originalitet och slitage till dina digitala eller mixade verk."
+        },
+        {
+          "title": "Krossad skärm för utbildning",
+          "description": "Belys fördelarna med skärmskydd eller enhetsunderhåll genom att presentera en skenbar trasig skärm som ett varningsexempel. Detta är ett effektivt visuellt hjälpmedel för datorsäkerhetslektioner."
+        },
+        {
+          "title": "Krossad skärm för granskning",
+          "description": "Framhäft hållbarhet i tekniska recensioner genom att jämföra en falsk trasig skärm med enhetens faktiska styrka. Detta är ett övertygande sätt att demonstrera byggkvalitet eller skyddsfunktioner."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Skämt och praktiska skämt",
+          "content": [
+            "Episk teknisk fars",
+            "Skrämma vänner och familj",
+            "Kontorsprankidé",
+            "Aprilskämt",
+            "Att överraska någon på skoj"
+          ]
+        },
+        {
+          "title": "Innehåll och kreativitet",
+          "content": [
+            "Unik digital konstbakgrund",
+            "Engagerande innehåll för sociala medier",
+            "Bilder av kreativa projekt",
+            "Dramatisk effekt i videor",
+            "Illustrerar tekniska skräckhistorier"
+          ]
+        },
+        {
+          "title": "Utbildning och medvetenhet",
+          "content": [
+            "Demonstrera skärmens bräcklighet",
+            "Marknadsför skyddstillbehör",
+            "Tekniska säkerhetspresentationer",
+            "Visuell hjälp för diskussioner om underhåll av apparaten",
+            "Betona vikten av garantier"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows": {
+    "name": "Fake Blue Screen of Death",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Fake Windows Blue Screen of Death",
+    "type": "upptåg",
+    "tip": {
+      "title": "Fake Windows Blue Screen of Death",
+      "content": [
+        {
+          "title": "BSOD-upptåg",
+          "description": "Lumra dina vänner med en falsk Blue Screen of Death som efterliknar en riktig Windows-krasch, vilket orsakar panik och nöje. Det är ett ofarligt sätt att göra ett klassiskt tekniskt spratt."
+        },
+        {
+          "title": "Semester BSOD",
+          "description": "Lägg till en touch av teknisk humor till dina sammankomster genom att visa en falsk blå skärm av döden på en delad skärm och överraska dina gäster med en lekfull twist. Det är ett bra sätt att bryta isen, oavsett om du är en nörd eller bara en åskådare."
+        },
+        {
+          "title": "BSOD för träning",
+          "description": "Lär ut datorfelsökningstekniker på ett säkert sätt genom att simulera en Blue Screen of Death, så att eleverna kan öva på att diagnostisera fel utan den verkliga insatsen. Det är ett praktiskt verktyg för att bygga upp förtroende för teknisk support."
+        },
+        {
+          "title": "BSOD för tekniska färdigheter",
+          "description": "Öva dina egna tekniska supportfärdigheter i en kontrollerad miljö med en falsk BSOD som utmanar dig att tänka på lösningar. Det är ett roligt och riskfritt sätt att förbättra dina problemlösningsförmåga."
+        },
+        {
+          "title": "BSOD för YouTube",
+          "description": "Piffa upp dina YouTube-videor med en falsk BSOD-effekt för att skapa fängslande tekniskt innehåll eller dramatiska sketcher. Det ger en nostalgisk och igenkännbar touch som resonerar med tekniskt kunniga tittare."
+        },
+        {
+          "title": "BSOD tålamodstest",
+          "description": "Testa din stresstolerans eller spela andra ett spratt med en falsk långsamt laddande BSOD som håller spänningen igång. Det är ett unikt sätt att se hur människor hanterar teknisk frustration."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Skämt och underhållning",
+          "content": [
+            "Ofarligt datorskämt",
+            "Aprilskämt tekniskt skämt",
+            "Partisgag med tekniktema",
+            "Skräm dina vänner för skojs skull",
+            "Skapa viralt skämtinnehåll"
+          ]
+        },
+        {
+          "title": "Slut på studier",
+          "content": [
+            "Lär ut BSOD-felsökning",
+            "Simulera systemfel",
+            "Utbildning av IT-supportpersonal",
+            "Demonstrera systemåterställning",
+            "Utbilda om felmeddelanden"
+          ]
+        },
+        {
+          "title": "Skapa innehåll",
+          "content": [
+            "Förbättra tekniska videor",
+            "Skapa engagerande självstudier",
+            "Filma realistiska tekniska scener",
+            "Lägger till dramatik till tekniska recensioner",
+            "Illustrera diskussioner om systemstabilitet"
+          ]
+        }
+      ]
+    }
+  },
+  "/blue-screen-of-death-windows-10": {
+    "name": "Fake Blue Screen of Death 10",
+    "icon": "https://emojicdn.elk.sh/💻",
+    "title": "Fake Windows 10 Blue Screen of Death",
+    "type": "upptåg",
+    "tip": {
+      "title": "Fake Blue Screen of Death i Windows 10",
+      "content": [
+        {
+          "title": "BSOD skämt på kontoret",
+          "description": "Lura dina medarbetare med en falsk Windows 10 Blue Screen of Death som dyker upp mitt på dagen och orsakar förvirring och skratt på kontoret. Det är en snabb installation för ett lätt avbrott i rutinen."
+        },
+        {
+          "title": "Escape ett BSOD-samtal",
+          "description": "Slipp en tråkig videokonferens genom att utlösa en falsk Blue Screen of Death som en trovärdig ursäkt för att tillfälligt koppla bort. Det är ett lömskt och humoristiskt sätt att undvika oönskad skärmtid."
+        },
+        {
+          "title": "Datorutbildning BSOD",
+          "description": "Öva på att fixa Windows 10-fel med en falsk Blue Screen of Death som efterliknar verkliga krascher, vilket ger ett säkert utrymme för att utveckla dina datorkunskaper. Den är perfekt för praktisk inlärning utan att riskera riktiga system."
+        },
+        {
+          "title": "BSOD-skämt",
+          "description": "Överraska spelare mitt i sessionen med en falsk BSOD som avbryter deras spel och fångar lustiga reaktioner, vare sig det är för skojs skull eller för innehåll. Ett djärvt drag som orsakar förödelse i multiplayer-ögonblick."
+        },
+        {
+          "title": "BSOD-reaktionsvideor",
+          "description": "Spela in roliga reaktioner på en falsk BSOD på Windows 10 för reaktionsvideor som kommer att förvåna din publik. En enkel installation för virala bilder."
+        },
+        {
+          "title": "Team testar BSOD",
+          "description": "Testa ditt IT-teams svarstid och problemlösningsförmåga med en skenbar BSOD-nödsituation som replikerar verkliga scenarier. Det är en praktisk övning för att förbättra samordning och beredskap."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Roliga spratt",
+          "content": [
+            "snabba kontorsspratt med falska BSODs",
+            "trolling på blå skärm i spelströmning",
+            "upptåg i familjens datorer",
+            "Windows Screen of Death Reaction Videos",
+            "helskärms BSOD-festskämt"
+          ]
+        },
+        {
+          "title": "Utbildningsanvändning",
+          "content": [
+            "Datorstöd BSOD Training Tool",
+            "Demonstrationer av Windows kraschskärm",
+            "undervisningsverktyg för datorkunskap",
+            "exempel på tekniska verkstäder",
+            "Blå skärm svar praxis"
+          ]
+        },
+        {
+          "title": "Skapa innehåll",
+          "content": [
+            "YouTube BSOD Prank Videos",
+            "Windows Crash Meme Content",
+            "reaktionsklipp från sociala medier",
+            "strömmar falska blå skärmar",
+            "tekniska handledningsdemonstrationer"
+          ]
+        }
+      ]
+    }
+  },
+  "/hacker-screen": {
+    "name": "Inmatningsskärm för hackare",
+    "icon": "https://emojicdn.elk.sh/💻‍💻",
+    "title": "Hacker Typer Screen - Prank",
+    "type": "upptåg",
+    "tip": {
+      "title": "Hacker Screen - Skämt",
+      "content": [
+        {
+          "title": "Hacker Screen Prank",
+          "description": "Imponera på dina kollegor genom att skriva slumpmässiga nycklar för att generera en falsk hackkod som är värd en film. Ett roligt sätt att se ut som ett tekniskt geni på några sekunder."
+        },
+        {
+          "title": "Hackerskärm för lektioner",
+          "description": "Få eleverna entusiastiska över programmering genom att visa upp en hackerskärm som gör kodning spännande och tillgänglig. Det är en rolig hook för att väcka intresse för teknikutbildning."
+        },
+        {
+          "title": "Hackerskärm för streaming",
+          "description": "Lägg till en teknisk touch till dina liveströmmar med en hackerskärmsöverlagring som skapar en uppslukande cyberpunk-stämning. Perfekt för spel eller teknikfokuserade streams."
+        },
+        {
+          "title": "hackerskärm för vloggar",
+          "description": "Boosta dina tekniska vloggar med en hackerskärmseffekt som lägger till dynamisk kodbild till ditt berättande. Det är ett enkelt sätt att ge ditt innehåll en högteknologisk, engagerande känsla."
+        },
+        {
+          "title": "hackerskärm för presentationer",
+          "description": "Förbättra dina tekniska diskussioner med en live hackerskärm som visar kod i realtid och visuellt fängslar din publik. Det är ett anmärkningsvärt tillägg till diskussioner om programmering eller cybersäkerhet."
+        },
+        {
+          "title": "hackerskärm för filmer",
+          "description": "Skapa autentiska hackerscener för dina kortfilmer eller sketcher med en övertygande komplex hackerskärm. Det är en kostnadseffektiv genväg till filmiska tekniska effekter."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Underhållning och farser",
+          "content": [
+            "Imponera på dina vänner med falska hackingfärdigheter",
+            "Spela spratt på dina familjemedlemmar",
+            "Lägg till lite kul till kontorsfester",
+            "Skapa roligt innehåll för sociala medier",
+            "Lura dina vänner att tro att du är en kodare"
+          ]
+        },
+        {
+          "title": "Utbildningsändamål",
+          "content": [
+            "Demonstrera kodning i klassen",
+            "Visualisera programmeringskoncept",
+            "Få studenter intresserade av teknik",
+            "Piffa upp din presentationsteknik",
+            "Introducera nybörjare till kodning"
+          ]
+        },
+        {
+          "title": "Kreativt och professionellt bruk",
+          "content": [
+            "Förbättra bilder för livestreaming",
+            "Skapa autentiska tekniska scener i filmer",
+            "Lägg till en hacker-estetik till videor",
+            "Väck intresse vid tekniska konferenser",
+            "Inspirera diskussioner om cybersäkerhet"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-10-update-screen": {
+    "name": "Falsk uppdatering av Windows 10",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Falsk uppdatering av Windows 10",
+    "type": "falsk uppdatering",
+    "tip": {
+      "title": "Falsk uppdatering av Windows 10",
+      "content": [
+        {
+          "title": "Windows 10 skämt",
+          "description": "Lura dina vänner med en frustrerande realistisk, looping falsk Windows 10-uppdatering som gör dem osäkra på när det kommer att ta slut. Det är det perfekta tillfället för en skrämsel eller ett skratt."
+        },
+        {
+          "title": "Windows 10 Office Prank",
+          "description": "Lura dina medarbetare genom att visa en falsk långsam uppdateringsskärm på deras dator under en paus, som efterliknar den ökända Windows-fördröjningen. Observera deras reaktioner när de tror att deras arbete har fastnat."
+        },
+        {
+          "title": "Windows 10 gruppchatt",
+          "description": "Dela skärmdumpar eller klipp av en falsk Windows 10-uppdatering i gruppchattar för att väcka skratt och förvirring bland vänner. Det är ett enkelt sätt att få en touch av teknisk humor till konversationen."
+        },
+        {
+          "title": "Windows 10, en lyckad fest",
+          "description": "Stör en tråkig kväll genom att projicera en falsk uppdateringsskärm, förvandla en tråkig diskussion till en teknisk gag som alla kommer att njuta av. Ett unikt sätt att liva upp atmosfären."
+        },
+        {
+          "title": "Windows 10, en personlig upplevelse",
+          "description": "Lägg till roliga anpassade meddelanden till uppdateringsskärmen, som 'Installera Candy Crush 2.0', för en extra touch av absurditet och kul. Anpassa det för att matcha målet för ditt spratt och maximera dess effekt."
+        },
+        {
+          "title": "Windows 10-reaktion",
+          "description": "Spela in lustiga reaktioner på en falsk Windows 10-uppdatering, när människor får panik eller stönar, för att skapa innehåll för en reaktionsvideo eller bara ett gott minne. Det är ett bra sätt att fånga en äkta överraskning."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Simulerad Windows 10-uppdatering",
+          "content": [
+            "Falsk uppdatering av Windows 10",
+            "Windows 10 Update Simulation",
+            "Simulera en Windows 10-uppdatering",
+            "Falsk uppdateringsskärm för Windows 10",
+            "Emulera Windows 10 Update",
+            "Windows 10 Update Prank",
+            "Uppdateringsprocess för Windows 10"
+          ]
+        },
+        {
+          "title": "Realistisk upplevelse",
+          "content": [
+            "Äkta Windows 10-uppdatering",
+            "Realistisk uppdateringsskärm för Windows 10",
+            "Lura dina vänner med Windows 10-uppdateringen",
+            "Realistisk Windows 10 Update Progress",
+            "Äkta Windows 10 Update Simulation",
+            "Äkta Windows 10-uppdateringsmeddelanden",
+            "Windows 10 Update Step"
+          ]
+        },
+        {
+          "title": "Underhållning och nöje",
+          "content": [
+            "Underhållande Windows 10 Update Joke",
+            "Rolig falsk Windows 10-uppdatering",
+            "Njut av en simulerad Windows 10-uppdatering",
+            "Prank med en falsk Windows 10-uppdatering",
+            "Spännande Windows 10-uppdateringsupplevelse",
+            "Uppdatera Windows 10 för skojs skull",
+            "Windows 10 Update Prank Tool"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-xp-update-screen": {
+    "name": "Falsk uppdatering av Windows XP",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Falsk uppdatering av Windows XP",
+    "type": "falsk uppdatering",
+    "tip": {
+      "title": "Falsk uppdatering av Windows XP",
+      "content": [
+        {
+          "title": "XP Office Prank",
+          "description": "Så nostalgi och förvirring på kontoret med en falsk Windows XP-uppdateringsskärm som ser ut att vara direkt ur det förflutna. Det är en subtil nick till retroteknik som kommer att överraska dina kollegor."
+        },
+        {
+          "title": "XP tålamodstest",
+          "description": "Testa någons frustration med en falsk XP-uppdatering som drar ut på tiden, som efterliknar förra årets förloppsindikator. Det är ett roligt sätt att se hur länge de kommer att vänta innan de reagerar."
+        },
+        {
+          "title": "Rolig Retro XP",
+          "description": "Återupplev Windows XP-eran genom att visa en falsk uppdateringsskärm som påminner om uppringda anslutningar och clipart för retrounderhållning. En rolig återgång för teknikentusiaster eller busmål."
+        },
+        {
+          "title": "XP viralt innehåll",
+          "description": "Skapa retro tekniska videor eller inlägg med en falsk XP-uppgraderingsskärm som utnyttjar nostalgi för delbart, viralt innehåll. Koppla ihop det med en rolig bildtext för att maximera dess online-attraktionskraft."
+        },
+        {
+          "title": "XP-tekniklektion",
+          "description": "Lär ut operativsystemets historia med en XP-uppgraderingssimulering som visuellt visar hur uppgraderingar såg ut för decennier sedan. Det är ett engagerande sätt att koppla tidigare teknik till moderna lektioner."
+        },
+        {
+          "title": "Prank mellan vänner XP",
+          "description": "Lura dina vänner med en klassisk XP-uppdateringsskärm som verkar frysa deras enhet, vilket utlöser en blandning av irritation och fina minnen. Det är ett ofarligt skämt med en touch av nostalgi."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Simulerad Windows XP-uppdatering",
+          "content": [
+            "Falsk uppdatering av Windows XP",
+            "Windows XP Update Simulation",
+            "Simulera en Windows XP-uppdatering",
+            "Falsk uppdateringsskärm för Windows XP",
+            "Emulera en Windows XP-uppdatering",
+            "Windows XP Update Prank",
+            "Windows XP Update Process"
+          ]
+        },
+        {
+          "title": "Realistisk upplevelse",
+          "content": [
+            "Äkta Windows XP-uppdatering",
+            "Realistisk uppdateringsskärm för Windows XP",
+            "Lura dina vänner med Windows XP-uppdateringen",
+            "Windows XP Update Progress Realistic",
+            "Äkta Windows XP Update Simulation",
+            "Äkta Windows XP-uppdateringsmeddelanden",
+            "Windows XP Update Steg"
+          ]
+        },
+        {
+          "title": "Underhållning och nöjen",
+          "content": [
+            "Rolig Windows XP Update Prank",
+            "Rolig falsk Windows XP-uppdatering",
+            "Njut av en simulerad Windows XP-uppdatering",
+            "Prank med en falsk Windows XP-uppdatering",
+            "Spännande Windows XP-uppgraderingsupplevelse",
+            "Windows XP Update for Entertainment",
+            "Windows XP Update Prank Tool"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-mac-os-x-update-screen": {
+    "name": "Falsk Mac OS X-uppdatering",
+    "icon": "https://emojicdn.elk.sh/🍎",
+    "title": "Falsk Mac OS X-uppdatering",
+    "type": "falsk uppdatering",
+    "tip": {
+      "title": "Falsk Mac OS X-uppdatering",
+      "content": [
+        {
+          "title": "Mac Stuffing",
+          "description": "Att lura Mac-fans med en falsk OS X-uppdateringsskärm som ser autentisk ut att lura dem att kontrollera sitt system är ett smart sätt att lura även de mest kunniga Apple-användarna."
+        },
+        {
+          "title": "Mac tålamodstest",
+          "description": "Titta på reaktionerna när en falsk Mac OS X-uppdatering fortskrider, och testa hur länge någon kommer att stirra på en falsk förloppsindikator. Det är ett subtilt spratt som spelar på uppdateringsångest."
+        },
+        {
+          "title": "Mac läromedel",
+          "description": "Utbilda IT-personal eller studenter med en säker äkta Mac-uppdateringssimulering som replikerar verkliga scenarier utan att riskera faktiska system. Det är ett praktiskt verktyg för att öva på uppdateringshantering."
+        },
+        {
+          "title": "Mac UX-tester",
+          "description": "Studera användarnas reaktioner på en falsk Mac OS X-uppdateringsfördröjning, genom att observera deras interaktioner eller reaktioner på en avmattning. Detta är ett enkelt sätt att utforska gränserna för användargränssnittets tålamod."
+        },
+        {
+          "title": "Skapa innehåll på Mac",
+          "description": "Lägg till realistiska uppdateringsbilder till dina videor eller handledningar med en falsk Mac OS X-skärm som framhäver det tekniska innehållet. Det är en snygg touch för dina recensioner eller sketcher."
+        },
+        {
+          "title": "Mac Group Prank",
+          "description": "Lura en grupp vänner med en falsk Apple-uppdateringsskärm på en delad enhet, vilket utlöser kollektiva skratt eller stön. Det är ett gemenskapsupptåg som bygger band kring delade tekniska problem."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Simulerad Mac OS X-uppdatering",
+          "content": [
+            "Falsk Mac OS X-uppdatering",
+            "Mac OS X Update Simulation",
+            "Simulera en Mac OS X-uppdatering",
+            "Dummy Mac OS X Update Screen",
+            "Emulera en Mac OS X-uppdatering",
+            "Mac OS X Update Prank",
+            "Uppdateringsprocess för Mac OS X"
+          ]
+        },
+        {
+          "title": "Realistisk upplevelse",
+          "content": [
+            "Äkta Mac OS X-uppdatering",
+            "Realistisk uppdateringsskärm för Mac OS X",
+            "Lura dina vänner med en Mac OS X-uppdatering",
+            "Realistisk Mac OS X Update Progress",
+            "Äkta Mac OS X Update Simulation",
+            "Äkta Mac OS X-uppdateringsmeddelanden",
+            "Mac OS X-uppdateringssteg"
+          ]
+        },
+        {
+          "title": "Underhållning och nöjen",
+          "content": [
+            "Underhållande Mac OS X-uppdateringsprank",
+            "Rolig falsk Mac OS X-uppdatering",
+            "Njut av en simulerad Mac OS X-uppdatering",
+            "Prank med en falsk Mac OS X-uppdatering",
+            "Spännande Mac OS X-uppdateringsupplevelse",
+            "Uppdaterar Mac OS X för underhållning",
+            "Mac OS X Update Prank Tool"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-ubuntu-22-04-update-screen": {
+    "name": "Falsk Ubuntu 22.04-uppdatering",
+    "icon": "https://emojicdn.elk.sh/🐧",
+    "title": "Falsk Ubuntu 22.04-uppdatering",
+    "type": "falsk uppdatering",
+    "tip": {
+      "title": "Falsk Ubuntu 22.04-uppdatering",
+      "content": [
+        {
+          "title": "Ubuntu-upptåg",
+          "description": "Lura Linux-användare med en falsk Ubuntu 22.04-uppdateringsskärm som ser ut som en riktig systemuppdatering och överraskar även de mest tekniskt kunniga. Det är ett skämt för entusiaster med öppen källkod."
+        },
+        {
+          "title": "Ubuntu Software Testing",
+          "description": "Simulera Ubuntu-uppdateringar för att testa hur applikationer beter sig under en falsk systemuppdatering, utan att ändra din konfiguration. Detta är ett praktiskt knep för utvecklare eller testare."
+        },
+        {
+          "title": "Ubuntu-träning",
+          "description": "Lär Linux-uppgraderingsprocesser säkert med en skenbar Ubuntu 22.04-uppgraderingsskärm som efterliknar verklig terminalutgång och framsteg. Detta är ett effektivt sätt att utbilda nya användare eller IT-personal."
+        },
+        {
+          "title": "Ubuntu-innehåll",
+          "description": "Lägg till autentiska terminalbilder till dina videor eller handledningar med en falsk Ubuntu-uppgraderingsskärm som visar upp Linux-upplevelsen. Det är en fantastisk bild för tekniska innehållsskapare."
+        },
+        {
+          "title": "Ubuntu Staging",
+          "description": "Visa upp uppdateringar under demos eller livepresentationer med en skenbar Ubuntu 22.04-skärm som fängslar din publik med realistiska bilder. Den är perfekt för tekniska konferenser eller workshops."
+        },
+        {
+          "title": "Ubuntu-reaktion",
+          "description": "Spela in roliga eller frustrerade reaktioner på en falsk Ubuntu-uppdatering för reaktionsinnehåll som framhäver Linux-användares egenheter. Det är ett roligt sätt att fånga autentiska ögonblick."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Simulerad uppdatering av Ubuntu 22.04",
+          "content": [
+            "Falsk Ubuntu 22.04-uppdatering",
+            "Ubuntu 22.04 Update Simulation",
+            "Simulera en Ubuntu 22.04-uppdatering",
+            "Falsk uppdateringsskärm för Ubuntu 22.04",
+            "Emulera en Ubuntu 22.04-uppdatering",
+            "Ubuntu 22.04 Update Prank",
+            "Ubuntu 22.04 uppdateringsprocess"
+          ]
+        },
+        {
+          "title": "Realistisk upplevelse",
+          "content": [
+            "Äkta Ubuntu 22.04-uppdatering",
+            "Realistisk uppdateringsskärm för Ubuntu 22.04",
+            "Lura dina vänner med Ubuntu 22.04-uppdateringen",
+            "Realistiska framsteg för Ubuntu 22.04-uppdateringen",
+            "Äkta Ubuntu 22.04 Update Simulation",
+            "Äkta Ubuntu 22.04-uppdateringsmeddelanden",
+            "Ubuntu 22.04-uppdatering"
+          ]
+        },
+        {
+          "title": "Underhållning och nöjen",
+          "content": [
+            "Underhållande Ubuntu 22.04 Update Prank",
+            "Rolig falsk uppdatering av Ubuntu 22.04",
+            "Njut av en simulerad uppdatering till Ubuntu 22.04",
+            "Prank med en falsk Ubuntu 22.04-uppdatering",
+            "Spännande Ubuntu 22.04-uppgraderingsupplevelse",
+            "Ubuntu 22.04-uppdatering för underhållning",
+            "Ubuntu 22.04 Update Prank Tool"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-chrome-os-update-screen": {
+    "name": "Falsk uppdatering av Chrome OS",
+    "icon": "https://emojicdn.elk.sh/🌐",
+    "title": "Falsk uppdatering av Chrome OS",
+    "type": "falsk uppdatering",
+    "tip": {
+      "title": "Falsk ChromeOS-uppdatering",
+      "content": [
+        {
+          "title": "ChromeOS-upptåg",
+          "description": "Lura dina vänner med en falsk ChromeOS-uppdateringsskärm som efterliknar det rena, minimalistiska utseendet hos en riktig systemuppdatering. Det är ett snabbt och övertygande skämt för Chromebook-användare."
+        },
+        {
+          "title": "ChromeOS-reaktionstest",
+          "description": "Studera användarnas reaktioner på en falsk ChromeOS-uppdateringsfördröjning, observera deras tålamod eller förvirring. Detta är ett subtilt sätt att utforska användarbeteende inför tekniska avbrott."
+        },
+        {
+          "title": "ChromeOS-videoscener",
+          "description": "Lägg till realistiska uppdateringsbilder till dina handledningar eller skisser med en falsk ChromeOS-skärm som förbättrar ditt tekniska videoinnehåll. En professionell och ren touch för kreatörer."
+        },
+        {
+          "title": "ChromeOS Lab Prank",
+          "description": "Lumra ett helt skollabb genom att visa en falsk uppdateringsskärm på flera Chromebooks, vilket orsakar en våg av skratt och stön från eleverna. Detta är ett djärvt skämt för en teknikmiljö."
+        },
+        {
+          "title": "ChromeOS Computing Practice",
+          "description": "Träna IT-support med en säker ChromeOS-uppdateringssimulering, som replikerar verkliga scenarier för att öva på felsökning. Det är ett praktiskt verktyg för att bygga upp förtroende för systemhantering."
+        },
+        {
+          "title": "ChromeOS-översikt",
+          "description": "Förbättra dina tekniska presentationer eller demos med en skenbar ChromeOS-uppdateringsskärm som lägger till dynamiska bilder till din diskussion. Det är ett engagerande sätt att illustrera uppdateringsprocesser eller systemfunktioner."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Underhållning och underhållning",
+          "content": [
+            "Skämta med dina vänner under lunchrasten",
+            "Överraska dina familjemedlemmar",
+            "Skapa roliga reaktionsvideor",
+            "Prank på skolans datorsal",
+            "Office ChromeOS Prank"
+          ]
+        },
+        {
+          "title": "Utbildning",
+          "content": [
+            "Träningsscenarier för IT-support",
+            "Programuppdateringsworkshops",
+            "ChromeOS Tutorial Recordings",
+            "Systemadministratörspresentationer",
+            "Användarbeteendestudier"
+          ]
+        },
+        {
+          "title": "Skapa innehåll",
+          "content": [
+            "ChromeOS Update Screenshots",
+            "Tekniska granskningsbilder",
+            "Instruktionsvideobakgrunder",
+            "Mjukvarudokumentationsbilder",
+            "ChromeOS Demo Hardware"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-windows-11-update-screen": {
+    "name": "Falsk uppdatering av Windows 11",
+    "icon": "https://emojicdn.elk.sh/🪟",
+    "title": "Falsk uppdatering av Windows 11",
+    "type": "falsk uppdatering",
+    "tip": {
+      "title": "Uppdateringsskärm för Windows 11",
+      "content": [
+        {
+          "title": "Falsk uppdatering Windows 11",
+          "description": "Lumra dina vänner med en falsk Windows 11-uppdatering som verkar ha fastnat i en oändlig loop, vilket skapar förvirring och skratt. Det är en modern version av det klassiska uppdateringsupptåget, med eleganta bilder."
+        },
+        {
+          "title": "Windows 11 Office Spice",
+          "description": "Lura ditt team under ett möte genom att visa en falsk uppdateringsskärm på en delad dator, vilket ger en rolig twist till arbetsdagen. Se hur de kilar för att ta reda på vad som händer."
+        },
+        {
+          "title": "Windows 11 Joke",
+          "description": "Avbryt en spelsession med en falsk Windows 11-uppdatering som dyker upp mitt i spelet, fångar spelare och framkallar en rolig reaktion. Perfekt för streamers eller gruppspelkvällar."
+        },
+        {
+          "title": "Windows 11, en imponerande teknik",
+          "description": "Wow dina vänner med en realistisk falsk uppdateringssimulering som efterliknar den eleganta designen i Windows 11, vilket får dem att tro att du har hackat systemet. Ett nördigt sätt att visa upp dina skojare."
+        },
+        {
+          "title": "Rolig Windows 11-video",
+          "description": "Spela in dina vänners reaktioner på en falsk Windows 11-uppdatering för att skapa underhållande videoinnehåll som fångar deras förvåning eller frustration. En enkel installation för virala bilder."
+        },
+        {
+          "title": "Kollegor tar en paus från Windows 11",
+          "description": "Överraska dina kollegor med en falsk uppdateringsskärm som stör deras arbetsflöde, bara för att avslöjas som ett skämt efter den första paniken. Ett djärvt drag för att få ett skratt på kontoret."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Simulerad Windows 11-uppdatering",
+          "content": [
+            "Falsk uppdatering av Windows 11",
+            "Windows 11 Update Simulation",
+            "Simulera en Windows 11-uppdatering",
+            "Falk uppdateringsskärm för Windows 11",
+            "Emulera en Windows 11-uppdatering",
+            "Windows 11 Update Prank",
+            "Uppdateringsprocess för Windows 11"
+          ]
+        },
+        {
+          "title": "Realistisk upplevelse",
+          "content": [
+            "Äkta Windows 11-uppdatering",
+            "Realistisk uppdateringsskärm för Windows 11",
+            "Lura dina vänner med Windows 11-uppdateringen",
+            "Realistisk Windows 11 Update Progress",
+            "Äkta Windows 11 Update Simulation",
+            "Äkta Windows 11 Update Messages",
+            "Windows 11 Update Step"
+          ]
+        },
+        {
+          "title": "Underhållning och underhållning",
+          "content": [
+            "Underhållande Windows Windows 11 Update Joke",
+            "Rolig falsk Windows 11-uppdatering",
+            "Njut av en Windows 11-uppdateringssimulering",
+            "Spela ett spratt med en falsk Windows 11-uppdatering",
+            "Spännande Windows 11-uppdateringsupplevelse",
+            "Windows 11-uppdatering för skojs skull",
+            "Windows 11 Update Prank Tool"
+          ]
+        }
+      ]
+    }
+  },
+  "/fake-android-update": {
+    "name": "Falsk Android-uppdatering",
+    "icon": "https://emojicdn.elk.sh/📱",
+    "title": "Falsk Android-uppdatering",
+    "type": "falsk uppdatering",
+    "tip": {
+      "title": "Falsk Android-uppdateringsskärm",
+      "content": [
+        {
+          "title": "Android Software Test",
+          "description": "Simulera en Android-uppdatering för att testa hur appar beter sig under en falsk systemuppdatering, utan att påverka din riktiga enhet. Det är en säker miljö för utvecklare och nyfikna pysslar."
+        },
+        {
+          "title": "Android-presentation",
+          "description": "Spänn din publik under dina tekniska presentationer med en skenbar Android-uppdateringsskärm som lägger till en dynamisk och realistisk bild till dina bilder. Det är ett bra sätt att illustrera koncept för mobila operativsystem."
+        },
+        {
+          "title": "Android teknisk utbildning",
+          "description": "Lär Android-uppdateringsprocesser utan riktiga enheter genom att använda en skenuppdateringsskärm som replikerar den verkliga upplevelsen. Det är ett effektivt verktyg för att utbilda IT-personal eller studenter."
+        },
+        {
+          "title": "Skapa Android-innehåll",
+          "description": "Lägg till autentiska uppdateringsbilder till dina videor eller handledningar med en falsk Android-skärm som berikar ditt tekniska innehåll. Det är en raffinerad touch för dina recensioner eller instruktionsguider."
+        },
+        {
+          "title": "Android-upptåg",
+          "description": "Lura dina vänner med en falsk Android-uppdatering som låser deras telefonskärm, så att de tror att de har fastnat och väntar på att uppdateringen ska slutföras. Detta är ett lömskt skämt för mobilanvändare."
+        },
+        {
+          "title": "Android UX-studie",
+          "description": "Analysera användarnas reaktion på designen eller förseningarna av en falsk Android-uppdatering och få insikter i användarupplevelsen utan några egentliga insatser. Det här är ett lågrisksätt att utforska mobila UI-reaktioner."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Simulerad Android-uppdatering",
+          "content": [
+            "Falsk Android-uppdatering",
+            "Android Update Simulation",
+            "Simulera en Android-uppdatering",
+            "Falsk Android-uppdateringsskärm",
+            "Emulera en Android-uppdatering",
+            "Android Update Prank",
+            "Android Update Process"
+          ]
+        },
+        {
+          "title": "Realistisk upplevelse",
+          "content": [
+            "Äkta Android-uppdatering",
+            "Realistisk Android-uppdateringsskärm",
+            "Lura dina vänner med en Android-uppdatering",
+            "Realistiska Android-uppdateringsförlopp",
+            "Äkta Android Update Simulation",
+            "Äkta Android Update Messages",
+            "Android Update Step"
+          ]
+        },
+        {
+          "title": "Underhållning och nöje",
+          "content": [
+            "Underhållande Android Update Prank",
+            "Rolig falsk Android-uppdatering",
+            "Njut av en simulerad Android-uppdatering",
+            "Falsk Android Update Prank",
+            "Spännande Android-uppdateringsupplevelse",
+            "Android-uppdatering för underhållning",
+            "Android Update Prank Tool"
+          ]
+        }
+      ]
+    }
+  },
+  "/dvd-screensaver": {
+    "name": "DVD-skärmsläckare",
+    "icon": "https://emojicdn.elk.sh/📀",
+    "title": "DVD-skärmsläckare",
+    "type": "skärmsläckare",
+    "tip": {
+      "title": "DVD-skärmsläckare",
+      "content": [
+        {
+          "title": "avslappnings-DVD",
+          "description": "Koppla av när du ser den ikoniska DVD-logotypen studsa över din skärm och ger en lugnande, hypnotisk rörelse som lugnar sinnet. Ett nostalgiskt sätt att varva ner efter en lång dag."
+        },
+        {
+          "title": "DVD-presentation",
+          "description": "Lägg till subtila rörelser till dina bilder eller presentationspauser med DVD-skärmsläckaren, fängsla din publik utan distraktion. En retro touch som lättar upp stämningen."
+        },
+        {
+          "title": "Väntrums-DVD",
+          "description": "Underhåll dina besökare i ett väntrum med retrokänslan från DVD-skärmsläckaren, och erbjuda dem en enkel och fängslande show. Ett enkelt och effektivt sätt att förbättra atmosfären."
+        },
+        {
+          "title": "DVD för en rolig utekväll",
+          "description": "Skapa en nostalgisk atmosfär med DVD-skärmsläckaren som studsar från en stor skärm och sätter igång konversationer om gammaldags teknik. Det är ett roligt och originellt tillskott till alla sammankomster."
+        },
+        {
+          "title": "DVD för studiehjälp",
+          "description": "Förbättra ditt fokus under dina studiepass med den mjuka, förutsägbara rörelsen av DVD-skärmsläckaren, som ger en lugnande bakgrund utan att distrahera. Det är en subtil följeslagare för koncentration."
+        },
+        {
+          "title": "DVD för en paus",
+          "description": "Fyll inaktiva skärmar med animering av DVD-skärmsläckare under rasterna, förvandla en tom skärm till en rolig retrodistraktion. Perfekt för att liva upp ögonblicken mellan uppgifterna."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Avkoppling och atmosfär",
+          "content": [
+            "Koppla av med en nostalgisk skärmsläckare",
+            "Skapa en lugnande miljö",
+            "Njut av en retro atmosfär",
+            "Skapa en lugn bakgrund",
+            "Perfekt för meditationssessioner"
+          ]
+        },
+        {
+          "title": "Professionell och kommersiell användning",
+          "content": [
+            "Förbättra dina presentationer med rörelse",
+            "Dynamisk visning av väntrummet",
+            "Attraktiv skrivbordsbakgrund",
+            "Professionell skärmsläckare för möten",
+            "Iögonfallande butiksutställningar"
+          ]
+        },
+        {
+          "title": "Underhållning och nöje",
+          "content": [
+            "Skapare av feststämning",
+            "Roligt studieuppehållsverktyg",
+            "Interaktiv skärmsläckare för barn",
+            "Visuell underhållning under driftstopp",
+            "Anpassningsbar festskärm"
+          ]
+        }
+      ]
+    }
+  },
+  "/flip-clock-screensaver": {
+    "name": "Vänd klocka",
+    "icon": "https://emojicdn.elk.sh/⏰",
+    "title": "Flip Clock Screensaver",
+    "type": "skärmsläckare",
+    "tip": {
+      "title": "Flip Clock Screensaver",
+      "content": [
+        {
+          "title": "Klocka för avkoppling",
+          "description": "Njut av retrorörelsen hos en digital klocka för att koppla av, medan de rytmiska förändringarna skapar en lugnande och meditativ effekt. Ett elegant sätt att varva ner samtidigt som du håller ett öga på tiden."
+        },
+        {
+          "title": "Desk Flip Clock",
+          "description": "Lägg till en touch av sofistikering till din arbetsyta med en flip clock-skärmsläckare som också elegant visar tiden. Det är både en funktionell och estetisk förbättring för alla skrivbord."
+        },
+        {
+          "title": "Vänd klocka presentation",
+          "description": "Förbättra dina konversationer med en elegant skärmsläckare med vändklocka som fungerar som en timer eller subtil bakgrund, så att din publik kan hålla ett öga på tiden. Ett raffinerat tillskott till professionella miljöer."
+        },
+        {
+          "title": "Vänd klockan för hemmet",
+          "description": "Skapa en modern, minimalistisk atmosfär i ditt hem med en flip clock-skärmsläckare som kombinerar retrocharm med modern design. Ett elegant sätt att tala om tiden på din TV eller bildskärm."
+        },
+        {
+          "title": "Vänd klockan för att studera",
+          "description": "Spåra din studietid med de trevliga rotationerna av en vändklocka för att hjälpa dig hålla dig till ditt schema samtidigt som du lägger till en lugnande rytm till dina sessioner. Det är ett praktiskt verktyg för fokuserat arbete."
+        },
+        {
+          "title": "Vänd klockan för att vänta",
+          "description": "Entusiasmera besökare i väntutrymmen med en snygg skärmsläckare med vändklocka som kombinerar användbarhet och estetik, vilket gör tiden roligare. En touch av elegans för offentliga utrymmen."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Avkoppling och estetik",
+          "content": [
+            "Vintage estetik",
+            "Lugnande klocka i helskärm",
+            "Retro atmosfär",
+            "Modern minimalistisk design",
+            "Elegant inredning"
+          ]
+        },
+        {
+          "title": "Professionell och produktivitet",
+          "content": [
+            "Visning av kontorstid",
+            "Presentationsbakgrund",
+            "Strukturerad studiemiljö",
+            "Engagerande väntrumsklocka",
+            "Tidshanteringsverktyg"
+          ]
+        },
+        {
+          "title": "Underhållning och evenemang",
+          "content": [
+            "Feststämning",
+            "Event dekoration",
+            "Utställningsfunktion",
+            "Interaktiv display",
+            "Anpassad tid för evenemang"
+          ]
+        }
+      ]
+    }
+  },
+  "/motivational-quote-screensaver": {
+    "citat": {
+      "paragraph": "Det enda sättet att göra bra jobb är att älska det du gör. Om du inte har hittat det än, fortsätt leta. Nöj dig inte.",
+      "author": "Steve Jobs"
+    },
+    "name": "Motiverande citat",
+    "icon": "https://emojicdn.elk.sh/💬",
+    "title": "Skärmsläckare för motiverande citat",
+    "type": "skärmsläckare",
+    "tip": {
+      "title": "Skärmsläckare med motiverande citat",
+      "content": [
+        {
+          "title": "Citat för att förstärka din morgon",
+          "description": "Börja dagen med inspiration genom att visa en skärmsläckare för motiverande offerter som lyfter ditt humör och ger dig en positiv känsla. Det är ett enkelt sätt att börja dagen med mål."
+        },
+        {
+          "title": "Citat för arbetsyta",
+          "description": "Motivera din arbetsdag med en skärmsläckare med uppmuntrande citat som håller dig fokuserad och pigg på kontoret. Det är en subtil påminnelse om att hålla dig motiverad under långa timmar."
+        },
+        {
+          "title": "Citat för möten",
+          "description": "Väck kreativitet och konversation under teammöten genom att visa en motiverande offertskärmsläckare under raster eller presentationer. Det är ett genomtänkt sätt att inspirera till samarbete och idéer."
+        },
+        {
+          "title": "Offert för studiehjälp",
+          "description": "Bli inspirerad medan du studerar med en skärmsläckare med motiverande citat som kommer att hålla dig motiverad under tuffa sessioner. En riktig mental boost för revisioner sent på kvällen eller långa projekt."
+        },
+        {
+          "title": "Citat för atmosfären i huset",
+          "description": "Sätt till en positiv touch till ditt vardagsrum med en motiverande skärmsläckare som lyser upp rummet och uppmuntrar alla. En dekorativ touch med en stark känslomässig påverkan."
+        },
+        {
+          "title": "Fitnesscitat",
+          "description": "Håll ut dina träningspass med en skärmsläckare med motiverande citat som kommer att hålla dig motiverad under dina träningspass. En verklig visuell boost för att uppnå dina träningsmål."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Daglig motivation",
+          "content": [
+            "Boost morgoninspiration",
+            "Positiv start på dagen",
+            "Daglig dos av motivation",
+            "Upplyftande citat om förfriskning",
+            "Börja dagen med positivitet"
+          ]
+        },
+        {
+          "title": "Produktivitet och koncentration",
+          "content": [
+            "Håll fokus på jobbet",
+            "Motivera under studierna",
+            "Stimulera lagets kreativitet",
+            "Inspirerande arbetsuppehåll",
+            "Förbättra atmosfären på arbetsplatsen"
+          ]
+        },
+        {
+          "title": "Personligt och hushållsbruk",
+          "content": [
+            "Inspirerande inredning",
+            "Anpassningsbar offertdisplay",
+            "Personliga favoritcitat",
+            "Uppmuntra träningsrutiner",
+            "Motiverande interiöratmosfär"
+          ]
+        }
+      ]
+    }
+  },
+  "/no-signal-smpte-color-bars-screensaver": {
+    "name": "Ingen signal",
+    "icon": "https://emojicdn.elk.sh/📡",
+    "title": "Färgfält - TV-skärm utan signal",
+    "type": "skärmsläckare",
+    "tip": {
+      "title": "Färgfält - TV-skärm utan signal",
+      "content": [
+        {
+          "title": "Kalibrering av färgstapel",
+          "description": "Justera dina skärmar med retro SMPTE-färgfält för att säkerställa korrekta färg- och ljusstyrkainställningar och optimal visning. Det är ett klassiskt verktyg för både teknikentusiaster och proffs."
+        },
+        {
+          "title": "Video med färgfält",
+          "description": "Förbättra din videoproduktion med testmönster genom att använda färgstaplar som referens eller som en pausskärm, vilket ger en professionell touch till ditt arbete. Det är en vink till sändningshistorik som förbättrar kvaliteten."
+        },
+        {
+          "title": "Sändning med färgstaplar",
+          "description": "Lägg till professionella pauser i dina strömmar med färgfält som efterliknar TV-testsignaler, vilket ger din publik en raffinerad paus. En retro touch för skapare av liveinnehåll."
+        },
+        {
+          "title": "Color Bar Art",
+          "description": "Skapa retro multimediainstallationer med färgfält för att skapa en levande och nostalgisk bakgrund för dina gallerier eller kreativa projekt. En djärv bild som kombinerar teknik och estetik."
+        },
+        {
+          "title": "Färgbar atmosfär",
+          "description": "Skapa en vintage-tv-stämning i ditt utrymme med färgfält som frammanar förr i tiden, perfekt för en udda atmosfär. Ett enkelt sätt att lägga till karaktär till vilket rum som helst."
+        },
+        {
+          "title": "Färgstavsfyllning",
+          "description": "Lumra dina vänner med ett false tv-fel genom att visa färgade staplar, så att de tror att signalen är förlorad, precis tillräckligt länge för ett skratt. Ett ofarligt skämt med en retro twist."
+        }
+      ],
+      "subTips": [
+        {
+          "title": "Underhållning och farser",
+          "content": [
+            "helskärmsskämt utan signal",
+            "retro TV-festdekorationer",
+            "strömmande pauseffekter på skärmen",
+            "vintage broadcast estetik",
+            "spelrumsatmosfär"
+          ]
+        },
+        {
+          "title": "Professionell användning",
+          "content": [
+            "SMPTE Color Bar Test",
+            "monitor kalibreringsmodeller",
+            "testkort för videoproduktion",
+            "visa konfigurationsreferens",
+            "kontroller av sändningsutrustning"
+          ]
+        },
+        {
+          "title": "Kreativa projekt",
+          "content": [
+            "konstinstallationsbakgrunder",
+            "retro video estetik",
+            "vintage TV design",
+            "tillbehör till filmproduktion",
+            "nostalgiska multimediaskärmar"
+          ]
+        }
+      ]
+    }
+  },
+  "/terms-and-conditions": {
+    "name": "Användarvillkor",
+    "icon": "https://emojicdn.elk.sh/📜",
+    "title": "Användarvillkor",
+    "type": "sida"
+  },
+  "/privacy-policy": {
+    "name": "Sekretesspolicy",
+    "icon": "https://emojicdn.elk.sh/🔒",
+    "title": "Sekretesspolicy",
+    "type": "sida"
+  },
+  "/contact-us": {
+    "name": "Kontakta oss",
+    "icon": "https://emojicdn.elk.sh/📞",
+    "title": "Kontakta oss",
+    "type": "sida"
+  },
+  "/kernel-panic": {
+    "name": "Kärnpanik",
+    "icon": "https://emojicdn.elk.sh/🔋",
+    "title": "Kärnpanik",
+    "type": "upptåg",
+    "isPage": true,
+    "tip": {
+      "title": "Kärnpanik",
+      "content": [
+        {
+          "title": "Kärnpanik",
+          "description": "Kärnpanik är en skämtskärm som simulerar en urladdning av en elektronisk enhet."
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "color": "Färgskärmar",
+    "prank": "Prankskärmar",
+    "fake-update": "Falska uppdateringsskärmar",
+    "screensaver": "Skärmsläckare",
+    "tip": {
+      "header": "Folk använder {tipTitle} för:"
+    }
+  },
+  "settings": {
+    "time": [
+      "Uppdatera tid",
+      "Starttid",
+      "minuter",
+      "Starta om"
+    ],
+    "color": [
+      "Ladda ner",
+      "{title} bakgrund"
+    ],
+    "hacker": [
+      "Hastighet"
+    ]
+  },
+  "title": "{title} | Onlineverktyg",
+  "/null": {
+    "name": "Null",
+    "icon": "https://emojicdn.elk.sh/⚫️",
+    "title": "Null",
+    "type": "sida",
+    "color": "#000000",
+    "colorName": "Svart",
+    "isPage": true,
+    "tip": {
+      "title": "Null",
+      "content": [
+        {
+          "title": "Null",
+          "description": "Null är en sida utan text eller bilder."
+        }
+      ]
+    }
+  },
+  "sidebar": {
+    "links": "Länkar",
+    "uses": "Använder",
+    "other_tips": "Andra tips"
+  }
+}

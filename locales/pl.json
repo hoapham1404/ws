@@ -1,0 +1,1795 @@
+{
+    "/": {
+      "name": "Biały ekran",
+      "color": "#FFFFFF",
+      "isAxis": false,
+      "title": "Biały ekran",
+      "type": "color",
+      "tip": {
+        "title": "biały ekran",
+        "content": [
+          {
+            "title": "biały ekran do kopiowania rysunków",
+            "description": "Połóż arkusz papieru na jasnym, białym ekranie, aby łatwo odrysować obrazy lub szkice. Ta metoda jest prosta i skuteczna w reprodukowaniu dzieł sztuki bez specjalistycznych narzędzi"
+          },
+          {
+            "title": "biały ekran jako źródło światła",
+            "description": "Używaj białego ekranu jako podświetlenia do fotografii, aby równomiernie oświetlić obiekty lub jako prowizorycznego stołu świetlnego do małych projektów. To ekonomiczne rozwiązanie do tworzenia miękkiego, rozproszonego oświetlenia"
+          },
+          {
+            "title": "biały ekran do sprawdzenia ekranu",
+            "description": "Wyświetl cały biały ekran, aby sprawdzić wyświetlacz pod kątem martwych pikseli, przebarwień lub innych problemów z wyświetlaniem. Ta technika pozwala szybko zidentyfikować niedoskonałości, które w przeciwnym razie mogłyby pozostać niezauważone"
+          },
+          {
+            "title": "Biały ekran dla pustego ekranu",
+            "description": "Biały ekran, aby zminimalizować rozproszenie uwagi podczas zadań, które nie wymagają aktywnego ekranu, takich jak burza mózgów lub słuchanie dźwięku. To łatwy sposób na pozostanie skupionym bez wyłączania urządzenia"
+          },
+          {
+            "title": "Biały ekran jako lampa do czytania",
+            "description": "Rozświetlaj swoje książki lub notatki w warunkach słabego oświetlenia, używając białego ekranu jako miękkiej lampy do czytania. Dostosuj jasność w razie potrzeby, aby wygodnie czytać bez odblasków"
+          },
+          {
+            "title": "Biały ekran do makijażu",
+            "description": "Nakładaj makijaż lub rób dobrze oświetlone selfie z białym ekranem, który zapewnia jasne, równomierne oświetlenie imitujące naturalne światło dzienne. Ta konfiguracja zapewnia dokładne odwzorowanie kolorów i nieskazitelne rezultaty"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Biały ekran do czyszczenia",
+            "content": [
+              "biały ekran do czyszczenia monitora",
+              "biały ekran w celu znalezienia martwych pikseli",
+              "biały ekran umożliwiający znalezienie brudnych miejsc"
+            ]
+          },
+          {
+            "title": "Białe światło online",
+            "content": [
+              "białe światło do czytania",
+              "białe światło do rozmów wideo",
+              "białe światło",
+              "biały ekran/światło do selfie",
+              "białe diody LED online"
+            ]
+          },
+          {
+            "title": "Inni",
+            "content": [
+              "biały ekran projektora",
+              "biały ekran dla dzieci",
+              "białe tło na pełnym ekranie"
+            ]
+          }
+        ]
+      }
+    },
+    "/black-screen": {
+      "name": "Czarny ekran",
+      "color": "#000000",
+      "isAxis": false,
+      "title": "Całkowicie czarny ekran",
+      "type": "color",
+      "tip": {
+        "title": "czarny ekran",
+        "content": [
+          {
+            "title": "czarny ekran dla drugiego monitora",
+            "description": "Ustaw drugi monitor na czarny ekran, aby był aktywny bez wyświetlania rozpraszających treści podczas pracy. Ta sztuczka zachowuje funkcjonalność, jednocześnie redukując bałagan wizualny"
+          },
+          {
+            "title": "czarny ekran w celu oszczędzania prądu",
+            "description": "Przełącz na czarny ekran na wyświetlaczach OLED lub AMOLED, aby zmniejszyć zużycie energii, ponieważ wyświetlacze te zużywają mniej energii podczas wyświetlania ciemnych kolorów. To przyjazny dla środowiska wybór do dłuższego użytkowania"
+          },
+          {
+            "title": "czarny ekran, aby ukryć aktywność",
+            "description": "Użyj czarnego ekranu, aby dyskretnie ukryć zawartość swojego komputera, gdy jesteś poza nim, zachowując prywatność swojej pracy lub aktywności. To szybka alternatywa dla blokowania lub wyłączania urządzenia"
+          },
+          {
+            "title": "Czarny ekran, aby wyczyścić ekran",
+            "description": "Wyświetl czarny ekran, aby wyróżnić kurz, smugi lub odciski palców na ekranie i ułatwić czyszczenie. Ostry kontrast pomaga dostrzec niedoskonałości, które wymagają uwagi"
+          },
+          {
+            "title": "Czarny ekran jako ciemne tło",
+            "description": "Utwórz ciemne, wciągające tło dla swoich gier, filmów lub projektów kreatywnych, ustawiając ekran na czarny. Poprawia to koncentrację i zmniejsza zmęczenie oczu przy słabym oświetleniu"
+          },
+          {
+            "title": "Czarny ekran, aby zapobiec wypaleniu ekranu",
+            "description": "Chroń wyświetlacze plazmowe lub OLED przed wypaleniem ekranu, wyświetlając czarny ekran w okresach bezczynności lub przerw. Ten środek ostrożności wydłuża żywotność wyświetlacza, zapobiegając zatrzymywaniu się statycznego obrazu"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Czarny ekran do czyszczenia",
+            "content": [
+              "czarny ekran do czyszczenia monitora",
+              "czarny ekran w celu znalezienia martwych pikseli",
+              "czarny ekran umożliwiający znalezienie brudnych miejsc"
+            ]
+          },
+          {
+            "title": "Czarny kolor online",
+            "content": [
+              "pusty ekran komputera",
+              "całkowicie czarny ekran",
+              "całkowicie czarny ekran"
+            ]
+          },
+          {
+            "title": "Inni",
+            "content": [
+              "czarny ekran projektora",
+              "czarny ekran dla dzieci",
+              "pełny ekran czarne tło"
+            ]
+          }
+        ]
+      }
+    },
+    "/red-screen": {
+      "name": "Czerwony ekran",
+      "color": "#FF0000",
+      "isAxis": false,
+      "title": "Czerwony ekran",
+      "type": "color",
+      "tip": {
+        "title": "czerwony ekran",
+        "content": [
+          {
+            "title": "czerwony ekran do fotografii",
+            "description": "Zintegruj czerwony ekran, aby dodać śmiałe i dramatyczne efekty kolorystyczne do swoich projektów fotograficznych lub wideo, poprawiając nastrój i efekty wizualne. To kreatywny sposób na eksperymentowanie z oświetleniem bez dodatkowego sprzętu"
+          },
+          {
+            "title": "czerwony ekran dla zdrowia oczu",
+            "description": "Używaj czerwonego ekranu w ciemnych miejscach, aby zmniejszyć narażenie na niebieskie światło i złagodzić zmęczenie oczu podczas korzystania z urządzenia w nocy. To podejście naśladuje ustawienia trybu nocnego, zapewniając bardziej komfortowe wrażenia wizualne"
+          },
+          {
+            "title": "czerwony ekran dla wydarzeń wirtualnych",
+            "description": "Użyj czerwonego ekranu jako dynamicznego tła dla swoich wirtualnych spotkań lub transmisji na żywo, aby stworzyć żywą i niezapomnianą atmosferę. Przyciąga uwagę i dodaje profesjonalnego i dynamicznego akcentu do Twojej obecności online"
+          },
+          {
+            "title": "Czerwone tło dla grafiki",
+            "description": "Użyj czerwonego tła, aby zainspirować śmiałe projekty graficzne. Jego żywy odcień stanowi podstawę dla efektownych wizualizacji lub układów. Jest idealny do eksperymentowania z kontrastami kolorów i tworzenia przyciągających wzrok ilustracji"
+          },
+          {
+            "title": "Czerwone tło do prezentacji",
+            "description": "Podświetlaj kluczowe slajdy lub tematy w swoich prezentacjach czerwonym tłem, aby podkreślić ważne punkty i oczarować odbiorców. Jego żywy kolor naturalnie przyciąga uwagę do treści"
+          },
+          {
+            "title": "Czerwone tło dla TikToka",
+            "description": "Twórz urzekające filmy TikTok z żywym czerwonym tłem, które wyróżnia się w kanałach i dodaje modnego akcentu. Połącz je z kreatywnym oświetleniem lub filtrami, aby uzyskać maksymalny efekt"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Kolor czerwony online",
+            "content": [
+              "czerwony ekran dla tiktoków",
+              "czerwony ekran dla połączeń online",
+              "czerwony ekran do zdjęć"
+            ]
+          },
+          {
+            "title": "Czerwone światło online",
+            "content": [
+              "czerwone światło",
+              "czerwone światło dla selfie",
+              "czerwone diody LED świecą się online"
+            ]
+          },
+          {
+            "title": "Inni",
+            "content": [
+              "czerwony ekran projektora",
+              "pusty czerwony ekran dla dzieci",
+              "całkowicie czerwone tło ekranu"
+            ]
+          }
+        ]
+      }
+    },
+    "/green-screen": {
+      "name": "Zielony ekran",
+      "color": "#00FF00",
+      "isAxis": false,
+      "title": "Zielony ekran",
+      "type": "color",
+      "tip": {
+        "title": "zielony ekran",
+        "content": [
+          {
+            "title": "zielony ekran do tworzenia filmów",
+            "description": "Użyj zielonego ekranu, aby łatwo zastąpić tła podczas produkcji wideo, umożliwiając kreatywne środowiska, takie jak wirtualne światy lub profesjonalne studia. Ta technika, zwana kluczowaniem chrominancji, jest szeroko stosowana w filmach i streamingu ze względu na swoją wszechstronność"
+          },
+          {
+            "title": "zielony ekran do relaksu",
+            "description": "Wyświetl kojący zielony ekran, aby ukoić oczy po długim czasie pracy lub przed ekranem, wykorzystując naturalne właściwości relaksujące koloru. To łatwy sposób na przerwę wizualną bez odchodzenia od biurka"
+          },
+          {
+            "title": "zielony ekran do gier",
+            "description": "Ulepsz swoje transmisje gamingowe, dodając konfigurowalny, wciągający zielony ekran z dynamicznymi wizualizacjami lub nakładkami o tematyce gamingowej. To ulepszy wrażenia wizualne Twojej widowni i doda profesjonalnego akcentu"
+          },
+          {
+            "title": "Zielony ekran do spotkań",
+            "description": "Zainstaluj zielony ekran do połączeń wideo i zastąp go profesjonalnym, dopracowanym tłem, które zamaskuje Twoje rzeczywiste otoczenie. Dzięki temu możesz pozostać skupiony i wyglądać ostro podczas wirtualnych spotkań"
+          },
+          {
+            "title": "Zielony ekran dla edukacji",
+            "description": "Uczyń swoje zajęcia online bardziej angażującymi, wykorzystując zielony ekran do integrowania interaktywnych wizualizacji, takich jak mapy lub diagramy, ze strumieniem wideo. Pomaga to uczniom pozostać skupionym i wzbogaca doświadczenie edukacyjne o dynamiczną treść"
+          },
+          {
+            "title": "Zielony ekran dla Photoshopa",
+            "description": "Bez wysiłku edytuj swoje obrazy w Photoshopie, fotografując swoje obiekty na zielonym ekranie, co pozwala na szybkie i dokładne usuwanie tła. Żywa zieleń zapewnia ostry kontrast dla czystszych wycięć i kreatywnych kompozycji"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Zielony ekran do czyszczenia",
+            "content": [
+              "zielony ekran do czyszczenia monitora",
+              "zielony ekran do wyszukiwania martwych pikseli",
+              "zielony ekran do wyszukiwania brudnych miejsc"
+            ]
+          },
+          {
+            "title": "Zielone światło online",
+            "content": [
+              "zielone światło dla połączeń wideo",
+              "oświetlenie zielonego ekranu",
+              "zielone światło",
+              "zielone światło dla selfie",
+              "zielone diody LED świecą online"
+            ]
+          },
+          {
+            "title": "Inne",
+            "content": [
+              "zielony ekran do projektora",
+              "zielony ekran dla dzieci",
+              "całkowicie zielone tło ekranu"
+            ]
+          }
+        ]
+      }
+    },
+    "/blue-screen": {
+      "name": "Niebieski ekran",
+      "color": "#0000FF",
+      "isAxis": false,
+      "title": "Niebieski ekran",
+      "type": "color",
+      "tip": {
+        "title": "niebieski ekran",
+        "content": [
+          {
+            "title": "niebieski ekran dla relaksu",
+            "description": "Przełącz się na niebieski ekran, aby uspokoić umysł po ciężkim dniu, ponieważ jego chłodne odcienie mają uspokajający wpływ na mózg. To łatwy sposób na relaks bez konieczności odchodzenia od urządzenia"
+          },
+          {
+            "title": "niebieski ekran do uśpienia",
+            "description": "Używaj miękkiego niebieskiego ekranu w nocy, aby ułatwić sen, minimalizując jasne światło i tworząc relaksującą atmosferę. Chociaż jest mniej ostry niż filtry światła niebieskiego, nadal może zachęcić twoje ciało do relaksu"
+          },
+          {
+            "title": "niebieski ekran dla zdrowia oczu",
+            "description": "Wyświetlaj niebieski ekran podczas długich sesji roboczych, aby zmniejszyć zmęczenie oczu, ponieważ jego delikatny odcień może wydawać się mniej intensywny niż jaśniejsze kolory. Połącz to z regularnymi przerwami, aby uzyskać bardziej komfortowe wrażenia z korzystania z ekranu"
+          },
+          {
+            "title": "Niebieskie tło do prezentacji",
+            "description": "Zintegruj niebieskie tło jako tło dla swoich prezentacji, aby wzbogacić swoje materiały wizualne lub slajdy profesjonalnym i przystępnym tonem. Wszechstronność tego koloru sprawia, że idealnie nadaje się zarówno do formalnych, jak i kreatywnych środowisk"
+          },
+          {
+            "title": "Niebieskie tło dla filmów",
+            "description": "Stwórz wyjątkowe tło wideo z niebieskim tłem, które doda Twojej zawartości nowoczesny, modny akcent, idealny do vlogów lub samouczków. To subtelna alternatywa dla zielonych ekranów do podstawowych efektów chroma key"
+          },
+          {
+            "title": "Niebieskie tło do kalkowania",
+            "description": "Połóż papier na niebieskim tle, aby wyraźnie odrysować obrazy lub wzory, używając równomiernego oświetlenia do prowadzenia linii. Wyraźny kolor pomaga odróżnić szczegóły, jednocześnie upraszczając i usprawniając proces"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Niebieski ekran do czyszczenia",
+            "content": [
+              "Niebieski ekran do czyszczenia monitora",
+              "Niebieski ekran w poszukiwaniu martwych pikseli",
+              "Niebieski ekran umożliwiający znalezienie brudnych miejsc"
+            ]
+          },
+          {
+            "title": "Niebieskie światło online",
+            "content": [
+              "Niebieskie światło dla połączeń wideo",
+              "Niebieskie światło",
+              "Niebieskie światło do selfie",
+              "Niebieskie diody LED świecą online"
+            ]
+          },
+          {
+            "title": "Inni",
+            "content": [
+              "Niebieski ekran do projektora",
+              "Niebieski ekran dla dzieci",
+              "Pełnoekranowe niebieskie tło"
+            ]
+          }
+        ]
+      }
+    },
+    "/yellow-screen": {
+      "name": "Żółty ekran",
+      "color": "#FFFF00",
+      "isAxis": true,
+      "title": "Żółty ekran",
+      "type": "color",
+      "tip": {
+        "title": "żółty ekran",
+        "content": [
+          {
+            "title": "żółty ekran dla zawartości",
+            "description": "Wnieś odrobinę energii do swoich transmisji, filmów lub prezentacji za pomocą żółtego ekranu, który przyciąga uwagę i przekazuje emocje. Jego jasny, radosny kolor podkreśla Twoją treść i przyciąga uwagę widzów"
+          },
+          {
+            "title": "żółty ekran zapewniający komfort oczom",
+            "description": "Wybierz żółty ekran, aby zmniejszyć narażenie na niebieskie światło i złagodzić zmęczenie oczu podczas długotrwałego korzystania z komputera, szczególnie w nocy. Jego ciepły odcień imituje łagodniejsze źródło światła, zapewniając łagodniejsze wrażenia wizualne"
+          },
+          {
+            "title": "żółty ekran dla kreatywności",
+            "description": "Pobudzaj inspirację, otaczając się żółtym ekranem, kolorem często kojarzonym z optymizmem i wyobraźnią. To idealne miejsce na sesje burzy mózgów lub projekty artystyczne"
+          },
+          {
+            "title": "Żółty ekran do testowania",
+            "description": "Przetestuj dokładność i spójność kolorów swojego wyświetlacza, wyświetlając cały żółty ekran, aby wykryć niespójności lub wady. Żywy odcień ułatwia identyfikację subtelnych problemów z wyświetlaniem"
+          },
+          {
+            "title": "Żółty ekran do nauki",
+            "description": "Przykuj uwagę uczniów podczas zajęć online za pomocą jasnożółtego ekranu, który zapewnia atrakcyjne i żywe tło. Tworzy przyjazną atmosferę, która zachęca do uczestnictwa i skupienia"
+          },
+          {
+            "title": "Żółty ekran dla atmosfery",
+            "description": "Stwórz ciepłą i przyjazną atmosferę w swojej przestrzeni roboczej lub w filmach za pomocą żółtego ekranu, który emanuje pozytywnością i przyjaznością. Jest idealny do stworzenia stymulującego środowiska dla siebie lub swojej publiczności"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Żółty ekran do czyszczenia",
+            "content": [
+              "żółty ekran do czyszczenia monitora",
+              "żółty ekran do wyszukiwania martwych pikseli",
+              "żółty ekran do wyszukiwania brudnych miejsc"
+            ]
+          },
+          {
+            "title": "Żółty kolor online",
+            "content": [
+              "pusty ekran komputera",
+              "całkowicie żółty ekran",
+              "cały żółty ekran"
+            ]
+          },
+          {
+            "title": "Inni",
+            "content": [
+              "żółty ekran projektora",
+              "żółty ekran dla dzieci",
+              "żółte tło pełnego ekranu"
+            ]
+          }
+        ]
+      }
+    },
+    "/orange-screen": {
+      "name": "Ekran pomarańczowy",
+      "color": "#FFA500",
+      "isAxis": true,
+      "title": "Ekran pomarańczowy",
+      "type": "color",
+      "tip": {
+        "title": "ekran pomarańczowy",
+        "content": [
+          {
+            "title": "pomarańczowy ekran dla tła",
+            "description": "Podkreśl swoją wirtualną obecność pomarańczowym ekranem, który doda ciepły, odważny akcent do Twoich połączeń wideo lub transmisji. Jego żywy kolor pozwala Ci być zapamiętanym bez przytłaczania treści"
+          },
+          {
+            "title": "pomarańczowy ekran do snu",
+            "description": "Filtruj niebieskie światło pomarańczowym ekranem wieczorem, aby promować lepszy odpoczynek, naśladując tony zachodu słońca. To naturalny sposób na przygotowanie ciała do snu podczas korzystania z urządzenia"
+          },
+          {
+            "title": "pomarańczowy ekran dla kreatywności",
+            "description": "Rozbudź swoją wyobraźnię pomarańczowym ekranem, kolorem znanym ze stymulowania energii i innowacji. Używaj go jako tła do pisania, projektowania lub innych kreatywnych przedsięwzięć"
+          },
+          {
+            "title": "Pomarańczowy ekran do kalibracji",
+            "description": "Sprawdź dokładność kolorów wyświetlacza, wyświetlając pomarańczowy ekran, aby ujawnić wszelkie nierówności w odcieniach lub jasności. Jego bogaty odcień jest idealny do skutecznego dostrajania ustawień wyświetlacza"
+          },
+          {
+            "title": "Pomarańczowy ekran do nauki",
+            "description": "Zachęć uczniów do wzięcia udziału w zajęciach online za pomocą pomarańczowego ekranu, który przyciąga uwagę i tworzy stymulujące środowisko nauki. Jego jasny kolor utrzymuje poziom energii i zachęca do interakcji"
+          },
+          {
+            "title": "Pomarańczowy ekran dla otoczenia",
+            "description": "Stwórz ciepłą i kreatywną atmosferę dzięki pomarańczowemu ekranowi, który łączy ciepło i żywotność, idealny do nieformalnych filmów lub osobistej przestrzeni roboczej. To wszechstronny wybór do tworzenia ciepłej atmosfery"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Pomarańczowy ekran do czyszczenia",
+            "content": [
+              "pomarańczowy ekran do czyszczenia monitora",
+              "pomarańczowy ekran w celu znalezienia martwych pikseli",
+              "pomarańczowy ekran do wyszukiwania brudnych miejsc"
+            ]
+          },
+          {
+            "title": "Pomarańczowy kolor online",
+            "content": [
+              "pusty ekran komputera",
+              "całkowicie pomarańczowy ekran",
+              "cały pomarańczowy ekran"
+            ]
+          },
+          {
+            "title": "Inni",
+            "content": [
+              "pomarańczowy ekran projektora",
+              "pomarańczowy ekran dla dzieci",
+              "pełnoekranowe pomarańczowe tło"
+            ]
+          }
+        ]
+      }
+    },
+    "/pink-screen": {
+      "name": "Różowy ekran",
+      "color": "#FFC0CB",
+      "isAxis": true,
+      "title": "Różowy ekran",
+      "type": "color",
+      "tip": {
+        "title": "różowy ekran",
+        "content": [
+          {
+            "title": "różowy ekran dla zawartości",
+            "description": "Nadaj swoim filmom lub transmisjom na żywo przyjazny, przystępny klimat, używając różowego ekranu jako żywego tła. Jego delikatny, radosny odcień natychmiast sprawia, że Twoje treści wydają się widzom ciepłe i zachęcające"
+          },
+          {
+            "title": "różowy ekran do relaksu",
+            "description": "Wybierz różowy ekran, aby się zrelaksować po długim dniu, ponieważ jego delikatny pastelowy odcień tworzy poczucie spokoju i komfortu. Łatwo stwórz uspokajające otoczenie bez dodatkowych narzędzi"
+          },
+          {
+            "title": "różowy ekran do projektowania",
+            "description": "Zainspiruj swoją kreatywność różowym ekranem, który doda zabawnego i eleganckiego akcentu Twoim projektom graficznym lub artystycznym. Wszechstronność tego koloru zachęca do eksperymentowania z odważnymi i harmonijnymi układami"
+          },
+          {
+            "title": "różowy ekran do testowania",
+            "description": "Sprawdź dokładność swojego wyświetlacza, oglądając cały różowy ekran, aby wykryć niespójności w reprodukcji kolorów lub wydajności pikseli. Jego wyraźny ton pomaga ujawnić subtelne problemy, które mogą mieć wpływ na jakość wizualną"
+          },
+          {
+            "title": "różowy ekran do prezentacji",
+            "description": "Przyciągnij uwagę publiczności podczas prezentacji za pomocą śmiałego różowego ekranu, który doda Twoim slajdom dynamiki i osobowości. To potężny wybór, który przykuwa uwagę, jednocześnie podkreślając kluczowe punkty"
+          },
+          {
+            "title": "różowy ekran dla atmosfery",
+            "description": "Stwórz wesołą i ciepłą atmosferę w swojej przestrzeni roboczej lub w filmach za pomocą różowego ekranu, który emanuje pozytywnością i urokiem. Jest idealny do tworzenia beztroskiej atmosfery podczas nieformalnych transmisji lub projektów osobistych"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Różowy ekran do czyszczenia",
+            "content": [
+              "różowy ekran do czyszczenia monitora",
+              "różowy ekran do wyszukiwania martwych pikseli",
+              "różowy ekran do wyszukiwania brudnych miejsc"
+            ]
+          },
+          {
+            "title": "Różowy kolor online",
+            "content": [
+              "pusty ekran komputera",
+              "całkowicie różowy ekran",
+              "cały różowy ekran"
+            ]
+          },
+          {
+            "title": "Inni",
+            "content": [
+              "różowy ekran projektora",
+              "różowy ekran dla dzieci",
+              "pełnoekranowe różowe tło"
+            ]
+          }
+        ]
+      }
+    },
+    "/purple-screen": {
+      "name": "Ekran fioletowy",
+      "color": "#800080",
+      "isAxis": true,
+      "title": "Ekran fioletowy",
+      "type": "color",
+      "tip": {
+        "title": "ekran fioletowy",
+        "content": [
+          {
+            "title": "fioletowy ekran dla dobrego samopoczucia",
+            "description": "Ulepsz swoją rutynę medytacji lub relaksu za pomocą kojącego fioletowego ekranu, koloru często kojarzonego ze spokojem i introspekcją. Jego bogaty odcień pomaga stworzyć spokojną przestrzeń sprzyjającą uważności lub relaksowi"
+          },
+          {
+            "title": "fioletowy ekran do oświetlenia",
+            "description": "Dodaj mistyczny i czarujący blask do swoich połączeń wideo lub wirtualnych wydarzeń, używając fioletowego ekranu jako kreatywnego źródła światła. Przekształca on Twoją konfigurację w wyjątkową i wizualnie urzekającą przestrzeń"
+          },
+          {
+            "title": "fioletowy ekran do badań",
+            "description": "Odkryj teorię kolorów lub koncepcje projektowe na fioletowym ekranie, który służy jako praktyczny przykład dla studentów lub osób uczących się. Jego głęboki odcień zapewnia stymulujące i skupione tło dla treści edukacyjnych"
+          },
+          {
+            "title": "Ekran fioletowy do testowania",
+            "description": "Przetestuj dokładność kolorów i wydajność monitora za pomocą fioletowego ekranu, aby zidentyfikować wszelkie nieprawidłowości wyświetlania lub problemy z pikselami. Żywy odcień ułatwia dostrzeżenie niedoskonałości na ekranie"
+          },
+          {
+            "title": "Ekran fioletowy dla dzieci",
+            "description": "Rozbudź wyobraźnię dzieci podczas nauki lub zabawy magicznym i inspirującym fioletowym ekranem. To zabawny sposób na uczynienie edukacyjnych filmów lub zajęć bardziej angażującymi dla młodych umysłów"
+          },
+          {
+            "title": "Fioletowy ekran dla uzyskania nastroju",
+            "description": "Stwórz kreatywną i luksusową atmosferę dzięki fioletowemu ekranowi, który łączy w sobie wyrafinowanie i artystyczny styl, idealny do streamingu lub przestrzeni osobistych. Jego majestatyczny ton bez wysiłku wzmacnia atmosferę"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Fioletowy ekran do czyszczenia",
+            "content": [
+              "fioletowy ekran do czyszczenia monitora",
+              "fioletowy ekran do wyszukiwania martwych pikseli",
+              "fioletowy ekran do wyszukiwania brudnych miejsc"
+            ]
+          },
+          {
+            "title": "Kolor fioletowy online",
+            "content": [
+              "pusty ekran komputera",
+              "całkowicie fioletowy ekran",
+              "całkowicie fioletowy ekran"
+            ]
+          },
+          {
+            "title": "Inni",
+            "content": [
+              "fioletowy ekran projekcyjny",
+              "fioletowy ekran dla dzieci",
+              "pełnoekranowe fioletowe tło"
+            ]
+          }
+        ]
+      }
+    },
+    "/zoom-lighting": {
+      "name": "Oświetlenie Zoom",
+      "color": "#FFC5C2",
+      "isAxis": true,
+      "title": "Oświetlenie dla połączeń Zoom",
+      "type": "color",
+      "tip": {
+        "title": "Oświetlenie dla połączeń Zoom",
+        "content": [
+          {
+            "title": "Oświetlenie Zoom do rozmów",
+            "description": "Ustaw ekran na miękki, ciepły kolor, taki jak Zoom Lighting (#FFC5C2), aby poprawić swój wygląd podczas biznesowych rozmów wideo dzięki pochlebnemu oświetleniu. Imituje naturalne światło dzienne, redukuje cienie i tworzy dopracowany wygląd"
+          },
+          {
+            "title": "Oświetlenie Zoom w fotografii",
+            "description": "Stwórz idealny nastrój do fotografii, używając Zoom Lighting jako miękkiego, rozproszonego źródła, które pięknie podkreśla obiekty. Jego subtelny brzoskwiniowy odcień dodaje ciepła i głębi portretom lub zdjęciom"
+          },
+          {
+            "title": "Zoom Lighting dla e-learningu",
+            "description": "Zmniejsz zmęczenie oczu i popraw koncentrację podczas zajęć online, ustawiając ekran na Zoom Lighting, co zapewnia komfortową jasność podczas długich sesji. Pomaga utrzymać koncentrację bez szorstkości jaśniejszych ekranów"
+          },
+          {
+            "title": "Zoom Lighting dla programistów",
+            "description": "Przetestuj swoje interfejsy użytkownika lub palety kolorów przy oświetleniu zoom, aby zobaczyć, jak renderują się w ciepłym, realistycznym świetle. To przydatny sposób, aby upewnić się, że Twoja praca wygląda świetnie w różnych warunkach oglądania"
+          },
+          {
+            "title": "Oświetlenie Zoom do terapii",
+            "description": "Używaj oświetlenia Zoom podczas zdalnych sesji wellness lub terapeutycznych, aby stworzyć uspokajającą i wspierającą atmosferę dzięki jego miękkiemu, przyjaznemu odcieniowi. Ten kolor może wzmocnić więź emocjonalną i komfort klientów"
+          },
+          {
+            "title": "Zoom oświetlenie z białym ekranem",
+            "description": "Rozjaśnij swoje rozmowy wideo, łącząc Zoom Lighting z drugim monitorem ustawionym na biały ekran, zapewniając jasne, równomierne światło bez dodatkowego sprzętu. Ta konfiguracja zapewnia optymalne oświetlenie i profesjonalny obraz z łatwością"
+          }
+        ]
+      }
+    },
+    "/white-noise": {
+      "name": "Biały szum",
+      "icon": "https://emojicdn.elk.sh/🔊",
+      "title": "Biały szum do spania",
+      "type": "żart",
+      "tip": {
+        "title": "Biały szum do spania",
+        "content": [
+          {
+            "title": "Biały szum wspomagający koncentrację",
+            "description": "Zamaskuj rozpraszający hałas tła za pomocą białego szumu, aby poprawić koncentrację podczas pracy lub nauki. Jego stały szum tworzy spójne środowisko dźwiękowe, które pomaga Ci pozostać skupionym"
+          },
+          {
+            "title": "Biały szum do spania",
+            "description": "Zasypiaj szybciej, odtwarzając biały szum, aby zagłuszyć zakłócające nocne dźwięki, takie jak ruch uliczny lub szczekające psy. Ciągły dźwięk naśladuje kojący rytm, który usypia twój umysł"
+          },
+          {
+            "title": "Biały szum dla niemowląt",
+            "description": "Uspokajaj niemowlęta za pomocą białego szumu, który odtwarza uspokajające dźwięki łona matki, do których są przyzwyczajone. To delikatny sposób na uspokojenie marudnych dzieci i ustalenie relaksującej rutyny przed snem"
+          },
+          {
+            "title": "Biały szum do medytacji",
+            "description": "Ulepsz swoje sesje uważności za pomocą białego szumu, który zapewnia neutralne, dyskretne otoczenie do głębokiego oddychania i koncentracji. Pomaga oczyścić bałagan w umyśle i zapobiega zakłócaniu spokoju przez hałas z zewnątrz"
+          },
+          {
+            "title": "Biały szum na Halloween",
+            "description": "Stwórz upiorną atmosferę, łącząc biały szum z niesamowitymi efektami na imprezy halloweenowe lub nawiedzone miejsca. Jego subtelna intensywność tworzy niesamowitą atmosferę bez zagłuszania innych dźwięków"
+          },
+          {
+            "title": "Biały szum do żartów",
+            "description": "Wyprodukuj subtelny biały szum w tle, aby zaniepokoić swoich kolegów lub znajomych i sprawić, że zaczną się zastanawiać nad słabymi, tajemniczymi dźwiękami. To dyskretny żart, idealny do biura lub na co dzień"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Poprawa produktywności i koncentracji",
+            "content": [
+              "Poprawa koncentracji w hałaśliwym otoczeniu",
+              "Zwiększanie produktywności w pracy",
+              "Poprawa koncentracji podczas sesji nauki",
+              "Minimalizuj rozproszenia podczas pracy zdalnej",
+              "Ułatw sobie okresy intensywnej pracy"
+            ]
+          },
+          {
+            "title": "Sen i relaks",
+            "content": [
+              "Promuj szybsze zasypianie",
+              "Zamaskuj niepokojące nocne hałasy",
+              "Poprawa jakości snu dla osób cierpiących na bezsenność",
+              "Uspokajanie niemowląt i małych dzieci",
+              "Stwórz uspokajającą rutynę przed snem"
+            ]
+          },
+          {
+            "title": "Zdrowie i dobre samopoczucie",
+            "content": [
+              "Zmniejsz poziom stresu i lęku",
+              "Pomoc w praktykach medytacji i uważności",
+              "Pomóż w radzeniu sobie z objawami szumów usznych",
+              "Zachęcaj do relaksu podczas jogi",
+              "Wspieranie zdrowia psychicznego poprzez redukcję przeciążenia sensorycznego"
+            ]
+          }
+        ]
+      }
+    },
+    "/broken-screen": {
+      "name": "Fałszywy zepsuty ekran",
+      "icon": "https://emojicdn.elk.sh/💔",
+      "title": "Fałszywy zepsuty ekran – żart",
+      "type": "żart",
+      "tip": {
+        "title": "Fałszywy zepsuty ekran – żart",
+        "content": [
+          {
+            "title": "żart o zepsutym ekranie",
+            "description": "Wystrasz swoich znajomych, wyświetlając niesamowicie realistyczną fałszywą stłuczoną szybę, idealną do natychmiastowego śmiechu. Zainstaluj ją na ich urządzeniu, gdy nie będą szukać ostatecznej niespodzianki"
+          },
+          {
+            "title": "uszkodzony ekran dla treści",
+            "description": "Dodaj odrobinę dramatyzmu do swoich filmów lub postów w mediach społecznościowych za pomocą efektu fałszywego rozbitego ekranu, który natychmiast przyciągnie uwagę. To kreatywny sposób na inscenizację incydentów technicznych lub budowanie napięcia"
+          },
+          {
+            "title": "test reakcji na stłuczony ekran",
+            "description": "Ćwicz zachowanie spokoju pod presją, symulując rozbity ekran i obserwując własną reakcję. To wyjątkowy sposób na sprawdzenie swojej odporności bez ryzyka prawdziwych obrażeń"
+          },
+          {
+            "title": "Zepsuty ekran dla projektów",
+            "description": "Włącz do swoich projektów artystycznych lub projektowych fałszywą stłuczkę ekranu, aby stworzyć unikalną teksturę lub element wizualny. Pęknięcia mogą dodać odrobinę oryginalności i zużycia do Twoich prac cyfrowych lub w technice mieszanej"
+          },
+          {
+            "title": "Zbity ekran do edukacji",
+            "description": "Podkreśl korzyści wynikające z ochrony ekranu lub konserwacji urządzenia, prezentując jako przykład ostrzegawczy pozornie zepsuty ekran. Jest to skuteczna pomoc wizualna do lekcji bezpieczeństwa komputerowego"
+          },
+          {
+            "title": "Rozbity ekran do przeglądu",
+            "description": "Podkreśl trwałość w recenzjach technicznych, porównując fałszywie uszkodzony ekran z rzeczywistą wytrzymałością urządzenia. To przekonujący sposób na zademonstrowanie jakości wykonania lub funkcji ochronnych"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Żarty i psikusy",
+            "content": [
+              "Epicka farsa technologiczna",
+              "Wystraszyć przyjaciół i rodzinę",
+              "Pomysł na żart biurowy",
+              "Primaaprilisowy żart",
+              "Zrobić komuś niespodziankę dla zabawy"
+            ]
+          },
+          {
+            "title": "Treść i kreatywność",
+            "content": [
+              "Unikalne tło sztuki cyfrowej",
+              "Angażujące treści dla mediów społecznościowych",
+              "Wizualizacje projektów kreatywnych",
+              "Efekt dramatyczny w filmach",
+              "Ilustrowanie technologicznych opowieści grozy"
+            ]
+          },
+          {
+            "title": "Edukacja i świadomość",
+            "content": [
+              "Pokaż kruchość ekranu",
+              "Promowanie akcesoriów ochronnych",
+              "Prezentacje bezpieczeństwa technicznego",
+              "Pomoc wizualna do dyskusji na temat konserwacji urządzeń",
+              "Podkreśl znaczenie gwarancji"
+            ]
+          }
+        ]
+      }
+    },
+    "/blue-screen-of-death-windows": {
+      "name": "Fałszywy niebieski ekran śmierci",
+      "icon": "https://emojicdn.elk.sh/💻",
+      "title": "Fałszywy niebieski ekran śmierci systemu Windows",
+      "type": "żart",
+      "tip": {
+        "title": "Fałszywy niebieski ekran śmierci systemu Windows",
+        "content": [
+          {
+            "title": "żart BSOD",
+            "description": "Oszukaj znajomych fałszywym niebieskim ekranem śmierci, który imituje prawdziwą awarię systemu Windows, wywołując panikę i rozbawienie. To nieszkodliwy sposób na wykonanie klasycznego technicznego żartu"
+          },
+          {
+            "title": "BSOD w czasie świąt",
+            "description": "Dodaj odrobinę technicznego humoru do swoich spotkań, wyświetlając fałszywy niebieski ekran śmierci na podzielonym ekranie i zaskakując gości zabawnym akcentem. To świetny sposób na przełamanie lodów, niezależnie od tego, czy jesteś geekiem, czy tylko przypadkowym widzem"
+          },
+          {
+            "title": "BSOD dla treningu",
+            "description": "Naucz technik rozwiązywania problemów komputerowych w bezpieczny sposób, symulując niebieski ekran śmierci, pozwalając uczniom ćwiczyć diagnozowanie błędów bez rzeczywistych stawek. To praktyczne narzędzie do budowania pewności siebie w zakresie pomocy technicznej"
+          },
+          {
+            "title": "BSOD dla umiejętności technicznych",
+            "description": "Ćwicz swoje umiejętności pomocy technicznej w kontrolowanym środowisku z fałszywym BSOD, który zmusza cię do wymyślania rozwiązań. To zabawny i pozbawiony ryzyka sposób na poprawę umiejętności rozwiązywania problemów"
+          },
+          {
+            "title": "BSOD dla YouTube",
+            "description": "Urozmaicaj swoje filmy na YouTube za pomocą fałszywego efektu BSOD, aby tworzyć wciągające treści techniczne lub dramatyczne skecze. Dodaje nostalgiczny i rozpoznawalny akcent, który rezonuje z widzami obeznanymi z technologią"
+          },
+          {
+            "title": "Test cierpliwości BSOD",
+            "description": "Sprawdź swoją odporność na stres lub zrób innym psikusa za pomocą pozorowanego, wolno ładującego się BSOD, który podtrzymuje napięcie. To wyjątkowy sposób, aby zobaczyć, jak ludzie radzą sobie z frustracją technologiczną"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Żarty i rozrywka",
+            "content": [
+              "Nieszkodliwy żart komputerowy",
+              "Primaaprilisowy techniczny żart",
+              "Technologiczny żart na imprezę",
+              "Strachaj swoich przyjaciół dla zabawy",
+              "Stwórz wirusową treść żartu"
+            ]
+          },
+          {
+            "title": "Koniec studiów",
+            "content": [
+              "Nauka rozwiązywania problemów BSOD",
+              "Symuluj awarie systemu",
+              "Szkolenie personelu wsparcia IT",
+              "Zademonstruj odzyskiwanie systemu",
+              "Edukacja na temat komunikatów o błędach"
+            ]
+          },
+          {
+            "title": "Tworzenie treści",
+            "content": [
+              "Poprawianie filmów technicznych",
+              "Twórz angażujące samouczki",
+              "Filmowanie realistycznych scen technicznych",
+              "Dodawanie dramatyzmu do przeglądów technicznych",
+              "Zilustruj dyskusje na temat stabilności systemu"
+            ]
+          }
+        ]
+      }
+    },
+    "/blue-screen-of-death-windows-10": {
+      "name": "Fałszywy niebieski ekran śmierci 10",
+      "icon": "https://emojicdn.elk.sh/💻",
+      "title": "Fałszywy niebieski ekran śmierci systemu Windows 10",
+      "type": "żart",
+      "tip": {
+        "title": "Fałszywy niebieski ekran śmierci w systemie Windows 10",
+        "content": [
+          {
+            "title": "Żart BSOD w biurze",
+            "description": "Oszukaj współpracowników fałszywym niebieskim ekranem śmierci systemu Windows 10, który pojawia się w środku dnia, powodując zamieszanie i śmiech w biurze. To szybka konfiguracja na lekką przerwę w rutynie"
+          },
+          {
+            "title": "Ucieczka przed BSOD",
+            "description": "Ucieknij z nudnej wideokonferencji, wywołując fałszywy niebieski ekran śmierci jako wiarygodną wymówkę do tymczasowego rozłączenia. To podstępny i zabawny sposób na uniknięcie niechcianego czasu ekranowego"
+          },
+          {
+            "title": "BSOD szkolenia komputerowego",
+            "description": "Ćwicz naprawianie błędów systemu Windows 10 za pomocą fałszywego niebieskiego ekranu śmierci, który imituje prawdziwe awarie, zapewniając bezpieczną przestrzeń do rozwijania umiejętności komputerowych. Jest to idealne rozwiązanie do nauki praktycznej bez narażania prawdziwych systemów"
+          },
+          {
+            "title": "Żart BSOD",
+            "description": "Zaskocz graczy w trakcie sesji fałszywym BSOD, który przerywa grę i rejestruje zabawne reakcje, czy to dla zabawy, czy dla treści. Odważny ruch, który sieje spustoszenie w momentach wieloosobowych"
+          },
+          {
+            "title": "Filmy z reakcjami na BSOD",
+            "description": "Nagraj zabawne reakcje na fałszywy BSOD w systemie Windows 10, aby uzyskać filmy z reakcjami, które zachwycą Twoją publiczność. Proste ustawienie dla wirusowych obrazów"
+          },
+          {
+            "title": "Zespół testuje BSOD",
+            "description": "Przetestuj czas reakcji i umiejętności rozwiązywania problemów swojego zespołu IT za pomocą symulacji awarii BSOD, która odtwarza rzeczywiste scenariusze. To praktyczne ćwiczenie mające na celu poprawę koordynacji i przygotowania"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Zabawne kawały",
+            "content": [
+              "szybkie żarty biurowe z fałszywymi BSOD-ami",
+              "niebieski ekran trollingu w streamingu gier",
+              "żarty rodzinne na temat awarii komputera",
+              "Ekran systemu Windows z filmami o reakcjach na śmierć",
+              "żarty na imprezie BSOD na pełnym ekranie"
+            ]
+          },
+          {
+            "title": "Zastosowanie edukacyjne",
+            "content": [
+              "Narzędzie szkoleniowe dotyczące BSOD w obsłudze komputerów",
+              "Pokazy ekranu awarii systemu Windows",
+              "narzędzie do nauki obsługi komputera",
+              "przykłady warsztatów technicznych",
+              "ćwiczenie reakcji na niebieski ekran"
+            ]
+          },
+          {
+            "title": "Tworzenie treści",
+            "content": [
+              "Filmy z dowcipami BSOD na YouTube",
+              "Treść memu o awarii systemu Windows",
+              "klipy reakcji w mediach społecznościowych",
+              "przesyłanie fałszywych niebieskich ekranów",
+              "pokazy instruktażowe techniczne"
+            ]
+          }
+        ]
+      }
+    },
+    "/hacker-screen": {
+      "name": "Ekran wejściowy hakera",
+      "icon": "https://emojicdn.elk.sh/💻‍💻",
+      "title": "Ekran Hacker Typer – Prank",
+      "type": "żart",
+      "tip": {
+        "title": "Ekran hakera – żart",
+        "content": [
+          {
+            "title": "Prank z ekranem hakera",
+            "description": "Zaimponuj swoim kolegom, wpisując losowe klawisze, aby wygenerować fałszywy kod hakerski godny filmu. Zabawny sposób, aby w kilka sekund wyglądać jak geniusz technologii"
+          },
+          {
+            "title": "Ekran hakerski do lekcji",
+            "description": "Rozbudź w uczniach entuzjazm do programowania, prezentując ekran hakera, który sprawia, że kodowanie staje się ekscytujące i przystępne. To zabawny haczyk, który wzbudza zainteresowanie edukacją technologiczną"
+          },
+          {
+            "title": "Ekran hakerski do przesyłania strumieniowego",
+            "description": "Dodaj techniczny akcent do swoich transmisji na żywo za pomocą nakładki ekranu hakera, która tworzy wciągający klimat cyberpunku. Idealny do transmisji na żywo poświęconych grom lub technologii"
+          },
+          {
+            "title": "ekran hakerski dla vlogów",
+            "description": "Ulepsz swoje vlogi technologiczne za pomocą efektu ekranu hakera, który dodaje dynamiczne wizualizacje kodu do Twojej opowieści. To prosty sposób na nadanie treściom charakteru high-tech i angażującego charakteru"
+          },
+          {
+            "title": "ekran hakerski do prezentacji",
+            "description": "Ulepsz swoje dyskusje techniczne dzięki ekranowi hakera na żywo, który wyświetla kod w czasie rzeczywistym i wizualnie oczarowuje Twoją publiczność. To niezwykły dodatek do dyskusji o programowaniu lub cyberbezpieczeństwie"
+          },
+          {
+            "title": "ekran hakerski do filmów",
+            "description": "Twórz autentyczne sceny hakerskie do swoich krótkich filmów lub szkiców z przekonująco złożonym ekranem hakera. To opłacalny skrót do kinowych efektów technicznych"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Rozrywka i farsy",
+            "content": [
+              "Zaimponuj znajomym fałszywymi umiejętnościami hakerskimi",
+              "Rób psikusy członkom swojej rodziny",
+              "Dodaj trochę zabawy do imprez biurowych",
+              "Twórz zabawne treści do mediów społecznościowych",
+              "Oszukaj znajomych i spraw, żeby myśleli, że jesteś programistą"
+            ]
+          },
+          {
+            "title": "Cele edukacyjne",
+            "content": [
+              "Pokazuj kodowanie na zajęciach",
+              "Wizualizacja koncepcji programowania",
+              "Zainteresuj uczniów technologią",
+              "Urozmaicaj swoje techniki prezentacyjne",
+              "Wprowadzenie początkujących do kodowania"
+            ]
+          },
+          {
+            "title": "Użycie kreatywne i profesjonalne",
+            "content": [
+              "Popraw wizualizacje transmisji na żywo",
+              "Tworzenie autentycznych scen technicznych w filmach",
+              "Dodaj do filmów estetykę hakerską",
+              "Zachęcaj do udziału w konferencjach technologicznych",
+              "Inspiruj dyskusje na temat cyberbezpieczeństwa"
+            ]
+          }
+        ]
+      }
+    },
+    "/fake-windows-10-update-screen": {
+      "name": "Fałszywa aktualizacja systemu Windows 10",
+      "icon": "https://emojicdn.elk.sh/🪟",
+      "title": "Fałszywa aktualizacja systemu Windows 10",
+      "type": "fałszywa aktualizacja",
+      "tip": {
+        "title": "Fałszywa aktualizacja systemu Windows 10",
+        "content": [
+          {
+            "title": "Psikus z Windows 10",
+            "description": "Oszukaj znajomych frustrująco realistyczną, zapętloną fałszywą aktualizacją systemu Windows 10, która pozostawia ich w niepewności, kiedy się skończy. To idealna okazja, by się przestraszyć lub pośmiać"
+          },
+          {
+            "title": "Prank z Windows 10 Office",
+            "description": "Oszukaj współpracowników, wyświetlając na ich komputerach podczas przerwy ekran fałszywej, wolnej aktualizacji, naśladując niesławne opóźnienie systemu Windows. Obserwuj ich reakcje, gdy uważają, że ich praca utknęła"
+          },
+          {
+            "title": "Grupowy czat systemu Windows 10",
+            "description": "Udostępniaj zrzuty ekranu lub klipy fałszywej aktualizacji systemu Windows 10 na czatach grupowych, aby wywołać śmiech i zakłopotanie wśród znajomych. To łatwy sposób na wprowadzenie odrobiny humoru technicznego do rozmowy"
+          },
+          {
+            "title": "Windows 10, udana impreza",
+            "description": "Zakłóć nudny wieczór, wyświetlając ekran fałszywej aktualizacji, zamieniając nudną dyskusję w techniczny żart, który spodoba się każdemu. Niepowtarzalny sposób na ożywienie atmosfery"
+          },
+          {
+            "title": "Windows 10, spersonalizowane doświadczenie",
+            "description": "Dodaj zabawne, niestandardowe wiadomości do ekranu aktualizacji, takie jak 'Instalowanie Candy Crush 2.0', aby dodać odrobinę absurdu i zabawy. Dostosuj je do celu swojego żartu i zmaksymalizuj jego efekt"
+          },
+          {
+            "title": "Reakcja systemu Windows 10",
+            "description": "Nagraj zabawne reakcje na fałszywą aktualizację systemu Windows 10, gdy ludzie panikują lub jęczą, aby stworzyć treść do filmu z reakcją lub po prostu miłego wspomnienia. To świetny sposób na uchwycenie prawdziwej niespodzianki"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Symulowana aktualizacja systemu Windows 10",
+            "content": [
+              "Fałszywa aktualizacja systemu Windows 10",
+              "Symulacja aktualizacji systemu Windows 10",
+              "Symuluj aktualizację systemu Windows 10",
+              "Fałszywy ekran aktualizacji systemu Windows 10",
+              "Emuluj aktualizację systemu Windows 10",
+              "Prank z aktualizacją systemu Windows 10",
+              "Proces aktualizacji systemu Windows 10"
+            ]
+          },
+          {
+            "title": "Realistyczne doświadczenie",
+            "content": [
+              "Oryginalnie wyglądająca aktualizacja systemu Windows 10",
+              "Realistyczny ekran aktualizacji systemu Windows 10",
+              "Oszukiwanie znajomych za pomocą aktualizacji systemu Windows 10",
+              "Realistyczny postęp aktualizacji systemu Windows 10",
+              "Oryginalna symulacja aktualizacji systemu Windows 10",
+              "Oryginalne komunikaty o aktualizacji systemu Windows 10",
+              "Krok aktualizacji systemu Windows 10"
+            ]
+          },
+          {
+            "title": "Rozrywka i przyjemność",
+            "content": [
+              "Zabawny żart o aktualizacji systemu Windows 10",
+              "Zabawna fałszywa aktualizacja systemu Windows 10",
+              "Ciesz się symulowaną aktualizacją systemu Windows 10",
+              "Żart z fałszywą aktualizacją systemu Windows 10",
+              "Ekscytujące doświadczenie związane z aktualizacją systemu Windows 10",
+              "Aktualizuj system Windows 10 dla zabawy",
+              "Narzędzie do robienia żartów z aktualizacji systemu Windows 10"
+            ]
+          }
+        ]
+      }
+    },
+    "/fake-windows-xp-update-screen": {
+      "name": "Fałszywa aktualizacja systemu Windows XP",
+      "icon": "https://emojicdn.elk.sh/🪟",
+      "title": "Fałszywa aktualizacja systemu Windows XP",
+      "type": "fałszywa aktualizacja",
+      "tip": {
+        "title": "Fałszywa aktualizacja systemu Windows XP",
+        "content": [
+          {
+            "title": "żart z XP Office",
+            "description": "Wprowadź nostalgię i zamęt w biurze za pomocą fałszywego ekranu aktualizacji systemu Windows XP, który wygląda, jakby był żywcem wyjęty z przeszłości. To subtelne nawiązanie do technologii retro, które zaskoczy Twoich współpracowników"
+          },
+          {
+            "title": "Test cierpliwości XP",
+            "description": "Przetestuj frustrację kogoś fałszywą aktualizacją XP, która się ciągnie i ciągnie, naśladując pasek postępu z minionych lat. To zabawny sposób, aby zobaczyć, jak długo będą czekać, zanim zareagują"
+          },
+          {
+            "title": "Zabawne retro XP",
+            "description": "Przeżyj erę Windows XP, wyświetlając fałszywy ekran aktualizacji przypominający połączenia dial-up i grafikę clipart dla rozrywki retro. Zabawny powrót do przeszłości dla entuzjastów technologii lub osób, które lubią robić sobie żarty"
+          },
+          {
+            "title": "Treść wirusowa XP",
+            "description": "Twórz filmy lub posty o technologii retro z fałszywym ekranem aktualizacji XP, który wykorzystuje nostalgię do udostępniania wirusowych treści. Połącz je z zabawnym podpisem, aby zmaksymalizować ich atrakcyjność online"
+          },
+          {
+            "title": "Lekcja technologii XP",
+            "description": "Naucz historii systemów operacyjnych za pomocą symulacji aktualizacji XP, która wizualnie pokazuje, jak wyglądały aktualizacje dekady temu. To angażujący sposób łączenia minionych technologii z nowoczesnymi lekcjami"
+          },
+          {
+            "title": "Żart między przyjaciółmi XP",
+            "description": "Oszukaj znajomych klasycznym ekranem aktualizacji XP, który wydaje się zamrażać ich urządzenie, wywołując mieszankę irytacji i miłych wspomnień. To niegroźny żart z nutką nostalgii"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Symulowana aktualizacja systemu Windows XP",
+            "content": [
+              "Fałszywa aktualizacja systemu Windows XP",
+              "Symulacja aktualizacji systemu Windows XP",
+              "Symuluj aktualizację systemu Windows XP",
+              "Fałszywy ekran aktualizacji systemu Windows XP",
+              "Emuluj aktualizację systemu Windows XP",
+              "Psikus z aktualizacją Windows XP",
+              "Proces aktualizacji systemu Windows XP"
+            ]
+          },
+          {
+            "title": "Realistyczne doświadczenie",
+            "content": [
+              "Oryginalnie wyglądająca aktualizacja systemu Windows XP",
+              "Realistyczny ekran aktualizacji systemu Windows XP",
+              "Oszukanie znajomych aktualizacją systemu Windows XP",
+              "Realistyczny postęp aktualizacji systemu Windows XP",
+              "Oryginalna symulacja aktualizacji systemu Windows XP",
+              "Oryginalne komunikaty aktualizacji systemu Windows XP",
+              "Krok aktualizacji systemu Windows XP"
+            ]
+          },
+          {
+            "title": "Rozrywka i zabawa",
+            "content": [
+              "Zabawny żart z aktualizacją systemu Windows XP",
+              "Zabawna fałszywa aktualizacja systemu Windows XP",
+              "Ciesz się symulowaną aktualizacją systemu Windows XP",
+              "Żart z fałszywą aktualizacją systemu Windows XP",
+              "Ekscytujące doświadczenie związane z uaktualnieniem do systemu Windows XP",
+              "Aktualizacja systemu Windows XP dla rozrywki",
+              "Narzędzie do robienia żartów z aktualizacji systemu Windows XP"
+            ]
+          }
+        ]
+      }
+    },
+    "/fake-mac-os-x-update-screen": {
+      "name": "Fałszywa aktualizacja systemu Mac OS X",
+      "icon": "https://emojicdn.elk.sh/🍎",
+      "title": "Fałszywa aktualizacja systemu Mac OS X",
+      "type": "fałszywa aktualizacja",
+      "tip": {
+        "title": "Fałszywa aktualizacja systemu Mac OS X",
+        "content": [
+          {
+            "title": "Mac Stuffing",
+            "description": "Oszukiwanie fanów komputerów Mac za pomocą fałszywego ekranu aktualizacji OS X, który wygląda na tyle autentycznie, że można ich nakłonić do sprawdzenia systemu, to sprytny sposób na oszukanie nawet najbardziej doświadczonych użytkowników Apple"
+          },
+          {
+            "title": "Test cierpliwości Maca",
+            "description": "Obserwuj reakcje na postępy fałszywej aktualizacji Mac OS X, sprawdzając, jak długo ktoś będzie wpatrywał się w fałszywy pasek postępu. To subtelny żart, który gra na lęku przed aktualizacją"
+          },
+          {
+            "title": "Pomoc dydaktyczna Mac",
+            "description": "Szkolenie personelu IT lub studentów za pomocą bezpiecznej symulacji aktualizacji Mac, która odtwarza rzeczywiste scenariusze bez narażania rzeczywistych systemów. To przydatne narzędzie do ćwiczenia zarządzania aktualizacjami"
+          },
+          {
+            "title": "Testy UX Maca",
+            "description": "Badaj reakcje użytkowników na fałszywe opóźnienie aktualizacji Mac OS X, obserwując ich interakcje lub reakcje na spowolnienie. To prosty sposób na zbadanie granic cierpliwości interfejsu użytkownika"
+          },
+          {
+            "title": "Tworzenie treści na Maca",
+            "description": "Dodaj realistyczne wizualizacje aktualizacji do swoich filmów lub samouczków za pomocą fałszywego ekranu Mac OS X, który podkreśla zawartość techniczną. To fajny dodatek do Twoich recenzji lub skeczy"
+          },
+          {
+            "title": "Mac Group Prank",
+            "description": "Oszukaj grupę znajomych fałszywym ekranem aktualizacji Apple na wspólnym urządzeniu, wywołując zbiorowy śmiech lub jęki. To społecznościowy żart, który buduje więzi wokół wspólnych problemów technologicznych"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Symulowana aktualizacja systemu Mac OS X",
+            "content": [
+              "Fałszywa aktualizacja Mac OS X",
+              "Symulacja aktualizacji Mac OS X",
+              "Symuluj aktualizację Mac OS X",
+              "Ekran aktualizacji systemu Mac OS X",
+              "Emuluj aktualizację Mac OS X",
+              "Prank z aktualizacją Mac OS X",
+              "Proces aktualizacji systemu Mac OS X"
+            ]
+          },
+          {
+            "title": "Realistyczne doświadczenie",
+            "content": [
+              "Oryginalnie wyglądająca aktualizacja systemu Mac OS X",
+              "Realistyczny ekran aktualizacji Mac OS X",
+              "Oszukanie znajomych aktualizacją Mac OS X",
+              "Realistyczny postęp aktualizacji systemu Mac OS X",
+              "Oryginalna symulacja aktualizacji Mac OS X",
+              "Oryginalne komunikaty o aktualizacjach systemu Mac OS X",
+              "Krok aktualizacji Mac OS X"
+            ]
+          },
+          {
+            "title": "Rozrywka i zabawa",
+            "content": [
+              "Zabawny żart z aktualizacją Mac OS X",
+              "Zabawna fałszywa aktualizacja Mac OS X",
+              "Poznaj symulowaną aktualizację systemu Mac OS X",
+              "Żart z fałszywą aktualizacją Mac OS X",
+              "Ekscytujące doświadczenie aktualizacji Mac OS X",
+              "Aktualizacja Mac OS X dla celów rozrywkowych",
+              "Narzędzie do robienia żartów z aktualizacji systemu Mac OS X"
+            ]
+          }
+        ]
+      }
+    },
+    "/fake-ubuntu-22-04-update-screen": {
+      "name": "Fałszywa aktualizacja Ubuntu 22.04",
+      "icon": "https://emojicdn.elk.sh/🐧",
+      "title": "Fałszywa aktualizacja Ubuntu 22.04",
+      "type": "fałszywa aktualizacja",
+      "tip": {
+        "title": "Fałszywa aktualizacja Ubuntu 22.04",
+        "content": [
+          {
+            "title": "Żart z Ubuntu",
+            "description": "Oszukaj użytkowników Linuksa fałszywym ekranem aktualizacji Ubuntu 22.04, który wygląda jak prawdziwa aktualizacja systemu, zaskakując nawet najbardziej obeznanych z technologią. To żart dla entuzjastów open source"
+          },
+          {
+            "title": "Testowanie oprogramowania Ubuntu",
+            "description": "Symuluj aktualizacje Ubuntu, aby przetestować, jak aplikacje zachowują się podczas fałszywej aktualizacji systemu, bez zmiany konfiguracji. To przydatna sztuczka dla programistów lub testerów"
+          },
+          {
+            "title": "Szkolenie Ubuntu",
+            "description": "Naucz bezpiecznie procesów aktualizacji Linuksa za pomocą pozorowanego ekranu aktualizacji Ubuntu 22.04, który imituje rzeczywiste dane wyjściowe i postępy terminala. To skuteczny sposób na przeszkolenie nowych użytkowników lub personelu IT"
+          },
+          {
+            "title": "Zawartość Ubuntu",
+            "description": "Dodaj autentyczne wizualizacje terminala do swoich filmów lub samouczków za pomocą fałszywego ekranu aktualizacji Ubuntu, który prezentuje wrażenia z Linuksa. To świetna wizualizacja dla twórców treści technicznych"
+          },
+          {
+            "title": "Wdrożenie Ubuntu",
+            "description": "Prezentuj aktualizacje podczas pokazów lub prezentacji na żywo za pomocą ekranu pozorowanego Ubuntu 22.04, który oczaruje publiczność realistycznymi wizualizacjami. To idealne rozwiązanie na konferencje techniczne lub warsztaty"
+          },
+          {
+            "title": "Reakcja Ubuntu",
+            "description": "Nagraj zabawne lub sfrustrowane reakcje na fałszywą aktualizację Ubuntu, aby uzyskać treść reakcji, która podkreśla dziwactwa użytkowników Linuksa. To zabawny sposób na uchwycenie autentycznych momentów"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Symulowana aktualizacja Ubuntu 22.04",
+            "content": [
+              "Fałszywa aktualizacja Ubuntu 22.04",
+              "Symulacja aktualizacji Ubuntu 22.04",
+              "Symuluj aktualizację Ubuntu 22.04",
+              "Fałszywy ekran aktualizacji Ubuntu 22.04",
+              "Emuluj aktualizację Ubuntu 22.04",
+              "Żart z aktualizacją Ubuntu 22.04",
+              "Proces aktualizacji Ubuntu 22.04"
+            ]
+          },
+          {
+            "title": "Realistyczne doświadczenie",
+            "content": [
+              "Oryginalnie wyglądająca aktualizacja Ubuntu 22.04",
+              "Realistyczny ekran aktualizacji Ubuntu 22.04",
+              "Oszukanie znajomych aktualizacją Ubuntu 22.04",
+              "Realny postęp aktualizacji Ubuntu 22.04",
+              "Oryginalna symulacja aktualizacji Ubuntu 22.04",
+              "Oryginalne komunikaty o aktualizacji Ubuntu 22.04",
+              "Aktualizacja Ubuntu 22.04"
+            ]
+          },
+          {
+            "title": "Rozrywka i zabawa",
+            "content": [
+              "Zabawny żart z aktualizacją Ubuntu 22.04",
+              "Zabawna fałszywa aktualizacja Ubuntu 22.04",
+              "Ciesz się symulowaną aktualizacją do Ubuntu 22.04",
+              "Żart z fałszywą aktualizacją Ubuntu 22.04",
+              "Ekscytujące doświadczenie związane z aktualizacją do Ubuntu 22.04",
+              "Aktualizacja Ubuntu 22.04 dla rozrywki",
+              "Narzędzie do robienia żartów z aktualizacji Ubuntu 22.04"
+            ]
+          }
+        ]
+      }
+    },
+    "/fake-chrome-os-update-screen": {
+      "name": "Fałszywa aktualizacja systemu operacyjnego Chrome",
+      "icon": "https://emojicdn.elk.sh/🌐",
+      "title": "Fałszywa aktualizacja systemu operacyjnego Chrome",
+      "type": "fałszywa aktualizacja",
+      "tip": {
+        "title": "Fałszywa aktualizacja ChromeOS",
+        "content": [
+          {
+            "title": "Żart z ChromeOS",
+            "description": "Oszukaj znajomych fałszywym ekranem aktualizacji ChromeOS, który imituje czysty, minimalistyczny wygląd prawdziwej aktualizacji systemu. To szybki i przekonujący żart dla użytkowników Chromebooków"
+          },
+          {
+            "title": "Test reakcji ChromeOS",
+            "description": "Badaj reakcje użytkowników na fałszywe opóźnienie aktualizacji ChromeOS, obserwując ich cierpliwość lub dezorientację. To subtelny sposób na zbadanie zachowania użytkowników w obliczu przerw technologicznych"
+          },
+          {
+            "title": "Sceny wideo ChromeOS",
+            "description": "Dodaj realistyczne wizualizacje aktualizacji do swoich samouczków lub szkiców za pomocą fałszywego ekranu ChromeOS, który ulepszy Twoje materiały wideo o technologii. Profesjonalny i czysty akcent dla twórców"
+          },
+          {
+            "title": "Żart laboratoryjny ChromeOS",
+            "description": "Oszukaj całe laboratorium szkolne, wyświetlając fałszywy ekran aktualizacji na wielu Chromebookach, wywołując falę śmiechu i jęków wśród uczniów. To śmiały żart dla środowiska technologicznego"
+          },
+          {
+            "title": "Praktyka komputerowa ChromeOS",
+            "description": "Szkolenie wsparcia IT za pomocą bezpiecznej symulacji aktualizacji ChromeOS, replikowanie rzeczywistych scenariuszy w celu ćwiczenia rozwiązywania problemów. To praktyczne narzędzie do budowania pewności w zarządzaniu systemem"
+          },
+          {
+            "title": "Przegląd ChromeOS",
+            "description": "Ulepsz swoje prezentacje techniczne lub demonstracje za pomocą pozorowanego ekranu aktualizacji ChromeOS, który dodaje dynamiczne elementy wizualne do dyskusji. To angażujący sposób na zilustrowanie procesów aktualizacji lub funkcji systemu"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Rozrywka i rozrywka",
+            "content": [
+              "Podczas przerwy na lunch zrób żart swoim przyjaciołom",
+              "Zaskocz członków swojej rodziny",
+              "Twórz zabawne filmy z reakcjami",
+              "Psikus w szkolnej pracowni komputerowej",
+              "Żart z Office ChromeOS"
+            ]
+          },
+          {
+            "title": "Edukacja i szkolenia",
+            "content": [
+              "Scenariusze szkoleń z zakresu wsparcia IT",
+              "Warsztaty aktualizacji oprogramowania",
+              "Nagrania samouczków ChromeOS",
+              "Prezentacje dla administratorów systemów",
+              "Badania zachowań użytkowników"
+            ]
+          },
+          {
+            "title": "Tworzenie treści",
+            "content": [
+              "Zrzuty ekranu aktualizacji ChromeOS",
+              "Wizualizacja przeglądu technicznego",
+              "Tła do filmów instruktażowych",
+              "Obrazy dokumentacji oprogramowania",
+              "Sprzęt demonstracyjny ChromeOS"
+            ]
+          }
+        ]
+      }
+    },
+    "/fake-windows-11-update-screen": {
+      "name": "Fałszywa aktualizacja systemu Windows 11",
+      "icon": "https://emojicdn.elk.sh/🪟",
+      "title": "Fałszywa aktualizacja systemu Windows 11",
+      "type": "fałszywa aktualizacja",
+      "tip": {
+        "title": "Ekran aktualizacji systemu Windows 11",
+        "content": [
+          {
+            "title": "Fałszywa aktualizacja systemu Windows 11",
+            "description": "Oszukaj znajomych fałszywą aktualizacją systemu Windows 11, która wydaje się tkwić w niekończącej się pętli, wywołując zamieszanie i śmiech. To nowoczesna wersja klasycznego żartu z aktualizacją, ze stylową grafiką"
+          },
+          {
+            "title": "Windows 11 Office Spice",
+            "description": "Oszukaj swój zespół podczas spotkania, wyświetlając fałszywy ekran aktualizacji na współdzielonym komputerze, dodając zabawny akcent do dnia pracy. Zobacz, jak próbują rozgryźć, co się dzieje"
+          },
+          {
+            "title": "Żart o systemie Windows 11",
+            "description": "Przerwij sesję gry fałszywą aktualizacją systemu Windows 11, która pojawia się w trakcie gry, zaskakując graczy i wywołując zabawną reakcję. Idealne dla streamerów lub wieczorów gier grupowych"
+          },
+          {
+            "title": "Windows 11, imponująca technologia",
+            "description": "Zaskocz swoich znajomych realistyczną symulacją fałszywej aktualizacji, która naśladuje elegancki design systemu Windows 11, sprawiając, że pomyślą, że zhakowałeś system. Geekowski sposób na pokazanie swoich umiejętności dowcipnisia"
+          },
+          {
+            "title": "Zabawny film o systemie Windows 11",
+            "description": "Nagraj reakcje znajomych na fałszywą aktualizację systemu Windows 11, aby stworzyć zabawne treści wideo, które uchwycą ich zaskoczenie lub frustrację. Proste ustawienie dla wirusowych obrazów"
+          },
+          {
+            "title": "Koledzy robią sobie przerwę od Windowsa 11",
+            "description": "Zaskocz swoich współpracowników fałszywym ekranem aktualizacji, który zakłóci ich przepływ pracy, a który po początkowej panice okaże się żartem. Odważny ruch, który wywoła śmiech w biurze"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Symulowana aktualizacja systemu Windows 11",
+            "content": [
+              "Fałszywa aktualizacja systemu Windows 11",
+              "Symulacja aktualizacji systemu Windows 11",
+              "Symuluj aktualizację systemu Windows 11",
+              "Fałszywy ekran aktualizacji systemu Windows 11",
+              "Emuluj aktualizację systemu Windows 11",
+              "Prank z aktualizacją systemu Windows 11",
+              "Proces aktualizacji systemu Windows 11"
+            ]
+          },
+          {
+            "title": "Realistyczne doświadczenie",
+            "content": [
+              "Oryginalna aktualizacja systemu Windows 11",
+              "Realistyczny ekran aktualizacji systemu Windows 11",
+              "Oszukiwanie znajomych za pomocą aktualizacji systemu Windows 11",
+              "Realistyczny postęp aktualizacji systemu Windows 11",
+              "Oryginalna symulacja aktualizacji systemu Windows 11",
+              "Oryginalne komunikaty o aktualizacji systemu Windows 11",
+              "Krok aktualizacji systemu Windows 11"
+            ]
+          },
+          {
+            "title": "Rozrywka i rozrywka",
+            "content": [
+              "Zabawny żart o aktualizacji systemu Windows 11",
+              "Zabawna fałszywa aktualizacja systemu Windows 11",
+              "Ciesz się symulacją aktualizacji systemu Windows 11",
+              "Zrób sobie żart, fałszywie aktualizując system Windows 11",
+              "Ekscytujące doświadczenie związane z aktualizacją systemu Windows 11",
+              "Aktualizacja systemu Windows 11 dla zabawy",
+              "Narzędzie do robienia żartów z aktualizacji systemu Windows 11"
+            ]
+          }
+        ]
+      }
+    },
+    "/fake-android-update": {
+      "name": "Fałszywa aktualizacja Androida",
+      "icon": "https://emojicdn.elk.sh/📱",
+      "title": "Fałszywa aktualizacja Androida",
+      "type": "fałszywa aktualizacja",
+      "tip": {
+        "title": "Fałszywy ekran aktualizacji Androida",
+        "content": [
+          {
+            "title": "Test oprogramowania Androida",
+            "description": "Symuluj aktualizację Androida, aby przetestować, jak aplikacje zachowują się podczas fałszywego odświeżania systemu, bez wpływu na Twoje prawdziwe urządzenie. To bezpieczne środowisko dla programistów i ciekawskich majsterkowiczów"
+          },
+          {
+            "title": "Prezentacja Androida",
+            "description": "Podekscytuj swoją publiczność podczas prezentacji technicznych za pomocą pozorowanego ekranu aktualizacji Androida, który dodaje dynamiczną i realistyczną wizualizację do Twoich slajdów. To świetny sposób na zilustrowanie koncepcji mobilnych systemów operacyjnych"
+          },
+          {
+            "title": "Szkolenie techniczne z zakresu Androida",
+            "description": "Naucz procesów aktualizacji Androida bez prawdziwych urządzeń, używając pozorowanego ekranu aktualizacji, który odtwarza rzeczywiste doświadczenie. To skuteczne narzędzie do szkolenia personelu IT lub studentów"
+          },
+          {
+            "title": "Tworzenie treści na Androida",
+            "description": "Dodaj autentyczne wizualizacje aktualizacji do swoich filmów lub samouczków za pomocą fałszywego ekranu Androida, który wzbogaci Twoją zawartość technologiczną. To wyrafinowany akcent dla Twoich recenzji lub poradników"
+          },
+          {
+            "title": "Psikus z Androidem",
+            "description": "Oszukaj znajomych fałszywą aktualizacją Androida, która blokuje ekran ich telefonu, sprawiając, że będą myśleć, że utknęli, czekając na zakończenie aktualizacji. To podstępny żart dla użytkowników urządzeń mobilnych"
+          },
+          {
+            "title": "Badanie UX systemu Android",
+            "description": "Analizuj reakcję użytkownika na projekt lub opóźnienia fałszywej aktualizacji Androida i uzyskaj wgląd w doświadczenie użytkownika bez żadnych rzeczywistych stawek. To sposób na zbadanie reakcji mobilnego interfejsu użytkownika o niskim ryzyku"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Symulowana aktualizacja Androida",
+            "content": [
+              "Fałszywa aktualizacja Androida",
+              "Symulacja aktualizacji Androida",
+              "Symuluj aktualizację Androida",
+              "Fałszywy ekran aktualizacji Androida",
+              "Emuluj aktualizację Androida",
+              "żart z aktualizacją Androida",
+              "Proces aktualizacji Androida"
+            ]
+          },
+          {
+            "title": "Realistyczne doświadczenie",
+            "content": [
+              "Aktualizacja Androida wyglądająca na oryginalną",
+              "Realistyczny ekran aktualizacji Androida",
+              "Oszukanie znajomych aktualizacją Androida",
+              "Realistyczny postęp aktualizacji Androida",
+              "Oryginalna symulacja aktualizacji Androida",
+              "Oryginalne wiadomości o aktualizacji Androida",
+              "Krok aktualizacji Androida"
+            ]
+          },
+          {
+            "title": "Rozrywka i przyjemność",
+            "content": [
+              "Zabawny żart z aktualizacją Androida",
+              "Zabawna fałszywa aktualizacja Androida",
+              "Ciesz się symulowaną aktualizacją Androida",
+              "Fałszywy żart z aktualizacją Androida",
+              "Ekscytujące doświadczenie aktualizacji Androida",
+              "Aktualizacja Androida dla rozrywki",
+              "Narzędzie do robienia żartów z aktualizacji Androida"
+            ]
+          }
+        ]
+      }
+    },
+    "/dvd-screensaver": {
+      "name": "Wygaszacz ekranu DVD",
+      "icon": "https://emojicdn.elk.sh/📀",
+      "title": "Wygaszacz ekranu DVD",
+      "type": "wygaszacz ekranu",
+      "tip": {
+        "title": "Wygaszacz ekranu DVD",
+        "content": [
+          {
+            "title": "DVD relaksacyjne",
+            "description": "Zrelaksuj się, oglądając ikoniczne logo DVD odbijające się na ekranie, zapewniające kojący, hipnotyczny ruch, który uspokaja umysł. Nostalgiczny sposób na relaks po długim dniu"
+          },
+          {
+            "title": "Prezentacja DVD",
+            "description": "Dodaj subtelny ruch do slajdów lub przerw w prezentacji dzięki wygaszaczowi ekranu DVD, oczarowując publiczność bez rozpraszania uwagi. Retro akcent, który rozjaśnia nastrój"
+          },
+          {
+            "title": "Pokój oczekiwania DVD",
+            "description": "Zabaw swoich gości w poczekalni retro klimatem wygaszacza ekranu DVD, oferując im prosty i wciągający pokaz. Prosty i skuteczny sposób na poprawę atmosfery"
+          },
+          {
+            "title": "DVD na wieczorną zabawę",
+            "description": "Stwórz nostalgiczną atmosferę dzięki wygaszaczowi ekranu DVD, który odbija się od dużego ekranu i wywołuje rozmowy o staromodnej technologii. To zabawny i oryginalny dodatek do każdego spotkania"
+          },
+          {
+            "title": "DVD jako pomoc naukowa",
+            "description": "Popraw swoją koncentrację podczas sesji nauki dzięki płynnemu, przewidywalnemu ruchowi wygaszacza ekranu DVD, który zapewnia kojące tło bez rozpraszania uwagi. To subtelny towarzysz koncentracji"
+          },
+          {
+            "title": "DVD na przerwę",
+            "description": "Wypełnij nieaktywne ekrany animacją wygaszacza ekranu DVD podczas przerw, zmieniając pusty ekran w zabawne, retro rozproszenie. Idealne do ożywienia chwil między zadaniami"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Relaks i atmosfera",
+            "content": [
+              "Zrelaksuj się przy nostalgicznym wygaszaczu ekranu",
+              "Stwórz uspokajające środowisko",
+              "Rozkoszuj się atmosferą retro",
+              "Stwórz spokojne tło",
+              "Idealne do sesji medytacyjnych"
+            ]
+          },
+          {
+            "title": "Użycie profesjonalne i komercyjne",
+            "content": [
+              "Ulepsz swoje prezentacje za pomocą ruchu",
+              "Dynamiczny wyświetlacz poczekalni",
+              "Atrakcyjne tło pulpitu",
+              "Profesjonalny wygaszacz ekranu na spotkania",
+              "Przykuwające wzrok wystawy sklepowe"
+            ]
+          },
+          {
+            "title": "Rozrywka i przyjemność",
+            "content": [
+              "Tworzyciel atmosfery imprezy",
+              "Zabawne narzędzie do przerwy w nauce",
+              "Interaktywny wygaszacz ekranu dla dzieci",
+              "Rozrywka wizualna w czasie wolnym",
+              "Ekran imprezy z możliwością dostosowania"
+            ]
+          }
+        ]
+      }
+    },
+    "/flip-clock-screensaver": {
+      "name": "Zegarek obrotowy",
+      "icon": "https://emojicdn.elk.sh/⏰",
+      "title": "Wygaszacz ekranu Flip Clock",
+      "type": "wygaszacz ekranu",
+      "tip": {
+        "title": "Wygaszacz ekranu Flip Clock",
+        "content": [
+          {
+            "title": "Zegarek relaksacyjny z klapką",
+            "description": "Ciesz się retro ruchem zegara cyfrowego, aby się zrelaksować, podczas gdy rytmiczne zmiany tworzą uspokajający i medytacyjny efekt. Stylowy sposób na relaks przy jednoczesnym obserwowaniu czasu"
+          },
+          {
+            "title": "Zegar biurkowy z klapką",
+            "description": "Dodaj odrobinę wyrafinowania do swojego miejsca pracy dzięki wygaszaczowi ekranu z odwróconym zegarem, który również elegancko wyświetla godzinę. To zarówno funkcjonalne, jak i estetyczne ulepszenie każdego biurka"
+          },
+          {
+            "title": "Prezentacja zegara obrotowego",
+            "description": "Ulepsz swoje rozmowy za pomocą stylowego wygaszacza ekranu z odwróconym zegarem, który służy jako timer lub subtelne tło, pozwalając słuchaczom kontrolować czas. Wyrafinowany dodatek do profesjonalnych środowisk"
+          },
+          {
+            "title": "Zegarek z klapką do domu",
+            "description": "Stwórz nowoczesną, minimalistyczną atmosferę w swoim domu dzięki wygaszaczowi ekranu z odwróconym zegarem, który łączy w sobie urok retro ze współczesnym designem. Stylowy sposób na sprawdzenie godziny na telewizorze lub monitorze"
+          },
+          {
+            "title": "Zegarek z klapką do nauki",
+            "description": "Śledź swój czas nauki za pomocą przyjemnych obrotów zegara z klapką, aby pomóc Ci trzymać się harmonogramu, dodając jednocześnie kojący rytm do sesji. To przydatne narzędzie do skupionej pracy"
+          },
+          {
+            "title": "Przekręć zegar, aby czekać",
+            "description": "Zachwyć gości w poczekalniach stylowym wygaszaczem ekranu z obrotowym zegarem, który łączy w sobie użyteczność i estetykę, czyniąc czas przyjemniejszym. Odrobina elegancji w przestrzeniach publicznych"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Relaks i estetyka",
+            "content": [
+              "Estetyka vintage",
+              "Uspokajający zegar na pełnym ekranie",
+              "Retro atmosfera",
+              "Nowoczesny minimalistyczny design",
+              "Elegancki wystrój wnętrz"
+            ]
+          },
+          {
+            "title": "Profesjonalizm i produktywność",
+            "content": [
+              "Wyświetlacz czasu pracy w biurze",
+              "Tło prezentacji",
+              "Ustrukturyzowane środowisko nauki",
+              "Angażujący zegar poczekalni",
+              "Narzędzie do zarządzania czasem"
+            ]
+          },
+          {
+            "title": "Rozrywka i wydarzenia",
+            "content": [
+              "Atmosfera imprezy",
+              "Dekoracja imprez",
+              "Funkcja wystawiennicza",
+              "Interaktywny wyświetlacz",
+              "Czas niestandardowy dla wydarzeń"
+            ]
+          }
+        ]
+      }
+    },
+    "/motivational-quote-screensaver": {
+      "cytat": {
+        "paragraph": "Jedynym sposobem na wykonywanie świetnej pracy jest kochanie tego, co się robi. Jeśli jeszcze tego nie znalazłeś, szukaj dalej. Nie zadowalaj się",
+        "autor": "Steve Jobs"
+      },
+      "name": "Cytat motywacyjny",
+      "icon": "https://emojicdn.elk.sh/💬",
+      "title": "Wygaszacz ekranu z cytatem motywacyjnym",
+      "type": "wygaszacz ekranu",
+      "tip": {
+        "title": "Wygaszacz ekranu z motywującymi cytatami",
+        "content": [
+          {
+            "title": "Cytat, który poprawi Ci humor rano",
+            "description": "Rozpocznij dzień z inspiracją, wyświetlając motywujący wygaszacz ekranu z cytatem, który podniesie Cię na duchu i da Ci pozytywne wibracje. To prosty sposób na rozpoczęcie dnia z celem"
+          },
+          {
+            "title": "Cytat na przestrzeń roboczą",
+            "description": "Motywuj swój dzień pracy za pomocą wygaszacza ekranu z motywującymi cytatami, które pomogą Ci zachować koncentrację i energię w biurze. To subtelne przypomnienie, aby pozostać zmotywowanym podczas długich godzin pracy"
+          },
+          {
+            "title": "Wezwanie do odbycia spotkań",
+            "description": "Rozbudź kreatywność i konwersację podczas spotkań zespołowych, wyświetlając motywujący cytat na wygaszaczu ekranu podczas przerw lub prezentacji. To przemyślany sposób na inspirowanie współpracy i pomysłów"
+          },
+          {
+            "title": "Oferta pomocy w nauce",
+            "description": "Bądź zainspirowany podczas nauki dzięki wygaszaczowi ekranu z motywującymi cytatami, które utrzymają Cię w motywacji podczas trudnych sesji. Prawdziwy zastrzyk energii psychicznej do późnych nocnych powtórek lub długich projektów"
+          },
+          {
+            "title": "Cytat na temat atmosfery domu",
+            "description": "Dodaj pozytywny akcent do swojej przestrzeni życiowej za pomocą motywującego wygaszacza ekranu, który rozjaśni pokój i zachęci wszystkich. Dekoracyjny akcent o silnym oddziaływaniu emocjonalnym"
+          },
+          {
+            "title": "Cytat o kondycji fizycznej",
+            "description": "Wytrwaj podczas ćwiczeń dzięki wygaszaczowi ekranu z motywującymi cytatami, które zmotywują Cię podczas ćwiczeń. Prawdziwy wizualny impuls do osiągnięcia celów fitness"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Codzienna motywacja",
+            "content": [
+              "Poranny zastrzyk inspiracji",
+              "Pozytywny początek dnia",
+              "Codzienna dawka motywacji",
+              "Podnoszące na duchu cytaty o odświeżeniu",
+              "Rozpocznij dzień pozytywnie"
+            ]
+          },
+          {
+            "title": "Produktywność i koncentracja",
+            "content": [
+              "Zachowaj koncentrację w pracy",
+              "Motywuj w trakcie studiów",
+              "Pobudzaj kreatywność zespołu",
+              "Inspirujące przerwy w pracy",
+              "Popraw atmosferę w miejscu pracy"
+            ]
+          },
+          {
+            "title": "Użytek osobisty i domowy",
+            "content": [
+              "Inspirujący projekt wnętrza",
+              "Dostosowywany wyświetlacz ofert",
+              "Ulubione cytaty osobiste",
+              "Zachęcaj do ćwiczeń fizycznych",
+              "Motywująca atmosfera wnętrza"
+            ]
+          }
+        ]
+      }
+    },
+    "/no-signal-smpte-color-bars-screensaver": {
+      "name": "Brak sygnału",
+      "icon": "https://emojicdn.elk.sh/📡",
+      "title": "Paski kolorów – ekran telewizora bez sygnału",
+      "type": "wygaszacz ekranu",
+      "tip": {
+        "title": "Paski kolorów – ekran telewizora bez sygnału",
+        "content": [
+          {
+            "title": "Kalibracja paska kolorów",
+            "description": "Dostosuj swoje wyświetlacze za pomocą pasków kolorów SMPTE retro, aby zapewnić dokładne ustawienia kolorów i jasności oraz optymalne wyświetlanie. To klasyczne narzędzie zarówno dla entuzjastów technologii, jak i profesjonalistów"
+          },
+          {
+            "title": "Film z paskami kolorów",
+            "description": "Ulepsz swoją produkcję wideo za pomocą wzorców testowych, używając pasków kolorów jako odniesienia lub jako ekranu pauzy, dodając swojej pracy profesjonalny akcent. To ukłon w stronę historii transmisji, która poprawia jakość"
+          },
+          {
+            "title": "Nadawanie z paskami kolorów",
+            "description": "Dodaj profesjonalne przerwy do swoich transmisji za pomocą pasków kolorów, które naśladują sygnały testowe TV, zapewniając odbiorcom wyrafinowaną przerwę. Retro akcent dla twórców treści na żywo"
+          },
+          {
+            "title": "Grafika paska kolorów",
+            "description": "Twórz instalacje multimedialne retro z kolorowymi paskami, aby stworzyć żywe i nostalgiczne tło dla swoich galerii lub projektów kreatywnych. Odważna wizualizacja łącząca technologię i estetykę"
+          },
+          {
+            "title": "Atmosfera paska kolorów",
+            "description": "Stwórz w swojej przestrzeni klimat starego telewizora dzięki kolorowym pasom, które przywołują programy z minionych lat, idealne do stworzenia osobliwej atmosfery. Łatwy sposób na dodanie charakteru do każdego pomieszczenia"
+          },
+          {
+            "title": "Wypełnianie paska kolorów",
+            "description": "Oszukaj znajomych fałszywą usterką TV, wyświetlając kolorowe paski, sprawiając, że uwierzą, że sygnał został utracony, na tyle długo, by wywołać śmiech. Niegroźny żart z nutką retro"
+          }
+        ],
+        "subTips": [
+          {
+            "title": "Rozrywka i farsy",
+            "content": [
+              "pełnoekranowe żarty bez sygnału",
+              "retro dekoracje na imprezę telewizyjną",
+              "efekty ekranu pauzy w przesyłaniu strumieniowym",
+              "estetyka dawnych audycji",
+              "atmosfera pokoju gier"
+            ]
+          },
+          {
+            "title": "Zastosowania profesjonalne",
+            "content": [
+              "Test paska kolorów SMPTE",
+              "modele kalibracji monitora",
+              "karty testowe do produkcji wideo",
+              "odniesienie do konfiguracji wyświetlania",
+              "kontrole sprzętu transmisyjnego"
+            ]
+          },
+          {
+            "title": "Projekty kreatywne",
+            "content": [
+              "tła instalacji artystycznych",
+              "estetyka retro wideo",
+              "projektowanie scenografii do telewizorów zabytkowych",
+              "akcesoria do produkcji filmowej",
+              "nostalgiczne wyświetlacze multimedialne"
+            ]
+          }
+        ]
+      }
+    },
+    "/terms-and-conditions": {
+      "name": "Warunki korzystania",
+      "icon": "https://emojicdn.elk.sh/📜",
+      "title": "Warunki korzystania",
+      "type": "strona"
+    },
+    "/privacy-policy": {
+      "name": "Polityka prywatności",
+      "icon": "https://emojicdn.elk.sh/🔒",
+      "title": "Polityka prywatności",
+      "type": "strona"
+    },
+    "/contact-us": {
+      "name": "Skontaktuj się z nami",
+      "icon": "https://emojicdn.elk.sh/📞",
+      "title": "Skontaktuj się z nami",
+      "type": "strona"
+    },
+    "/kernel-panic": {
+      "name": "Panika jądra",
+      "icon": "https://emojicdn.elk.sh/🔋",
+      "title": "Panika jądra",
+      "type": "żart",
+      "isPage": true,
+      "tip": {
+        "title": "Panika jądra",
+        "content": [
+          {
+            "title": "Panika jądra",
+            "description": "Kernel panic to ekran żartu, który symuluje rozładowywanie się urządzenia elektronicznego"
+          }
+        ]
+      }
+    },
+    "navigation": {
+      "color": "Ekrany kolorowe",
+      "prank": "Ekrany żartów",
+      "fake-update": "Fałszywe ekrany aktualizacji",
+      "screensaver": "Wygaszacze ekranu",
+      "tip": {
+        "header": "Ludzie używają {tipTitle} do:"
+      }
+    },
+    "settings": {
+      "time": [
+        "Czas aktualizacji",
+        "Czas rozpoczęcia",
+        "protokół",
+        "Uruchom ponownie"
+      ],
+      "color": [
+        "Pobierać",
+        "{title} tło"
+      ],
+      "hacker": [
+        "Prędkość"
+      ]
+    },
+    "title": "{title} | Narzędzie online",
+    "/null": {
+      "name": "Null",
+      "icon": "https://emojicdn.elk.sh/⚫️",
+      "title": "Null",
+      "type": "strona",
+      "color": "#000000",
+      "colorName": "Czarny",
+      "isPage": true,
+      "tip": {
+        "title": "Null",
+        "content": [
+          {
+            "title": "Null",
+            "description": "Null oznacza stronę bez tekstu i obrazów"
+          }
+        ]
+      }
+    },
+    "sidebar": {
+      "links": "Linki",
+      "uses": "Używa",
+      "other_tips": "Inne wskazówki"
+    }
+}

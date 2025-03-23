@@ -10,6 +10,7 @@ export default function LocalesDropdown() {
   const getLanguageLabel = (locale: string) => {
     /**
      * Deutschland, English, France, Schweiz, Nederland, 한국어
+     * cn.json  de.json  en.json  es.json  fr.json  it.json  ja.json  ko.json  nl.json  pl.json  pt.json  sv.json  tr.json  uk.json
      */
     const labels: Map<string, string> = new Map([
       ["de", "Deutschland"], // Germany
@@ -18,6 +19,16 @@ export default function LocalesDropdown() {
       ["nl", "Nederland"], // Netherlands
       ["cn", "中國"], // China
       ["ko", "한국인"], // Korean
+
+      // Add more languages here
+      ["es", "Español"], // Spanish
+      ["it", "Italiano"], // Italian
+      ["ja", "日本語"], // Japanese
+      ["pl", "Polski"], // Polish
+      ["pt", "Português"], // Portuguese
+      ["sv", "Svenska"], // Swedish
+      ["tr", "Türkçe"], // Turkish
+      ["uk", "Українська"], // Ukrainian
     ]);
 
     return labels.get(locale) || locale;
