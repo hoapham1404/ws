@@ -424,6 +424,7 @@ export const getRoutesType = (): string[] => {
 export interface ScreenNavBar {
   name: string;
   href: string;
+  type: string;
 }
 
 export const getScreensNavBar = (): ScreenNavBar[] => {
@@ -439,10 +440,15 @@ export const getScreensNavBar = (): ScreenNavBar[] => {
             .map((s) => s.charAt(0).toUpperCase() + s.slice(1))
             .join(" "),
         href: route.path,
+        type: route.type,
       });
     }
   }
   return Array.from(grouped.values());
+};
+
+export const getRouteTypeByPath = (path: string): string | undefined => {
+  return routes.find((route) => route.path === path)?.type;
 };
 
 export default routes;

@@ -1,4 +1,8 @@
-import { getScreensNavBar, ScreenNavBar } from "@/constants/routes";
+import {
+  getRouteTypeByPath,
+  getScreensNavBar,
+  ScreenNavBar,
+} from "@/constants/routes";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { JSX } from "react";
@@ -15,9 +19,12 @@ export default function ScreensNavBar(): JSX.Element {
           key={screen.href}
           href={screen.href}
           className={cn(
-            "text-sm font-medium text-gray-600 transition-colors",
+            "text-base font-medium text-gray-600 transition-colors",
             "hover:text-gray-900",
-            screen.href === pathName ? "text-black font-semibold" : "",
+            screen.href === pathName ||
+              getRouteTypeByPath(pathName) === screen.type
+              ? "text-black font-semibold"
+              : "",
           )}
         >
           {screen.name} screens
