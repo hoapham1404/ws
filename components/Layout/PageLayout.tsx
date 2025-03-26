@@ -8,13 +8,18 @@ interface PageLayoutProps {
   bottom?: React.ReactNode;
 }
 
-export default function PageLayout({ mid, right }: PageLayoutProps) {
+export default function PageLayout({
+  mid,
+  right,
+  left,
+  bottom,
+}: PageLayoutProps) {
   return (
-    <div className="flex flex-col">
-      <main className="flex flex-row justify-center items-center gap-32">
-        <div></div>
+    <div className="h-screen flex flex-col">
+      <main className="grid grid-cols-[2fr_3fr_2fr] grid-rows-2">
+        <div className="overflow-auto">{left}</div>
         <div
-          className="rounded-lg overflow-hidden h-72 aspect-video scale-125"
+          className="rounded-lg overflow-hidden aspect-video "
           style={{
             boxShadow: "0 8px 30px #ffbe5c",
           }}
@@ -24,6 +29,7 @@ export default function PageLayout({ mid, right }: PageLayoutProps) {
         <div className="overflow-auto">
           <div className="ml-8 h-full">{right}</div>
         </div>
+        <div className="col-span-3">{bottom}</div>
       </main>
     </div>
   );
