@@ -42,6 +42,7 @@ import PrivacyPolicy from "@/components/PrivacyPolicy/PrivacyPolicy";
 import ContactUs from "@/components/ContactUs/ContactUs";
 import KernelPanicIcon from "@/public/OldKernelPanic1280.webp";
 import KernelPanic from "@/components/KernelPanic/KernelPanic";
+import ScreensNavBar from "@/components/ScreensNavBar";
 
 export class RouteStore {
   path: string;
@@ -419,4 +420,35 @@ export const getRoutesType = (): string[] => {
   const types = routes.map((route) => route.type || "");
   return [...new Set(types)];
 };
+
+export interface ScreenNavBar {
+  name: string;
+  href: string;
+  type: string;
+}
+
+export const getScreensNavBar = (): ScreenNavBar[] => {
+  const grouped = new Map<string, ScreenNavBar>();
+  for (const route of routes) {
+    if (route.type && !grouped.has(route.type)) {
+      grouped.set(route.type, {
+        name:
+          route.type &&
+          route.type
+            .replace("-", " ")
+            .split(" ")
+            .map((s) => s.charAt(0).toUpperCase() + s.slice(1))
+            .join(" "),
+        href: route.path,
+        type: route.type,
+      });
+    }
+  }
+  return Array.from(grouped.values());
+};
+
+export const getRouteTypeByPath = (path: string): string | undefined => {
+  return routes.find((route) => route.path === path)?.type;
+};
+
 export default routes;
