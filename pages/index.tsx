@@ -1,4 +1,6 @@
+import ColorOptions from "@/components/BasicColorPage/ColorOptions";
 import PreviewContent from "@/components/BasicColorPage/PreviewContent";
+import ScreenOptions from "@/components/BasicColorPage/ScreenOptions";
 import SettingsPanel from "@/components/BasicColorPage/SettingsPanel";
 import PageLayout from "@/components/Layout/PageLayout";
 import { getRouteByPath, RouteStore } from "@/constants/routes";
@@ -8,7 +10,6 @@ import Head from "next/head";
 import React from "react";
 
 export const getStaticProps: GetStaticProps = async ({ locale, locales }) => {
-
   return {
     props: {
       locale,
@@ -28,15 +29,24 @@ export default function HomePage() {
       <Head>
         <title>{raw("title", { title: t("name") })}</title>
         <meta name="description" content={t("tip.title")} />
-        <link rel="icon" href={route.color ? `data:image/svg+xml,
+        <link
+          rel="icon"
+          href={
+            route.color
+              ? `data:image/svg+xml,
       <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
           <rect x='20' y='20' width='100' height='70' fill='${encodeURIComponent(route.color)}'/>
-      </svg>` : route.icon} />
+      </svg>`
+              : route.icon
+          }
+        />
       </Head>
       <PageLayout
+        left={<ColorOptions />}
         mid={<PreviewContent />}
         right={<SettingsPanel />}
+        bottom={<ScreenOptions />}
       />
-    </React.Fragment >
-  )
+    </React.Fragment>
+  );
 }

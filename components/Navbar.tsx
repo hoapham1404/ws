@@ -1,5 +1,6 @@
-import Link from "next/link"
-import LocalesDropdown from "./LocalesDropdown"
+import Link from "next/link";
+import LocalesDropdown from "./LocalesDropdown";
+import ScreensNavBar from "./ScreensNavBar";
 
 export default function Navbar() {
   return (
@@ -14,8 +15,11 @@ export default function Navbar() {
           </Link>
         </div>
 
-        <LocalesDropdown />
+        <div className="flex flex-row items-center gap-4">
+          <ScreensNavBar />
+          <LocalesDropdown />
+        </div>
       </div>
     </header>
-  )
+  );
 }
