@@ -18,9 +18,9 @@ export default function SettingsPanel() {
         </h3>
         <ResolutionOptions />
         <DownloadImageButton />
+        <Temperature />
+        <ColorPicker />
       </section>
-      <Temperature />
-      <ColorPicker />
     </div>
-  )
+  );
 }
