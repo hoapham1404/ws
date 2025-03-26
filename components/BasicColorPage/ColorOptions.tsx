@@ -2,6 +2,7 @@ import { getColorRoutes, RouteStore } from "@/constants/routes";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { cn } from "@/lib/utils";
 
 export default function ColorOptions() {
   const colorRoutes = getColorRoutes();
@@ -17,12 +18,13 @@ export default function ColorOptions() {
             <Link
               key={route.path}
               href={route.path}
-              className={`h-full px-4 py-2 flex items-center  gap-5 text-left rounded text-wrap
-                ${pathname === route.path ? "bg-gray-200" : ""}
-              `}
+              className={cn(
+                "h-full px-4 py-2 flex items-center  gap-5 text-left rounded text-wrap ",
+                pathname === route.path ? "bg-gray-200" : "",
+              )}
             >
               <div
-                className={"w-16 h-8 rounded"}
+                className={"h-10 aspect-square rounded-full"}
                 style={{
                   backgroundColor: route.color,
                   boxShadow: `0 0 16px 0 rgba(0, 0, 0, 0.3)`,
