@@ -5,16 +5,16 @@ export const TermAndCondition = () => {
     <div className="font-serif">
       <h1 className="text-2xl font-bold mb-6">Terms and Conditions</h1>
 
-      <p className="mb-4 text-lg">Welcome to www.whitescreen.online!</p>
+      <p className="mb-4 text-lg">Welcome to www.whitescreen.ws!</p>
 
       <p className="mb-4 text-lg">
         These terms and conditions outline the rules and regulations for the use of WhiteScreen&apos;s Website, located
-        at https://www.whitescreen.online.
+        at https://www.whitescreen.ws.
       </p>
 
       <p className="mb-4 text-lg">
         By accessing this website we assume you accept these terms and conditions. Do not continue to use
-        www.whitescreen.online if you do not agree to take all of the terms and conditions stated on this page.
+        www.whitescreen.ws if you do not agree to take all of the terms and conditions stated on this page.
       </p>
 
       <p className="mb-4 text-lg">
@@ -33,7 +33,7 @@ export const TermAndCondition = () => {
       <h2 className="text-2xl font-bold mt-8 mb-4">Cookies</h2>
 
       <p className="mb-4 text-lg">
-        We employ the use of cookies. By accessing www.whitescreen.online, you agreed to use cookies in agreement with
+        We employ the use of cookies. By accessing www.whitescreen.ws, you agreed to use cookies in agreement with
         the WhiteScreen&apos;s Privacy Policy.
       </p>
 
@@ -47,17 +47,17 @@ export const TermAndCondition = () => {
 
       <p className="mb-4 text-lg">
         Unless otherwise stated, WhiteScreen and/or its licensors own the intellectual property rights for all material
-        on www.whitescreen.online. All intellectual property rights are reserved. You may access this from
-        www.whitescreen.online for your own personal use subjected to restrictions set in these terms and conditions.
+        on www.whitescreen.ws. All intellectual property rights are reserved. You may access this from
+        www.whitescreen.ws for your own personal use subjected to restrictions set in these terms and conditions.
       </p>
 
       <p className="mb-4 text-lg">You must not:</p>
 
       <ul className="list-disc pl-8 mb-4 space-y-2">
-        <li className="text-lg">Republish material from www.whitescreen.online</li>
-        <li className="text-lg">Sell, rent or sub-license material from www.whitescreen.online</li>
-        <li className="text-lg">Reproduce, duplicate or copy material from www.whitescreen.online</li>
-        <li className="text-lg">Redistribute content from www.whitescreen.online</li>
+        <li className="text-lg">Republish material from www.whitescreen.ws</li>
+        <li className="text-lg">Sell, rent or sub-license material from www.whitescreen.ws</li>
+        <li className="text-lg">Reproduce, duplicate or copy material from www.whitescreen.ws</li>
+        <li className="text-lg">Redistribute content from www.whitescreen.ws</li>
       </ul>
 
       <p className="mb-4 text-lg">

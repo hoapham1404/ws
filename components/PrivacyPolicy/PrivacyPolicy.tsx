@@ -6,9 +6,9 @@ export default function PrivacyPolicy() {
       <h1 className="text-4xl font-bold mb-6">Privacy Policy for WhiteScreen (WS)</h1>
 
       <p className="mb-4 text-lg">
-        At www.whitescreen.online, accessible from https://www.whitescreen.online, one of our main priorities is the
+        At www.whitescreen.ws, accessible from https://www.whitescreen.ws, one of our main priorities is the
         privacy of our visitors. This Privacy Policy document contains types of information that is collected and
-        recorded by www.whitescreen.online and how we use it.
+        recorded by www.whitescreen.ws and how we use it.
       </p>
 
       <p className="mb-4 text-lg">
@@ -18,7 +18,7 @@ export default function PrivacyPolicy() {
 
       <p className="mb-4 text-lg">
         This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards
-        to the information that they shared and/or collect in www.whitescreen.online. This policy is not applicable to
+        to the information that they shared and/or collect in www.whitescreen.ws. This policy is not applicable to
         any information collected offline or via channels other than this website. Our Privacy Policy was created with
         the help of the{" "}
         <Link
@@ -73,7 +73,7 @@ export default function PrivacyPolicy() {
       <h2 className="text-3xl font-bold mt-8 mb-4">Log Files</h2>
 
       <p className="mb-4 text-lg">
-        www.whitescreen.online follows a standard procedure of using log files. These files log visitors when they visit
+        www.whitescreen.ws follows a standard procedure of using log files. These files log visitors when they visit
         websites. All hosting companies do this and a part of hosting services&apos; analytics. The information
         collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP),
         date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any
@@ -84,7 +84,7 @@ export default function PrivacyPolicy() {
       <h2 className="text-3xl font-bold mt-8 mb-4">Cookies and Web Beacons</h2>
 
       <p className="mb-4 text-lg">
-        Like any other website, www.whitescreen.online uses &apos;cookies&apos;. These cookies are used to store
+        Like any other website, www.whitescreen.ws uses &apos;cookies&apos;. These cookies are used to store
         information including visitors&apos; preferences, and the pages on the website that the visitor accessed or
         visited. The information is used to optimize the users&apos; experience by customizing our web page content
         based on visitors&apos; browser type and/or other information.
@@ -113,26 +113,26 @@ export default function PrivacyPolicy() {
 
       <p className="mb-4 text-lg">
         You may consult this list to find the Privacy Policy for each of the advertising partners of
-        www.whitescreen.online.
+        www.whitescreen.ws.
       </p>
 
       <p className="mb-4 text-lg">
         Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used
-        in their respective advertisements and links that appear on www.whitescreen.online, which are sent directly to
+        in their respective advertisements and links that appear on www.whitescreen.ws, which are sent directly to
         users&apos; browser. They automatically receive your IP address when this occurs. These technologies are used to
         measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you
         see on websites that you visit.
       </p>
 
       <p className="mb-4 text-lg">
-        Note that www.whitescreen.online has no access to or control over these cookies that are used by third-party
+        Note that www.whitescreen.ws has no access to or control over these cookies that are used by third-party
         advertisers.
       </p>
 
       <h2 className="text-3xl font-bold mt-8 mb-4">Third Party Privacy Policies</h2>
 
       <p className="mb-4 text-lg">
-        www.whitescreen.online&apos;s Privacy Policy does not apply to other advertisers or websites. Thus, we are
+        www.whitescreen.ws&apos;s Privacy Policy does not apply to other advertisers or websites. Thus, we are
         advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed
         information. It may include their practices and instructions about how to opt-out of certain options.
       </p>
@@ -213,7 +213,7 @@ export default function PrivacyPolicy() {
       </p>
 
       <p className="mb-4 text-lg">
-        www.whitescreen.online does not knowingly collect any Personal Identifiable Information from children under the
+        www.whitescreen.ws does not knowingly collect any Personal Identifiable Information from children under the
         age of 13. If you think that your child provided this kind of information on our website, we strongly encourage
         you to contact us immediately and we will do our best efforts to promptly remove such information from our
         records.
