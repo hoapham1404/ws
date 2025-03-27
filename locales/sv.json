@@ -1744,6 +1744,78 @@
       ]
     }
   },
+  "/bee": {
+    "name": "Björn",
+    "tip": {
+      "title": "Björn",
+      "content": [
+        {
+          "title": "Björn",
+          "description": "Björn är en björn."
+        }
+      ]
+    }
+  },
+  "/frog": {
+    "name": "Groda",
+    "tip": {
+      "title": "Groda",
+      "content": [
+        {
+          "title": "Groda",
+          "description": "Groda är en groda."
+        }
+      ]
+    }
+  },
+  "/fly": {
+    "name": "Fly",
+    "tip": {
+      "title": "Fly",
+      "content": [
+        {
+          "title": "Fly",
+          "description": "Fly är en fly."
+        }
+      ]
+    }
+  },
+  "/signal1": {
+    "name": "Signal 1",
+    "tip": {
+      "title": "Signal 1",
+      "content": [
+        {
+          "title": "Signal 1",
+          "description": "Signal 1 är en signal."
+        }
+      ]
+    }
+  },
+  "/signal2": {
+    "name": "Signal 2",
+    "tip": {
+      "title": "Signal 2",
+      "content": [
+        {
+          "title": "Signal 2",
+          "description": "Signal 2 är en signal."
+        }
+      ]
+    }
+  },
+  "/cockroach": {
+    "name": "Kakao",
+    "tip": {
+      "title": "Kakao",
+      "content": [
+        {
+          "title": "Kakao",
+          "description": "Kakao är en kakao."
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "Färgskärmar",
     "prank": "Prankskärmar",

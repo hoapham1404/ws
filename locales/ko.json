@@ -1744,6 +1744,78 @@
       ]
     }
   },
+  "/bee": {
+    "name": "벌",
+    "tip": {
+      "title": "벌",
+      "content": [
+        {
+          "title": "벌",
+          "description": "벌은 벌입니다."
+        }
+      ]
+    }
+  },
+  "/frog": {
+    "name": "개구리",
+    "tip": {
+      "title": "개구리",
+      "content": [
+        {
+          "title": "개구리",
+          "description": "개구리는 개구리입니다."
+        }
+      ]
+    }
+  },
+  "/fly": {
+    "name": "나비",
+    "tip": {
+      "title": "나비",
+      "content": [
+        {
+          "title": "나비",
+          "description": "나비는 나비입니다."
+        }
+      ]
+    }
+  },
+  "/signal1": {
+    "name": "신호 1",
+    "tip": {
+      "title": "신호 1",
+      "content": [
+        {
+          "title": "신호 1",
+          "description": "신호 1은 신호 1입니다."
+        }
+      ]
+    }
+  },
+  "/signal2": {
+    "name": "신호 2",
+    "tip": {
+      "title": "신호 2",
+      "content": [
+        {
+          "title": "신호 2",
+          "description": "신호 2는 신호 2입니다."
+        }
+      ]
+    }
+  },
+  "/cockroach": {
+    "name": "개미",
+    "tip": {
+      "title": "개미",
+      "content": [
+        {
+          "title": "개미",
+          "description": "개미는 개미입니다."
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "컬러 화면",
     "prank": "장난 화면",

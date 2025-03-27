@@ -1744,6 +1744,78 @@
       ]
     }
   },
+  "/bee": {
+    "name": "бджола",
+    "tip": {
+      "title": "бджола",
+      "content": [
+        {
+          "title": "бджола",
+          "description": "бджола, бджолою."
+        }
+      ]
+    }
+  },
+  "/frog": {
+    "name": "жаба",
+    "tip": {
+      "title": "жаба",
+      "content": [
+        {
+          "title": "жаба",
+          "description": "жаба, жабою."
+        }
+      ]
+    }
+  },
+  "/fly": {
+    "name": "муха",
+    "tip": {
+      "title": "муха",
+      "content": [
+        {
+          "title": "муха",
+          "description": "муха, мухою."
+        }
+      ]
+    }
+  },
+  "/signal1": {
+    "name": "сигнал 1",
+    "tip": {
+      "title": "сигнал 1",
+      "content": [
+        {
+          "title": "сигнал 1",
+          "description": "сигнал 1, сигналом."
+        }
+      ]
+    }
+  },
+  "/signal2": {
+    "name": "сигнал 2",
+    "tip": {
+      "title": "сигнал 2",
+      "content": [
+        {
+          "title": "сигнал 2",
+          "description": "сигнал 2, сигналом."
+        }
+      ]
+    }
+  },
+  "/cockroach": {
+    "name": "комар",
+    "tip": {
+      "title": "комар",
+      "content": [
+        {
+          "title": "комар",
+          "description": "комар, комаром."
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "Кольорові екрани",
     "prank": "Жартівні екрани",

@@ -1,15 +1,15 @@
-import { usePathname } from "next/navigation"
-import React from "react"
-import TipItem from "./TipItem"
-import { useTranslations } from "next-intl"
+import { usePathname } from "next/navigation";
+import React from "react";
+import TipItem from "./TipItem";
+import { useTranslations } from "next-intl";
 
 export default function ScreenTip() {
-  const path = usePathname()
-  const t = useTranslations(path)
-  const tRaw = useTranslations()
-  const tip = t.raw("tip")
-
-  if (!tip) return null;
+  const path = usePathname();
+  const t = useTranslations(path);
+  const tRaw = useTranslations();
+  {
+    /* const tip = t.raw("tip") */
+  }
 
   return (
     <React.Fragment>
@@ -19,25 +19,32 @@ export default function ScreenTip() {
         </h2>
 
         <div className="flex flex-col gap-14">
-          {tip.content && tip.content.map((item: { title: string, description: string }) => (
-            <TipItem key={item.title} title={item.title} description={item.description} />
-          ))}
+          {t.raw("tip").content &&
+            t
+              .raw("tip")
+              .content.map((item: { title: string; description: string }) => (
+                <TipItem
+                  key={item.title}
+                  title={item.title}
+                  description={item.description}
+                />
+              ))}
         </div>
       </div>
 
       <div className="max-w-6xl mx-auto py-8 px-4 grid grid-cols-1 md:grid-cols-3 gap-6 text-center md:text-left">
-        {tip.subTips && tip.subTips.map((item: { title: string, content: string[] }) => (
-          <div key={item.title}>
-            <h3 className="font-semibold text-lg">{item.title}</h3>
-            <ul className="text-sm mt-2 space-y-1">
-              {item.content.map((subTip, index) => (
-                <li key={index}>{subTip}</li>
-              ))}
-            </ul>
-          </div>
-        ))}
+        {t.raw("tip").subTips &&
+          t.raw("tip").subTips.map((item: { title: string; content: string[] }) => (
+            <div key={item.title}>
+              <h3 className="font-semibold text-lg">{item.title}</h3>
+              <ul className="text-sm mt-2 space-y-1">
+                {item.content.map((subTip, index) => (
+                  <li key={index}>{subTip}</li>
+                ))}
+              </ul>
+            </div>
+          ))}
       </div>
-
     </React.Fragment>
-  )
+  );
 }
