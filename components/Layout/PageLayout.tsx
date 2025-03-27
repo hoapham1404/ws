@@ -16,7 +16,7 @@ export default function PageLayout({
 }: PageLayoutProps) {
   return (
     <div className="h-screen flex flex-col">
-      <main className="grid grid-cols-[2fr_3fr_2fr] grid-rows-2">
+      <main className="grid grid-cols-[2fr_3fr_2fr] grid-rows-2 gap-6">
         <div className="overflow-auto">{left}</div>
         <div
           className="rounded-lg overflow-hidden aspect-video "
