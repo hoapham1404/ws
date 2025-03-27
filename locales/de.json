@@ -1743,6 +1743,78 @@
       ]
     }
   },
+  "/bee": {
+    "name": "Biene",
+    "tip": {
+      "title": "Biene",
+      "content": [
+        {
+          "title": "Biene",
+          "description": "Biene ist eine Insektenart, die Honig produziert."
+        }
+      ]
+    }
+  },
+  "/frog": {
+    "name": "Frosch",
+    "tip": {
+      "title": "Frosch",
+      "content": [
+        {
+          "title": "Frosch",
+          "description": "Frosch ist eine Insektenart, die Honig produziert."
+        }
+      ]
+    }
+  },
+  "/fly": {
+    "name": "Fliege",
+    "tip": {
+      "title": "Fliege",
+      "content": [
+        {
+          "title": "Fliege",
+          "description": "Fliege ist eine Insektenart, die Honig produziert."
+        }
+      ]
+    }
+  },
+  "/signal1": {
+    "name": "Signal 1",
+    "tip": {
+      "title": "Signal 1",
+      "content": [
+        {
+          "title": "Signal 1",
+          "description": "Signal 1 ist eine Insektenart, die Honig produziert."
+        }
+      ]
+    }
+  },
+  "/signal2": {
+    "name": "Signal 2",
+    "tip": {
+      "title": "Signal 2",
+      "content": [
+        {
+          "title": "Signal 2",
+          "description": "Signal 2 ist eine Insektenart, die Honig produziert."
+        }
+      ]
+    }
+  },
+  "/cockroach": {
+    "name": "Kakerlake",
+    "tip": {
+      "title": "Kakerlake",
+      "content": [
+        {
+          "title": "Kakerlake",
+          "description": "Kakerlake ist eine Insektenart, die Honig produziert."
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "Farbbildschirme",
     "prank": "Streichbildschirme",

@@ -1744,6 +1744,78 @@
       ]
     }
   },
+  "/bee": {
+    "name": "Abeille",
+    "tip": {
+      "title": "Abeille",
+      "content": [
+        {
+          "title": "Abeille",
+          "description": "Abeille is a bee."
+        }
+      ]
+    }
+  },
+  "/frog": {
+    "name": "Rana",
+    "tip": {
+      "title": "Rana",
+      "content": [
+        {
+          "title": "Rana",
+          "description": "Rana is a frog."
+        }
+      ]
+    }
+  },
+  "/fly": {
+    "name": "Mouche",
+    "tip": {
+      "title": "Mouche",
+      "content": [
+        {
+          "title": "Mouche",
+          "description": "Mouche is a fly."
+        }
+      ]
+    }
+  },
+  "/signal1": {
+    "name": "Signal 1",
+    "tip": {
+      "title": "Signal 1",
+      "content": [
+        {
+          "title": "Signal 1",
+          "description": "Signal 1 is a signal."
+        }
+      ]
+    }
+  },
+  "/signal2": {
+    "name": "Signal 2",
+    "tip": {
+      "title": "Signal 2",
+      "content": [
+        {
+          "title": "Signal 2",
+          "description": "Signal 2 is a signal."
+        }
+      ]
+    }
+  },
+  "/cockroach": {
+    "name": "Crapaud",
+    "tip": {
+      "title": "Crapaud",
+      "content": [
+        {
+          "title": "Crapaud",
+          "description": "Crapaud is a cockroach."
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "Écrans couleur",
     "prank": "Écrans de farce",

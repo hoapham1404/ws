@@ -1744,6 +1744,78 @@
       ]
     }
   },
+  "/bee": {
+    "name": "蜂",
+    "tip": {
+      "title": "蜂",
+      "content": [
+        {
+          "title": "蜂",
+          "description": "蜂は蜂です。"
+        }
+      ]
+    }
+  },
+  "/frog": {
+    "name": "蛙",
+    "tip": {
+      "title": "蛙",
+      "content": [
+        {
+          "title": "蛙",
+          "description": "蛙は蛙です。"
+        }
+      ]
+    }
+  },
+  "/fly": {
+    "name": "蒼くん",
+    "tip": {
+      "title": "蒼くん",
+      "content": [
+        {
+          "title": "蒼くん",
+          "description": "蒼くんは蒼くんです。"
+        }
+      ]
+    }
+  },
+  "/signal1": {
+    "name": "信号 1",
+    "tip": {
+      "title": "信号 1",
+      "content": [
+        {
+          "title": "信号 1",
+          "description": "信号 1 は信号 1 です。"
+        }
+      ]
+    }
+  },
+  "/signal2": {
+    "name": "信号 2",
+    "tip": {
+      "title": "信号 2",
+      "content": [
+        {
+          "title": "信号 2",
+          "description": "信号 2 は信号 2 です。"
+        }
+      ]
+    }
+  },
+  "/cockroach": {
+    "name": "蟑螂",
+    "tip": {
+      "title": "蟑螂",
+      "content": [
+        {
+          "title": "蟑螂",
+          "description": "蟑螂は蟑螂です。"
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "カラー画面",
     "prank": "いたずら画面",

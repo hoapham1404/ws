@@ -1744,6 +1744,66 @@
       ]
     }
   },
+  "/bee": {
+    "name": "蜜蜂",
+    "tip": {
+      "title": "蜜蜂",
+      "content": [
+        {
+          "title": "蜜蜂",
+          "description": "蜜蜂是一种昆虫，它们以花蜜为食，并能帮助植物授粉。"
+        }
+      ]
+    }
+  },
+  "/frog": {
+    "name": "青蛙",
+    "tip": {
+      "title": "青蛙",
+      "content": [
+        {
+          "title": "青蛙",
+          "description": "青蛙是一种两栖动物，它们以昆虫为食，并能帮助植物授粉。"
+        }
+      ]
+    }
+  },
+  "/signal1": {
+    "name": "信号 1",
+    "tip": {
+      "title": "信号 1",
+      "content": [
+        {
+          "title": "信号 1",
+          "description": "信号 1 是一种信号，它可以帮助植物授粉。"
+        }
+      ]
+    }
+  },
+  "/signal2": {
+    "name": "信号 2",
+    "tip": {
+      "title": "信号 2",
+      "content": [
+        {
+          "title": "信号 2",
+          "description": "信号 2 是一种信号，它可以帮助植物授粉。"
+        }
+      ]
+    }
+  },
+  "/cockroach": {
+    "name": "蟑螂",
+    "tip": {
+      "title": "蟑螂",
+      "content": [
+        {
+          "title": "蟑螂",
+          "description": "蟑螂是一种昆虫，它们以花蜜为食，并能帮助植物授粉。"
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "彩色屏幕",
     "prank": "恶作剧屏幕",

@@ -1744,6 +1744,78 @@
       ]
     }
   },
+  "/bee": {
+    "name": "Bee",
+    "tip": {
+      "title": "Bee",
+      "content": [
+        {
+          "title": "Bee",
+          "description": "Bee is a bee."
+        }
+      ]
+    }
+  },
+  "/frog": {
+    "name": "Frog",
+    "tip": {
+      "title": "Frog",
+      "content": [
+        {
+          "title": "Frog",
+          "description": "Frog is a frog."
+        }
+      ]
+    }
+  },
+  "/fly": {
+    "name": "Fly",
+    "tip": {
+      "title": "Fly",
+      "content": [
+        {
+          "title": "Fly",
+          "description": "Fly is a fly."
+        }
+      ]
+    }
+  },
+  "/signal1": {
+    "name": "Signal 1",
+    "tip": {
+      "title": "Signal 1",
+      "content": [
+        {
+          "title": "Signal 1",
+          "description": "Signal 1 is a signal."
+        }
+      ]
+    }
+  },
+  "/signal2": {
+    "name": "Signal 2",
+    "tip": {
+      "title": "Signal 2",
+      "content": [
+        {
+          "title": "Signal 2",
+          "description": "Signal 2 is a signal."
+        }
+      ]
+    }
+  },
+  "/cockroach": {
+    "name": "Cockroach",
+    "tip": {
+      "title": "Cockroach",
+      "content": [
+        {
+          "title": "Cockroach",
+          "description": "Cockroach is a cockroach."
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "Color screens",
     "prank": "Prank screens",

@@ -9,7 +9,7 @@ export default function NavigationBottom({ routes }: { routes: RouteStore[] }) {
   const t = useTranslations();
 
   return (
-    <div className="flex justify-between mt-4 cursor-pointer">
+    <div className=" grid grid-cols-6 cursor-pointer">
       {routes.map((route: RouteStore) => (
         <Link
           key={route.path}

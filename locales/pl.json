@@ -1744,6 +1744,78 @@
       ]
     }
   },
+  "/bee": {
+    "name": "Pszczoła",
+    "tip": {
+      "title": "Pszczoła",
+      "content": [
+        {
+          "title": "Pszczoła",
+          "description": "Pszczoła to pszczoła."
+        }
+      ]
+    }
+  },
+  "/frog": {
+    "name": "Żaba",
+    "tip": {
+      "title": "Żaba",
+      "content": [
+        {
+          "title": "Żaba",
+          "description": "Żaba to żaba."
+        }
+      ]
+    }
+  },
+  "/fly": {
+    "name": "Mucha",
+    "tip": {
+      "title": "Mucha",
+      "content": [
+        {
+          "title": "Mucha",
+          "description": "Mucha to mucha."
+        }
+      ]
+    }
+  },
+  "/signal1": {
+    "name": "Sygnał 1",
+    "tip": {
+      "title": "Sygnał 1",
+      "content": [
+        {
+          "title": "Sygnał 1",
+          "description": "Sygnał 1 to sygnał."
+        }
+      ]
+    }
+  },
+  "/signal2": {
+    "name": "Sygnał 2",
+    "tip": {
+      "title": "Sygnał 2",
+      "content": [
+        {
+          "title": "Sygnał 2",
+          "description": "Sygnał 2 to sygnał."
+        }
+      ]
+    }
+  },
+  "/cockroach": {
+    "name": "Kukurydza",
+    "tip": {
+      "title": "Kukurydza",
+      "content": [
+        {
+          "title": "Kukurydza",
+          "description": "Kukurydza to kukurydza."
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "Ekrany kolorowe",
     "prank": "Ekrany żartów",

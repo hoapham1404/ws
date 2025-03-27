@@ -1744,6 +1744,78 @@
       ]
     }
   },
+  "/bee": {
+    "name": "ape",
+    "tip": {
+      "title": "ape",
+      "content": [
+        {
+          "title": "ape",
+          "description": "ape is a bee."
+        }
+      ]
+    }
+  },
+  "/frog": {
+    "name": "rana",
+    "tip": {
+      "title": "rana",
+      "content": [
+        {
+          "title": "rana",
+          "description": "rana is a frog."
+        }
+      ]
+    }
+  },
+  "/fly": {
+    "name": "mosca",
+    "tip": {
+      "title": "mosca",
+      "content": [
+        {
+          "title": "mosca",
+          "description": "mosca is a fly."
+        }
+      ]
+    }
+  },
+  "/signal1": {
+    "name": "segnale 1",
+    "tip": {
+      "title": "segnale 1",
+      "content": [
+        {
+          "title": "segnale 1",
+          "description": "segnale 1 is a signal."
+        }
+      ]
+    }
+  },
+  "/signal2": {
+    "name": "segnale 2",
+    "tip": {
+      "title": "segnale 2",
+      "content": [
+        {
+          "title": "segnale 2",
+          "description": "segnale 2 is a signal."
+        }
+      ]
+    }
+  },
+  "/cockroach": {
+    "name": "cucchiaio",
+    "tip": {
+      "title": "cucchiaio",
+      "content": [
+        {
+          "title": "cucchiaio",
+          "description": "cucchiaio is a cockroach."
+        }
+      ]
+    }
+  },
   "navigation": {
     "color": "Schermi a colori",
     "prank": "Schermate scherzo",

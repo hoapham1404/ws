@@ -42,7 +42,13 @@ import PrivacyPolicy from "@/components/PrivacyPolicy/PrivacyPolicy";
 import ContactUs from "@/components/ContactUs/ContactUs";
 import KernelPanicIcon from "@/public/OldKernelPanic1280.webp";
 import KernelPanic from "@/components/KernelPanic/KernelPanic";
-import ScreensNavBar from "@/components/ScreensNavBar";
+import Video from "@/components/Video/Video";
+import BeeThumbnail from "@/public/bee.thumbnail.png";
+import FrogThumbnail from "@/public/frog.thumbnail.png";
+import FlyThumbnail from "@/public/fly.thumnail.png";
+import Signal1Thumbnail from "@/public/signal1.thumbnail.png";
+import Signal2Thumbnail from "@/public/signal2.thumbnail.png";
+import CockroachThumbnail from "@/public/cockroach.thumbnail.png"
 
 export class RouteStore {
   path: string;
@@ -361,6 +367,60 @@ export const routes: RouteStore[] = [
     },
     thumbnail: KernelPanicIcon,
     iconColor: "white",
+  },
+  {
+    path: "/bee",
+    type: "prank",
+    icon: "🐝",
+    components: {
+      mid: <Video srcRef="bee" />,
+    },
+    thumbnail: BeeThumbnail,
+  },
+  {
+    path: "/frog",
+    type: "prank",
+    icon: "🐸",
+    components: {
+      mid: <Video srcRef="frog" />,
+    },
+    thumbnail: FrogThumbnail,
+  },
+  {
+    path: "/fly",
+    type: "prank",
+    icon: "🪲",
+    components: {
+      mid: <Video srcRef="flies" />,
+    },
+    thumbnail: FlyThumbnail,
+  },
+  {
+    path: "/signal1",
+    type: "prank",
+    icon: "📡",
+    components: {
+      mid: <Video srcRef="signal_1" />,
+    },
+    thumbnail: Signal1Thumbnail,
+  },
+  {
+    path: "/signal2",
+    type: "prank",
+    icon: "📡",
+    components: {
+      mid: <Video srcRef="signal_2" />,
+    },
+    thumbnail: Signal2Thumbnail,
+  },
+  {
+    path: "/cockroach",
+    type: "prank",
+    icon: "🪳",
+    components: {
+      mid: <Video srcRef="cockroach" />,
+    },
+    thumbnail: CockroachThumbnail,
   },
 ];
 export const getRouteByPath = (
