@@ -1745,10 +1745,10 @@
     "name": "Fly"
   },
   "/signal1": {
-    "name": "Signal 1"
+    "name": "No Signal 1"
   },
   "/signal2": {
-    "name": "Signal 2"
+    "name": "No Signal 2"
   },
   "/cockroach": {
     "name": "Cockroach"
@@ -1763,19 +1763,9 @@
     }
   },
   "settings": {
-    "time": [
-      "Update time",
-      "Start time",
-      "minutes",
-      "Restart"
-    ],
-    "color": [
-      "Download",
-      "{title} background"
-    ],
-    "hacker": [
-      "Speed"
-    ]
+    "time": ["Update time", "Start time", "minutes", "Restart"],
+    "color": ["Download", "{title} background"],
+    "hacker": ["Speed"]
   },
   "title": "{title} | Online Tool",
   "/null": {
