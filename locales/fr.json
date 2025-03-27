@@ -1795,5 +1795,11 @@
     "links": "Liens",
     "uses": "Utilisations",
     "other_tips": "Autres astuces"
+  },
+  "navbar":{
+    "color_screens": "Écrans couleur",
+    "prank_screens": "Écrans canulars",
+    "fake_update_screens": "Écrans de fausses mises à jour",
+    "screen_saver_screens": "Écrans de veille"
   }
 }

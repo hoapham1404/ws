@@ -1792,5 +1792,11 @@
     "links": "链接",
     "uses": "用途",
     "other_tips": "其他提示"
+  },
+  "navbar":{
+    "color_screens":"彩色屏幕",
+    "prank_screens":"恶作剧屏幕",
+    "fake_update_screens":"假更新屏幕",
+    "screen_saver_screens":"屏幕保护程序屏幕"
   }
 }

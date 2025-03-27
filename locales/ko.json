@@ -1795,5 +1795,11 @@
     "links": "링크",
     "uses": "사용",
     "other_tips": "다른 팁"
+  },
+  "navbar":{
+    "color_screens":"컬러 화면",
+    "prank_screens":"장난 화면",
+    "fake_update_screens":"가짜 업데이트 화면",
+    "screen_saver_screens":"스크린세이버 화면"
   }
 }

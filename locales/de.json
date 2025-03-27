@@ -1794,5 +1794,11 @@
     "links": "Links",
     "uses": "Verwendet für",
     "other_tips": "Andere Tipps"
+  },
+  "navbar":{
+    "color_screens":"Farbbildschirme",
+    "prank_screens":"Streichbildschirme",
+    "fake_update_screens":"Gefälschte Update-Bildschirme",
+    "screen_saver_screens":"Bildschirmschoner"
   }
 }

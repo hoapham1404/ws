@@ -1795,5 +1795,11 @@
     "links": "リンク",
     "uses": "使用",
     "other_tips": "その他のヒント"
+  },
+  "navbar":{
+    "color_screens":"カラー画面",
+    "prank_screens":"いたずら画面",
+    "fake_update_screens":"偽の更新画面", 
+    "screen_saver_screens":"スクリーンセーバー画面"
   }
 }

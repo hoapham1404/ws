@@ -1794,5 +1794,11 @@
     "links": "Links",
     "uses": "Gebruikt voor",
     "other_tips": "Andere tips"
+  },
+  "navbar":{
+    "color_screens":"Kleurenschermen",
+    "prank_screens":"Prankschermen",
+    "fake_update_screens":"Nepupdateschermen",
+    "screen_saver_screens":"Screensaverschermen"
   }
 }

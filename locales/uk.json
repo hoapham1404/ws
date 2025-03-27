@@ -1791,5 +1791,11 @@
     "links": "Посилання",
     "uses": "Використання",
     "other_tips": "Інші поради"
+  },
+  "navbar":{
+    "color_screens":"Кольорові екрани",
+    "prank_screens":"Жартівні екрани",
+    "fake_update_screens":"Фальшиві екрани оновлення",
+    "screen_saver_screens":"Заставки"
   }
 }

@@ -1785,5 +1785,11 @@
     "links": "Links",
     "uses": "Uses",
     "other_tips": "Other Tips"
+  },
+  "navbar":{
+    "color_screens":"Color screens",
+    "prank_screens":"Prank screens",
+    "fake_update_screens":"Fake Update screens",
+    "screen_saver_screens":"Screensaver screens"
   }
 }

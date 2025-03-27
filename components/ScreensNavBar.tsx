@@ -7,10 +7,29 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { JSX } from "react";
 import { cn } from "@/lib/utils";
+import { useTranslations } from "next-intl";
 
 export default function ScreensNavBar(): JSX.Element {
   const screensNavBar: ScreenNavBar[] = getScreensNavBar();
   const pathName = usePathname();
+  const t = useTranslations();
+
+
+  const getTextNavbarName = (screenName: string): string => {
+    if (screenName === 'Color') {
+      return 'navbar.color_screens';
+    }
+    if (screenName === 'Prank') {
+      return 'navbar.prank_screens';
+    }
+    if (screenName === 'Fake Update') {
+      return 'navbar.fake_update_screens';
+    }
+    if (screenName === 'Screensaver') {
+      return 'navbar.screen_saver_screens';
+    }
+    return `${screenName} screens` 
+  }
 
   return (
     <nav className="flex gap-4">
@@ -27,7 +46,7 @@ export default function ScreensNavBar(): JSX.Element {
               : "",
           )}
         >
-          {screen.name} screens
+          {t(`${getTextNavbarName(screen.name)}`)}
         </Link>
       ))}
     </nav>

@@ -1794,5 +1794,11 @@
     "links": "Enlaces",
     "uses": "Usos",
     "other_tips": "Otros consejos"
+  },
+  "navbar":{
+    "color_screens":"Pantallas a color",
+    "prank_screens":"Pantallas de broma",
+    "fake_update_screens":"Pantallas de actualización falsas",
+    "screen_saver_screens":"Pantallas de salvapantallas"
   }
 }

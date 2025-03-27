@@ -1795,5 +1795,11 @@
     "links": "Länkar",
     "uses": "Använder",
     "other_tips": "Andra tips"
+  },
+  "navbar":{
+    "color_screens":"Färgskärmar",
+    "prank_screens":"Prankskärmar",
+    "fake_update_screens":"Falska uppdateringsskärmar",
+    "screen_saver_screens":"Skärmsläckare"
   }
 }
