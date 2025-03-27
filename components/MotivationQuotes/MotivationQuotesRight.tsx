@@ -8,8 +8,8 @@ export default function MotivationQuotesRight() {
   const [customParagraph, setCustomParagraph] = useState(paragraph);
   const [customAuthor, setCustomAuthor] = useState(author);
   return (
-    <div className="h-full flex flex-col gap-6 p-6 ">
-      <div className="space-y-2">
+    <div className="h-full flex flex-col gap-8 p-2">
+      <div className="">
         <label className="text-sm font-medium">Size: {additionalSize}px</label>
         <Input
           type="range"
@@ -22,7 +22,7 @@ export default function MotivationQuotesRight() {
         />
       </div>
 
-      <div className="space-y-4">
+      <div className="space-y-2">
         <div className="space-y-2">
           <Textarea
             placeholder="Custom quote text"
@@ -31,7 +31,7 @@ export default function MotivationQuotesRight() {
               setCustomParagraph(e.target.value)
               setParagraph(e.target.value)
             }}
-            className="w-full h-fit"
+            className="w-full h-[130px]"
           />
         </div>
 

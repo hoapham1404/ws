@@ -1,4 +1,4 @@
-import FakeBlueScreen10 from "@/components/(prank-screen)/blue-screen-of-death-windows-10/FakeBlueScreen10";
+
 import FakeBlueScreen10_Sidebar from "@/components/(prank-screen)/blue-screen-of-death-windows-10/FakeBlueScreen10_Sidebar";
 import FakeBlueScreen from "@/components/(prank-screen)/blue-screen-of-death-windows/FakeBlueScreen";
 import BrokenScreen from "@/components/(prank-screen)/broken-screen/BrokenScreen";
@@ -204,7 +204,7 @@ export const routes: RouteStore[] = [
     icon: "https://emojicdn.elk.sh/💻",
     type: "prank",
     components: {
-      mid: <FakeBlueScreen10 />,
+      mid: <FakeBlueScreen />,
       right: <FakeBlueScreen10_Sidebar />,
     },
     thumbnail: Death10Icon,
