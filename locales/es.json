@@ -1727,92 +1727,30 @@
     "type": "página"
   },
   "/kernel-panic": {
-    "name": "Pánico del kernel",
+    "name": "Kernel Panic",
+    "description": "Se ha producido un kernel panic",
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Pánico del núcleo",
-    "type": "broma",
-    "isPage": true,
-    "tip": {
-      "title": "Pánico del núcleo",
-      "content": [
-        {
-          "title": "Pánico del núcleo",
-          "description": "Kernel Panic es una pantalla de broma que simula la descarga de un dispositivo electrónico."
-        }
-      ]
-    }
+    "type": "broma   ",
+    "isPage": true
   },
   "/bee": {
-    "name": "Abeja",
-    "tip": {
-      "title": "Abeja",
-      "content": [
-        {
-          "title": "Abeja",
-          "description": "Abeja is a bee."
-        }
-      ]
-    }
+    "name": "Abeja"
   },
   "/frog": {
-    "name": "Rana",
-    "tip": {
-      "title": "Rana",
-      "content": [
-        {
-          "title": "Rana",
-          "description": "Rana is a frog."
-        }
-      ]
-    }
+    "name": "Rana"
   },
   "/fly": {
-    "name": "Mosca",
-    "tip": {
-      "title": "Mosca",
-      "content": [
-        {
-          "title": "Mosca",
-          "description": "Mosca is a fly."
-        }
-      ]
-    }
+    "name": "Mosca"
   },
   "/signal1": {
-    "name": "Señal 1",
-    "tip": {
-      "title": "Señal 1",
-      "content": [
-        {
-          "title": "Señal 1",
-          "description": "Señal 1 is a signal."
-        }
-      ]
-    }
+    "name": "Señal 1"
   },
   "/signal2": {
-    "name": "Señal 2",
-    "tip": {
-      "title": "Señal 2",
-      "content": [
-        {
-          "title": "Señal 2",
-          "description": "Señal 2 is a signal."
-        }
-      ]
-    }
+    "name": "Señal 2"
   },
   "/cockroach": {
-    "name": "Cucaracha",
-    "tip": {
-      "title": "Cucaracha",
-      "content": [
-        {
-          "title": "Cucaracha",
-          "description": "Cucaracha is a cockroach."
-        }
-      ]
-    }
+    "name": "Cucaracha"
   },
   "navigation": {
     "color": "Pantallas a color",
@@ -1849,12 +1787,7 @@
     "isPage": true,
     "tip": {
       "title": "Nulo",
-      "content": [
-        {
-          "title": "Nulo",
-          "description": "Null es una página sin texto ni imágenes."
-        }
-      ]
+      "content": []
     }
   },
   "sidebar": {

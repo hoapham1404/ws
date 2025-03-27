@@ -1733,88 +1733,25 @@
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Kärnpanik",
     "type": "upptåg",
-    "isPage": true,
-    "tip": {
-      "title": "Kärnpanik",
-      "content": [
-        {
-          "title": "Kärnpanik",
-          "description": "Kärnpanik är en skämtskärm som simulerar en urladdning av en elektronisk enhet."
-        }
-      ]
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "Björn",
-    "tip": {
-      "title": "Björn",
-      "content": [
-        {
-          "title": "Björn",
-          "description": "Björn är en björn."
-        }
-      ]
-    }
+    "name": "Björn"
   },
   "/frog": {
-    "name": "Groda",
-    "tip": {
-      "title": "Groda",
-      "content": [
-        {
-          "title": "Groda",
-          "description": "Groda är en groda."
-        }
-      ]
-    }
+    "name": "Groda"
   },
   "/fly": {
-    "name": "Fly",
-    "tip": {
-      "title": "Fly",
-      "content": [
-        {
-          "title": "Fly",
-          "description": "Fly är en fly."
-        }
-      ]
-    }
+    "name": "Fly"
   },
   "/signal1": {
-    "name": "Signal 1",
-    "tip": {
-      "title": "Signal 1",
-      "content": [
-        {
-          "title": "Signal 1",
-          "description": "Signal 1 är en signal."
-        }
-      ]
-    }
+    "name": "Signal 1"
   },
   "/signal2": {
-    "name": "Signal 2",
-    "tip": {
-      "title": "Signal 2",
-      "content": [
-        {
-          "title": "Signal 2",
-          "description": "Signal 2 är en signal."
-        }
-      ]
-    }
+    "name": "Signal 2"
   },
   "/cockroach": {
-    "name": "Kakao",
-    "tip": {
-      "title": "Kakao",
-      "content": [
-        {
-          "title": "Kakao",
-          "description": "Kakao är en kakao."
-        }
-      ]
-    }
+    "name": "Kakao"
   },
   "navigation": {
     "color": "Färgskärmar",
@@ -1851,12 +1788,7 @@
     "isPage": true,
     "tip": {
       "title": "Null",
-      "content": [
-        {
-          "title": "Null",
-          "description": "Null är en sida utan text eller bilder."
-        }
-      ]
+      "content": []
     }
   },
   "sidebar": {

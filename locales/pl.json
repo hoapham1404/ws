@@ -1733,88 +1733,25 @@
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Panika jądra",
     "type": "żart",
-    "isPage": true,
-    "tip": {
-      "title": "Panika jądra",
-      "content": [
-        {
-          "title": "Panika jądra",
-          "description": "Kernel panic to ekran żartu, który symuluje rozładowywanie się urządzenia elektronicznego"
-        }
-      ]
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "Pszczoła",
-    "tip": {
-      "title": "Pszczoła",
-      "content": [
-        {
-          "title": "Pszczoła",
-          "description": "Pszczoła to pszczoła."
-        }
-      ]
-    }
+    "name": "Pszczoła"
   },
   "/frog": {
-    "name": "Żaba",
-    "tip": {
-      "title": "Żaba",
-      "content": [
-        {
-          "title": "Żaba",
-          "description": "Żaba to żaba."
-        }
-      ]
-    }
+    "name": "Żaba"
   },
   "/fly": {
-    "name": "Mucha",
-    "tip": {
-      "title": "Mucha",
-      "content": [
-        {
-          "title": "Mucha",
-          "description": "Mucha to mucha."
-        }
-      ]
-    }
+    "name": "Mucha"
   },
   "/signal1": {
-    "name": "Sygnał 1",
-    "tip": {
-      "title": "Sygnał 1",
-      "content": [
-        {
-          "title": "Sygnał 1",
-          "description": "Sygnał 1 to sygnał."
-        }
-      ]
-    }
+    "name": "Sygnał 1"
   },
   "/signal2": {
-    "name": "Sygnał 2",
-    "tip": {
-      "title": "Sygnał 2",
-      "content": [
-        {
-          "title": "Sygnał 2",
-          "description": "Sygnał 2 to sygnał."
-        }
-      ]
-    }
+    "name": "Sygnał 2"
   },
   "/cockroach": {
-    "name": "Kukurydza",
-    "tip": {
-      "title": "Kukurydza",
-      "content": [
-        {
-          "title": "Kukurydza",
-          "description": "Kukurydza to kukurydza."
-        }
-      ]
-    }
+    "name": "Kukurydza"
   },
   "navigation": {
     "color": "Ekrany kolorowe",
@@ -1851,12 +1788,7 @@
     "isPage": true,
     "tip": {
       "title": "Null",
-      "content": [
-        {
-          "title": "Null",
-          "description": "Null oznacza stronę bez tekstu i obrazów"
-        }
-      ]
+      "content": []
     }
   },
   "sidebar": {

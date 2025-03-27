@@ -5,12 +5,13 @@ import { useTranslations } from "next-intl";
 
 export default function ScreenTip() {
   const path = usePathname();
+  console.log(path);
   const t = useTranslations(path);
   const tRaw = useTranslations();
-  {
-    /* const tip = t.raw("tip") */
-  }
+  const hasTip = t.has("tip");
+  const tip = hasTip ? t.raw("tip") : { content: [] };
 
+  if (!hasTip) return;
   return (
     <React.Fragment>
       <div className="container mx-auto flex flex-col gap-4">
@@ -19,22 +20,20 @@ export default function ScreenTip() {
         </h2>
 
         <div className="flex flex-col gap-14">
-          {t.raw("tip").content &&
-            t
-              .raw("tip")
-              .content.map((item: { title: string; description: string }) => (
-                <TipItem
-                  key={item.title}
-                  title={item.title}
-                  description={item.description}
-                />
-              ))}
+          {tip.content &&
+            tip.content.map((item: { title: string; description: string }) => (
+              <TipItem
+                key={item.title}
+                title={item.title}
+                description={item.description}
+              />
+            ))}
         </div>
       </div>
 
       <div className="max-w-6xl mx-auto py-8 px-4 grid grid-cols-1 md:grid-cols-3 gap-6 text-center md:text-left">
-        {t.raw("tip").subTips &&
-          t.raw("tip").subTips.map((item: { title: string; content: string[] }) => (
+        {tip.subTips &&
+          tip.subTips.map((item: { title: string; content: string[] }) => (
             <div key={item.title}>
               <h3 className="font-semibold text-lg">{item.title}</h3>
               <ul className="text-sm mt-2 space-y-1">

@@ -1732,88 +1732,25 @@
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Çekirdek Panik",
     "type": "şaka",
-    "isPage": true,
-    "tip": {
-      "title": "Çekirdek Panik",
-      "content": [
-        {
-          "title": "Çekirdek Panik",
-          "description": "Kernel panic, elektronik bir cihazın deşarj olmasını simüle eden bir şaka ekranıdır."
-        }
-      ]
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "Böcek",
-    "tip": {
-      "title": "Böcek",
-      "content": [
-        {
-          "title": "Böcek",
-          "description": "Böcek, böcektir."
-        }
-      ]
-    }
+    "name": "Böcek"
   },
   "/frog": {
-    "name": "Kertenkele",
-    "tip": {
-      "title": "Kertenkele",
-      "content": [
-        {
-          "title": "Kertenkele",
-          "description": "Kertenkele, kertenkeletir."
-        }
-      ]
-    }
+    "name": "Kertenkele"
   },
   "/fly": {
-    "name": "Kuyruk",
-    "tip": {
-      "title": "Kuyruk",
-      "content": [
-        {
-          "title": "Kuyruk",
-          "description": "Kuyruk, kuyruktur."
-        }
-      ]
-    }
+    "name": "Kuyruk"
   },
   "/signal1": {
-    "name": "Sinyal 1",
-    "tip": {
-      "title": "Sinyal 1",
-      "content": [
-        {
-          "title": "Sinyal 1",
-          "description": "Sinyal 1, sinyaldir."
-        }
-      ]
-    }
+    "name": "Sinyal 1"
   },
   "/signal2": {
-    "name": "Sinyal 2",
-    "tip": {
-      "title": "Sinyal 2",
-      "content": [
-        {
-          "title": "Sinyal 2",
-          "description": "Sinyal 2, sinyaldir."
-        }
-      ]
-    }
+    "name": "Sinyal 2"
   },
   "/cockroach": {
-    "name": "Kuyruk",
-    "tip": {
-      "title": "Kuyruk",
-      "content": [
-        {
-          "title": "Kuyruk",
-          "description": "Kuyruk, kuyruktur."
-        }
-      ]
-    }
+    "name": "Kuyruk"
   },
   "navigation": {
     "color": "Renkli ekranlar",
@@ -1850,12 +1787,7 @@
     "isPage": true,
     "tip": {
       "title": "Boş",
-      "content": [
-        {
-          "title": "Boş",
-          "description": "Null, metin veya resim içermeyen bir sayfadır."
-        }
-      ]
+      "content": []
     }
   },
   "sidebar": {

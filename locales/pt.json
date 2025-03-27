@@ -1733,88 +1733,25 @@
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Pânico no Kernel",
     "type": "pegadinha",
-    "isPage": true,
-    "tip": {
-      "title": "Pânico no Kernel",
-      "content": [
-        {
-          "title": "Pânico no Kernel",
-          "description": "Kernel panic é uma tela de brincadeira que simula um dispositivo eletrônico descarregando."
-        }
-      ]
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "Abelha",
-    "tip": {
-      "title": "Abelha",
-      "content": [
-        {
-          "title": "Abelha",
-          "description": "Abelha é uma abelha."
-        }
-      ]
-    }
+    "name": "Abelha"
   },
   "/frog": {
-    "name": "Rã",
-    "tip": {
-      "title": "Rã",
-      "content": [
-        {
-          "title": "Rã",
-          "description": "Rã é uma rã."
-        }
-      ]
-    }
+    "name": "Rã"
   },
   "/fly": {
-    "name": "Borboleta",
-    "tip": {
-      "title": "Borboleta",
-      "content": [
-        {
-          "title": "Borboleta",
-          "description": "Borboleta é uma borboleta."
-        }
-      ]
-    }
+    "name": "Borboleta"
   },
   "/signal1": {
-    "name": "Sinal 1",
-    "tip": {
-      "title": "Sinal 1",
-      "content": [
-        {
-          "title": "Sinal 1",
-          "description": "Sinal 1 é um sinal."
-        }
-      ]
-    }
+    "name": "Sinal 1"
   },
   "/signal2": {
-    "name": "Sinal 2",
-    "tip": {
-      "title": "Sinal 2",
-      "content": [
-        {
-          "title": "Sinal 2",
-          "description": "Sinal 2 é um sinal."
-        }
-      ]
-    }
+    "name": "Sinal 2"
   },
   "/cockroach": {
-    "name": "Cucaracha",
-    "tip": {
-      "title": "Cucaracha",
-      "content": [
-        {
-          "title": "Cucaracha",
-          "description": "Cucaracha é uma cucaracha."
-        }
-      ]
-    }
+    "name": "Cucaracha"
   },
   "navigation": {
     "color": "Telas coloridas",
@@ -1851,12 +1788,7 @@
     "isPage": true,
     "tip": {
       "title": "Nulo",
-      "content": [
-        {
-          "title": "Nulo",
-          "description": "Null é uma página sem texto ou imagens."
-        }
-      ]
+      "content": []
     }
   },
   "sidebar": {

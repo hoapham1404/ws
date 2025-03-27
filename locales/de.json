@@ -1732,88 +1732,25 @@
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Kernel Panic",
     "type": "prank",
-    "isPage": true,
-    "tip": {
-      "title": "Kernel Panic",
-      "content": [
-        {
-          "title": "Kernel Panic",
-          "description": "Kernel panic ist ein Streichbildschirm, der die Kernel des Geräts lautstärker macht."
-        }
-      ]
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "Biene",
-    "tip": {
-      "title": "Biene",
-      "content": [
-        {
-          "title": "Biene",
-          "description": "Biene ist eine Insektenart, die Honig produziert."
-        }
-      ]
-    }
+    "name": "Biene"
   },
   "/frog": {
-    "name": "Frosch",
-    "tip": {
-      "title": "Frosch",
-      "content": [
-        {
-          "title": "Frosch",
-          "description": "Frosch ist eine Insektenart, die Honig produziert."
-        }
-      ]
-    }
+    "name": "Frosch"
   },
   "/fly": {
-    "name": "Fliege",
-    "tip": {
-      "title": "Fliege",
-      "content": [
-        {
-          "title": "Fliege",
-          "description": "Fliege ist eine Insektenart, die Honig produziert."
-        }
-      ]
-    }
+    "name": "Fliege"
   },
   "/signal1": {
-    "name": "Signal 1",
-    "tip": {
-      "title": "Signal 1",
-      "content": [
-        {
-          "title": "Signal 1",
-          "description": "Signal 1 ist eine Insektenart, die Honig produziert."
-        }
-      ]
-    }
+    "name": "Signal 1"
   },
   "/signal2": {
-    "name": "Signal 2",
-    "tip": {
-      "title": "Signal 2",
-      "content": [
-        {
-          "title": "Signal 2",
-          "description": "Signal 2 ist eine Insektenart, die Honig produziert."
-        }
-      ]
-    }
+    "name": "Signal 2"
   },
   "/cockroach": {
-    "name": "Kakerlake",
-    "tip": {
-      "title": "Kakerlake",
-      "content": [
-        {
-          "title": "Kakerlake",
-          "description": "Kakerlake ist eine Insektenart, die Honig produziert."
-        }
-      ]
-    }
+    "name": "Kakerlake"
   },
   "navigation": {
     "color": "Farbbildschirme",
@@ -1850,12 +1787,7 @@
     "isPage": true,
     "tip": {
       "title": "Null",
-      "content": [
-        {
-          "title": "Null",
-          "description": "Null ist eine Seite ohne Text oder Bilder."
-        }
-      ]
+      "content": []
     }
   },
   "sidebar": {

@@ -1733,88 +1733,25 @@
     "icon": "https://emojicdn.elk.sh/ 🔋 ",
     "title": "커널 패닉",
     "type": "장난",
-    "isPage": true,
-    "tip": {
-      "title": "커널 패닉",
-      "content": [
-        {
-          "title": "커널 패닉",
-          "description": "커널 패닉은 전자 장치 방전을 시뮬레이션하는 장난 화면입니다."
-        }
-      ]
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "벌",
-    "tip": {
-      "title": "벌",
-      "content": [
-        {
-          "title": "벌",
-          "description": "벌은 벌입니다."
-        }
-      ]
-    }
+    "name": "벌"
   },
   "/frog": {
-    "name": "개구리",
-    "tip": {
-      "title": "개구리",
-      "content": [
-        {
-          "title": "개구리",
-          "description": "개구리는 개구리입니다."
-        }
-      ]
-    }
+    "name": "개구리"
   },
   "/fly": {
-    "name": "나비",
-    "tip": {
-      "title": "나비",
-      "content": [
-        {
-          "title": "나비",
-          "description": "나비는 나비입니다."
-        }
-      ]
-    }
+    "name": "나비"
   },
   "/signal1": {
-    "name": "신호 1",
-    "tip": {
-      "title": "신호 1",
-      "content": [
-        {
-          "title": "신호 1",
-          "description": "신호 1은 신호 1입니다."
-        }
-      ]
-    }
+    "name": "신호 1"
   },
   "/signal2": {
-    "name": "신호 2",
-    "tip": {
-      "title": "신호 2",
-      "content": [
-        {
-          "title": "신호 2",
-          "description": "신호 2는 신호 2입니다."
-        }
-      ]
-    }
+    "name": "신호 2"
   },
   "/cockroach": {
-    "name": "개미",
-    "tip": {
-      "title": "개미",
-      "content": [
-        {
-          "title": "개미",
-          "description": "개미는 개미입니다."
-        }
-      ]
-    }
+    "name": "개미"
   },
   "navigation": {
     "color": "컬러 화면",
@@ -1851,12 +1788,7 @@
     "isPage": true,
     "tip": {
       "title": "널",
-      "content": [
-        {
-          "title": "널",
-          "description": "Null은 텍스트나 이미지가 없는 페이지입니다."
-        }
-      ]
+      "content": []
     }
   },
   "sidebar": {

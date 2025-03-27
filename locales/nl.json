@@ -1732,88 +1732,25 @@
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Kernel Panic",
     "type": "prank",
-    "isPage": true,
-    "tip": {
-      "title": "Kernel Panic",
-      "content": [
-        {
-          "title": "Kernel Panic",
-          "description": "Kernel panic is een prankscherm dat de kernel van het apparaat laat crashen."
-        }
-      ]
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "Bij",
-    "tip": {
-      "title": "Bij",
-      "content": [
-        {
-          "title": "Bij",
-          "description": "Bij is een bij."
-        }
-      ]
-    }
+    "name": "Bij"
   },
   "/frog": {
-    "name": "Frog",
-    "tip": {
-      "title": "Frog",
-      "content": [
-        {
-          "title": "Frog",
-          "description": "Frog is een frog."
-        }
-      ]
-    }
+    "name": "Frog"
   },
   "/fly": {
-    "name": "Vlieg",
-    "tip": {
-      "title": "Vlieg",
-      "content": [
-        {
-          "title": "Vlieg",
-          "description": "Vlieg is een vlieg."
-        }
-      ]
-    }
+    "name": "Vlieg"
   },
   "/signal1": {
-    "name": "Signal 1",
-    "tip": {
-      "title": "Signal 1",
-      "content": [
-        {
-          "title": "Signal 1",
-          "description": "Signal 1 is een signal."
-        }
-      ]
-    }
+    "name": "Signal 1"
   },
   "/signal2": {
-    "name": "Signal 2",
-    "tip": {
-      "title": "Signal 2",
-      "content": [
-        {
-          "title": "Signal 2",
-          "description": "Signal 2 is een signal."
-        }
-      ]
-    }
+    "name": "Signal 2"
   },
   "/cockroach": {
-    "name": "Kakkerlak",
-    "tip": {
-      "title": "Kakkerlak",
-      "content": [
-        {
-          "title": "Kakkerlak",
-          "description": "Kakkerlak is een kakkerlak."
-        }
-      ]
-    }
+    "name": "Kakkerlak"
   },
   "navigation": {
     "color": "Kleurenschermen",
@@ -1850,12 +1787,7 @@
     "isPage": true,
     "tip": {
       "title": "Null",
-      "content": [
-        {
-          "title": "Null",
-          "description": "Null is een pagina zonder tekst of afbeeldingen."
-        }
-      ]
+      "content": []
     }
   },
   "sidebar": {
