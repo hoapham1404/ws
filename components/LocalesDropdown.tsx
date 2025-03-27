@@ -1,11 +1,17 @@
+import { useOutsideClick } from "@/hooks/use-outside-click";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { useState } from "react";
+import { useRef, useState } from "react";
 
 export default function LocalesDropdown() {
   const router = useRouter();
   const { locale: activeLocale, locales, asPath } = router;
   const [isOpen, setIsOpen] = useState(false);
+  const dropdownRef = useRef<HTMLDivElement>(null);
+
+  useOutsideClick(dropdownRef, () => {
+    if (isOpen) setIsOpen(false);
+  });
 
   const getLanguageLabel = (locale: string) => {
     /**
@@ -35,7 +41,7 @@ export default function LocalesDropdown() {
   };
 
   return (
-    <div className="relative">
+    <div className="relative" ref={dropdownRef}>
       <button
         onClick={() => setIsOpen(!isOpen)}
         className="border-0 appearance-none bg-transparent text-xl relative [&:hover]:bg-transparent"
