@@ -1736,84 +1736,49 @@
     "isPage": true,
     "tip": {
       "title": "Pânico no Kernel",
-      "content": [
-        {
-          "title": "Pânico no Kernel",
-          "description": "Kernel panic é uma tela de brincadeira que simula um dispositivo eletrônico descarregando."
-        }
-      ]
+      "content": []
     }
   },
   "/bee": {
     "name": "Abelha",
     "tip": {
       "title": "Abelha",
-      "content": [
-        {
-          "title": "Abelha",
-          "description": "Abelha é uma abelha."
-        }
-      ]
+      "content": []
     }
   },
   "/frog": {
     "name": "Rã",
     "tip": {
       "title": "Rã",
-      "content": [
-        {
-          "title": "Rã",
-          "description": "Rã é uma rã."
-        }
-      ]
+      "content": []
     }
   },
   "/fly": {
     "name": "Borboleta",
     "tip": {
       "title": "Borboleta",
-      "content": [
-        {
-          "title": "Borboleta",
-          "description": "Borboleta é uma borboleta."
-        }
-      ]
+      "content": []
     }
   },
   "/signal1": {
     "name": "Sinal 1",
     "tip": {
       "title": "Sinal 1",
-      "content": [
-        {
-          "title": "Sinal 1",
-          "description": "Sinal 1 é um sinal."
-        }
-      ]
+      "content": []
     }
   },
   "/signal2": {
     "name": "Sinal 2",
     "tip": {
       "title": "Sinal 2",
-      "content": [
-        {
-          "title": "Sinal 2",
-          "description": "Sinal 2 é um sinal."
-        }
-      ]
+      "content": []
     }
   },
   "/cockroach": {
     "name": "Cucaracha",
     "tip": {
       "title": "Cucaracha",
-      "content": [
-        {
-          "title": "Cucaracha",
-          "description": "Cucaracha é uma cucaracha."
-        }
-      ]
+      "content": []
     }
   },
   "navigation": {
@@ -1851,12 +1816,7 @@
     "isPage": true,
     "tip": {
       "title": "Nulo",
-      "content": [
-        {
-          "title": "Nulo",
-          "description": "Null é uma página sem texto ou imagens."
-        }
-      ]
+      "content": []
     }
   },
   "sidebar": {

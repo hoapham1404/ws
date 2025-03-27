@@ -1736,84 +1736,49 @@
     "isPage": true,
     "tip": {
       "title": "Паніка ядра",
-      "content": [
-        {
-          "title": "Паніка ядра",
-          "description": "Kernel panic - це жартівливий екран, який імітує розрядження електронного пристрою."
-        }
-      ]
+      "content": []
     }
   },
   "/bee": {
     "name": "бджола",
     "tip": {
       "title": "бджола",
-      "content": [
-        {
-          "title": "бджола",
-          "description": "бджола, бджолою."
-        }
-      ]
+      "content": []
     }
   },
   "/frog": {
     "name": "жаба",
     "tip": {
       "title": "жаба",
-      "content": [
-        {
-          "title": "жаба",
-          "description": "жаба, жабою."
-        }
-      ]
+      "content": []
     }
   },
   "/fly": {
     "name": "муха",
     "tip": {
       "title": "муха",
-      "content": [
-        {
-          "title": "муха",
-          "description": "муха, мухою."
-        }
-      ]
+      "content": []
     }
   },
   "/signal1": {
     "name": "сигнал 1",
     "tip": {
       "title": "сигнал 1",
-      "content": [
-        {
-          "title": "сигнал 1",
-          "description": "сигнал 1, сигналом."
-        }
-      ]
+      "content": []
     }
   },
   "/signal2": {
     "name": "сигнал 2",
     "tip": {
       "title": "сигнал 2",
-      "content": [
-        {
-          "title": "сигнал 2",
-          "description": "сигнал 2, сигналом."
-        }
-      ]
+      "content": []
     }
   },
   "/cockroach": {
     "name": "комар",
     "tip": {
       "title": "комар",
-      "content": [
-        {
-          "title": "комар",
-          "description": "комар, комаром."
-        }
-      ]
+      "content": []
     }
   },
   "navigation": {
@@ -1851,12 +1816,7 @@
     "isPage": true,
     "tip": {
       "title": "Нуль",
-      "content": [
-        {
-          "title": "Нуль",
-          "description": "Null - це сторінка без тексту чи зображень."
-        }
-      ]
+      "content": []
     }
   },
   "sidebar": {

@@ -1736,84 +1736,49 @@
     "isPage": true,
     "tip": {
       "title": "Panico del kernel",
-      "content": [
-        {
-          "title": "Panico del kernel",
-          "description": "Kernel panic è uno scherzo che simula la scarica di un dispositivo elettronico."
-        }
-      ]
+      "content": []
     }
   },
   "/bee": {
     "name": "ape",
     "tip": {
       "title": "ape",
-      "content": [
-        {
-          "title": "ape",
-          "description": "ape is a bee."
-        }
-      ]
+      "content": []
     }
   },
   "/frog": {
     "name": "rana",
     "tip": {
       "title": "rana",
-      "content": [
-        {
-          "title": "rana",
-          "description": "rana is a frog."
-        }
-      ]
+      "content": []
     }
   },
   "/fly": {
     "name": "mosca",
     "tip": {
       "title": "mosca",
-      "content": [
-        {
-          "title": "mosca",
-          "description": "mosca is a fly."
-        }
-      ]
+      "content": []
     }
   },
   "/signal1": {
     "name": "segnale 1",
     "tip": {
       "title": "segnale 1",
-      "content": [
-        {
-          "title": "segnale 1",
-          "description": "segnale 1 is a signal."
-        }
-      ]
+      "content": []
     }
   },
   "/signal2": {
     "name": "segnale 2",
     "tip": {
       "title": "segnale 2",
-      "content": [
-        {
-          "title": "segnale 2",
-          "description": "segnale 2 is a signal."
-        }
-      ]
+      "content": []
     }
   },
   "/cockroach": {
     "name": "cucchiaio",
     "tip": {
       "title": "cucchiaio",
-      "content": [
-        {
-          "title": "cucchiaio",
-          "description": "cucchiaio is a cockroach."
-        }
-      ]
+      "content": []
     }
   },
   "navigation": {
@@ -1851,12 +1816,7 @@
     "isPage": true,
     "tip": {
       "title": "Nulla",
-      "content": [
-        {
-          "title": "Nulla",
-          "description": "Null è una pagina senza testo o immagini."
-        }
-      ]
+      "content": []
     }
   },
   "sidebar": {
