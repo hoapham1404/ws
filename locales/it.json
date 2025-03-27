@@ -1733,53 +1733,25 @@
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Panico del kernel",
     "type": "scherzo",
-    "isPage": true,
-    "tip": {
-      "title": "Panico del kernel",
-      "content": []
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "ape",
-    "tip": {
-      "title": "ape",
-      "content": []
-    }
+    "name": "ape"
   },
   "/frog": {
-    "name": "rana",
-    "tip": {
-      "title": "rana",
-      "content": []
-    }
+    "name": "rana"
   },
   "/fly": {
-    "name": "mosca",
-    "tip": {
-      "title": "mosca",
-      "content": []
-    }
+    "name": "mosca"
   },
   "/signal1": {
-    "name": "segnale 1",
-    "tip": {
-      "title": "segnale 1",
-      "content": []
-    }
+    "name": "segnale 1"
   },
   "/signal2": {
-    "name": "segnale 2",
-    "tip": {
-      "title": "segnale 2",
-      "content": []
-    }
+    "name": "segnale 2"
   },
   "/cockroach": {
-    "name": "cucchiaio",
-    "tip": {
-      "title": "cucchiaio",
-      "content": []
-    }
+    "name": "cucchiaio"
   },
   "navigation": {
     "color": "Schermi a colori",

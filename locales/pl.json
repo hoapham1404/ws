@@ -1733,53 +1733,25 @@
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Panika jądra",
     "type": "żart",
-    "isPage": true,
-    "tip": {
-      "title": "Panika jądra",
-      "content": []
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "Pszczoła",
-    "tip": {
-      "title": "Pszczoła",
-      "content": []
-    }
+    "name": "Pszczoła"
   },
   "/frog": {
-    "name": "Żaba",
-    "tip": {
-      "title": "Żaba",
-      "content": []
-    }
+    "name": "Żaba"
   },
   "/fly": {
-    "name": "Mucha",
-    "tip": {
-      "title": "Mucha",
-      "content": []
-    }
+    "name": "Mucha"
   },
   "/signal1": {
-    "name": "Sygnał 1",
-    "tip": {
-      "title": "Sygnał 1",
-      "content": []
-    }
+    "name": "Sygnał 1"
   },
   "/signal2": {
-    "name": "Sygnał 2",
-    "tip": {
-      "title": "Sygnał 2",
-      "content": []
-    }
+    "name": "Sygnał 2"
   },
   "/cockroach": {
-    "name": "Kukurydza",
-    "tip": {
-      "title": "Kukurydza",
-      "content": []
-    }
+    "name": "Kukurydza"
   },
   "navigation": {
     "color": "Ekrany kolorowe",

@@ -1727,57 +1727,30 @@
     "type": "página"
   },
   "/kernel-panic": {
-    "name": "Pánico del kernel",
+    "name": "Kernel Panic",
+    "description": "Se ha producido un kernel panic",
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Pánico del núcleo",
-    "type": "broma",
-    "isPage": true,
-    "tip": {
-      "title": "Pánico del núcleo",
-      "content": []
-    }
+    "type": "broma   ",
+    "isPage": true
   },
   "/bee": {
-    "name": "Abeja",
-    "tip": {
-      "title": "Abeja",
-      "content": []
-    }
+    "name": "Abeja"
   },
   "/frog": {
-    "name": "Rana",
-    "tip": {
-      "title": "Rana",
-      "content": []
-    }
+    "name": "Rana"
   },
   "/fly": {
-    "name": "Mosca",
-    "tip": {
-      "title": "Mosca",
-      "content": []
-    }
+    "name": "Mosca"
   },
   "/signal1": {
-    "name": "Señal 1",
-    "tip": {
-      "title": "Señal 1",
-      "content": []
-    }
+    "name": "Señal 1"
   },
   "/signal2": {
-    "name": "Señal 2",
-    "tip": {
-      "title": "Señal 2",
-      "content": []
-    }
+    "name": "Señal 2"
   },
   "/cockroach": {
-    "name": "Cucaracha",
-    "tip": {
-      "title": "Cucaracha",
-      "content": []
-    }
+    "name": "Cucaracha"
   },
   "navigation": {
     "color": "Pantallas a color",

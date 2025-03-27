@@ -1732,53 +1732,25 @@
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Çekirdek Panik",
     "type": "şaka",
-    "isPage": true,
-    "tip": {
-      "title": "Çekirdek Panik",
-      "content": []
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "Böcek",
-    "tip": {
-      "title": "Böcek",
-      "content": []
-    }
+    "name": "Böcek"
   },
   "/frog": {
-    "name": "Kertenkele",
-    "tip": {
-      "title": "Kertenkele",
-      "content": []
-    }
+    "name": "Kertenkele"
   },
   "/fly": {
-    "name": "Kuyruk",
-    "tip": {
-      "title": "Kuyruk",
-      "content": []
-    }
+    "name": "Kuyruk"
   },
   "/signal1": {
-    "name": "Sinyal 1",
-    "tip": {
-      "title": "Sinyal 1",
-      "content": []
-    }
+    "name": "Sinyal 1"
   },
   "/signal2": {
-    "name": "Sinyal 2",
-    "tip": {
-      "title": "Sinyal 2",
-      "content": []
-    }
+    "name": "Sinyal 2"
   },
   "/cockroach": {
-    "name": "Kuyruk",
-    "tip": {
-      "title": "Kuyruk",
-      "content": []
-    }
+    "name": "Kuyruk"
   },
   "navigation": {
     "color": "Renkli ekranlar",

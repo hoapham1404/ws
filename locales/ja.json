@@ -1733,53 +1733,25 @@
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "カーネルパニック",
     "type": "いたずら",
-    "isPage": "真",
-    "tip": {
-      "title": "カーネルパニック",
-      "content": []
-    }
+    "isPage": "真"
   },
   "/bee": {
-    "name": "蜂",
-    "tip": {
-      "title": "蜂",
-      "content": []
-    }
+    "name": "蜂"
   },
   "/frog": {
-    "name": "蛙",
-    "tip": {
-      "title": "蛙",
-      "content": []
-    }
+    "name": "蛙"
   },
   "/fly": {
-    "name": "蒼くん",
-    "tip": {
-      "title": "蒼くん",
-      "content": []
-    }
+    "name": "蒼くん"
   },
   "/signal1": {
-    "name": "信号 1",
-    "tip": {
-      "title": "信号 1",
-      "content": []
-    }
+    "name": "信号 1"
   },
   "/signal2": {
-    "name": "信号 2",
-    "tip": {
-      "title": "信号 2",
-      "content": []
-    }
+    "name": "信号 2"
   },
   "/cockroach": {
-    "name": "蟑螂",
-    "tip": {
-      "title": "蟑螂",
-      "content": []
-    }
+    "name": "蟑螂"
   },
   "navigation": {
     "color": "カラー画面",

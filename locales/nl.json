@@ -1732,53 +1732,25 @@
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Kernel Panic",
     "type": "prank",
-    "isPage": true,
-    "tip": {
-      "title": "Kernel Panic",
-      "content": []
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "Bij",
-    "tip": {
-      "title": "Bij",
-      "content": []
-    }
+    "name": "Bij"
   },
   "/frog": {
-    "name": "Frog",
-    "tip": {
-      "title": "Frog",
-      "content": []
-    }
+    "name": "Frog"
   },
   "/fly": {
-    "name": "Vlieg",
-    "tip": {
-      "title": "Vlieg",
-      "content": []
-    }
+    "name": "Vlieg"
   },
   "/signal1": {
-    "name": "Signal 1",
-    "tip": {
-      "title": "Signal 1",
-      "content": []
-    }
+    "name": "Signal 1"
   },
   "/signal2": {
-    "name": "Signal 2",
-    "tip": {
-      "title": "Signal 2",
-      "content": []
-    }
+    "name": "Signal 2"
   },
   "/cockroach": {
-    "name": "Kakkerlak",
-    "tip": {
-      "title": "Kakkerlak",
-      "content": []
-    }
+    "name": "Kakkerlak"
   },
   "navigation": {
     "color": "Kleurenschermen",

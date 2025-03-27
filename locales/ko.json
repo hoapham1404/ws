@@ -1733,53 +1733,25 @@
     "icon": "https://emojicdn.elk.sh/ 🔋 ",
     "title": "커널 패닉",
     "type": "장난",
-    "isPage": true,
-    "tip": {
-      "title": "커널 패닉",
-      "content": []
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "벌",
-    "tip": {
-      "title": "벌",
-      "content": []
-    }
+    "name": "벌"
   },
   "/frog": {
-    "name": "개구리",
-    "tip": {
-      "title": "개구리",
-      "content": []
-    }
+    "name": "개구리"
   },
   "/fly": {
-    "name": "나비",
-    "tip": {
-      "title": "나비",
-      "content": []
-    }
+    "name": "나비"
   },
   "/signal1": {
-    "name": "신호 1",
-    "tip": {
-      "title": "신호 1",
-      "content": []
-    }
+    "name": "신호 1"
   },
   "/signal2": {
-    "name": "신호 2",
-    "tip": {
-      "title": "신호 2",
-      "content": []
-    }
+    "name": "신호 2"
   },
   "/cockroach": {
-    "name": "개미",
-    "tip": {
-      "title": "개미",
-      "content": []
-    }
+    "name": "개미"
   },
   "navigation": {
     "color": "컬러 화면",

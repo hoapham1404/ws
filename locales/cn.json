@@ -1733,46 +1733,22 @@
     "icon": "https://emojicdn.elk.sh/🔋 ",
     "title": "内核崩溃",
     "type": "恶作剧",
-    "l123": "是的",
-    "tip": {
-      "title": "内核崩溃",
-      "content": []
-    }
+    "l123": "是的"
   },
   "/bee": {
-    "name": "蜜蜂",
-    "tip": {
-      "title": "蜜蜂",
-      "content": []
-    }
+    "name": "蜜蜂"
   },
   "/frog": {
-    "name": "青蛙",
-    "tip": {
-      "title": "青蛙",
-      "content": []
-    }
+    "name": "青蛙"
   },
   "/signal1": {
-    "name": "信号 1",
-    "tip": {
-      "title": "信号 1",
-      "content": []
-    }
+    "name": "信号 1"
   },
   "/signal2": {
-    "name": "信号 2",
-    "tip": {
-      "title": "信号 2",
-      "content": []
-    }
+    "name": "信号 2"
   },
   "/cockroach": {
-    "name": "蟑螂",
-    "tip": {
-      "title": "蟑螂",
-      "content": []
-    }
+    "name": "蟑螂"
   },
   "navigation": {
     "color": "彩色屏幕",

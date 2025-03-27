@@ -1733,53 +1733,25 @@
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Kärnpanik",
     "type": "upptåg",
-    "isPage": true,
-    "tip": {
-      "title": "Kärnpanik",
-      "content": []
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "Björn",
-    "tip": {
-      "title": "Björn",
-      "content": []
-    }
+    "name": "Björn"
   },
   "/frog": {
-    "name": "Groda",
-    "tip": {
-      "title": "Groda",
-      "content": []
-    }
+    "name": "Groda"
   },
   "/fly": {
-    "name": "Fly",
-    "tip": {
-      "title": "Fly",
-      "content": []
-    }
+    "name": "Fly"
   },
   "/signal1": {
-    "name": "Signal 1",
-    "tip": {
-      "title": "Signal 1",
-      "content": []
-    }
+    "name": "Signal 1"
   },
   "/signal2": {
-    "name": "Signal 2",
-    "tip": {
-      "title": "Signal 2",
-      "content": []
-    }
+    "name": "Signal 2"
   },
   "/cockroach": {
-    "name": "Kakao",
-    "tip": {
-      "title": "Kakao",
-      "content": []
-    }
+    "name": "Kakao"
   },
   "navigation": {
     "color": "Färgskärmar",

@@ -1733,53 +1733,25 @@
     "icon": "https://emojicdn.elk.sh/🔋",
     "title": "Pânico no Kernel",
     "type": "pegadinha",
-    "isPage": true,
-    "tip": {
-      "title": "Pânico no Kernel",
-      "content": []
-    }
+    "isPage": true
   },
   "/bee": {
-    "name": "Abelha",
-    "tip": {
-      "title": "Abelha",
-      "content": []
-    }
+    "name": "Abelha"
   },
   "/frog": {
-    "name": "Rã",
-    "tip": {
-      "title": "Rã",
-      "content": []
-    }
+    "name": "Rã"
   },
   "/fly": {
-    "name": "Borboleta",
-    "tip": {
-      "title": "Borboleta",
-      "content": []
-    }
+    "name": "Borboleta"
   },
   "/signal1": {
-    "name": "Sinal 1",
-    "tip": {
-      "title": "Sinal 1",
-      "content": []
-    }
+    "name": "Sinal 1"
   },
   "/signal2": {
-    "name": "Sinal 2",
-    "tip": {
-      "title": "Sinal 2",
-      "content": []
-    }
+    "name": "Sinal 2"
   },
   "/cockroach": {
-    "name": "Cucaracha",
-    "tip": {
-      "title": "Cucaracha",
-      "content": []
-    }
+    "name": "Cucaracha"
   },
   "navigation": {
     "color": "Telas coloridas",
