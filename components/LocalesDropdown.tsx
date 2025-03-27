@@ -13,12 +13,12 @@ export default function LocalesDropdown() {
      * cn.json  de.json  en.json  es.json  fr.json  it.json  ja.json  ko.json  nl.json  pl.json  pt.json  sv.json  tr.json  uk.json
      */
     const labels: Map<string, string> = new Map([
-      ["de", "Deutschland"], // Germany
+      ["de", "Deutsch"], // Germany
       ["en", "English"], // English
-      ["fr", "France"], // France
+      ["fr", "Français"], // France
       ["nl", "Nederland"], // Netherlands
       ["cn", "中國"], // China
-      ["ko", "한국인"], // Korean
+      ["ko", "한국어"], // Korean
 
       // Add more languages here
       ["es", "Español"], // Spanish
